@@ -22,7 +22,7 @@
 1114600	Sauvegarde n° 2
 1114700	Sauvegarde n° 3
 1114900	Niveau : 
-1115000Temps de jeu total : 
+1115000	Temps de jeu total : 
 1115100	Zone : 
 1115200	Difficulté : 
 1115300	Fin : 
@@ -145,7 +145,7 @@
 
 1700700	« Singe intemporel »
 
-1701000	 	 	 	 
+1701000	 
 1800000	Nier
 1800100	Veuillez saisir un nom.
 1800200	Comment s'appelle la personne que j'aime plus que tout ?
@@ -223,518 +223,401 @@ Tu es célèbre, tu sais#!
 Tu connais vraiment beaucoup de gens, n'est-ce pas, <NIER>#?<PAGE>Tu es un homme influent#!
 1833700	Un habitante de Façade a besoin de ton aide.
 Les gens de Façade sont-ils faciles à aborder#? Ils semblent tous être un peu bizarres...
-1833800	仮面の人からの依頼だ。
-なんでも王様専用の道具用の素材が欲しいらしい。	Facade's looking for help again.
-The king needs materials for something. ...And he's a king, so you better hop to it!	Un autre habitant de Façade a besoin de ton aide.
-Un des gardes du palais royal veut se procurer des matériaux.<PAGE>Mais allez, qu'est-ce que tu attends#? Va voir si tu peux lui donner un coup de main#!	Fassade braucht mal wieder Hilfe.
-Der König braucht Material für irgendwas.<PAGE>... Und er ist ein König, also sputest du dich lieber.
-1833900	……なんだこりゃ。
-浮気した仮面の男から関係修復の依頼が来てるぞ。	...What the heck?
-Okay... Apparently someone in Facade wants you to fix his broken marriage.	Un habitant de Façade veut que tu l'aides à se réconcilier avec sa femme.
-Je me demande ce qu'il a à se faire pardonner...	... Was zur Hölle?
-Okay ... Anscheinend möchte jemand in Fassade, dass du seine Ehe rettest.
-1834000	仮面の街の住人からの依頼が来てる。
-花について相談したい事があるらしいぞ。	A Facade resident is looking for help.
-It's something about flowers, or something like that.	Une habitante de Façade qui aime les fleurs a besoin d'aide.
-Je ne savais pas qu'ils cultivaient des fleurs là-bas...	Ein Bewohner von Fassade benötigt Hilfe.
-Es geht um Blumen oder so.
-1834100	海岸の街のマスターからの依頼だ。
-食材集めらしいぞ。	The tavern keeper in Seafront needs your help.
-I think he's looking for food again. ...Guy must be really hungry!	Le tavernier de Littoral a encore besoin de toi.
-Je crois qu'il veut d'autres ingrédients. Il doit vraiment aimer cuisiner#!	Der Wirt in Meeresfront braucht deine Hilfe.
-Ich glaube, er ist wieder auf der Suche nach Essen.<PAGE>... Der Typ muss wirklich Hunger haben!
-1834200	武器屋からの依頼だ。
-困っている事があるらしいぞ。	Wanna help out the village blacksmith?
-Um...I don't have much. The request is a bit vague.	Que dirais-tu d'aller donner un coup de main à l'armurier du village#?
-Hum... Je n'ai pas plus de détails. Sa requête était plutôt vague.	Willst du dem Dorfschmied helfen?
-Ähm ... Ich weiß nicht viel darüber. Die Bitte ist eher vage.
-1834300	仮面の王室から直々の依頼だ。
-いよいよ王室か。　頼られてるな<NIER>は。	I got a request from the government of Facade!
-You're like our town's ambassador or something!	Façade a besoin de ton aide#!
-Tu es l'ambassadeur de notre village, on dirait#!	Ich habe eine Bitte von der Regierung von Fassade!
-Du bist so was wie der Botschafter unserer Stadt oder so!
-1834400	お、ヨナちゃんからの依頼があるぞ。
-愛する娘の為ならすぐに行くよな。　な？	Hey, look. Yonah's looking for help.
-Better make it a top priority, mister!	Tiens#! Yonah a besoin d'aide#!
-Fais-en ta priorité#!	Hey, sieh mal. Yonah ist auf der Suche nach Hilfe.
-Das sollte deine oberste Priorität sein!
-1834500	海岸の街の人から手紙配達の依頼だ。
-もう郵便局員になった方がいいんじゃないか？　いっそ。	A Seafront resident has a letter for you to deliver.
-Maybe you should just become a postman?	Un habitant de Littoral aimerait que tu livres une lettre pour lui.
-Tu devrais peut-être devenir postier, hein#?	Ein Bewohner von Meeresfront hat einen Brief, den du zustellen sollst.
-Vielleicht solltest du einfach Postbote werden?
-1834600	犬探しの依頼が来てるぞ。
-本当に何でも屋になりつつあるな。	Someone lost their dog.
-...No job too small, huh?	Un vieil homme a perdu son chien.
-... Ne me regarde pas comme ça#! Tu as dit que tu accepterais n'importe quel boulot...!	Jemand hat seinen Hund verloren.
-... Kein Auftrag ist zu klein, wie?
-1834700	貿易商になりたいって人から依頼が来ている。
-海岸の街、港あたりで待ってるそうだ。	Some guy in Seafront wants to become a big-time trader.
-Whatever works, I guess. He's waiting by the port over there.	Un habitant de Littoral veut devenir négociant.
-Bah, pourquoi pas#? Il t'attend près du port.	So ein Typ in Meeresfront möchte eine große Nummer im Handel werden.
-Jedem das Seine, nehme ich an. Er wartet am Hafen auf dich.
-1834800	息子を捜して欲しい、って言う依頼が来ている。
-息子って言っても、たしかもう大人だったがな。	I heard from a man who wants you to track down his son.
-It's a little weird, though. The kid is actually a grown man.	Un homme du marché aimerait que tu l'aides à retrouver son fils.
-Il ne s'agit pas d'un enfant, mais d'un adulte... Bizarre.	Ich habe von einem Mann gehört, der möchte, dass du seinen Sohn findest.
-Es ist jedoch ein bisschen merkwürdig. Der Junge ist ein ausgewachsener Mann.
-1834900	男からの依頼だ。
-なんでも女に贈り物をしたいんだとか。　バカだねえ。　男は。	Oh, brother. This one's rich.
-Some guy wants to give a gift to a woman, and he needs your help.	Pfft#! Elle est bonne, celle-là#!
-Un homme veut donner un cadeau à une femme et il a besoin de ton aide.	Oh, Mann. Der hier ist herrlich.
-Ein Kerl möchte einer Frau ein Geschenk geben, und er braucht deine Hilfe dabei.
-1835000	仮面の街から急ぎの依頼が来ている。
-どうも娘さんが行方不明になったらしい。　助けてやってくれるか？	I've got an urgent job from Facade.
-Some poor girl's gone missing! You should get over there right away and help them out.	J'ai reçu une requête urgente de Façade#!
-Une jeune fille a disparu#! Va vite les aider#!	Ich habe einen dringenden Auftrag aus Fassade.
-Ein armes Mädchen ist verschwunden! Du solltest sofort dorthin und ihnen helfen.
-1835100	仮面の人からの依頼だ。
-盗賊退治の仕事らしい。　めずらしく男っぽい依頼だな。	Facade's got a request.
-Apparently they need you to put the hurt on some bandits. It's about time they gave you some real work!	J'ai reçu une requête de Façade#!
-Ils ont besoin de ton aide pour chasser des pillards.<PAGE>Enfin du travail qui te convient à merveille#!	Fassade hat eine Bitte.
-Anscheinend sollst du ein paar Banditen in den Hintern treten.<PAGE>Wurde ja auch mal Zeit, dass sie dir richtige Arbeit verschaffen.
-1835200	海岸の街のご婦人からの依頼だ。
-私も人に依頼出来る立場になりたいよ（笑）	Wanna go to Seafront?<PAGE>I've got a request from a lady there. Actually, it's more like a demand.
-Geez, I wish I could boss people around like this!	Que dirais-tu d'aller à Littoral#? J'ai reçu une requête d'une vieille femme.<PAGE>...#En fait, c'est plutôt une demande impérative.
-Si seulement j'arrivais à mener les gens à la baguette ainsi#!	Möchtest du nach Meeresfront gehen? Ich habe eine Bitte von einer Dame dort.
-... Genau genommen klingt es mehr wie eine Forderung.<PAGE>Ach ja, ich wünschte, ich könnte Leute so herumkommandieren!
-1835300	遠い場所から来た人が、探し物をしているらしい。
-海岸の街に逗留しているらしいから、話だけでも聞いてやってくれないか？	Seems like there's a traveler in Seafront who's searching for something. 
-Why don't you go see what she wants?	Une voyageuse cherche quelque chose à Littoral.
-Pourquoi ne vas-tu pas lui demander de quoi il s'agit#?	Scheint, als gäbe es da eine Reisende in Meeresfront, die nach etwas sucht.
-Warum schaust du nicht mal, was sie möchte?
-1835400	仮面の人からの依頼だ。
-なんか若い男からの依頼だな。	Guess what? It's another job from Facade.
-Some young man. ...And that's all I know.	J'ai reçu une autre requête de Façade.
-Un jeune homme a besoin d'aide. ...#C'est tout ce que je sais.	Rate mal? Ein weiterer Auftrag aus Fassade.<PAGE>
-Ein junger Mann. ... Und das ist alles, was ich weiß.
-1835500	商店の店主からの依頼が来ているぞ。
-なんでも泥棒を捜して欲しいとか。　助けてやってくれないか？	There's a request here from a shopkeeper.
-Apparently he's having trouble with thieves.<PAGE>...Stupid thieves! Go give 'em what-for!	L'apothicaire du village a envoyé une requête.
-Il dit que des voleurs lui causent des soucis.<PAGE>... Fichus voleurs#! Va leur passer un savon#!	Hier ist eine Bitte von einem Ladenbesitzer.
-Anscheinend hat er Ärger mit Dieben. ... Blöde Diebe! Zeig's ihnen!
-1835600	海岸の街の交易商からの依頼だ
-いや、交易商……志望の男だな。よくわからないが行ってやってくれないか？	That trader in Seafront has another request.
-Well, he's more of a would-be trader, I guess. ...Anyway, he can fill you in.	Le négociant de Littoral a encore besoin de ton aide.
-M'enfin, il n'est pas encore vraiment négociant, mais... Il te donnera plus de détails.	Dieser Händler in Meeresfront hat noch eine Bitte.
-Nun, er ist eher ein Möchtegern-Händler, nehme ich an.<PAGE>... Wie auch immer, er kann dir Näheres sagen.
-1835700	村の商店のご婦人から依頼だ。
-なんでも子供の病気について悩んでいるらしい。	The wife of one of the village shopkeepers needs help. I guess her kid is really sick. 
-...I probably don't need to ask you twice about this one, huh?	L'épicière du village a besoin de ton aide.<PAGE>Je crois que son enfant est très malade.
-... Je n'aurai probablement pas besoin de te convaincre d'accepter, hein#?	Die Frau eines Ladenbesitzers im Dorf benötigt Hilfe.
-Ich nehme an, ihr Kind ist ziemlich krank.<PAGE>... Darum muss ich dich vermutlich nicht zweimal bitten, oder?
-1835800	彼氏を捜している女が居るらしいぞ。
-自分で探せよ、とは思うけどな。まあ話だけでも聞いてやってくれ。	There's a woman here in the village looking for her boyfriend.
-She should just go look for herself! ...But hey, she's paying, so I'll shut up.	Une femme du marché aimerait que tu trouves son petit ami.
-Elle devrait le chercher elle-même#!<PAGE>...#Mais bon, puisqu'elle est prête à t'offrir une récompense...	Eine Frau hier im Dorf ist auf der Suche nach ihrem Freund.
-Sie sollte einfach selber suchen! ... Aber hey, sie bezahlt, also bin ich ruhig.
-1835900	ちょっと変わった調理道具を探している男が居るらしい。
-報酬ははずむって書いてあるな。頑張ってみるか？	Seems there's a man looking for a rather unique piece of cutlery.
-He says he'll pay whatever it takes. ...Oooo! How exciting!	Le tavernier de Littoral veut se procurer un couteau unique en son genre.
-Il dit qu'il paierait n'importe quoi pour l'obtenir.<PAGE>...#Oooh#! Comme c'est palpitant#!	Ein Mann sucht nach einem recht einzigartigen Schneidewerkzeug.
-Er meinte, er würde bezahlen, was immer es auch kostet.<PAGE>... Ooooh! Wie aufregend!
-1836000	海岸の街の住人からの依頼だ。
-何か探し物があるらしいんだが……詳しくは本人に聞いてくれ。	Got a job from Seafront, if you aren't too busy.
-It's a guy. Looking for something.<PAGE>...Um, yeah. Just go ask him, all right?	J'ai du travail pour toi à Littoral, si tu n'es pas trop occupé.
-Il cherche... Hum. Pourquoi ne vas-tu pas lui demander toi-même#?	Ich habe einen Auftrag aus Meeresfront, falls du nicht zu beschäftigt bist.
-Es geht um einen Typen. Er sucht irgendwas.<PAGE>... Ähm, ja. Frag ihn einfach, okay?
-1836100	洋館の執事からの依頼だ。
-あんな家に出入りしているのか。物好きな事だな。	That butler from the manor needs your help.
-You sure do keep some strange company...	Le majordome du manoir a besoin de ton aide.
-Tu connais vraiment des gens bizarres...	Dieser Butler aus der Villa benötigt deine Hilfe.
-Du kennst echt komische Leute ...
-1836200	村にマモノが忍び込んでいるという情報が来てる。
-本当だったらマズイ。ちょっと聞いてきてくれないか？	Apparently there're Shades in the village? Eeeek!
-Well!? Don't just stand there! Go take care of them!	Il y a une Ombre dans le village#! Aaah#!
-Eh bien#?! Qu'est-ce que tu attends#?! Va t'en occuper tout de suite#!	Anscheinend gibt es Schatten im Dorf? Waaah!
-Nun!? Steh da nicht so rum! Kümmer dich drum!
-1836300	海岸の街の花屋からの依頼だ。
-花の配達を頼みたいらしいぞ。	The florist in Seafront has a job for you.
-Just a simple delivery. Easy-peasy.	Le marchand de fleurs de Littoral a du travail pour toi.
-Ce n'est qu'une livraison, du gâteau, quoi#!	Der Blumenhändler in Meeresfront hat einen Auftrag für dich.
-Eine einfache Zustellung. Kinderspiel.
-1836400	神話の森の住人からの依頼だ。
-珍しいな。あそこからは滅多に依頼は来ないんだが。	Someone in the Forest of Myth wanted your assistance.
-That's the first job I've gotten from there in...well, as long as I can remember.	Une habitante de la forêt des légendes a besoin de ton aide.
-C'est la première fois que quelqu'un de la forêt nous envoie une requête#!	Jemand im Märchenwald braucht deine Hilfe.
-Das ist der erste Auftrag von dort seit ... Nun, seit ich mich zurückerinnern kann.
-1836500	北平原でマモノに襲われた村人が居るらしい。
-急いで話を聞いてくれないか？	A villager was attacked by Shades in the northern plains.
-Can you go ask him about it? It may be something we should look into.	Un garde s'est fait attaquer par une Ombre sur la plaine septentrionale.
-Pourrais-tu aller en discuter avec lui#? Il veut sans doute que tu l'élimines.	Ein Dorfbewohner wurde in den Nordfeldern von Schatten angegriffen.
-Kannst du ihn mal darüber befragen? Dem sollten wir vielleicht lieber nachgehen.
-1836600	郵便配達員からマモノ討伐の依頼が来てるぞ。
-最近は危険になってきているな……このあたりも。	A postman wants you to get rid of some Shades.
-It's getting pretty dangerous around here lately.	Le postier de Littoral aimerait que tu élimines une Ombre.
-Il est de plus en plus dangereux de s'aventurer à l'extérieur du village ces temps-ci.	Ein Postbote möchte, dass du ein paar Schatten erledigst.
-Es ist ziemlich gefährlich geworden hier in letzter Zeit.
-1836700	洋館の執事から依頼が来てるぞ。
-ちょっと変わったマモノについて相談があるらしいんだが……？	I have a job from the manor's butler.
-He says there's a "unique" Shade he wants your advice on.<PAGE>Yeah, don't look at me...	J'ai reçu une requête du majordome du manoir.
-Il dit qu'il aimerait discuter d'une Ombre «#unique#» avec toi.<PAGE>Ne me regarde pas comme ça, je n'en sais pas plus.	Ich habe einen Auftrag von dem Butler in der Villa.
-Es gibt da wohl einen etwas „ungewöhnlichen“ Schatten und er bräuchte Rat.<PAGE>Ja, sieh mich nicht so an ...
-1836800	海岸の街の学者さんからの依頼だ。
-なんでも歴史を調べている人らしいな。	Hey, there's a scholar in Seafront who asked about you.
-I guess he needs help with historical research?	Un érudit de Littoral voulait en savoir plus à ton sujet.
-Je suppose qu'il a besoin de ton aide dans ses recherches.	Hey, da ist ein Gelehrter in Meeresfront, der nach dir gefragt hat.
-Ich nehme an, er braucht Hilfe bei historischen Nachforschungen?
-1836900	仮面の街の人から相談が来てる。
-すっかり頼られてるな、<NIER>は。	Another guy in Facade wanted your help with something.
-I tell ya, if it wasn't for you, that whole city would just fall apart.	Un guerrier du masque de Façade a besoin de ton aide.
-Je suis certaine que la ville ne pourrait pas fonctionner sans toi.	Ein weiterer Typ in Fassade wollte deine Hilfe bei irgendwas.
-Ich sag's dir, wenn du nicht wärst, würde diese ganze Stadt zerfallen.
-1837000	仮面の王様からの手紙だ。
-ちょっと困っている事がある、と言う事だ。	I got a letter from the king of Facade.
-He said he needs you to deal with an "issue." Wonder what that's about?	J'ai reçu une lettre du roi de Façade.
-Il dit qu'il aimerait que tu l'aides à régler un «#problème#».<PAGE>Je me demande de quoi il parle...	Ich habe einen Brief vom König von Fassade.
-Er meinte, es gäbe da eine „Angelegenheit“, um die du dich kümmern solltest.<PAGE>Was das wohl sein mag?
-1837100	イノシシに困っている住人からの相談だ。
-暴れイノシシは手に負えないからな。　なんとかしてやってくれ。	One of the villagers is having problems with a wild boar.
-Those boars can be a real handful. Maybe you could help out?	Un sanglier cause bien des ennuis à un des villageois.
-Ces créatures peuvent donner du fil à retordre. Tu devrais peut-être l'aider.	Einer der Dorfbewohner hat Ärger mit einem wilden Eber.
-Diese Eber können einen ziemlich auf Trab halten.<PAGE>Vielleicht kannst du ihm helfen?
-1837200	海岸の街の郵便配達員からの依頼だ
-なんでも頼みたい事があるらしいぞ	I've got a job from the postman in Seafront.
-He needs your help with a personal matter.	Le postier de Littoral a du boulot pour toi.
-Il a besoin d'un coup de main.	Ich habe einen Auftrag von dem Postboten in Meeresfront.
-Er benötigt deine Hilfe bei einer persönlichen Angelegenheit.
-1837300	例の海岸の街の配達員からだ
-口の悪い老婆に困ってる……らしいぞ？	I've got another job from that Seafront postman.
-Apparently some cranky old lady is giving him trouble.	Le postier de Littoral a encore du boulot pour toi.
-À ce qu'il paraît, une vieille femme lui donne du fil à retordre.	Ich habe einen weiteren Auftrag von diesem Meeresfront-Postboten.
-Anscheinend hat er Ärger mit einer launischen alten Dame.
-1837400	海岸の街の配達員から連絡が来てるぞ
-なんでも話しておきたい事があるそうだ	I got a letter from the Seafront postman.
-Apparently he has a message for you. How mysterious!	J'ai reçu une lettre du postier de Littoral.
-Il a quelque chose à te dire. Qu'est-ce que ça peut bien être#?	Ich habe einen Brief von dem Meeresfront-Postboten.
-Anscheinend hat er eine Nachricht für dich. Wie mysteriös!
-1837500	ロボット山で何か異変が起きているらしい。
-あそこの弟の様子も心配だしな……ちょっと見に行ってもらえるか？	Something's up over in the Junk Heap.
-I'm worried about the kid who runs Two Brothers Weaponry. Could you give him a visit?	Il y a quelque chose qui ne tourne pas rond à la montagne des robots.
-Je m'inquiète pour le garçon de l'armurerie des frères.<PAGE>Pourrais-tu aller lui rendre visite#?	Irgendwas geht da bei dem Müllberg vor sich.
-Ich mache mir Sorgen um den Jungen, der Zwei-Brüder-Waffen betreibt.<PAGE>Könntest du mal bei ihm vorbeischauen?
-1837700	仮面の人からの依頼だ。
-なんでも、息子の事について相談したいらしい。	I have a job from Facade. 
-Somebody's worried about his son.	J'ai du boulot à Façade pour toi.
-Un des habitants s'inquiète pour son fils.	Ich habe einen Auftrag aus Fassade.
-Jemand macht sich Sorgen um seinen Sohn.
-1900000	MAP	MAP	Carte	KARTE
-1900100	NO MAP	NO MAP	--	KEINE KARTE
-2000000	薬草	Medicinal Herb	Herbe médicinale	Medizinische Kräuter
-2000100	傷薬	Health Salve	Onguent tonique	Wundsalbe
-2000200	回復薬	Recovery Potion	Potion curative	Heiltrank
-2000300	傷薬(大)	Health Salve (Large)	Onguent curatif	Wundsalbe (Groß)
-2000400	回復薬(小)	Recovery Potion (Small)	Potion tonique	Heiltrank (Klein)
-2000500	回復薬(中)	Recovery Potion (Medium)	Potion fortifiante	Heiltrank (Mittel)
-2000600	回復薬(大)	Recovery Potion (Large)	Potion curative	Heiltrank (Groß)
-2000700	回復薬（完全）	Recovery Potion (Max)	Potion suprême	Heiltrank (Max)
-2001100	栄養剤(小)	Health Elixir (Small)	Capsule tonique	Lebenselixier (Klein)
-2001200	栄養剤(中)	Health Elixir (Medium)	Capsule fortifiante	Lebenselixier (Mittel)
-2001300	栄養剤(大)	Health Elixir (Large)	Capsule curative	Lebenselixier (Groß)
-2001600	救命薬	Lifesaver	Baume de salut	Lebensretter
-2002100	力の種	Strength Drop	Dragée de force	Krafttropfen
-2002200	力の果実	Strength Capsule	Capsule de force	Kraftkapsel
-2002300	魔力の種	Magic Drop	Dragée de magie	Magietropfen
-2002400	魔力の果実	Magic Capsule	Capsule de magie	Magiekapsel
-2002500	防御の種	Defense Drop	Dragée de défense	Verteidigungstropfen
-2002600	防御の果実	Defense Capsule	Capsule de défense	Verteidigungskapsel
-2002700	精神の種	Spirit Drop	Dragée d'esprit	Intelligenztropfen
-2002800	精神の果実	Spirit Capsule	Capsule d'esprit	Intelligenzkapsel
-2003100	毒消し草	Antidotal Weed	Antidote	Gegengiftgras
-2003200	やまびこ草	Echo Grass	Herbe d'écho	Echo Grass
-2003300	気付け薬	Smelling Salts	Sels volatils	Riechsalz
-2004100	成長促進肥料	Speed Fertilizer	Engrais de croissance	Dünger (Wachstum+)
-2004200	鑑賞促進肥料	Flowering Fertilizer	Engrais de floraison	Dünger (Blüte+)
-2004300	収穫促進肥料	Bounty Fertilizer	Engrais de récolte	Dünger (Ernte+)
-2004600	かぼちゃの種	Pumpkin Seed	Graine de potiron	Samen (Kürbis)
-2004700	スイカの種	Watermelon Seed	Graine de pastèque	Samen (Wassermelone)
-2004800	メロンの種	Melon Seed	Graine de melon	Samen (Melone)
-2004900	ひょうたんの種	Gourd Seed	Graine de calebasse	Samen (Flaschenkürbis)
-2005000	トマトの種	Tomato Seed	Graine de tomate	Samen (Tomate)
-2005100	ナスの種	Eggplant Seed	Graine d'aubergine	Samen (Aubergine)
-2005200	ピーマンの種	Bell Pepper Seed	Graine de poivron	Samen (Paprika)
-2005300	豆の種	Bean Seed	Graine de haricot	Samen (Bohne)
-2005400	小麦の苗	Wheat Seedling	Germe de blé	Setzling (Weizen)
-2005500	イネの苗	Rice Plant Seedling	Germe de riz	Setzling (Reispflanze)
-2005600	ダリアの球根	Dahlia Bulb	Bulbe de dahlia	Knolle (Dahlie)
-2005700	チューリップの球根	Tulip Bulb	Bulbe de tulipe	Knolle (Tulpe)
-2005800	フリージアの球根	Freesia Bulb	Bulbe de freesia	Knolle (Freesie)
-2005900	月光草の種（赤）	Red Moonflower Seed	Graine rouge	Samen (Rote Mondblume)
-2006000	月光草の種（黄）	Gold Moonflower Seed	Graine jaune	Samen (Goldene Mondblume)
-2006100	月光草の種（橙）	Peach Moonflower Seed	Graine orange	Samen (Orangene Mondblume)
-2006200	月光草の種（桃）	Pink Moonflower Seed	Graine rose	Samen (Rosa Mondblume)
-2006300	月光草の種（青）	Blue Moonflower Seed	Graine bleue	Samen (Blaue Mondblume)
-2006400	月光草の種（水）	Indigo Moonflower Seed	Graine turquoise	Samen (Türkise Mondblume)
-2006500	月光草の種（白）	White Moonflower Seed	Graine blanche	Samen (Weiße Mondblume)
-2007100	かぼちゃ	Pumpkin	Potiron	Kürbis
-2007200	スイカ	Watermelon	Pastèque	Wassermelone
-2007300	メロン	Melon	Melon	Melone
-2007400	ひょうたん	Gourd	Calebasse	Flaschenkürbis
-2007500	トマト	Tomato	Tomate	Tomate
-2007600	ナス	Eggplant	Aubergine	Aubergine
-2007700	ピーマン	Bell Pepper	Poivron	Paprika
-2007800	豆	Beans	Haricot	Bohnen
-2007900	小麦	Wheat	Blé	Weizen
-2008000	米	Rice	Riz	Reis
-2008100	ダリアの花	Dahlia Flower	Dahlia	Dahlie
-2008200	チューリップの花	Tulip	Tulipe	Tulpe
-2008300	フリージアの花	Freesia Flower	Freesia	Freesie
-2008400	月光草の花(赤)	Red Moonflower	Lunaflore rouge	Rote Mondblume
-2008500	月光草の花(黄)	Gold Moonflower	Lunaflore jaune	Goldene Mondblume
-2008600	月光草の花(橙)	Peach Moonflower	Lunaflore orange	Orangene Mondblume
-2008700	月光草の花(桃)	Pink Moonflower	Lunaflore rose	Rosa Mondblume
-2008800	月光草の花(青)	Blue Moonflower	Lunaflore bleue	Blaue Mondblume
-2008900	月光草の花(水)	Indigo Moonflower	Lunaflore turquoise	Türkise Mondblume
-2009000	月光草の花(白)	White Moonflower	Lunaflore blanche	Weiße Mondblume
-2010100	ゴカイ	Lugworm	Arénicole	Wattwurm
-2010200	ミミズ	Earthworm	Ver de terre	Regenwurm
-2010300	ルアー	Lure	Amorce	Köder
-2011100	サーディン	Sardine	Sardine	Sardine
-2011200	フナ	Carp	Carpe	Karpfen
-2011300	グローブフィッシュ	Blowfish	Poisson-globe	Kugelfisch
-2011400	ブリーム	Bream	Daurade	Brasse
-2011500	シャーク	Shark	Requin	Hai
-2011600	ブルーマーリン	Blue Marlin	Makaire bleu	Blauer Marlin
-2011700	ダンクルオステウス	Dunkleosteus	Dancléostéus	Dunkleosteus
-2011800	ニジマス	Rainbow Trout	Truite arc-en-ciel	Regenbogenforelle
-2011900	ブラックバス	Black Bass	Perche noire	Schwarzbarsch
-2012000	オオナマズ	Giant Catfish	Poisson-chat	Riesenwels
-2012100	ロイヤルフィッシュ	Royal Fish	Esturgeon	Königsfisch
-2012200	ハイネリア	Hyneria	Hynéria	Hyneria
-2012300	砂魚	Sandfish	Squille	Sandfisch
-2012400	リゾドゥス	Rhizodont	Rhizodonte	Rhizodont
-2012500	薬魚	Shaman Fish	Poisson-shaman	Schamanenfisch
-2013100	水草	Aquatic Plant	Plante aquatique	Wasserpflanze
-2013200	枯れ木	Deadwood	Bois mort	Totholz
-2013300	錆びたバケツ	Rusty Bucket	Seau rouillé	Rostiger Eimer
-2013400	空き缶	Empty Can	Boîte de conserve	Leere Dose
-2013800	金鉱	Gold Ore	Minerai d'or	Golderz
-2013900	銀鉱	Silver Ore	Minerai d'argent	Silbererz
-2014000	銅鉱	Copper Ore	Minerai de cuivre	Kupfererz
-2014100	鉄鉱	Iron Ore	Minerai de fer	Eisenerz
-2014200	水晶	Crystal	Cristal	Kristall
-2014300	パイライト	Pyrite	Pyrite	Pyrit
-2014400	モルダバイト	Moldavite	Moldavite	Moldavit
-2014500	メテオライト	Meteorite	Météore	Meteorit
-2014600	アンバー	Amber	Ambre	Bernstein
-2014700	フローライト	Fluorite	Fluorine	Fluorit
-2014800	粘土	Clay	Argile	Lehm
-2015300	木の実	Berries	Noix	Beeren
-2015400	ゼンマイ	Royal Fern	Osmonde	Königsfarn
-2015500	木の枝	Tree Branch	Branche d'arbre	Baumast
-2015600	丸太	Log	Rondin	Holz
-2015700	天然ゴム	Natural Rubber	Caoutchouc	Kautschuk
-2015800	ツタ	Ivy	Lierre	Efeu
-2015900	コケ	Lichen	Lichen	Flechte
-2016000	キノコ	Mushroom	Champignon	Pilz
-2016100	樹液	Sap	Sève	Pflanzensaft
-2016700	羊の肉	Mutton	Viande de mouton	Hammelfleisch
-2016800	イノシシの肉	Boar Meat	Viande de sanglier	Eberfleisch
-2016900	羊毛	Wool	Laine	Wolle
-2017000	イノシシの毛皮	Boar Hide	Peau de sanglier	Eberbalg
-2017100	狼の毛皮	Wolf Hide	Peau de loup	Wolfsbalg
-2017200	狼の牙	Wolf Fang	Croc de loup	Wolfszahn
-2017300	大蜘蛛の糸	Giant Spider Silk	Fil d'araignée géante	Riesenspinnenseide
-2017400	蝙蝠の牙	Bat Fang	Croc de chauve-souris	Fledermauszahn
-2017500	蝙蝠の羽	Bat Wing	Aile de chauve-souris	Fledermausflügel
-2017600	ヤギの肉	Goat Meat	Viande de chèvre	Ziegenfleisch
-2017700	ヤギの毛皮	Goat Hide	Peau de chèvre	Ziegenbalg
-2017800	鹿の肉	Venison	Viande de cerf	Hirschfleisch
-2017900	大蜘蛛の虹糸	Rainbow Spider Silk	Fil d'araignée arc-en-ciel	Regenbogen-Spinnenseide
-2018000	イノシシの胆	Boar Liver	Foie de sanglier	Eberleber
-2018100	サソリの爪	Scorpion Claw	Pince de scorpion	Skorpionklaue
-2018200	サソリの尾	Scorpion Tail	Queue de scorpion	Skorpionschwanz
-2018300	凹んだ金属板	Dented Metal Board	Feuille de métal bosselée	Verbeulte Metallplatte
-2018400	磨り減ったネジ	Stripped Bolt	Vieux boulon	Ausgerissener Bolzen
-2018500	割れたレンズ	Broken Lens	Lentille brisée	Kaputte Linse
-2018600	切れたケーブル	Severed Cable	Câble coupé	Abgetrenntes Kabel
-2018700	壊れた腕	Broken Arm	Bras cassé	Kaputter Arm
-2018800	壊れたアンテナ	Broken Antenna	Antenne abîmée	Kaputte Antenne
-2018900	壊れたモーター	Broken Motor	Moteur défectueux	Kaputter Motor
-2019000	壊れたバッテリー	Broken Battery	Batterie à plat	Kaputte Batterie
-2019100	謎のスイッチ	Mysterious Switch	Levier mystérieux	Rätselhafter Schalter
-2019200	大きな歯車	Large Gear	Gros engrenage	Großes Zahnrad
-2019300	チタン合金	Titanium Alloy	Alliage de titane	Titanlegierung
-2019400	形状記憶合金	Memory Alloy	Alliage à mémoire de forme	Gedächtnislegierung
-2019500	錆びた塊	Rusted Clump	Pièce de métal rouillée	Rostiger Klotz
-2019600	機械油	Machine Oil	Huile de graissage	Maschinenöl
-2020100	錆びたネックレス	Forlorn Necklace	Collier mélancolique	Verlorene Halskette
-2020200	歪んだ指輪	Twisted Ring	Anneau tordu	Verbogener Ring
-2020300	割れたイヤリング	Broken Earring	Boucle d'oreille cassée	Kaputter Ohrring
-2020400	綺麗なチョーカー	Pretty Choker	Joli tour de cou	Hübscher Halsreif
-2020500	貴金属のピアス	Metal Piercing	Pendant métallique	Metallpiercing
-2020600	くすんだ腕輪	Subdued Bracelet	Bracelet austère	Schmaler Armreif
-2020700	何かの技術書	Technical Guide	Mode d'emploi	Technisches Handbuch
-2020800	汚れた本	Grubby Book	Livre sale	Dreckiges Buch
-2020900	分厚い辞典	Thick Dictionary	Dictionnaire épais	Dickes Wörterbuch
-2021000	開かない写真集	Closed Book	Album inouvrable	Geschlossenes Buch
-2021100	落書きされた絵本	Used Coloring Book	Album à colorier usé	Benutztes Malbuch
-2021200	古い教本	Old Schoolbook	Vieux cahier	Altes Schulbuch
-2021300	汚れたバッグ	Dirty Bag	Sac taché	Schmutziger Sack
-2021400	派手な帽子	Flashy Hat	Chapeau voyant	Auffallender Hut
-2021500	革のグローブ	Leather Gloves	Gants de cuir	Lederhandschuhe
-2021600	絹のハンカチ	Silk Handkerchief	Mouchoir de soie	Seidentaschentuch
-2021700	立派な革靴	Leather Boots	Bottes de cuir	Lederstiefel
-2021800	複雑な機械	Complex Machine	Machine complexe	Komplexe Maschine
-2021900	精巧な機械	Elaborate Machine	Machine élaborée	Raffinierte Maschine
-2022000	単純な機械	Simple Machine	Machine simple	Einfache Maschine
-2022100	止まった時計	Stopped Clock	Horloge arrêtée	Stehengebliebene Uhr
-2022200	動かない腕時計	Broken Wristwatch	Montre cassée	Kaputte Armbanduhr
-2022300	錆びた包丁	Rusty Kitchen Knife	Couteau rouillé	Rostiges Küchenmesser
-2022400	歯の欠けたノコギリ	Broken Saw	Scie cassée	Kaputte Säge
-2022500	凹んだ金属バット	Dented Metal Bat	Batte de métal cabossée	Verbeulter Metallschläger
-2022700	貝殻	Shell	Coquillage	Hülle
-2022800	巻貝	Gastropod	Conque	Gastropode
-2022900	二枚貝	Bivalve	Bivalve	Molluske
-2023000	海草	Seaweed	Algue	Seetang
-2023100	空き瓶	Empty Bottle	Bouteille vide	Leere Flasche
-2023200	流木	Driftwood	Bois flotté	Totholz
-2023300	真珠	Pearl	Perle	Perle
-2023400	黒真珠	Black Pearl	Perle noire	Schwarze Perle
-2023500	カニ	Crab	Crabe	Krabbe
-2023600	ヒトデ	Starfish	Étoile de mer	Seestern
-2024200	ウミガメの卵	Sea Turtle Egg	Œuf de tortue de mer	Meeresschildkrötenei
-2024300	壊れた土器	Broken Pottery	Tesson de poterie	Beschädigte Keramik
-2024400	砂漠のバラ	Desert Rose	Rose du désert	Wüstenrose
-2024500	巨大な卵	Giant Egg	Œuf géant	Riesenei
-2024600	ダマスカス	Damascus Steel	Acier damassé	Damaskusstahl
-2024700	鷲の卵	Eagle Egg	Œuf d'aigle	Adlerei
-2024800	ニワトリの卵	Chicken Egg	Œuf de poule	Hühnerei
-2025000	ねずみの尻尾	Mouse Tail	Queue de souris	Mäuseschwanz
-2025100	とかげの尻尾	Lizard Tail	Queue de lézard	Echsenschwanz
-2025501	鹿茸	Deer Antler	Bois de cerf	Hirschgeweih
-2025502	光の鍵	Light Key	Clef lumineuse	Lichtschlüssel
-2025503	闇の鍵	Darkness Key	Clef obscure	Dunkelheitsschlüssel
-2025504	フリージアの押し花	Pressed Freesia	Freesia desséché	Gepresste Freesie
-2025505	フリージアの鉢植え	Potted Freesia	Freesia en pot	Topffreesie
-2025506	フリージアの花束	Freesia Bouquet	Bouquet de freesias	Freesienstrauß
-2025507	ガラクタの山	Pile of Junk	Pacotille	Müll
-2025508	金貨	Gold Coin	Pièce d'or antique	Goldmünze
-2025509	マークのついた地図	Marked Map	Carte détaillée	Karte mit Markierung
-2025510	カードキーＡＡ	AA Keycard	Carte magnétique AA	AA-Schlüsselkarte
-2025511	カードキーＫＡ	KA Keycard	Carte magnétique KA	KA-Schlüsselkarte
-2025512	カードキーＳＡ	SA Keycard	Carte magnétique SA	SA-Schlüsselkarte
-2025513	カードキーＴＡ	TA Keycard	Carte magnétique TA	TA-Schlüsselkarte
-2025514	カードキーＮＡ	NA Keycard	Carte magnétique NA	NA-Schlüsselkarte
-2025515	カードキーＨＡ	HA Keycard	Carte magnétique HA	HA-Schlüsselkarte
-2025516	カードキーＭＡ	MA Keycard	Carte magnétique MA	MA-Schlüsselkarte
-2025517	カードキーＹＡ	YA Keycard	Carte magnétique YA	YA-Schlüsselkarte
-2025518	カードキーＲＡ	RA Keycard	Carte magnétique RA	RA-Schlüsselkarte
-2025519	カードキーＷＡ	WA Keycard	Carte magnétique WA	WA-Schlüsselkarte
-2025600	月の鍵	Moon Key	Clef lunaire	Mondschlüssel
-2025700	星の鍵	Star Key	Clef étoilée	Sternenschlüssel
-2025800	上質な小麦	Fine Flour	Fleur de farine	Feines Mehl
-2025900	粗悪な小麦	Coarse Flour	Farine grossière	Grobes Mehl
-2026000	化粧瓶	Perfume Bottle	Flacon de parfum	Parfümflakon
-2026100	配達員の小箱	Postman's Parcel	Liasse de lettres	Ein Bündel Briefe
-2026200	恋人からの手紙	Lover's Letter	Lettre d'amour	Brief des Geliebten
-2026300	濾過器	Water Filter	Filtre à eau	Wasserfilter
-2026400	王家の方位磁石	Royal Compass	Boussole royale	Sandkompass
-2026500	セキトリゴケ	Vapor Moss	Mousse vaporeuse	Dampfmoos
-2026600	谷蜘蛛の糸	Valley Spider Silk	Fil d'araignée des vallées	Talspinnenseide
-2026700	動物調査書	Animal Guidebook	La faune	Tierhandbuch
-2026800	鉱物調査書	Ore Guidebook	La minéralogie	Erzhandbuch
-2026900	植物調査書	Plant Guidebook	La flore	Pflanzenhandbuch
-2027000	赤い本	Red Book	Livre rouge	Rotes Buch
-2027100	青い本	Blue Book	Livre bleu	Blaues Buch
-2027200	老婆の薬	Old Lady's Elixir	Digestif	Elixier für die alte Dame
-2027300	良く効く老婆の薬	Old Lady's Elixir+	Élixir	Starkes Elixier für die alte Dame
-2027400	崖の村への届け物	Parcel for The Aerie	Colis pour l'Aire	Paket für Adlerhorst
-2027500	海岸の街への届け物	Parcel for Seafront	Colis pour Littoral	Paket für Meeresfront
-2027600	料理のレシピ本	Cookbook	Livre de cuisine	Kochbuch
-2027700	仮面の街への届け物	Parcel for Facade	Colis pour Façade	Paket für Fassade
-2027800	ジョンの薬草	Max's Herbs	Herbes de Max	Max' Kräuter
-2027900	流された積荷１	Drifting Cargo	1ère caisse à la dérive	Treibgut
-2028000	流された積荷２	Drifting Cargo 2	2e caisse à la dérive	Treibgut 2
-2028100	流された積荷３	Drifting Cargo 3	3e caisse à la dérive	Treibgut 3
-2028200	流された積荷４	Drifting Cargo 4	4e caisse à la dérive	Treibgut 4
-2028300	古びた小包	Old Package	Vieux colis	Altes Paket
-2028400	人魚の涙	Mermaid Tear	Larme de sirène	Meerjungfrauenträne
-2028500	マンドレイクの葉	Mandrake Leaf	Feuille de mandragore	Alraunblatt
-2028600	精力剤	Energizer	Énergisant	Energiespender
-2028700	ガマの油	Toad Oil	Huile de crapaud	Krötenöl
-2028800	一週間寝なくても平気になる薬	Sleep-B-Gone	Psychotonique 7	Antischlafmittel
-2028900	解毒剤	Antidote	Contrepoison	Gegengift
-2029000	金のブレスレット	Gold Bracelet	Bracelet en or	Goldarmreif
-2029100	特製包丁	Elite Kitchen Knife	Couteau de chef	Elite-Küchenmesser
-2029200	エレベーターの交換パーツ	Elevator Parts	Pièces d'ascenseur	Aufzugteile
-2029300	汚れた宝の地図	Dirty Treasure Map	Carte au trésor abîmée	Schmutzige Schatzkarte
-2029400	修繕された宝の地図	Restored Treasure Map	Carte au trésor restaurée	Restaurierte Schatzkarte
-2029500	ヒスイの髪飾り	Jade Hair Ornament	Barrette de jade	Jadehaarschmuck
-2029600	所員リスト	Employee List	Liste d'employés	Mitarbeiterliste
-2029700	小さな金庫	Small Safe	Petit coffre-fort	Kleiner Tresor
-2029800	金庫の鍵	Safe Key	Clef du coffre-fort	Tresorschlüssel
-2029900	大樹の根っこ	Great Tree Root	Racine du grand arbre	Riesenbaumwurzel
-2030000	力の目	Eye of Power	Œil de puissance	Auge der Macht
-2030100	リボン	Ribbon	Ruban	Haarband
-2030200	ヨナのリボン	Yonah's Ribbon	Ruban de Yonah	Yonahs Haarband
-2030300	青銅の鍵	Bronze Key	Clef en bronze	Bronzeschlüssel
-2030400	真鍮の鍵	Brass Key	Clef en laiton	Messingschlüssel
-2030500	イノシシの牙	Boar Tusk	Défense de sanglier	Eberhauer
-2030600	栽培の指南書	Cultivator's Handbook	Le jardinier en herbe	Farmerhandbuch
-2030700	貴重品５０	貴重品５０	貴重品５０	貴重品５０
-2030800	貴重品５１	貴重品５１	貴重品５１	貴重品５１
-2030900	貴重品５２	貴重品５２	貴重品５２	貴重品５２
-2031000	貴重品５３	貴重品５３	貴重品５３	貴重品５３
-2031100	貴重品５４	貴重品５４	貴重品５４	貴重品５４
-2031200	貴重品５５	貴重品５５	貴重品５５	貴重品５５
-2031300	貴重品５６	貴重品５６	貴重品５６	貴重品５６
-2031400	貴重品５７	貴重品５７	貴重品５７	貴重品５７
-2031500	貴重品５８	貴重品５８	貴重品５８	貴重品５８
-2031600	貴重品５９	貴重品５９	貴重品５９	貴重品５９
-2031700	貴重品６０	貴重品６０	貴重品６０	貴重品６０
-2031800	貴重品６１	貴重品６１	貴重品６１	貴重品６１
-2031900	貴重品６２	貴重品６２	貴重品６２	貴重品６２
-2032000	手紙　『おそらをみます』	"Look at the Sky"	«#Regarde le ciel bleu#»	„Schau in den Himmel“
-2032100	手紙　『むりしないでね』	"Don't Try So Hard"	«#Ne te surmène pas#»	„Geh es langsamer an“
-2032200	手紙　『むらのみんな』	"My Birthday!"	«#Mon anniversaire#!#»	„Mein Geburtstag!“
-2032300	老婆への手紙　3340/02/12	Love Letter 2/12/3340	Lettre d'amour  12/2/3340	Liebesbrief 12.02.3340
-2032400	老婆への手紙　3340/03/28	Love Letter 3/28/3340	Lettre d'amour  28/3/3340	Liebesbrief 28.03.3340
-2032500	老婆への手紙　3340/05/01	Love Letter 5/1/3340	Lettre d'amour  1/5/3340	Liebesbrief 01.05.3340
-2032600	神話の森の村長からの手紙	Letter from the Mayor	Lettre du maire	Brief vom Bürgermeister
-2032700	配達員からのお願い	The Postman's Request	Requête du postier	Die Bitte des Postboten
-2032800	配達員からのお礼	The Postman's Thanks	Remerciements du postier	Das Dankesschreiben des Postboten
-2032900	謎の招待状	Invitation from a Stranger	Invitation mystérieuse	Einladung eines Fremden
-2033000	新装開店のお知らせ	Grand Re-Opening Notice	Avis de réouverture	Große Neueröffnungs-Bekanntgabe!
-2033100	結婚式の招待状	Wedding Invitation	Faire-part	Hochzeitseinladung
-2033200	仮面の王からの手紙	Letter from the King	Lettre du roi	Brief vom König
-2033300	洋館地下についての記録１	Underground Research Record 1	Annales scientifiques (1re partie)	Untergrund-Forschungsaufzeichnungen 1
-2033400	洋館地下についての記録２	Underground Research Record 2	Annales scientifiques (2e partie)	Untergrund-Forschungsaufzeichnungen 2
-2033500	洋館地下についての記録３	Underground Research Record 3	Annales scientifiques (3e partie)	Untergrund-Forschungsaufzeichnungen 3
-2033600	洋館地下についての記録４	Underground Research Record 4	Annales scientifiques (4e partie)	Untergrund-Forschungsaufzeichnungen 4
-2033700	崖の村の村長への手紙	Letter to the Chief	Lettre pour le chef du village de l'Aire	Brief an den Anführer
-2033800	ロボット山の兄弟への手紙	Letter to Two Brothers Weaponry	Lettre pour l'armurerie des frères	Brief an Zwei-Brüder-Waffen
-2033900	ポポルへの手紙	Letter to Popola	Lettre pour Popola	Brief an Popola
-2034000	離れた恋人に送る手紙	Letter to a Faraway Lover	Lettre d'un amant éloigné	Brief an eine ferne Geliebte
-2034100	エミールからの手紙	Letter from Emil	Lettre d'Émile	Brief von Emil
-2034200	武器グレードアップのお知らせ	Weapon Upgrade Notice	Avis d'amélioration d'arme	Waffenverbesserungs-Nachricht
-2034300	崖の村の村長からの手紙	Letter from the Chief of The Aerie	Lettre du chef du village l'Aire	Brief vom Anführer von Adlerhorst
-2035200	ゲシュタルト計画　報告書 0923	Project Gestalt Report 0923	Compte rendu du projet Gestalt nº#0923	Projekt Gestalt - Bericht 0923
-2035300	ゲシュタルト計画　報告書 9182	Project Gestalt Report 9182	Compte rendu du projet Gestalt nº#9182	Projekt Gestalt - Bericht 9182
-2035400	ゲシュタルト計画　報告書 10432	Project Gestalt Report 10432	Compte rendu du projet Gestalt nº#10#432	Projekt Gestalt - Bericht 10432
-2035500	ゲシュタルト計画　報告書 11242	Project Gestalt Report 11242	Compte rendu du projet Gestalt nº#11#242	Projekt Gestalt - Bericht 11242
-2051200	全体地図	World Map	Mappemonde	Weltkarte
-2051500	<NIER>の村の地図	<NIER>'s Village Map	Carte du village	Karte: Dorf von <NIER>
-2051600	石の神殿付近の地図	Lost Shrine Area Map	Carte des environs du temple	Karte: Verschollener Schrein (Außen)
-2051700	石の神殿の地図	Lost Shrine Map	Plan du temple oublié	Karte: Verschollener Schrein
-2051800	崖の村の地図	The Aerie Map	Carte de l'Aire	Karte: Adlerhorst
-2051900	海岸の街の地図	Seafront Map	Carte de Littoral	Karte: Meeresfront
-2052000	砂漠の地図	Desert Map	Carte du désert	Karte: Wüste
-2052100	仮面の街の地図	Facade Map	Carte de Façade	Karte: Fassade
-2052200	砂の神殿の地図	Barren Temple Map	Plan du temple stérile	Karte: Ödtempel
-2052300	ロボット山付近の地図	Junk Heap Area Map	Carte des environs de la montagne	Karte: Müllberg (Außen)
-2052400	ロボット山の地図	Junk Heap Map	Plan de la montagne des robots	Karte: Müllberg
-2052500	洋館の地図	Manor Map	Plan du manoir	Karte: Villa
-2052600	神話の森の地図	Forest of Myth Map	Carte de la forêt des légendes	Karte: Märchenwald
-2052700	地下施設の地図	Underground Facility Map	Plan du laboratoire souterrain	Karte: Untergrundanlage
-2052900	魔王の城の地図	Shadowlord's Castle Map	Plan du château	Karte: Burg des Schattenlords
-2053100	北平原の地図	Northern Plains Map	Carte de la plaine septentrionale	Karte: Nordfelder
-2053200	南平原の地図	Southern Plains Map	Carte de la plaine méridionale	Karte: Südfelder
-2053300	東街道の地図	Eastern Road Map	Carte de la route de l'est	Karte: Oststraße
-2053500	東京の地図	Tokyo Map	Carte de Tokyo	Karte: Tokio
-2200000	使用するとHPが30％回復する。	Restores up to 30%% of the user's HP.	Une herbe qui rend 30%% des PV.	Stellt bis zu 30 %% der LP wieder her.
-2200100	使用するとHPが60％回復する。	Restores up to 60%% of the user's HP.	Un onguent qui rend 60%% des PV.	Stellt bis zu 60 %% der LP wieder her.
-2200200	使用するとHPが全回復する。	Restores all of the user's HP.	Une potion qui rend tous les PV.	Stellt alle LP wieder her.
+1833800	Un autre habitant de Façade a besoin de ton aide.
+Un des gardes du palais royal veut se procurer des matériaux.<PAGE>Mais allez, qu'est-ce que tu attends#? Va voir si tu peux lui donner un coup de main#!
+1833900	Un habitant de Façade veut que tu l'aides à se réconcilier avec sa femme.
+Je me demande ce qu'il a à se faire pardonner...	
+1834000	Une habitante de Façade qui aime les fleurs a besoin d'aide.
+Je ne savais pas qu'ils cultivaient des fleurs là-bas...	
+1834100	Le tavernier de Littoral a encore besoin de toi.
+Je crois qu'il veut d'autres ingrédients. Il doit vraiment aimer cuisiner#!	
+1834200	Que dirais-tu d'aller donner un coup de main à l'armurier du village#?
+Hum... Je n'ai pas plus de détails. Sa requête était plutôt vague.
+1834300	Façade a besoin de ton aide#!
+Tu es l'ambassadeur de notre village, on dirait#!
+1834400	Tiens#! Yonah a besoin d'aide#!
+Fais-en ta priorité#!
+1834500	Un habitant de Littoral aimerait que tu livres une lettre pour lui.
+Tu devrais peut-être devenir postier, hein#?
+1834600	Un vieil homme a perdu son chien.
+... Ne me regarde pas comme ça#! Tu as dit que tu accepterais n'importe quel boulot...!
+1834700	Un habitant de Littoral veut devenir négociant.
+Bah, pourquoi pas#? Il t'attend près du port.
+1834800	Un homme du marché aimerait que tu l'aides à retrouver son fils.
+Il ne s'agit pas d'un enfant, mais d'un adulte... Bizarre.
+1834900	Pfft#! Elle est bonne, celle-là#!
+Un homme veut donner un cadeau à une femme et il a besoin de ton aide.
+1835000	J'ai reçu une requête urgente de Façade#!
+Une jeune fille a disparu#! Va vite les aider#!
+1835100	J'ai reçu une requête de Façade#!
+Ils ont besoin de ton aide pour chasser des pillards.<PAGE>Enfin du travail qui te convient à merveille#!
+1835200	Que dirais-tu d'aller à Littoral#? J'ai reçu une requête d'une vieille femme.<PAGE>...#En fait, c'est plutôt une demande impérative.
+Si seulement j'arrivais à mener les gens à la baguette ainsi#
+1835300	Une voyageuse cherche quelque chose à Littoral.
+Pourquoi ne vas-tu pas lui demander de quoi il s'agit#?
+1835400	J'ai reçu une autre requête de Façade.
+Un jeune homme a besoin d'aide. ...#C'est tout ce que je sais.
+1835500	L'apothicaire du village a envoyé une requête.
+Il dit que des voleurs lui causent des soucis.<PAGE>... Fichus voleurs#! Va leur passer un savon#!
+1835600	Le négociant de Littoral a encore besoin de ton aide.
+M'enfin, il n'est pas encore vraiment négociant, mais... Il te donnera plus de détails.
+1835700	L'épicière du village a besoin de ton aide.<PAGE>Je crois que son enfant est très malade.
+... Je n'aurai probablement pas besoin de te convaincre d'accepter, hein#?
+1835800	Une femme du marché aimerait que tu trouves son petit ami.
+Elle devrait le chercher elle-même#!<PAGE>...#Mais bon, puisqu'elle est prête à t'offrir une récompense...
+1835900	Le tavernier de Littoral veut se procurer un couteau unique en son genre.
+Il dit qu'il paierait n'importe quoi pour l'obtenir.<PAGE>...#Oooh#! Comme c'est palpitant#!
+1836000	J'ai du travail pour toi à Littoral, si tu n'es pas trop occupé.
+Il cherche... Hum. Pourquoi ne vas-tu pas lui demander toi-même#?
+1836100	Le majordome du manoir a besoin de ton aide.
+Tu connais vraiment des gens bizarres...
+1836200	Il y a une Ombre dans le village#! Aaah#!
+Eh bien#?! Qu'est-ce que tu attends#?! Va t'en occuper tout de suite#!
+1836300	Le marchand de fleurs de Littoral a du travail pour toi.
+Ce n'est qu'une livraison, du gâteau, quoi#!
+1836400	Une habitante de la forêt des légendes a besoin de ton aide.
+C'est la première fois que quelqu'un de la forêt nous envoie une requête#!
+1836500	Un garde s'est fait attaquer par une Ombre sur la plaine septentrionale.
+Pourrais-tu aller en discuter avec lui#? Il veut sans doute que tu l'élimines.
+1836600	Le postier de Littoral aimerait que tu élimines une Ombre.
+Il est de plus en plus dangereux de s'aventurer à l'extérieur du village ces temps-ci.
+1836700	J'ai reçu une requête du majordome du manoir.
+Il dit qu'il aimerait discuter d'une Ombre «#unique#» avec toi.<PAGE>Ne me regarde pas comme ça, je n'en sais pas plus.
+1836800	Un érudit de Littoral voulait en savoir plus à ton sujet.
+Je suppose qu'il a besoin de ton aide dans ses recherches.
+1836900	Un guerrier du masque de Façade a besoin de ton aide.
+Je suis certaine que la ville ne pourrait pas fonctionner sans toi.
+1837000	J'ai reçu une lettre du roi de Façade.
+Il dit qu'il aimerait que tu l'aides à régler un «#problème#».<PAGE>Je me demande de quoi il parle...
+1837100	Un sanglier cause bien des ennuis à un des villageois.
+Ces créatures peuvent donner du fil à retordre. Tu devrais peut-être l'aider.
+1837200	Le postier de Littoral a du boulot pour toi.
+Il a besoin d'un coup de main.
+1837300	Le postier de Littoral a encore du boulot pour toi.
+À ce qu'il paraît, une vieille femme lui donne du fil à retordre.
+1837400	J'ai reçu une lettre du postier de Littoral.
+Il a quelque chose à te dire. Qu'est-ce que ça peut bien être#?
+1837500	Il y a quelque chose qui ne tourne pas rond à la montagne des robots.
+Je m'inquiète pour le garçon de l'armurerie des frères.<PAGE>Pourrais-tu aller lui rendre visite#?
+1837700	J'ai du boulot à Façade pour toi.
+Un des habitants s'inquiète pour son fils.
+1900000	Carte
+1900100	--
+2000000	Herbe médicinale
+2000100	Onguent tonique
+2000200	Potion curative
+2000300	Onguent curatif
+2000400	Potion tonique
+2000500	Potion fortifiante
+2000600	Potion curative
+2000700	Potion suprême
+2001100	Capsule tonique
+2001200	Capsule fortifiante
+2001300	Capsule curative
+2001600	Baume de salut
+2002100	Dragée de force
+2002200	Capsule de force
+2002300	Dragée de magie
+2002400	Capsule de magie
+2002500	Dragée de défense
+2002600	Capsule de défense
+2002700	Dragée d'esprit
+2002800	Capsule d'esprit
+2003100	Antidote
+2003200	Herbe d'écho
+2003300	Sels volatils
+2004100	Engrais de croissance
+2004200	Engrais de floraison
+2004300	Engrais de récolte
+2004600	Graine de potiron
+2004700	Graine de pastèque
+2004800	Graine de melon
+2004900	Graine de calebasse
+2005000	Graine de tomate
+2005100	Graine d'aubergine
+2005200	Graine de poivron
+2005300	Graine de haricot
+2005400	Germe de blé
+2005500	Germe de riz
+2005600	Bulbe de dahlia
+2005700	Bulbe de tulipe
+2005800	Bulbe de freesia
+2005900	Graine rouge
+2006000	Graine jaune
+2006100	Graine orange
+2006200	Graine rose
+2006300	Graine bleue
+2006400	Graine turquoise
+2006500	Graine blanche
+2007100	Potiron
+2007200	Pastèque
+2007300	Melon
+2007400	Calebasse
+2007500	Tomate
+2007600	Aubergine
+2007700	Poivron
+2007800	Haricot
+2007900	Blé
+2008000	Riz
+2008100	Dahlia
+2008200	Tulipe
+2008300	Freesia
+2008400	Lunaflore rouge
+2008500	Lunaflore jaune
+2008600	Lunaflore orange
+2008700	Lunaflore rose
+2008800	Lunaflore bleue
+2008900	Lunaflore turquoise
+2009000	Lunaflore blanche
+2010100	Arénicole
+2010200	Ver de terre
+2010300	Amorce
+2011100	Sardine
+2011200	Carpe
+2011300	Poisson-globe
+2011400	Daurade
+2011500	Requin
+2011600	Makaire bleu
+2011700	Dancléostéus
+2011800	Truite arc-en-ciel
+2011900	Perche noire
+2012000	Poisson-chat
+2012100	Esturgeon
+2012200	Hynéria
+2012300	Squille
+2012400	Rhizodonte
+2012500	Poisson-shaman
+2013100	Plante aquatique
+2013200	Bois mort
+2013300	Seau rouillé
+2013400	Boîte de conserve
+2013800	Minerai d'or
+2013900	Minerai d'argent
+2014000	Minerai de cuivre
+2014100	Minerai de fer
+2014200	Cristal
+2014300	Pyrite
+2014400	Moldavite
+2014500	Météore
+2014600	Ambre
+2014700	Fluorine
+2014800	Argile
+2015300	Noix
+2015400	Osmonde
+2015500	Branche d'arbre
+2015600	Rondin
+2015700	Caoutchouc
+2015800	Lierre
+2015900	Lichen
+2016000	Champignon
+2016100	Sève
+2016700	Viande de mouton
+2016800	Viande de sanglier
+2016900	Laine
+2017000	Peau de sanglier
+2017100	Peau de loup
+2017200	Croc de loup
+2017300	Fil d'araignée géante
+2017400	Croc de chauve-souris
+2017500	Aile de chauve-souris
+2017600	Viande de chèvre
+2017700	Peau de chèvre
+2017800	Viande de cerf
+2017900	Fil d'araignée arc-en-ciel
+2018000	Foie de sanglier
+2018100	Pince de scorpion
+2018200	Queue de scorpion
+2018300	Feuille de métal bosselée
+2018400	Vieux boulon
+2018500	Lentille brisée
+2018600	Câble coupé
+2018700	Bras cassé
+2018800	Antenne abîmée
+2018900	Moteur défectueux
+2019000	Batterie à plat
+2019100	Levier mystérieux
+2019200	Gros engrenage
+2019300	Alliage de titane
+2019400	Alliage à mémoire de forme
+2019500	Pièce de métal rouillée
+2019600	Huile de graissage
+2020100	Collier mélancolique
+2020200	Anneau tordu
+2020300	Boucle d'oreille cassée
+2020400	Joli tour de cou
+2020500	Pendant métallique
+2020600	Bracelet austère
+2020700	Mode d'emploi
+2020800	Livre sale
+2020900	Dictionnaire épais
+2021000	Album inouvrable
+2021100	Album à colorier usé
+2021200	Vieux cahier
+2021300	Sac taché
+2021400	Chapeau voyant
+2021500	Gants de cuir
+2021600	Mouchoir de soie
+2021700	Bottes de cuir
+2021800	Machine complexe
+2021900	Machine élaborée
+2022000	Machine simple
+2022100	Horloge arrêtée
+2022200	Montre cassée
+2022300	Couteau rouillé
+2022400	Scie cassée
+2022500	Batte de métal cabossée
+2022700	Coquillage
+2022800	Conque
+2022900	Bivalve
+2023000	Algue
+2023100	Bouteille vide
+2023200	Bois flotté
+2023300	Perle
+2023400	Perle noire
+2023500	Crabe
+2023600	Étoile de mer
+2024200	Œuf de tortue de mer
+2024300	Tesson de poterie
+2024400	Rose du désert
+2024500	Œuf géant
+2024600	Acier damassé
+2024700	Œuf d'aigle
+2024800	Œuf de poule
+2025000	Queue de souris
+2025100	Queue de lézard
+2025501	Bois de cerf
+2025502	Clef lumineuse
+2025503	Clef obscure
+2025504	Freesia desséché
+2025505	Freesia en pot
+2025506	Bouquet de freesias
+2025507	Pacotille
+2025508	Pièce d'or antique
+2025509	Carte détaillée
+2025510	Carte magnétique AA
+2025511	Carte magnétique KA
+2025512	Carte magnétique SA
+2025513	Carte magnétique TA
+2025514	Carte magnétique NA
+2025515	Carte magnétique HA
+2025516	Carte magnétique MA
+2025517	Carte magnétique YA
+2025518	Carte magnétique RA
+2025519	Carte magnétique WA
+2025600	Clef lunaire
+2025700	Clef étoilée
+2025800	Fleur de farine
+2025900	Farine grossière
+2026000	Flacon de parfum
+2026100	Liasse de lettres
+2026200	Lettre d'amour
+2026300	Filtre à eau
+2026400	Boussole royale
+2026500	Mousse vaporeuse
+2026600	Fil d'araignée des vallées
+2026700	La faune
+2026800	La minéralogie
+2026900	La flore
+2027000	Livre rouge
+2027100	Livre bleu
+2027200	Digestif
+2027300	Élixir
+2027400	Colis pour l'Aire
+2027500	Colis pour Littoral
+2027600	Livre de cuisine
+2027700	Colis pour Façade
+2027800	Herbes de Max
+2027900	1ère caisse à la dérive
+2028000	2e caisse à la dérive
+2028100	3e caisse à la dérive
+2028200	4e caisse à la dérive
+2028300	Vieux colis
+2028400	Larme de sirène
+2028500	Feuille de mandragore
+2028600	Énergisant
+2028700	Huile de crapaud
+2028800	Psychotonique 7
+2028900	Contrepoison
+2029000	Bracelet en or
+2029100	Couteau de chef
+2029200	Pièces d'ascenseur
+2029300	Carte au trésor abîmée
+2029400	Carte au trésor restaurée
+2029500	Barrette de jade
+2029600	Liste d'employés
+2029700	Petit coffre-fort
+2029800	Clef du coffre-fort
+2029900	Racine du grand arbre
+2030000	Œil de puissance
+2030100	Ruban
+2030200	Ruban de Yonah
+2030300	Clef en bronze
+2030400	Clef en laiton
+2030500	Défense de sanglier
+2030600	Le jardinier en herbe
+2030700	貴重品５０
+2030800	貴重品５１
+2030900	貴重品５２
+2031000	貴重品５３
+2031100	貴重品５４
+2031200	貴重品５５
+2031300	貴重品５６
+2031400	貴重品５７
+2031500	貴重品５８
+2031600	貴重品５９
+2031700	貴重品６０
+2031800	貴重品６１
+2031900	貴重品６２
+2032000	«#Regarde le ciel bleu#»
+2032100	«#Ne te surmène pas#»
+2032200	«#Mon anniversaire#!#»
+2032300	Lettre d'amour  12/2/3340
+2032400	Lettre d'amour  28/3/3340
+2032500	Lettre d'amour  1/5/3340
+2032600	Lettre du maire
+2032700	Requête du postier
+2032800	Remerciements du postier
+2032900	Invitation mystérieuse
+2033000	Avis de réouverture
+2033100	Faire-part
+2033200	Lettre du roi
+2033300	Annales scientifiques (1re partie)
+2033400	Annales scientifiques (2e partie)
+2033500	Annales scientifiques (3e partie)
+2033600	Annales scientifiques (4e partie)
+2033700	Lettre pour le chef du village de l'Aire
+2033800	Lettre pour l'armurerie des frères
+2033900	Lettre pour Popola
+2034000	Lettre d'un amant éloigné
+2034100	Lettre d'Émile
+2034200	Avis d'amélioration d'arme
+2034300	Lettre du chef du village l'Aire
+2035200	Compte rendu du projet Gestalt nº#0923
+2035300	Compte rendu du projet Gestalt nº#9182
+2035400	Compte rendu du projet Gestalt nº#10#432
+2035500	Compte rendu du projet Gestalt nº#11#242
+2051200	Mappemonde
+2051500	Carte du village
+2051600	Carte des environs du temple
+2051700	Plan du temple oublié
+2051800	Carte de l'Aire
+2051900	Carte de Littoral
+2052000	Carte du désert
+2052100	Carte de Façade
+2052200	Plan du temple stérile
+2052300	Carte des environs de la montagne
+2052400	Plan de la montagne des robots
+2052500	Plan du manoir
+2052600	Carte de la forêt des légendes
+2052700	Plan du laboratoire souterrain
+2052900	Plan du château
+2053100	Carte de la plaine septentrionale
+2053200	Carte de la plaine méridionale
+2053300	Carte de la route de l'est
+2053500	Carte de Tokyo
+2200000	Une herbe qui rend 30%% des PV.
+2200100	Un onguent qui rend 60%% des PV.
+2200200	Une potion qui rend tous les PV.
 2200300	HP+200
 上限は超えない範囲で回復する。	Restores up to 200 HP to the user.	Un onguent qui rend 200 PV.	Stellt bis zu 200 LP wieder her.
 2200400	HP+10％
