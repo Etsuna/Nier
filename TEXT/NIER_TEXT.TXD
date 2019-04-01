@@ -3055,205 +3055,117 @@ encombre. Il ne reste plus qu'à espérer que le
 projet Gestalt soit un jour couronné de succès.
 
 Que Dieu nous protège.
-12001000	図書館に行ってポポルから仕事を貰う。	Head to the library and get a new job from Popola.	Allez voir Popola à la bibliothèque pour trouver du travail.	Geh zur Bibliothek und lass dir von Popola einen neuen Auftrag geben.
-12002000	ポポルの仕事が終了したので、家に帰ろう。	Your work for Popola is done. It's time to go home.	Vous avez accompli votre tâche. Rentrez à la maison.	Deine Arbeit für Popola ist erledigt. Zeit, nach Hause zu gehen.
-12002500	ヨナが居ないようだ。ポポルなら何か知っているかもしれない。	Yonah seems to be missing. Maybe Popola might know something.	Yonah n'est pas à la maison. Popola sait peut-être où elle est.	Yonah scheint verschwunden zu sein. Vielleicht weiß Popola ja etwas.
-12003000	ヨナが話をしていたという石の神殿へ通じる東門に行こう。	Head to the eastern gate, which leads to the Lost Shrine that Yonah mentioned.	Dirigez-vous vers la porte de l'est qui mène au chemin du temple oublié dont Popola a parlé à Yonah.	Begib dich zum Osttor, das zum Verschollenen Schrein führt, den Yonah erwähnt hat.
-12004000	東門でヨナのハンカチがみつかった。
-ヨナは村の外に出てしまったようだ。	You found Yonah's ribbon at the eastern gate. She must have left the village!	Vous avez trouvé le ruban de Yonah près de la porte de l'est. Elle doit être sortie du village#!	Du hast Yonahs Haarband beim Osttor gefunden. Sie muss das Dorf verlassen haben!
-12011000	ヨナは石の神殿に向かったようだ。
-危険な目にあう前に見つけ出さなければ。	Yonah went to the Lost Shrine. Track her down before something happens.	Yonah s'est aventurée dans le temple oublié. Retrouvez-la avant qu'il ne lui arrive quelque chose.	Yonah ist zum Verschollenen Schrein gegangen. Finde sie, bevor ihr etwas zustößt.
-12012000	石の神殿のどこかにヨナが居るはずだ……	Yonah has to be somewhere inside the Lost Shrine...	Yonah doit se trouver quelque part dans le temple oublié...	Yonah muss irgendwo im Inneren des Verschollenen Schreins sein ...
-12013000	戦いの最中１冊の本、白の書が現れた。	During battle, a talking book named Grimoire Weiss appeared.	Pendant la bataille, le Grimoire Weiss, un livre doué de parole, est apparu.	Während des Kampfes erschien ein sprechendes Buch namens Grimoire Weiss.
-12014000	白の書の力を得て、ヨナを無事助け出した。
-だがヨナの身体には黒い文様が浮き上がっていた……	You managed to save Yonah, but now dark markings have appeared on her body...	Vous avez réussi à sauver Yonah, mais des symboles obscurs sont apparus sur son corps.	Du konntest Yonah retten, aber nun sind schwarze Male auf ihrem Körper erschienen ...
-12021000	ヨナが「黒文病」にかかってしまった。
-何か救う手だてを探さなければ……	Yonah has been infected with the Black Scrawl. If you don't come up with some way to save her...	Yonah a la nécrose runique. Si vous n'arrivez pas à la guérir...	Yonah wurde mit der Runenpest infiziert. Wenn du keinen Weg findest, sie zu retten ...
-12022000	村を歩いているとデボルの歌が聞こえる。
-歌の内容は白の書によって世界が救われるというものだった。
-ポポルの所へ詳しい話を聞きに行こう。	You heard Devola sing about a white book that can save the world. Talk to Popola to learn more.	Vous avez entendu Devola chanter une chanson à propos d'un livre blanc capable de sauver le monde entier. Adressez-vous à Popola pour en savoir davantage.	Du hast Devola über ein weißes Buch, das die Welt retten kann, singen gehört. Rede mit Popola, um mehr zu erfahren.
-12023000	ポポルの話によればマモノを倒し「封印されし言葉」を手に入れること
-で、ヨナを救うことができるようだ。
-「封印されし言葉」を手に入れる為マモノ退治の旅に出る事を決意した。
-	According to Popola, you may be able to save Yonah by defeating Shades and obtaining their Sealed Verses. You decide to set out in search of these verses.	Selon Popola, vous pourrez guérir Yonah en éliminant les Ombres et en obtenant les vers scellés qu'elles détiennent. Vous décidez de partir à la recherche de ces vers scellés.	Laut Popola könntest du in der Lage sein, Yonah zu retten, indem du Schatten besiegst und ihre Versiegelten Verse erwirbst. Du beschließt, dich auf die Suche nach diesen Versen zu machen.
-12031000	崖の村で頻繁にマモノが出現するとの情報。
-住人から封印されし言葉について何か知らないか話を聞いてみよう。	According to reports, Shades have been appearing in The Aerie with some frequency. Go there and see if the villagers know anything about the Sealed Verses.	On dit que l'Aire est souvent la proie des Ombres. Allez demander aux villageois s'ils possèdent plus d'informations au sujet des vers scellés.	Berichten zufolge gibt es verstärkte Schattenaktivitäten in Adlerhorst. Geh dorthin und überprüfe, ob die Dorfbewohner etwas über die Versiegelten Verse wissen.
-12032000	ここには封印されし言葉はなさそうだ。
-ポポルのところに戻って再度情報を聞こう。	It doesn't seem like there are any Sealed Verses here. Return to Popola to see if she has any ideas about what to do next.	Il semble qu'il n'y a pas de vers scellés dans l'Aire. Retournez au village le dire à Popola. Elle saura peut-être vous guider.	Es sieht nicht so aus, als gäbe es hier Versiegelte Verse. Kehre zu Popola zurück, um zu sehen, ob sie irgendwelche anderen Ideen hat.
-12033000	帰り道、出口付近にある家で不思議な花を見かける。
-そこに突如女性の姿をしたマモノが現れ、戦いとなった。	On your way back, you noticed a strange wreath of flowers at a house near the exit. When you approached it, a woman appeared and a battle ensued.	Sur le chemin du retour, vous avez trouvé un étrange collier de fleurs dans une maison près de la sortie. Quand vous vous en êtes approché, une jeune femme est apparue et vous a attaqué.	Auf deinem Rückweg hast du einen seltsamen Blumenkranz bei einem Haus nahe des Ausgangs bemerkt. Als du dich genähert hast, ist eine Frau erschienen und es kam zum Kampf.
-12034000	マモノの姿をした女性はマモノ憑きと呼ばれる人間、カイネだった。	The woman's name was Kainé. People say she's been possessed by a Shade.	La jeune femme s'appelle Kainé. Les habitants de l'Aire disent qu'elle est possédée par une Ombre.	Der Name der Frau war Kaine. Die Leute meinen, sie sei von einem Schatten besessen.
-12041000	崖の村に大量のマモノが発生したらしい。
-カイネの安否も心配だ。急いで崖の村に向かおう。	A horde of Shades has appeared in The Aerie. Hurry to the village to check up on Kainé.	Plusieurs Ombres sont apparues au village de l'Aire. Allez vous assurer que Kainé est saine et sauve.	Eine Horde Schatten ist in Adlerhorst eingefallen. Eile zu dem Dorf und sieh nach Kaine.
-12042000	カイネと共に戦った巨大なマモノが再び現れた。
-奴を倒し「封印されし言葉」を手に入れろ。	The giant Shade has returned. Kill it and claim its Sealed Verse.	L'Ombre géante est revenue. Éliminez-la et récupérez le vers scellé qu'elle détient.	Der riesige Schatten ist zurückgekehrt. Töte ihn und schnapp dir seinen Versiegelten Vers.
-12043000	巨大なマモノはカイネの育ての親の仇だった。
-復讐を遂げたカイネは復讐以外の自分を探す為、仲間になることを約束
-してくれた。	With the Shade defeated and her grandmother avenged, Kainé agrees to travel with you in search of a new life.	Avec votre aide, Kainé a vengé sa grand-mère et vaincu l'Ombre géante. En quête d'une nouvelle raison d'être, la jeune femme accepte de vous accompagner.	Da der Schatten besiegt und ihre Großmutter gerächt ist, entscheidet sich Kaine dafür, sich dir auf der Suche nach einem neuen Leben anzuschließen.
-12051000	謎の招待状が届いた。
-詳しい話を聞きに南平原の洋館へ行こう。	Yonah received a letter from a mysterious admirer. Head for the manor in the southern plains to find out more.	Yonah a reçu une lettre d'un admirateur mystérieux. Allez au manoir de la plaine méridionale pour savoir de quoi il retourne.	Yonah hat einen Brief von einem mysteriösen Bewunderer erhalten. Mach dich zur Villa in den Südfeldern auf, um mehr herauszufinden.
-12052000	食堂で待っていたはずのカイネが行方不明になった。
-心配だが、まずは手紙の差出人である洋館の主を探し出そう。	Kainé has gone missing, but finding her will have to wait. First, you must seek out whoever sent the mysterious letter.	Kainé a disparu, mais vous n'avez pas le temps de la chercher. Vous devez d'abord découvrir qui a envoyé la lettre à Yonah.	Kaine ist verschwunden, aber die Suche nach ihr muss warten. Finde zunächst einmal heraus, wer den mysteriösen Brief geschrieben hat.
-12053000	洋館の主「エミール」の為に治療方法を屋敷の中で捜索する。	Search the manor for a cure to Emil's condition.	Essayez de découvrir un remède pour Émile dans le manoir.	Durchsuche die Villa nach einem Heilmittel für Emils Zustand.
-12054000	エミールの目は治っていない。
-しかし、彼は治療方法を解き明かす事を約束してくれた。	Emil's eyesight is still cursed, but he promised to discover the key to a cure.	Vous n'avez pas réussi à guérir Émile, mais celui-ci a promis qu'il continuerait à chercher un remède.	Emils Augenlicht ist noch immer verflucht, aber er versprach, den Schlüssel zu seiner Heilung zu finden.
-12061000	ロボット山に住まう兄弟。
-不在の母親に代わってロボット山の内部に向かい、売り物となる素材
-を取りに行こう。	You met a pair of brothers who live near the Junk Heap. Enter the mountain and find materials for them to sell.	Vous avez fait la rencontre de deux frères qui habitent près de la montagne des robots. Allez dans la montagne pour leur trouver des matériaux à vendre.	Du hast zwei Brüder getroffen, die nahe des Müllbergs leben. Begib dich in den Berg und finde Materialien, die sie verkaufen können.
-12062000	取ってきた素材を兄弟に渡した。
-これでしばらくは生活できるはずだ。	You gave the materials you found to the brothers. It should be sufficient enough for them to keep working for a while longer.	Vous avez donné les matériaux que vous aviez trouvés aux deux frères. Cela devrait leur permettre de gagner leur pain pendant quelque temps.	Du hast die gefundenen Materialien den Brüdern übergeben. Das sollte reichen, um sie für eine Weile über Wasser zu halten.
-12071000	ロボット山の兄弟の為、パンの材料を探しに行く。
-材料は「小麦粉」「イースト菌」「バター」「牛乳」。
-村に売っていないか探してみよう。	You need flour, yeast, butter, and milk in order to bake bread for the Junk Heap brothers. Go and see if those items are sold in the village.	Vous devez faire du pain pour les frères de la montagne des robots. Les magasins du village vendent sans doute les ingrédients nécessaires#: de la farine, de la levure, du beurre et du lait.	Du benötigst Mehl, Weizen, Butter und Milch, um Brot für die Brüder beim Müllberg zu backen. Vielleicht kannst du diese Dinge ja im Dorf kaufen.
-12072000	出来上がったパンを兄弟に届けた。
-母親の作ったパンではないが満足したようだ。	You delivered the finished bread to the brothers. It was different from their mother's, but they seemed satisfied nonetheless.	Vous avez donné votre pain aux deux frères. Il n'avait pas le même goût que celui de leur mère, mais ils ont néanmoins semblé satisfaits.	Du hast das fertige Brot den Brüdern gegeben. Es war anders als das ihrer Mutter, aber sie schienen dennoch zufrieden damit.
-12081000	いつになっても帰ってこない母親に泣き出してしまう弟。
-兄弟の母親を探す為ロボット山の内部に向かおう。	The younger brother, distraught that his mother is still missing, won't stop crying. Head back inside the Junk Heap and search for her.	Le cadet des frères s'ennuie de sa mère qui n'est toujours pas rentrée. Retournez dans la montagne des robots pour la trouver.	Der jüngere Bruder ist verzweifelt, weil seine Mutter noch immer verschwunden ist und hört nicht auf zu weinen. Gehe zurück in den Müllberg und suche nach ihr.
-12082000	巨大ロボットを倒した先に２つの遺体を見つけた。
-１人は兄弟の母親、もう１人は若い男。
-母親は兄弟を捨てて若い男と逃げるつもりだったようだ。	After defeating a giant robot, you found the bodies of a man and a woman. The boys' mother had apparently abandoned her sons in order to run off with her lover.	Après avoir vaincu un robot géant, vous avez trouvé deux cadavres#: un homme et une femme. Il semblerait que la mère des deux frères avait abandonné ses enfants et s'était enfuie avec son amant.	Nachdem du einen riesigen Roboter zerstört hast, hast du die Leichen eines Mannes und einer Frau entdeckt. Die Mutter der Jungs hat anscheinend ihre Söhne verlassen, um mit ihrem Liebhaber zusammen zu sein.
-12091000	ポポルから薬魚を獲ってきて欲しいと依頼を受けた。
-海岸の街に向かおう。	Head to Seafront and find a shaman fish for Popola.	Allez vous procurer un poisson-shaman à Littoral.	Begib dich nach Meeresfront und finde einen Schamanenfisch für Popola.
-12092000	まずは薬魚を獲る方法を聞き込みをしてみよう。	Ask around town until you learn how to catch a shaman fish.	Demandez aux habitants de la ville comment attraper un poisson-shaman.	Frag in der Stadt herum, bis du gelernt hast, wie man einen Schamanenfisch fängt.
-12093000	口うるさい老婆に自分宛の手紙を届けさせろと依頼された。	A cranky old woman wants you to get the post office to deliver her mail.	Une vieille femme veut que vous demandiez au postier de lui apporter son courrier sur-le-champ.	Eine launische alte Frau möchte, dass du das Postamt dazu bringst, ihre Post zuzustellen.
-12093500	無事に老婆に手紙を届けた。	You delivered the old woman's letter.	Vous avez remis la lettre à la vieille femme.	Du hast den Brief der alten Frau zugestellt.
-12094000	海岸の街の郵便配達員からの依頼。
-何でも頼み事があるそうだ。	The postman of Seafront has a personal request for you.	Le postier est blessé et ne peut pas livrer le courrier. Apportez vous-même la lettre à la vieille femme.	Der Postbote von Meeresfront hat eine persönliche Bitte für dich.
-12094500	脚の悪い配達員に代わって灯台の老婆に手紙を配達するように頼まれた。
-老婆の所に手紙を届けよう。	You were asked to deliver a letter for the injured postman. Bring the letter to the old woman in the lighthouse.	Le postier vous a demandé de remettre une lettre à la vieille femme du phare parce qu'il est blessé.	Du wurdest gebeten, für den verletzten Postboten einen Brief zuzustellen. Bringe den Brief zu der alten Frau im Leuchtturm.
-12095000	無事に手紙を届け終えた。
-老婆の身体の具合が悪いようだが……	You delivered the letter. The lighthouse lady doesn't look very well...	Vous avez remis la lettre à la vieille femme. Elle n'a pas l'air en forme...	Du hast den Brief zugestellt. Die Leuchtturmdame sieht nicht gut aus ...
-12095500	海岸の街の配達員から「口の悪い老婆に困っている」との連絡。
-またあのバアさんと会うと思うと気が滅入る。	The cranky lighthouse lady is bothering the Seafront postman again. Go see if you can help.	La vieille femme du phare cause encore des ennuis au postier de Littoral. Allez voir si vous pouvez lui donner un coup de main.	Die launische Leuchtturmdame belästigt den Postboten von Meeresfront schon wieder.
-12096000	灯台の老婆に、灯台を守り続けるように説得する事を依頼された。
-あまり気は進まないが……	You were asked to persuade the lighthouse lady to stay at her post. It's hard to drum up much enthusiasm for this...	Le postier vous a demandé de persuader la vieille femme du phare de ne pas quitter son poste. Vous ne débordez pas d'enthousiasme...	Du wurdest gebeten, die Leuchtturmdame zu überreden, auf ihrem Posten zu bleiben. Es wird nicht leicht sein, sie dafür zu begeistern ...
-12096500	老婆の身体はもう限界のようだ。
-街の外に出られるように、配達員に交渉してみよう。	The lighthouse lady doesn't have long to live. Convince the postman that she should be allowed to leave.	La vieille femme du phare est mourante. Essayez de convaincre le postier qu'il devrait la laisser quitter la ville.	Die Leuchtturmdame hat nicht mehr lange zu leben. Überzeuge den Postboten, ihr zu erlauben, ihren Posten zu verlassen.
-12097000	ここで諦める訳にはいかない。
-再度配達員に交渉してみる為、郵便局に戻ろう。
-	Return to the post office and try to reason with the postman one more time.	Retournez au bureau de poste et essayez de faire entendre raison au postier encore une fois.	Kehre zum Postamt zurück und versuche, noch einmal mit dem Postboten zu reden.
-12097500	老婆への手紙は全て配達員の手によって書かれていた。
-新たな老婆への手紙を配達員から渡される。
-真実を告げるべきか。それとも……	The letters to the lighthouse lady were all written by the postman, and now he's given you a new one. Should you tell her the truth, or...?	Le postier écrivait les lettres que recevait la vieille femme du phare. Devriez-vous lui dire la vérité ou lui donner la nouvelle lettre que le postier vous a remise#?	Die Briefe an die Leuchtturmdame wurden allesamt vom Postboten geschrieben und nun hat er dir einen neuen gegeben. Sollst du ihr die Wahrheit sagen, oder ...?
-12098000	老婆には真実を告げる事が出来なかった。
-本当に正しかったのだろうか。	Telling the lighthouse lady the truth would have broken her heart. But did you make the right choice...?	Apprendre la vérité aurait causé beaucoup de chagrin à la vieille femme du phare. Avez-vous fait le bon choix...?	Der Leuchtturmdame die Wahrheit zu erzählen hätte ihr das Herz gebrochen. Aber hast du die richtige Entscheidung getroffen ...?
-12098500	老婆には真実を告げる事が出来なかった。
-本当に正しかったのだろうか。	Telling the lighthouse lady the truth would have broken her heart. But did you make the right choice...?	Apprendre la vérité aurait causé beaucoup de chagrin à la vieille femme du phare. Avez-vous fait le bon choix...?	Der Leuchtturmdame die Wahrheit zu erzählen hätte ihr das Herz gebrochen. Aber hast du die richtige Entscheidung getroffen ...?
-12099000	海岸の街の配達員から連絡があった。
-何か伝えたい事があるらしいのだが……	The Seafront postman wants to discuss something with you.	Le postier de Littoral a quelque chose à vous dire.	Der Postbote aus Meeresfront möchte etwas mit dir bereden.
-12099100	老婆は死んだ。
-彼女は幸せだったのだろうか。	The lighthouse lady has died. You can only hope she was happy at the end. 	La vieille femme du phare est décédée. Était-elle heureuse...?	Die Leuchtturmdame ist verstorben. Du kannst nur hoffen, dass sie am Ende glücklich war.
-12101000	仮面の街とは交易が途絶え、中に入ることが出来ないらしい。
-街に入る方法はないだろうか。	The town of Facade has cut off all contact with the outside world. Find a way inside.	La ville de Façade s'est isolée du reste du monde. Trouvez un moyen d'y pénétrer.	Die Stadt Fassade hat alle Verbindungen zur Außenwelt abgeschnitten. Finde einen Weg hinein.
-12102000	カイネによると仮面の街には入る事が出来るらしい。理由は不明。	Apparently Kainé is able to enter Facade freely, although she won't say how.	Il semblerait que Kainé puisse entrer librement dans Façade, mais elle refuse de vous dire pourquoi.	Anscheinend ist Kaine in der Lage, Fassade frei zu betreten, obwohl sie nicht sagen will, wie.
-12103000	フィーアに街を案内してもらおう。	A girl named Fyra has volunteered to show you around.	Une jeune fille appelée Fyra a offert de vous guider à travers la ville.	Ein Mädchen namens Fyra hat sich bereit erklärt, dich herumzuführen.
-12104000	仮面の街で出会った少女、フィーアのおかげで
-濾過器を注文することが出来た。	Thanks to Fyra, you were able to order a water filter.	Grâce à Fyra, vous êtes parvenu à commander un filtre.	Dank Fyra warst du in der Lage, einen Wasserfilter zu bestellen.
-12105000	濾過器をポポルに届けよう。	Deliver the water filter to Popola.	Allez porter le filtre à Popola.	Bring den Wasserfilter zu Popola.
-12111000	濾過器が完成したという連絡を受けた。
-早速仮面の街へ受け取りに行こう。	The water filter is ready. Head to Facade and pick it up.	Le filtre est prêt. Allez à Façade le chercher.	Der Wasserfilter ist bereit. Begib dich nach Fassade und hol ihn ab.
-12112000	成り行きで「仮面の王子」を助けに行く事になる。
-フィーアの案内で「砂の神殿」に向かおう。	Change of plans—now you must aid the prince of Facade. Fyra will guide you to the Barren Temple.	Vous devez désormais venir en aide au prince de Façade. Fyra vous guidera jusqu'au temple stérile.	Planänderung - Nun musst du dem Prinz von Fassade helfen. Fyra wird dich zum Ödtempel führen.
-12113000	無事王子を助け出した。	You successfully rescued the prince of Facade.	Vous avez porté secours au prince de Façade.	Du hast den Prinz von Fassade erfolgreich gerettet.
-12114000	王子は仮面の王になった。
-新たに作られた掟と共にこの街も再び豊かになっていくだろう。	The prince is now king. With Rule Zero in place, the town is sure to see prosperous days again.	Le prince est devenu roi. Grâce à la nouvelle loi zéro, la ville devrait de nouveau prospérer.	Der Prinz ist nun König. Dank Regel Null wird diese Stadt schon bald wieder florieren.
-12121000	ヨナの薬の在庫がないらしい。
-南門の側にあるセキトリゴケを取りに行こう。	Yonah is running out of medicine. Venture to the southern gate and find some vapor moss.	Yonah a besoin de médicaments. Essayez de trouver de la mousse vaporeuse au-delà de la porte du sud.	Yonah hat keine Medizin mehr. Gehe zum Südtor und finde etwas Dampfmoos.
-12122000	マモノが村の中に進入してきた。
-ヨナの居るこの村を蹂躙させる訳にはいかない！	Shades have invaded the village where you and Yonah live. You must stop them and keep Yonah safe!	Des Ombres ont envahi votre village#! Vous devez les repousser et protéger Yonah#!	Schatten sind in das Dorf, in dem Yonah und du leben, eingefallen. Du musst sie aufhalten und Yonah retten!
-12123000	黒の書との戦いに敗れ、ヨナは連れ去られてしまう。
-そしてカイネは地下室にマモノを閉じ込めるため、自身をエミールの力で
-石化させることでマモノを封印した。
-ニーアは全てを取り戻す事を苦しみの中で誓う。	The day is lost. Grimoire Noir has defeated your party, and Yonah has been stolen away. Worse yet, Emil was forced to petrify Kainé to keep a monstrous Shade entombed in the library's basement. Stricken by grief, you swear to free them all, no matter what the cost.	Tout est perdu. Le Grimoire Noir a triomphé et Yonah s'est fait enlever. Qui pis est, Émile a été obligé de transformer Kainé en pierre afin de sceller une Ombre monstrueuse sous la bibliothèque. Accablé de douleur, vous avez juré de les sauver, quel qu'en soit le prix.	Alles ist verloren. Grimoire Noir hat deine Gruppe besiegt und Yonah wurde entführt. Schlimmer noch: Emil war gezwungen, Kaine zu versteinern, um einen monströsen Schatten im Keller der Bibliothek einzusperren. Du schwörst, sie alle zu befreien. Koste es, was es wolle.
-12131000	ヨナが連れ去られてから５年、世界は大きく変わってしまった。	Five years after Yonah was taken, the world has changed.	Cinq ans après l'enlèvement de Yonah, le monde a beaucoup changé.	Fünf Jahre nachdem Yonah entführt wurde, hat sich die Welt stark verändert.
-12132000	ポポルの元に手紙が届いているらしい。
-受け取りに行こう。	Popola has a letter for you. Visit her and see what it's about.	Popola a une lettre pour vous. Allez la récupérer.	Popola hat einen Brief für dich. Besuche sie und sieh nach, worum es geht.
-12133000	手紙はエミールからのもので、石化したカイネについて話があるという。
-話を聞くためエミールに会いに行こう。	The letter is from Emil, who wants to talk to you about Kainé. Go pay him a visit.	C'est une lettre d'Émile. Celui-ci veut discuter de Kainé avec vous. Allez lui rendre visite.	Der Brief ist von Emil, der mit dir über Kaine reden möchte. Besuche ihn bald mal.
-12141000	石化したカイネについての話を聞くためエミールの所に行こう。	Go see Emil to discuss Kainé's condition.	Allez rendre visite à Émile pour discuter de Kainé.	Suche Emil auf, um über Kaines Zustand zu reden.
-12142000	エミールから計画室についての話を聞かされる。
-この場所でエミールの石化の力を制御する方法が解るかもしれない、と。
-計画室への入り口があるという中庭に向かおう。	Emil has discovered something called the Planning Room which may allow him to control his powers. Head for the inner courtyard and find the room's entrance.	Émile a découvert la «#Salle des projets#», un endroit où il pourrait découvrir comment maîtriser ses pouvoirs. Essayez d'en trouver l'entrée dans la cour.	Emil hat einen so genannten Planungsraum entdeckt, der ihm womöglich die Kontrolle über seine Kräfte ermöglicht. Begib dich in den Innenhof und finde einen Eingang zu dem Raum.
-12143000	計画室の最深部にて究極兵器『６号』を倒した。
-化け物の姿となった代償に、魔力を制御する術をエミールは手に入れた。	Deep inside the Planning Room, you defeated a weapon known as Number 6. The event transformed Emil into a monster, but also granted him control of his powers.	Au fond de la salle des projets, vous avez vaincu une arme appelée Numéro 6. Ce faisant, Émile a été transformé en monstre, mais il a aussi réussi à maîtriser ses pouvoirs.	Tief im Inneren des Planungsraums hast du eine Waffe, bekannt als Nummer 6, besiegt. Der Vorfall hat Emil in ein Monster verwandelt, aber er hat zugleich die Kontrolle über seine Kräfte erlangt.
-12151000	５年前、マモノを封印するために自らを石化させたカイネ。
-今なら彼女を助け出すことができるはずだ。	Five years ago, Kainé had herself petrified in order to entomb a Shade. You now have the ability to rescue her.	Il y a cinq ans, Kainé a demandé qu'on la transforme en pierre afin de sceller une Ombre. Vous pouvez désormais la libérer.	Vor fünf Jahren wurde Kaine versteinert, um einen Schatten einzusperren. Nun hast du die Fähigkeit, sie zu retten.
-12152000	カイネの石化を解き、封印されていたマモノを倒した。
-意識を取り戻したカイネにみんなで喜びあった。	Kainé's curse has been lifted, and the sealed Shade defeated. You and your friends are overjoyed to see her alive and well.	Émile a libéré Kainé et vous avez vaincu l'Ombre. Vous êtes tous ravis de voir que Kainé a survécu malgré tout.	Kaines Fluch wurde aufgehoben und der eingesperrte Schatten besiegt. Deine Freunde und du freuen sich, sie gesund und munter wiederzusehen.
-12153000	ポポルの話では石の神殿から魔王の居所に行くことが出来るそうだ。
-以前の道は使えないが、船に乗って川辺から行く裏道があるらしい。
-ヨナを取り戻すため、石の神殿に向かおう。	According to Popola, it's possible to reach the Shadowlord's lair from the Lost Shrine. The old path is gone, but you can use a boat to reach an alternate road near the river. Find this road and go rescue Yonah.	Selon Popola, il est possible d'atteindre le château du Maître des Ombres en passant par le temple oublié. Le pont s'est effondré, mais il est possible d'atteindre un autre chemin qui y mène par bateau. Trouvez ce chemin et allez porter secours à Yonah.	Laut Popola ist es möglich, das Versteck des Schattenlords vom Verschollenen Schrein aus zu erreichen. Den alten Pfad gibt es nicht mehr, aber du kannst ein Boot benutzen, um zu einem alternativen Weg nahe des Flusses zu gelangen. Finde diesen Weg und rette Yonah.
-12161000	ロボット山から武器屋の新装オープンの手紙が届いた。	You received a letter announcing the grand re-opening of Two Brothers Weaponry.	Vous avez reçu une lettre annonçant la réouverture de l'armurerie des frères.	Du hast einen Brief erhalten, in dem die Neueröffnung von Zwei-Brüder-Waffen bekanntgegeben wird.
-12162000	兄は４年前に事故で亡くなり、今は弟が店を経営していた。
-新しい武器を手に入れるため素材を集めにいく。	The older brother died four years ago, leaving the younger to run the shop alone. Collect the materials he needs to create a new weapon.	Le frère aîné est mort il y a quatre ans et le cadet s'occupe désormais seul de l'armurerie. Récupérez les matériaux dont il a besoin pour forger une nouvelle arme.	Der ältere Bruder ist vor vier Jahren gestorben und der jüngere betreibt das Geschäft nun alleine. Sammle die Materialien, die er braucht, um eine neue Waffe zu bauen.
-12163000	弟から兄の仇であるマモノと巨大ロボット退治の依頼を受ける。
-ロボット山の最深部へ向かう。	The younger brother asked you to defeat the Shade that killed his sibling, along with the giant robot that accompanies it. Search for them deep inside the Junk Heap.	Le frère cadet vous a demandé d'éliminer l'Ombre qui a tué son frère et le robot géant qui l'accompagne. Pour les trouver, vous devrez vous aventurer dans les profondeurs de la montagne des robots.	Der jüngere Bruder hat dich gebeten, den Schatten, der seinen Bruder getötet hat, sowie den riesigen Roboter, der ihn begleitet, zu töten. Suche tief im Inneren des Müllbergs nach ihnen.
-12164000	マモノと巨大ロボットを倒し、兄の敵討ちを果たした。	The Shade and the giant robot have been defeated. The brother's revenge is complete.	Vous avez vaincu l'Ombre et le robot géant et vengé la mort du frère aîné.	Der Schatten und der riesige Roboter wurden besiegt. Damit geht der Rachefeldzug des Bruders zu Ende.
-12171000	石の神殿の何処かから魔王の居所への道を探し出そう。	Find a path in the Lost Shine that leads to the Shadowlord's lair.	Explorez le temple oublié afin de découvrir le chemin qui mène au château du Maître des Ombres.	Finde einen Weg im Verschollenen Schrein, der zum Versteck des Schattenlords führt.
-12172000	戦いの中カイネが負傷しマモノに乗っ取られてしまうが、
-意識を取り戻すことができた。	Kainé, wounded in battle, was taken over by a Shade named Tyrann that possesses her body. After a struggle, she managed to regain her consciousness before it was lost forever.	Après que Kainé a reçu de graves blessures, l'Ombre qui la possède a pris le contrôle de son corps. Toutefois, elle est parvenue à revenir à elle avant qu'il ne soit trop tard.	Die im Kampf verwundete Kaine ist von einem Schatten besessen, der ihren Körper kontrolliert. Sie gewann kurzfristig ihr Bewusstsein wieder, bevor sie es für immer verlor.
-12173000	祭壇の奥に扉を見つけるが、暗号によって進めない。
-ポポルに暗号の解除方法を聞いてみよう。	You found a doorway at the altar, but it was locked by a secret code. Ask Popola for a way to crack the code.	Vous avez trouvé une porte derrière l'autel, mais elle est verrouillée. Popola saurait peut-être comment l'ouvrir.	Du hast einen Eingang beim Altar entdeckt, aber er war durch einen Geheimcode versperrt. Frag Popola nach einem Weg, den Code zu knacken.
-12181000	仮面の王から結婚式への招待状が届いた。	You received a wedding invite from the king of Facade.	Le roi de Façade vous a envoyé un faire-part de mariage.	Du hast eine Hochzeitseinladung vom König von Fassade erhalten.
-12182000	結婚式の最中、狼の大群が現れた。
-狼の攻撃から仮面の王をかばい、フィーアは倒れてしまう。
-今は王を一人にしておこう。	A pack of wolves crashed the wedding ceremony, killing Fyra as she tried to protect the king. You should leave him to mourn for now...	Une meute de loups a pris la ville d'assaut après la cérémonie et Fyra est morte en protégeant le roi. Vous devriez sans doute le laisser seul...	Ein Rudel Wölfe hat während der Hochzeitszeremonie angegriffen und Fyra getötet, die versucht hat, den König zu beschützen. Du solltest ihn fürs Erste mit seiner Trauer allein lassen ...
-12183000	仮面の王はフィーアの敵討ちに狼へ戦いを挑むようだ。
-加勢するため急いで仮面の街に向かおう。	The king has chosen to fight the wolves and avenge the death of his beloved. Rush to Facade and give him whatever aid is required.	Le roi a décidé d'attaquer les loups pour venger sa bien-aimée. Dépêchez-vous#! Il aura sûrement besoin de votre aide#! 	Der König ist entschlossen, die Wölfe zu bekämpfen und den Tod seiner Geliebten zu rächen. Eile nach Fassade und gewähre ihm jegliche Hilfe, die er benötigt.
-12184000	巨大な狼を倒し、フィーアの敵討ちを果たした。	You defeated the wolves' pack leader and avenged Fyra.	Vous avez vaincu le chef de la meute et vengé Fyra.	Du hast den Rudelführer der Wölfe besiegt und Fyra gerächt.
-12191000	崖の村の様子が変わったらしい。
-ポポルのお使いついでに様子を見に行こう。	Strange things are happening in The Aerie. Stop by while on Popola's errand and see what's going on.	Les habitants de l'Aire se comportent de façon étrange tout à coup. Allez voir de quoi il retourne.	Seltsame Dinge gehen in Adlerhorst vor sich. Schau mal vorbei, während du Popolas Auftrag erfüllst, und sieh nach, was da los ist.
-12192000	村人の中にマモノに乗っ取られていた人間が混ざっていた。
-混乱の中、カイネがマモノの攻撃を受け倒れてしまう。	Some of The Aerie's villagers have been possessed by Shades. In the midst of the chaos, Kainé was attacked by a Shade.	Certains des habitants de l'Aire ont été possédés par des Ombres. Dans la mêlée, une Ombre a attaqué Kainé.	Einige der Einwohner von Adlerhorst sind von Schatten besessen. Inmitten des Chaos' wurde Kaine von einem Schatten angegriffen.
-12193000	合体して出来た巨大なマモノと戦っている最中、エミールの力が暴走し、
-崖の村は壊滅してしまう。	As you fought the giant mass of Shades, Emil lost control of his power and destroyed The Aerie.	Émile a perdu le contrôle de ses pouvoirs en combattant une multitude d'Ombres géantes et a détruit l'Aire.	Während du die unzähligen Schatten bekämpft hast, hat Emil die Kontrolle über seine Kräfte verloren und Adlerhorst zerstört.
-12201000	全ての鍵が集まった。
-最後の準備を整え、石の神殿に行こう。	You now have all the required keys. Make your final preparations and then head to the Lost Shrine.	Vous avez rassemblé toutes les clefs nécessaires. Effectuez les derniers préparatifs, puis dirigez-vous vers le temple oublié.	Du hast nun alle benötigten Schlüssel. Triff deine letzten Vorbereitungen und mach dich dann auf den Weg zum Verschollenen Schrein.
-12202000	揃えた鍵を使い、祭壇から魔王の城への道が開かれた。	Using the keys, you opened a path from the altar to the Shadowlord's lair.	Vous avez ouvert la porte derrière l'autel menant au château du Maître des Ombres.	Mit Hilfe der Schlüssel hast du einen Weg vom Altar zum Versteck des Schattenlords geöffnet.
-12211000	いよいよ魔王の城にたどり着いた。
-ヨナを……取り戻す。必ず！	You've finally arrived at the Shadowlord's castle. The time has come to get Yonah back!	Vous avez enfin atteint le château du Maître des Ombres. Le moment est venu de porter secours à Yonah#!	Endlich bist du zur Burg des Schattenlords gelangt. Die Zeit, Yonah zurückzuholen, ist gekommen.
-12501000	商店街から羊狩りの依頼を受けた。
-北平原に出て羊の肉を３つ集め、商店街に届けて欲しいと頼まれる。	A merchant in the shopping district has asked you to hunt some sheep. Collect three pieces of mutton in the northern plains and bring them back to the client.	L'apothicaire du village vous a demandé de lui apporter trois gigots de mouton. Allez à la chasse sur la plaine septentrionale.	Ein Kaufmann im Handelsbezirk hat dich gebeten, Schafe zu jagen. Sammle drei Stücke Hammelfleisch in den Nordfeldern und bring sie dem Kunden.
-12502000	依頼主に羊の肉を渡した。
-仕事が完了した事をポポルの所へ報告に行こう。	You gave the mutton to the client. Report back to Popola to complete the job.	Vous avez apporté les gigots de mouton à l'apothicaire. Allez informer Popola que vous avez accompli votre tâche.	Du hast dem Kunden das Hammelfleisch gegeben. Berichte Popola davon, um den Auftrag abzuschließen.
-12503000	ポポルに仕事が終わったことを報告した。	You reported your success to Popola.	Vous avez fait votre rapport à Popola.	Du hast Popola von deinem Erfolg berichtet.
-12511000	ポポルから薬草集めの依頼を受けた。
-北平原を探索して薬草を２個集めて欲しいと頼まれる。	Popola has sent you on an herb-gathering mission. Search the northern plains for two medicinal herbs and bring them back to her.	Popola vous a demandé de cueillir des herbes médicinales. Trouvez-en deux et rapportez-les-lui.	Popola hat dich auf eine Kräutersammel-Mission geschickt. Suche in den Nordfeldern nach zwei medizinischen Kräutern und bring diese zu ihr zurück.
-12511500	薬草を集めた。ポポルに渡しに行こう。	You got the medicinal herbs. Bring them to Popola.	Vous avez trouvé deux herbes médicinales. Apportez-les à Popola.	Du hast die medizinischen Kräuter. Bring sie zurück zu Popola.
-12512000	薬草をポポルに渡した。	You gave the medicinal herbs to Popola.	Vous avez donné les herbes médicinales à Popola.	Du hast Popola die medizinischen Kräuter gegeben.
-12521000	北門の門番から伝言の依頼を受けた。
-武器屋の奥さんの所へ伝えに行って欲しいと頼まれる。	A guard at the northern gate asked you to deliver a message to the blacksmith's wife.	Un des gardes de la porte du nord du village vous a demandé de transmettre un message à la femme de l'armurier.	Eine Wache am Nordtor hat dich gebeten, der Frau des Schmieds eine Nachricht zu überbringen.
-12522000	門番からの伝言を伝えた。	You delivered the message for the gate guard.	Vous avez transmis le message du garde.	Du hast die Nachricht für die Torwache überbracht.
-12531000	ポポルから書類回収の依頼を受けた。
-北、東、南の門番に話しかけ書類を集めて欲しいと頼まれる。	Popola needs you to acquire some documents for her. Visit the guards at the northern, eastern, and southern gates and collect documents from each of them.	Popola vous a demandé d'aller récupérer les rapports des gardes de la porte du nord, de l'est et du sud.	Popola möchte, dass du ein paar Dokumente für sie besorgst. Besuche die Wachen am Nord-, Ost-, und Südtor und sammle die Dokumente von ihnen ein.
-12531500	書類を回収終了したのでポポルの所に届けにいく。	You collected the documents. Bring them back to Popola.	Vous avez récupéré tous les rapports. Apportez-les à Popola.	Du hast die Dokumente eingesammelt. Bring sie zurück zu Popola.
-12532000	全ての書類を回収し、ポポルに渡した。	You collected the documents and gave them to Popola.	Vous avez donné les rapports des gardes à Popola.	Du hast die Dokumente eingesammelt und sie Popola übergeben.
-12541000	-	Popola has a job is for you in the shopping district. Visit the tool shop to find the client.	Popola a trouvé du travail pour vous. Adressez-vous l'apothicaire du marché pour en savoir plus.	Popola hat einen Auftrag im Handelsbezirk für dich. Statte der Apotheke einen Besuch ab, um den Kunden zu finden.
-12542000	道具屋の主人からの依頼。
-村で飼育しているニワトリが卵を隠して産んでいるらしい。
-卵の隠し場所を探し出して欲しいと頼まれる。	The tool shopkeeper says the village chickens are laying eggs in hidden spots of their own choosing. Find an egg and bring it to the client.	Les poules du village ont caché leurs œufs dans des endroits secrets. Trouvez un œuf et apportez-le à l'apothicaire.	Der Apotheker meinte, die Hühner des Dorfes legen ihre Eier an versteckten Orten. Finde ein Ei und bringe es dem Kunden zurück.
-12542500	噴水の近くで卵を見かけたという証言を得た。	One witness remembered seeing eggs near the fountain by the library.	Un témoin a vu des œufs près de la fontaine devant la bibliothèque.	Einer der Dorfbewohner erinnert sich daran, beim Brunnen nahe der Bibliothek Eier gesehen zu haben.
-12543000	卵を見つけたので、道具屋に渡しに行く。	You found an egg. Bring it back to the item shop.	Vous avez trouvé un œuf. Apporte-le à l'apothicaire.	Du hast ein Ei gefunden. Bring es zurück zur Apotheke.
-12543500	依頼主に卵の隠してあった場所を伝えた。	You told the client where the eggs are located.	Vous avez dit à l'apothicaire où se trouvent les œufs.	Du hast dem Kunden erzählt, wo die Eier sind.
-12551000	商店街の噴水近くに居る緑色の服を着たご婦人から依頼を受けた。
-羊の肉を１０個集めて欲しいと頼まれる。	A woman in green near the fountain in the shopping district has asked you to collect ten pieces of mutton.	Une femme près de la fontaine du marché veut que vous lui apportiez dix gigots de mouton.	Eine Frau beim Brunnen im Handelsbezirk hat dich gebeten, zehn Stücke Hammelfleisch zu sammeln.
-12551500	羊の肉を集めた。依頼人に届けよう。	You collected the mutton. Bring it back to the client.	Vous avez trouvé les gigots de mouton. Apportez-les à la villageoise.	Du hast das Hammelfleisch besorgt. Bring es zur Kundin zurück.
-12552000	依頼主に羊の肉を渡した。
-これからも羊の肉を１０個まとめて高く買い取ってもらえるようだ。	You gave the mutton to the client. She will continue to pay handsomely for mutton, but only in sets of ten.	Vous avez donné dix gigots de mouton à la villageoise. Elle sera toujours prête à en acheter d'autres, mais seulement dix à la fois.	Du hast der Kundin das Hammelfleisch gegeben. Sie wird auch weiterhin gut dafür bezahlen, aber nur in Zehnerpacks.
-12561000	商店街の花屋から依頼を受けた。
-海岸の街でチューリップの球根３個を買ってきて欲しいと頼まれる。	The florist in the shopping district has asked you to travel to Seafront and buy three tulip bulbs.	La fleuriste du village veut que vous alliez acheter trois bulbes de tulipe à Littoral.	Die Blumenhändlerin im Handelsbezirk hat dich gebeten, nach Meeresfront zu reisen und drei Tulpenknollen zu kaufen.
-12561500	球根を手に入れた。依頼主に届けよう。	You collected the bulbs. Bring them back to the client.	Vous vous êtes procuré les bulbes de tulipe. Apportez-les à la fleuriste.	Du hast die Knollen besorgt. Bring sie zur Kundin zurück.
-12562000	チューリップの球根を購入し、依頼主に渡した。	You gave the tulip bulbs to the client.	Vous avez remis les bulbes de tulipe à la fleuriste.	Du hast der Kundin die Tulpenknollen gegeben.
-12571000	村の図書館に居る女性に本棚整理を頼まれた。
-２階の東側、左から２番目の本棚に持って行こう。	A woman in the village library needs help organizing some books. Take the book and put it in the second bookshelf from the left on the east side of the second floor.	Une villageoise a besoin d'aide pour mettre de l'ordre dans la bibliothèque. Rangez le livre sur la deuxième étagère à partir de la gauche sur le mur est du premier étage.	Eine Frau in der Bibliothek benötigt Hilfe beim Sortieren einiger Bücher. Nimm das Buch und stelle es ins zweite Bücherregal von links auf der Ostseite des ersten Stockwerks.
-12571500	整理するため、次の本を預かろう。	Go get the next book to be shelved.	Allez récupérer le prochain livre à ranger.	Hole das nächste Buch zum Einsortieren.
-12572000	１階の南側、右から３番目の本棚に持って行こう。	Take the book she gave you and put it in the third bookshelf from the right on the southern side of the first floor.	Rangez le deuxième livre sur la troisième étagère à partir de la droite sur le mur sud du rez-de-chaussée.	Nimm das Buch, das sie dir gegeben hat und stelle es ins dritte Bücherregal von rechts auf der Südseite im Erdgeschoss.
-12572500	本を整理し終えた。
-女性に報告しておこう。	The shelving job is complete. Report back to the woman.	Vous avez rangé tous les livres. Allez le dire à la villageoise.	Du bist fertig mit dem Einsortieren. Erstatte der Frau Bericht.
-12573000	全ての本の整理が終了した。	You shelved all of the books.	Vous avez rangé tous les livres.	Du hast alle Bücher ins Regal gestellt.
-12581000	酒場の奥さんから薬に使う材料集めの依頼を受けた。
-薬草を３個、木の実を３個、ゼンマイを３個を集めて欲しいと頼まれる。	The tavern keeper needs three medicinal herbs, three berries, and three royal ferns in order to make medicine.	La tavernière a besoin de trois herbes médicinales, trois noix et trois osmondes pour préparer un remède.	Die Tavernenbesitzerin benötigt drei medizinische Kräuter, drei Beeren und drei Königsfarne, um Medizin herzustellen.
-12581500	材料は集まった。依頼主に届けよう。	You collected the ingredients. Bring them back to the client.	Vous avez récupéré les ingrédients nécessaires. Apportez-les à la tavernière.	Du hast die Zutaten besorgt. Bringe sie der Kundin zurück.
+12001000	Allez voir Popola à la bibliothèque pour trouver du travail.
+12002000	Vous avez accompli votre tâche. Rentrez à la maison.
+12002500	Yonah n'est pas à la maison. Popola sait peut-être où elle est.
+12003000	Dirigez-vous vers la porte de l'est qui mène au chemin du temple oublié dont Popola a parlé à Yonah.
+12004000	Vous avez trouvé le ruban de Yonah près de la porte de l'est. Elle doit être sortie du village#!
+12011000	Yonah s'est aventurée dans le temple oublié. Retrouvez-la avant qu'il ne lui arrive quelque chose.
+12012000	Yonah doit se trouver quelque part dans le temple oublié...
+12013000	Pendant la bataille, le Grimoire Weiss, un livre doué de parole, est apparu.
+12014000	Vous avez réussi à sauver Yonah, mais des symboles obscurs sont apparus sur son corps.
+12021000	Yonah a la nécrose runique. Si vous n'arrivez pas à la guérir...
+12022000	Vous avez entendu Devola chanter une chanson à propos d'un livre blanc capable de sauver le monde entier. Adressez-vous à Popola pour en savoir davantage.
+12023000	Selon Popola, vous pourrez guérir Yonah en éliminant les Ombres et en obtenant les vers scellés qu'elles détiennent. Vous décidez de partir à la recherche de ces vers scellés.
+12031000	On dit que l'Aire est souvent la proie des Ombres. Allez demander aux villageois s'ils possèdent plus d'informations au sujet des vers scellés.
+12032000	Il semble qu'il n'y a pas de vers scellés dans l'Aire. Retournez au village le dire à Popola. Elle saura peut-être vous guider.
+12033000	Sur le chemin du retour, vous avez trouvé un étrange collier de fleurs dans une maison près de la sortie. Quand vous vous en êtes approché, une jeune femme est apparue et vous a attaqué.
+12034000	La jeune femme s'appelle Kainé. Les habitants de l'Aire disent qu'elle est possédée par une Ombre.
+12041000	Plusieurs Ombres sont apparues au village de l'Aire. Allez vous assurer que Kainé est saine et sauve.
+12042000	L'Ombre géante est revenue. Éliminez-la et récupérez le vers scellé qu'elle détient.
+12043000	Avec votre aide, Kainé a vengé sa grand-mère et vaincu l'Ombre géante. En quête d'une nouvelle raison d'être, la jeune femme accepte de vous accompagner.
+12051000	Yonah a reçu une lettre d'un admirateur mystérieux. Allez au manoir de la plaine méridionale pour savoir de quoi il retourne.
+12052000	Kainé a disparu, mais vous n'avez pas le temps de la chercher. Vous devez d'abord découvrir qui a envoyé la lettre à Yonah.
+12053000	Essayez de découvrir un remède pour Émile dans le manoir.
+12054000	Vous n'avez pas réussi à guérir Émile, mais celui-ci a promis qu'il continuerait à chercher un remède.
+12061000	Vous avez fait la rencontre de deux frères qui habitent près de la montagne des robots. Allez dans la montagne pour leur trouver des matériaux à vendre.
+12062000	Vous avez donné les matériaux que vous aviez trouvés aux deux frères. Cela devrait leur permettre de gagner leur pain pendant quelque temps.
+12071000	Vous devez faire du pain pour les frères de la montagne des robots. Les magasins du village vendent sans doute les ingrédients nécessaires#: de la farine, de la levure, du beurre et du lait.
+12072000	Vous avez donné votre pain aux deux frères. Il n'avait pas le même goût que celui de leur mère, mais ils ont néanmoins semblé satisfaits.
+12081000	Le cadet des frères s'ennuie de sa mère qui n'est toujours pas rentrée. Retournez dans la montagne des robots pour la trouver.
+12082000	Après avoir vaincu un robot géant, vous avez trouvé deux cadavres#: un homme et une femme. Il semblerait que la mère des deux frères avait abandonné ses enfants et s'était enfuie avec son amant.
+12091000	Allez vous procurer un poisson-shaman à Littoral.
+12092000	Demandez aux habitants de la ville comment attraper un poisson-shaman.
+12093000	Une vieille femme veut que vous demandiez au postier de lui apporter son courrier sur-le-champ.
+12093500	Vous avez remis la lettre à la vieille femme.
+12094000	Le postier est blessé et ne peut pas livrer le courrier. Apportez vous-même la lettre à la vieille femme.
+12094500	Le postier vous a demandé de remettre une lettre à la vieille femme du phare parce qu'il est blessé.
+12095000	Vous avez remis la lettre à la vieille femme. Elle n'a pas l'air en forme...
+12095500	La vieille femme du phare cause encore des ennuis au postier de Littoral. Allez voir si vous pouvez lui donner un coup de main.
+12096000	Le postier vous a demandé de persuader la vieille femme du phare de ne pas quitter son poste. Vous ne débordez pas d'enthousiasme...
+12096500	La vieille femme du phare est mourante. Essayez de convaincre le postier qu'il devrait la laisser quitter la ville.
+12097000	Retournez au bureau de poste et essayez de faire entendre raison au postier encore une fois.
+12097500	Le postier écrivait les lettres que recevait la vieille femme du phare. Devriez-vous lui dire la vérité ou lui donner la nouvelle lettre que le postier vous a remise#?
+12098000	Apprendre la vérité aurait causé beaucoup de chagrin à la vieille femme du phare. Avez-vous fait le bon choix...?
+12098500	Apprendre la vérité aurait causé beaucoup de chagrin à la vieille femme du phare. Avez-vous fait le bon choix...?
+12099000	Le postier de Littoral a quelque chose à vous dire.
+12099100	La vieille femme du phare est décédée. Était-elle heureuse...?
+12101000	La ville de Façade s'est isolée du reste du monde. Trouvez un moyen d'y pénétrer.
+12102000	Il semblerait que Kainé puisse entrer librement dans Façade, mais elle refuse de vous dire pourquoi.
+12103000	Une jeune fille appelée Fyra a offert de vous guider à travers la ville.
+12104000	Grâce à Fyra, vous êtes parvenu à commander un filtre.
+12105000	Allez porter le filtre à Popola.
+12111000	Le filtre est prêt. Allez à Façade le chercher.
+12112000	Vous devez désormais venir en aide au prince de Façade. Fyra vous guidera jusqu'au temple stérile.
+12113000	Vous avez porté secours au prince de Façade.
+12114000	Le prince est devenu roi. Grâce à la nouvelle loi zéro, la ville devrait de nouveau prospérer.
+12121000	Yonah a besoin de médicaments. Essayez de trouver de la mousse vaporeuse au-delà de la porte du sud.
+12122000	Des Ombres ont envahi votre village#! Vous devez les repousser et protéger Yonah#!
+12123000	Tout est perdu. Le Grimoire Noir a triomphé et Yonah s'est fait enlever. Qui pis est, Émile a été obligé de transformer Kainé en pierre afin de sceller une Ombre monstrueuse sous la bibliothèque. Accablé de douleur, vous avez juré de les sauver, quel qu'en soit le prix.
+12131000	Cinq ans après l'enlèvement de Yonah, le monde a beaucoup changé.
+12132000	Popola a une lettre pour vous. Allez la récupérer.
+12133000	C'est une lettre d'Émile. Celui-ci veut discuter de Kainé avec vous. Allez lui rendre visite.
+12141000	Allez rendre visite à Émile pour discuter de Kainé.
+12142000	Émile a découvert la «#Salle des projets#», un endroit où il pourrait découvrir comment maîtriser ses pouvoirs. Essayez d'en trouver l'entrée dans la cour.
+12143000	Au fond de la salle des projets, vous avez vaincu une arme appelée Numéro 6. Ce faisant, Émile a été transformé en monstre, mais il a aussi réussi à maîtriser ses pouvoirs.
+12151000	Il y a cinq ans, Kainé a demandé qu'on la transforme en pierre afin de sceller une Ombre. Vous pouvez désormais la libérer.
+12152000	Émile a libéré Kainé et vous avez vaincu l'Ombre. Vous êtes tous ravis de voir que Kainé a survécu malgré tout.
+12153000	Selon Popola, il est possible d'atteindre le château du Maître des Ombres en passant par le temple oublié. Le pont s'est effondré, mais il est possible d'atteindre un autre chemin qui y mène par bateau. Trouvez ce chemin et allez porter secours à Yonah.
+12161000	Vous avez reçu une lettre annonçant la réouverture de l'armurerie des frères.
+12162000	Le frère aîné est mort il y a quatre ans et le cadet s'occupe désormais seul de l'armurerie. Récupérez les matériaux dont il a besoin pour forger une nouvelle arme.
+12163000	Le frère cadet vous a demandé d'éliminer l'Ombre qui a tué son frère et le robot géant qui l'accompagne. Pour les trouver, vous devrez vous aventurer dans les profondeurs de la montagne des robots.
+12164000	Vous avez vaincu l'Ombre et le robot géant et vengé la mort du frère aîné.
+12171000	Explorez le temple oublié afin de découvrir le chemin qui mène au château du Maître des Ombres.
+12172000	Après que Kainé a reçu de graves blessures, l'Ombre qui la possède a pris le contrôle de son corps. Toutefois, elle est parvenue à revenir à elle avant qu'il ne soit trop tard.
+12173000	Vous avez trouvé une porte derrière l'autel, mais elle est verrouillée. Popola saurait peut-être comment l'ouvrir.
+12181000	Le roi de Façade vous a envoyé un faire-part de mariage.
+12182000	Une meute de loups a pris la ville d'assaut après la cérémonie et Fyra est morte en protégeant le roi. Vous devriez sans doute le laisser seul...
+12183000	Le roi a décidé d'attaquer les loups pour venger sa bien-aimée. Dépêchez-vous#! Il aura sûrement besoin de votre aide#!
+12184000	Vous avez vaincu le chef de la meute et vengé Fyra.
+12191000	Les habitants de l'Aire se comportent de façon étrange tout à coup. Allez voir de quoi il retourne.
+12192000	Certains des habitants de l'Aire ont été possédés par des Ombres. Dans la mêlée, une Ombre a attaqué Kainé.
+12193000	Émile a perdu le contrôle de ses pouvoirs en combattant une multitude d'Ombres géantes et a détruit l'Aire.
+12201000	Vous avez rassemblé toutes les clefs nécessaires. Effectuez les derniers préparatifs, puis dirigez-vous vers le temple oublié.
+12202000	Vous avez ouvert la porte derrière l'autel menant au château du Maître des Ombres.
+12211000	Vous avez enfin atteint le château du Maître des Ombres. Le moment est venu de porter secours à Yonah#!
+12501000	L'apothicaire du village vous a demandé de lui apporter trois gigots de mouton. Allez à la chasse sur la plaine septentrionale.
+12502000	Vous avez apporté les gigots de mouton à l'apothicaire. Allez informer Popola que vous avez accompli votre tâche.
+12503000	Vous avez fait votre rapport à Popola.
+12511000	Popola vous a demandé de cueillir des herbes médicinales. Trouvez-en deux et rapportez-les-lui.
+12511500	Vous avez trouvé deux herbes médicinales. Apportez-les à Popola.
+12512000	Vous avez donné les herbes médicinales à Popola.
+12521000	Un des gardes de la porte du nord du village vous a demandé de transmettre un message à la femme de l'armurier.
+12522000	Vous avez transmis le message du garde.
+12531000	Popola vous a demandé d'aller récupérer les rapports des gardes de la porte du nord, de l'est et du sud.
+12531500	Vous avez récupéré tous les rapports. Apportez-les à Popola.
+12532000	Vous avez donné les rapports des gardes à Popola.
+12541000	Popola a trouvé du travail pour vous. Adressez-vous l'apothicaire du marché pour en savoir plus.
+12542000	Les poules du village ont caché leurs œufs dans des endroits secrets. Trouvez un œuf et apportez-le à l'apothicaire.
+12542500	Un témoin a vu des œufs près de la fontaine devant la bibliothèque.
+12543000	Vous avez trouvé un œuf. Apporte-le à l'apothicaire.
+12543500	Une femme près de la fontaine du marché veut que vous lui apportiez dix gigots de mouton.
+12551500	Vous avez trouvé les gigots de mouton. Apportez-les à la villageoise.
+12552000	Vous avez donné dix gigots de mouton à la villageoise. Elle sera toujours prête à en acheter d'autres, mais seulement dix à la fois.
+12561000	La fleuriste du village veut que vous alliez acheter trois bulbes de tulipe à Littoral.
+12561500	Vous vous êtes procuré les bulbes de tulipe. Apportez-les à la fleuriste.
+12562000	Vous avez remis les bulbes de tulipe à la fleuriste.
+12571000	Une villageoise a besoin d'aide pour mettre de l'ordre dans la bibliothèque. Rangez le livre sur la deuxième étagère à partir de la gauche sur le mur est du premier étage.
+12571500	Allez récupérer le prochain livre à ranger.
+12572000	Rangez le deuxième livre sur la troisième étagère à partir de la droite sur le mur sud du rez-de-chaussée.
+12572500	Vous avez rangé tous les livres. Allez le dire à la villageoise.
+12573000	Vous avez rangé tous les livres.
+12581000	La tavernière a besoin de trois herbes médicinales, trois noix et trois osmondes pour préparer un remède.
+12581500	Vous avez récupéré les ingrédients nécessaires. Apportez-les à la tavernière.
 12582000	材料を集め、依頼主に渡した。
 出来上がった薬を噴水の所にいる老婆へ届けて欲しいと頼まれる。	You collected the ingredients and gave them to the client, who turned them into a medicine. Deliver the medicine to the old woman near the fountain by the library.	La tavernière a élaboré un digestif à partir des ingrédients que vous avez trouvés. Apportez-le à la vieille femme qui se trouve près de la fontaine devant la bibliothèque.	Du hast die Zutaten gesammelt und sie der Kundin übergeben, die daraus Medizin hergestellt hat. Bring die Medizin zu der alten Frau beim Brunnen nahe der Bibliothek.
 12583000	老婆に薬を渡した。
