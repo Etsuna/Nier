@@ -5,93 +5,93 @@
 5	Yonah
 6	Yonah
 7	Yonah
-8	Villager
-9	Guard
-10	Item Shopkeeper
-11	Material Shopkeeper
-12	Florist
-13	Grocer
-14	Blacksmith
-15	Tackle Shopkeeper
-16	Tavern Keeper
-17	Villager
-18	Villager
-19	Resident
-20	Fishmonger
-21	Fortune-teller
-22	Villager
+8	Villageois
+9	Garde
+10	Apothicaire
+11	Marchand de matériaux
+12	Fleuriste
+13	Épicier
+14	Armurier
+15	Marchand d'appâts
+16	Tavernier
+17	Villageois
+18	Villageois
+19	Habitant de Littoral
+20	Poissonnier
+21	Diseuse de bonne aventure
+22	Villageois
 23	Devola
 24	Popola
 25	? ? ?
 26	Grimoire Weiss
-27	Village Chief
+27	Chef du village
 28	Kainé
-29	Shade
-30	Shade
-31	Shade
-32	Shade
-33	Shade
-34	Butler
-35	Emil
-36	Gideon
-37	Boy
+29	Ombre
+30	Ombre
+31	Ombre
+32	Ombre
+33	Ombre
+34	Majordome
+35	Émile
+36	Gidéon
+37	Garçon
 38	Jakob
-39	Defense System
-40	Lighthouse Lady
-41	Postman
-42	Fyra
-43	Advisor
-44	Prince of Facade 
-45	King of Facade 
-46	Masked Person
-47	Masked Soldier
-48	Strange-Thing Shopkeeper
-49	Grocer
-50	Material Shopkeeper
-51	Blacksmith
-52	Item Shopkeeper
-53	Man
-54	Woman
-55	Young Shade
-56	Mother Shade
-57	P-33
-58	Tyrann
-59	Gretel
-60	Pack Leader
-61	Wolf
-62	Wolf Cub
-63	Wolf Cub
-64	Old Man
-65	Sister
-66	Bird
-67	Shadowlord
-68	Devola/Popola
-69	Bandit
-70	Choice
-71	Child
-72	Masked Child
-73	Apprentice Postman
-74	Villager
-108	Villager
-110	Item Shopkeeper
-111	Material Shopkeeper
-112	Florist
-113	Grocer
-114	Blacksmith
-115	Tackle Shopkeeper
-116	Tavern Keeper
-118	Villager
-119	Resident
-120	Fishmonger
-127	Mayor
-129	Shade
-132	Shade
-146	Masked Person
-147	Masked Soldier
-149	Grocer
-150	Material Shopkeeper
-151	Blacksmith
-152	Item Shopkeeper
-171	Child
-172	Masked Child
--1	
+39	Système de défense
+40	Gardienne du phare
+41	Postier
+42	Fyra 
+43	Conseiller
+44	Prince de Façade
+45	Roi de Façade
+46	Habitant de Façade
+47	Guerrier du masque
+48	Marchand de curiosités
+49	Épicier de Façade
+50	Marchand de matériaux
+51	Armurier
+52	Apothicaire
+53	Villageois
+54	Villageoise
+55	Jeune Ombre
+56	Ombre
+57	P-33 
+58	Tyrann 
+59	Gretel 
+60	Chef de la meute
+61	Loup
+62	Louveteau
+63	Chiot
+64	Vieil homme
+65	Jeune fille
+66	Oiseau
+67	Maître des Ombres
+68	Devola et Popola
+69	Pillard
+70	Choix
+71	Garçon
+72	Garçon de Façade
+73	Apprenti postier
+74	???
+108	Villageoise
+110	Apothicaire
+111	Marchande de matériaux
+112	Fleuriste
+113	Épicière
+114	Armurière
+115	Marchande d'appâts
+116	Tavernière
+118	Villageoise
+119	Habitante de Littoral
+120	Poissonnière
+127	Maire
+129	Ombre
+132	Ombre
+146	Habitante de Façade
+147	Guerrière du masque
+149	Épicière
+150	Marchande de matériaux
+151	Armurière
+152	Apothicaire
+171	Fillette
+172	Fillette de Façade
+-1				
