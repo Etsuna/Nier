@@ -618,372 +618,244 @@ Un des habitants s'inquiète pour son fils.
 2200000	Une herbe qui rend 30%% des PV.
 2200100	Un onguent qui rend 60%% des PV.
 2200200	Une potion qui rend tous les PV.
-2200300	HP+200
-上限は超えない範囲で回復する。	Restores up to 200 HP to the user.	Un onguent qui rend 200 PV.	Stellt bis zu 200 LP wieder her.
-2200400	HP+10％
-上限は超えない範囲で回復する。	Restores 10%% of the user's HP.	Une potion qui rend 10%% des PV.	Stellt 10 %% der LP wieder her.
-2200500	HP+30％
-上限は超えない範囲で回復する。	Restores 30%% of the user's HP.	Une potion qui rend 30%% des PV.	Stellt 30 %% der LP wieder her.
-2200600	HP+50％
-上限は超えない範囲で回復する。	Restores 50%% of the user's HP.	Une potion qui rend 50%% des PV.	Stellt 50 %% der LP wieder her.
-2200700	HP+100％
-上限は超えない範囲で回復する。	Restores 100%% of the user's HP.	Une potion qui rend tous les PV.	Stellt 100 %% der LP wieder her.
-2201100	３秒毎にHP+2。効果時間120秒。
-上限は超えない範囲で回復する。	Restores 2 HP every three seconds for two minutes.	Une capsule qui rend 2 PV toutes les trois secondes pendant
-deux minutes.	Stellt zwei Minuten lang alle drei Sekunden 2 LP wieder her.
-2201200	３秒毎にHP+5。効果時間120秒。
-上限は超えない範囲で回復する。	Restores 5 HP every three seconds for two minutes.	Une capsule qui rend 5 PV toutes les trois secondes pendant
-deux minutes.	Stellt zwei Minuten lang alle drei Sekunden 5 LP wieder her.
-2201300	３秒毎にHP+10。効果時間120秒。
-上限は超えない範囲で回復する。	Restores 10 HP every three seconds for two minutes.	Une capsule qui rend 10 PV toutes les trois secondes pendant
-deux minutes.	Stellt zwei Minuten lang alle drei Sekunden 10 LP wieder her.
-2201600	死んだ時に自動で使われ、HPが100％の状態で復活する。	Revives a character with full HP. Auto-used upon death.	Un baume qui ranime et rend tous les PV.
-Utilisé automatiquement si quelqu'un tombe dans le coma.	Belebt einen Charakter mit vollen LP wieder. Wird bei Tod automatisch benutzt.
-2202100	武器によるダメージが30秒間倍になる。
-効果アップ系は常に上書きされ、
-最後にかけた状態のみが適用される。	Doubles physical damage for
-30 seconds.	Une dragée qui double les dégâts physiques
-pendant trente secondes.	Verdoppelt physischen Schaden für
-30 Sekunden.
-2202200	武器によるダメージが60秒間倍になる。
-効果アップ系は常に上書きされ、
-最後にかけた状態のみが適用される。	Doubles physical damage for
-60 seconds.	Une capsule qui double les dégâts physiques
-pendant soixante secondes.	Verdoppelt physischen Schaden für
-60 Sekunden.
-2202300	魔法によるダメージが30秒間倍になる。
-効果アップ系は常に上書きされ、
-最後にかけた状態のみが適用される。	Doubles magic damage for 30 seconds.	Une dragée qui double les dégâts magiques
-pendant trente secondes.	Verdoppelt Magieschaden für 30
-Sekunden.
-2202400	魔法によるダメージが60秒間倍になる。
-効果アップ系は常に上書きされ、
-最後にかけた状態のみが適用される。	Doubles magic damage for 60 seconds.	Une capsule qui double les dégâts magiques
-pendant soixante secondes.	Verdoppelt Magieschaden für 60
-Sekunden.
-2202500	物理ダメージを30秒間の間、50％カットする。
-効果アップ系は常に上書きされ、
-最後にかけた状態のみが適用される。	Halves damage from physical attacks
-for 30 seconds.	Une dragée qui réduit les dégâts physiques
-de moitié pendant trente secondes.	Halbiert den durch physische Angriffe
-erlittenen Schaden für 30 Sekunden.
-2202600	物理ダメージを60秒間の間、50％カットする。
-効果アップ系は常に上書きされ、
-最後にかけた状態のみが適用される。	Halves damage from physical attacks
-for 60 seconds.	Une capsule qui réduit les dégâts physiques
-de moitié pendant soixante secondes.	Halbiert den durch physische Angriffe
-erlittenen Schaden für 60 Sekunden.
-2202700	魔法ダメージを30秒間の間、50％カットする。
-効果アップ系は常に上書きされ、
-最後にかけた状態のみが適用される。	Halves damage from magical attacks
-for 30 seconds.	Une dragée qui réduit les dégâts magiques
-de moitié pendant trente secondes.	Halbiert den durch Magieangriffe
-erlittenen Schaden für 30 Sekunden.
-2202800	魔法ダメージを60秒間の間、50％カットする。
-効果アップ系は常に上書きされ、
-最後にかけた状態のみが適用される。	Halves damage from magical attacks
-for 60 seconds.	Une capsule qui réduit les dégâts magiques
-de moitié pendant soixante secondes.	Halbiert den durch Magieangriffe
-erlittenen Schaden für 60 Sekunden.
-2203100	毒の状態を回復する。	Cures poison.	Un antidote qui guérit le poison.	Heilt Vergiftung.
-2203200	魔法が使えない状態を回復する。	Allows you to cast magic again.	Une herbe qui permet d'utiliser la magie de nouveau.	Erlaubt eine erneute Magieanwendung.
-2203300	すごい臭いで気絶している仲間キャラを
-すぐに復活させる。	A powerful-smelling agent that revives
-unconscious allies.	Des sels à l'odeur pénétrante qui
-raniment un allié dans le coma.	Ein streng riechender Wirkstoff, der
-bewusstlose Verbündete wiederbelebt.
-2204100	成長促進作用のある肥料。
-いつもより早く収穫できるようになります。	Increases growth speed, allowing you to harvest earlier.	Un engrais qui augmente la vitesse de croissance,
-permettant d'obtenir une récolte plus rapidement.	Erhöht die Wachstumsgeschwindigkeit und
-erlaubt somit eine frühere Ernte.
-2204200	保水力たっぷりな肥料。
-花や実の状態をいつもより長く保つ効果があります。	Increases the length of the flowering and harvesting periods.	Un engrais qui augmente la durée de floraison et des récoltes.	Erhöht die Länge der Blüte- und Erntezeiten.
-2204300	栄養豊富な肥料。
-いつもより収穫量を増やすことができます。	Increases the output of a harvest.	Un engrais qui augmente le rendement de la récolte.	Erhöht den Ernteertrag.
-2204600	かぼちゃの種。畑で育てる事ができる。	A pumpkin seed that you can plant in the field.	Une graine de potiron qui peut être plantée dans le jardin.	Ein Kürbissamen, den du im Feld pflanzen kannst.
-2204700	スイカの種。畑で育てる事ができる。	A watermelon seed that you can plant in the field.	Une graine de pastèque qui peut être plantée dans le jardin.	Ein Wassermelonensamen, den du im Feld pflanzen kannst.
-2204800	メロンの種。畑で育てる事ができる。	A melon seed that you can plant in the field.	Une graine de melon qui peut être plantée dans le jardin.	Ein Melonensamen, den du im Feld pflanzen kannst.
-2204900	ひょうたんの種。畑で育てる事ができる。	A gourd seed that you can plant in the field.	Une graine de calebasse qui peut être plantée dans le jardin.	Ein Flaschenkürbissamen, den du im Feld pflanzen kannst.
-2205000	トマトの種。畑で育てる事ができる。	A tomato seed that you can plant in the field.	Une graine de tomate qui peut être plantée dans le jardin.	Ein Tomatensamen, den du im Feld pflanzen kannst.
-2205100	ナスの種。畑で育てる事ができる。	An eggplant seed that you can plant in the field.	Une graine d'aubergine qui peut être plantée dans le jardin.	Ein Auberginensamen, den du im Feld pflanzen kannst.
-2205200	ピーマンの種。畑で育てる事ができる。	A bell pepper seed that you can plant in the field.	Une graine de poivron qui peut être plantée dans le jardin.	Ein Paprikasamen, den du im Feld pflanzen kannst.
-2205300	豆の種。畑で育てる事ができる。	A bean seed that you can plant in the field.	Une graine de haricot qui peut être plantée dans le jardin.	Ein Bohnensamen, den du im Feld pflanzen kannst.
-2205400	小麦の苗。畑で育てる事ができる。	A wheat seedling that you can plant in the field.	Un germe de blé qui peut être planté dans le jardin.	Ein Weizensetzling, den du im Feld pflanzen kannst.
-2205500	イネの苗。畑で育てる事ができる。	A rice plant seedling that you can plant in the field.	Un germe de riz qui peut être planté dans le jardin.	Ein Reispflanzensetzling, den du im Feld pflanzen kannst.
-2205600	ダリアの球根。畑で育てる事ができる。	A dahlia bulb that you can plant in the field.	Un bulbe de dahlia qui peut être planté dans le jardin.	Eine Dahlienknolle, die du im Feld pflanzen kannst.
-2205700	チューリップの球根。畑で育てる事ができる。	A tulip bulb that you can plant in the field.	Un bulbe de tulipe qui peut être planté dans le jardin.	Eine Tulpenknolle, die du im Feld pflanzen kannst.
-2205800	フリージアの球根。畑で育てる事ができる。	A freesia bulb that you can plant in the field.	Un bulbe de freesia qui peut être planté dans le jardin.	Eine Freesienknolle, die du im Feld pflanzen kannst.
-2205900	月光草の種。畑で育てる事ができる。	A moonflower seed that you can plant in the field.	Une graine de lunaflore qui peut être plantée dans le jardin.	Ein Mondblumensamen, den du im Feld pflanzen kannst.
-2206000	月光草の種。畑で育てる事ができる。	A moonflower seed that you can plant in the field.	Une graine de lunaflore qui peut être plantée dans le jardin.	Ein Mondblumensamen, den du im Feld pflanzen kannst.
-2206100	月光草の種。畑で育てる事ができる。	A moonflower seed that you can plant in the field.	Une graine de lunaflore qui peut être plantée dans le jardin.	Ein Mondblumensamen, den du im Feld pflanzen kannst.
-2206200	月光草の種。畑で育てる事ができる。	A moonflower seed that you can plant in the field.	Une graine de lunaflore qui peut être plantée dans le jardin.	Ein Mondblumensamen, den du im Feld pflanzen kannst.
-2206300	月光草の種。畑で育てる事ができる。	A moonflower seed that you can plant in the field.	Une graine de lunaflore qui peut être plantée dans le jardin.	Ein Mondblumensamen, den du im Feld pflanzen kannst.
-2206400	月光草の種。畑で育てる事ができる。	A moonflower seed that you can plant in the field.	Une graine de lunaflore qui peut être plantée dans le jardin.	Ein Mondblumensamen, den du im Feld pflanzen kannst.
-2206500	月光草の種。畑で育てる事ができる。	A moonflower seed that you can plant in the field.	Une graine de lunaflore qui peut être plantée dans le jardin.	Ein Mondblumensamen, den du im Feld pflanzen kannst.
-2207100	かぼちゃの実。煮ると甘くホクホクして美味しい。	An orange-colored fruit often used as a decoration during
-the winter months.	Un fruit orange qui est l'emblème d'une fête traditionnelle
-automnale.	Eine orangene Frucht, die in Wintermonaten häufig
-als Dekoration verwendet wird.
-2207200	スイカの実。水分たっぷりで甘みの多い果実。	Children often hold spitting contests with the seeds of this fruit.	Un gros fruit lisse à chair juteuse et rafraîchissante.	Kinder veranstalten gerne Spuckwettbewerbe mit den
-Samen dieser Frucht.
-2207300	メロンの実。芳しい香りの果実。	A sweet-smelling fruit that's quite popular among older women.	Un fruit sucré et parfumé qui est populaire auprès des femmes
-d'âge mûr.	Eine süßlich riechende Frucht, die besonders bei
-älteren Damen beliebt ist.
-2207400	ひょうたんの実。食べるだけでなく容器としても用いられる。	Many people use these empty shells as water containers.	Un fruit qui, vidé et séché, sert souvent de récipient.	Viele Leute benutzen die leeren Schalen als
-Wasserbehälter.
-2207500	トマトの実。よく熟れた真っ赤で瑞々しい野菜。	A vegetable suitable for both eating and throwing at stage
-performers.	Un fruit surnommé «#pomme d'amour#» qui se consomme
-cru ou cuit.	Gemüse, das sich sowohl zum Verzehr als auch zum
-Bewerfen schlechter Komiker eignet.
-2207600	ナスの実。つやつやとしてキュートな形の野菜。	A smooth, dark-colored fruit beloved by vegetarians.	Un légume violet de forme allongée à chair spongieuse.	Eine weiche, dunkle Frucht, die bei Vegetariern
-beliebt ist.
-2207700	ピーマンの実。栄養たっぷりな野菜。苦味があり、苦手な子供が多い。	A vegetable with a bitter taste. Most children run from these
-in terror.	Un légume amer et peu digeste s'il est consommé cru.	Gemüse mit einem bitteren Geschmack.
-Die meisten Kinder flüchten davor.
-2207800	豆の実。幅広く食材として用いられる。	Ancient lore claims this fruit is musical.	Un légume nourissant qui accompagne plusieurs plats.
-Quand il n'y en aura plus, ce sera la fin du monde.	Antike Überlieferungen behaupten, diese Frucht
-sei musikalisch.
-2207900	小麦。パンの材料となる。ご飯に混ぜて食べても美味しい。	Used to make bread, but also eaten plain during tough times.	Un aliment de base qui, moulu, sert à fabriquer du pain
-et des pâtes.	Zum Brot backen verwendet, in harten Zeiten aber
-auch schon mal einfach so verzehrt.
-2208000	米。炊いて食べるだけでなく、お酒の材料にもなる。	Some folks cook and eat this, while others use it to brew
-their own wine.	Un aliment de base qui peut aussi être fermenté pour
-produire une boisson alcoolisée.	Manche Leute kochen und essen ihn, während andere
-daraus ihren eigenen Wein herstellen.
-2208100	ダリアの花。観賞用として幅広く親しまれている。	A beautiful flower with a long, rich history.	Une fleur ornementale cultivée depuis des siècles.	Eine wunderschöne Blume mit einer langen,
-reichhaltigen Geschichte.
-2208200	チューリップの花。寒さにも強く、様々な地方で愛されている。	A flower that withstands the cold. Once used as a unit
-of currency.	Une fleur qui résiste au gel.
-Elle aurait autrefois servi de monnaie.	Eine Blume, die der Kälte widersteht.
-Einst als Währungseinheit verwendet.
-2208300	フリージアの花。良い香りがし、切り花に多く用いられる。	Flowers that are popular among ladies. Don't go on a date
-without one!	Une fleur au parfum capiteux adorée des jeunes filles.
-Offrez-en un bouquet à votre petite amie, elle en sera ravie !	Blumen, die besonderes bei den Damen Anklang finden.
-Bei jeder Verabredung zu empfehlen!
-2208400	赤色の月光草の花。使用するとHPが30％回復する。	A red moonflower. Use it to restore
-30%% of your HP.	Une lunaflore rouge qui rend 30%% des PV.	Eine rote Mondblume.
-Stellt 30 %% der LP wieder her.
-2208500	黄色の月光草の花。使用するとHPが30％回復する。	A golden moonflower. Use it to restore
-30%% of your HP.	Une lunaflore jaune qui rend 30%% des PV.	Eine goldene Mondblume.
-Stellt 30 %% der LP wieder her.
-2208600	橙色の月光草の花。使用するとHPが60％回復する。	A peach-colored moonflower. Use it to
-restore 60%% of your HP.	Une lunaflore orange qui rend 60%% des PV.	Eine orangene Mondblume.
-Stellt 60 %% der LP wieder her.
-2208700	桃色の月光草の花。使用するとHPが60％回復する。	A pink moonflower. Use it to restore
-60%% of your HP.	Une lunaflore rose qui rend 60%% des PV.	Eine rosa Mondblume.
-Stellt 60 %% der LP wieder her.
-2208800	青色の月光草の花。使用するとHPが30％回復する。	A blue moonflower. Use it to restore
-30%% of your HP.	Une lunaflore bleue qui rend 30%% des PV.	Eine blaue Mondblume.
-Stellt 30 %% der LP wieder her.
-2208900	水色の月光草の花。使用するとHPが60％回復する。	An indigo moonflower. Use it to restore
-60%% of your HP.	Une lunaflore turquoise qui rend 60%%
-des PV.	Eine türkise Mondblume.
-Stellt 60 %% der LP wieder her.
-2209000	白色の月光草の花。月光草が白色の花を咲かせる事は
-珍しく、別名で「月の涙」と言われる事もある。
-使用するとHPが全回復する。	An extremely rare white moonflower.
-Also known as a Lunar Tear.
-Use it to restore all of your HP.	Une lunaflore blanche extrêmement rare,
+2200300	Un onguent qui rend 200 PV.
+2200400	Une potion qui rend 10%% des PV.
+2200500	Une potion qui rend 30%% des PV.
+2200600	Une potion qui rend 50%% des PV.
+2200700	Une potion qui rend tous les PV.
+2201100	Une capsule qui rend 2 PV toutes les trois secondes pendant
+deux minutes.
+2201200	Une capsule qui rend 5 PV toutes les trois secondes pendant
+deux minutes.
+2201300	Une capsule qui rend 10 PV toutes les trois secondes pendant
+deux minutes.
+2201600	Un baume qui ranime et rend tous les PV.
+Utilisé automatiquement si quelqu'un tombe dans le coma.
+2202100	Une dragée qui double les dégâts physiques
+pendant trente secondes.
+2202200	Une capsule qui double les dégâts physiques
+pendant soixante secondes.
+2202300	Une dragée qui double les dégâts magiques
+pendant trente secondes.
+2202400	Une capsule qui double les dégâts magiques
+pendant soixante secondes.
+2202500	Une dragée qui réduit les dégâts physiques
+de moitié pendant trente secondes.
+2202600	Une capsule qui réduit les dégâts physiques
+de moitié pendant soixante secondes.
+2202700	Une dragée qui réduit les dégâts magiques
+de moitié pendant trente secondes.
+2202800	Une capsule qui réduit les dégâts magiques
+de moitié pendant soixante secondes.
+2203100	Un antidote qui guérit le poison.
+2203200	Une herbe qui permet d'utiliser la magie de nouveau.
+2203300	Des sels à l'odeur pénétrante qui
+raniment un allié dans le coma.
+2204100	Un engrais qui augmente la vitesse de croissance,
+permettant d'obtenir une récolte plus rapidement.
+2204200	Un engrais qui augmente la durée de floraison et des récoltes.
+2204300	Un engrais qui augmente le rendement de la récolte.
+2204600	Une graine de potiron qui peut être plantée dans le jardin.
+2204700	Une graine de pastèque qui peut être plantée dans le jardin.
+2204800	Une graine de melon qui peut être plantée dans le jardin.
+2204900	Une graine de calebasse qui peut être plantée dans le jardin.
+2205000	Une graine de tomate qui peut être plantée dans le jardin.
+2205100	Une graine d'aubergine qui peut être plantée dans le jardin.
+2205200	Une graine de poivron qui peut être plantée dans le jardin.
+2205300	Une graine de haricot qui peut être plantée dans le jardin.
+2205400	Un germe de blé qui peut être planté dans le jardin.
+2205500	Un germe de riz qui peut être planté dans le jardin.
+2205600	Un bulbe de dahlia qui peut être planté dans le jardin.
+2205700	Un bulbe de tulipe qui peut être planté dans le jardin.
+2205800	Un bulbe de freesia qui peut être planté dans le jardin.
+2205900	Une graine de lunaflore qui peut être plantée dans le jardin.
+2206000	Une graine de lunaflore qui peut être plantée dans le jardin.
+2206100	Une graine de lunaflore qui peut être plantée dans le jardin.
+2206200	Une graine de lunaflore qui peut être plantée dans le jardin.
+2206300	Une graine de lunaflore qui peut être plantée dans le jardin.
+2206400	Une graine de lunaflore qui peut être plantée dans le jardin.
+2206500	Une graine de lunaflore qui peut être plantée dans le jardin.
+2207100	Un fruit orange qui est l'emblème d'une fête traditionnelle
+automnale.
+2207200	Un gros fruit lisse à chair juteuse et rafraîchissante.
+2207300	Un fruit sucré et parfumé qui est populaire auprès des femmes
+d'âge mûr.
+2207400	Un fruit qui, vidé et séché, sert souvent de récipient.
+2207500	Un fruit surnommé «#pomme d'amour#» qui se consomme
+cru ou cuit.
+2207600	Un légume violet de forme allongée à chair spongieuse.
+2207700	Un légume amer et peu digeste s'il est consommé cru.
+2207800	Un légume nourissant qui accompagne plusieurs plats.
+Quand il n'y en aura plus, ce sera la fin du monde.
+2207900	Un aliment de base qui, moulu, sert à fabriquer du pain
+et des pâtes.
+2208000	Un aliment de base qui peut aussi être fermenté pour
+produire une boisson alcoolisée.
+2208100	Une fleur ornementale cultivée depuis des siècles.
+2208200	Une fleur qui résiste au gel.
+Elle aurait autrefois servi de monnaie.
+2208300	Une fleur au parfum capiteux adorée des jeunes filles.
+Offrez-en un bouquet à votre petite amie, elle en sera ravie !
+2208400	Une lunaflore rouge qui rend 30%% des PV.
+2208500	Une lunaflore jaune qui rend 30%% des PV.
+2208600	Une lunaflore orange qui rend 60%% des PV.
+2208700	Une lunaflore rose qui rend 60%% des PV.
+2208800	Une lunaflore bleue qui rend 30%% des PV.
+2208900	Une lunaflore turquoise qui rend 60%%
+des PV.
+2209000	Une lunaflore blanche extrêmement rare,
 mieux connue sous le nom de larme lunaire,
-qui rend tous les PV.	Eine extrem seltene weiße Mondblume.
-Auch als Mondträne bekannt.
-Stellt alle LP wieder her.
-2210100	釣りのエサ。魚釣りのできる場所で使用すると、釣りが開始される。
-海水の魚の好物。	Bait loved by saltwater fish. Use it at the right spot to fish.	L'appât préféré des poissons de mer. 
-Utilisé au bon endroit, il permet d'attraper des poissons.	Ein Köder, den Salzwasserfische lieben.
-Benutze ihn an der richtigen Stelle zum Angeln.
-2210200	釣りのエサ。魚釣りのできる場所で使用すると、釣りが開始される。
-淡水の魚の好物。	Bait loved by freshwater fish. Use it at the right spot to fish.	L'appât préféré des poissons d'eau douce. 
-Utilisé au bon endroit, il permet d'attraper des poissons.	Ein Köder, den Süßwasserfische lieben.
-Benutze ihn an der richtigen Stelle zum Angeln.
-2210300	釣りで使う疑似餌。
-魚釣りのできる場所で使用すると、釣りが開始される。	Fishing tackle. Use it at the right spot to fish.	Une amorce qui, utilisée au bon endroit, permet d'attraper
-des poissons.	Angelzeug. Benutze es an der richtigen Stelle zum Angeln.
-2211100	どこにでも生息する海水魚。
-釣りのエサとしても使用できる。	A common saltwater fish that can also be used as bait.	Un poisson de mer commun qui peut aussi servir d'appât.	Ein gewöhnlicher Salzwasserfisch, der auch als Köder
-verwendet werden kann.
-2211200	ポピュラーな淡水魚。
-釣りのエサとしても使用できる。	A popular freshwater fish that can also be used as bait.	Un poisson d'eau douce populaire qui peut aussi servir d'appât.	Ein beliebter Süßwasserfisch, der auch als Köder
-verwendet werden kann.
-2211300	猛毒のある海水魚。
-毒のない所を食べると美味しいらしい。	A toxic saltwater fish. The non-lethal parts are delicious.	Un poisson de mer dont les viscères renferment un poison
-mortel. Sa chair est délicate.	Ein giftiger Salzwasserfisch.
-Die nicht tödlichen Teile sind köstlich.
-2211400	縁起が良いとされる海水魚。
-高値で取引される。	A valuable saltwater fish eaten during auspicious occasions. 	Un poisson de mer estimé en cuisine et dégusté lors de festins
-d'apparat.	Ein wertvoller Salzwasserfisch, der zu besonderen Anlässen
-gegessen wird.
-2211500	獰猛な事で知られる海水魚。	A saltwater fish known for its ferociousness.	Un poisson de mer dont la férocité est légendaire.	Ein Salzwasserfisch, der für seine Grausamkeit bekannt ist.
-2211600	するどいくちばしを持つ巨大な海水魚。	A sharp-billed saltwater fish of impressive size.	Un énorme poisson de mer muni d'une mâchoire en forme
-d'épée.	Ein Salzwasserfisch von beeindruckender Größe mit einem
-spitzen Kiefer.
-2211700	生きている化石と言われる、伝説の巨大海水魚。	A legendary saltwater fish often referred to as a living fossil.	Un poisson de mer légendaire que l'on surnomme souvent
-« fossile vivant ».	Ein legendärer Salzwasserfisch, der oft als lebendes Fossil
-bezeichnet wird.
-2211800	鮮やかな体色の淡水魚。	A freshwater fish that sports vibrant colors.	Un poisson d'eau douce multicolore.	Ein Süßwasserfisch, der in zahlreichen Farben erstrahlt.
-2211900	幅広く生息する淡水魚。	A freshwater fish found almost everywhere.	Un poisson d'eau douce que l'on peut trouver partout.	Ein Süßwasserfisch, der fast überall zu finden ist.
-2212000	猫のようなヒゲをはやす事で知られる大型の淡水魚。	A freshwater fish known for its catlike whiskers.	Un poisson d'eau douce dont les longs barbillons ressemblent
-à des moustaches de chat.	Ein Süßwasserfisch, der für seine katzenähnlichen Schnurrhaare
-bekannt ist.
-2212100	卵が美味で珍重される大型の淡水魚。	A freshwater fish with eggs valued in gourmet cuisine.	Un poisson d'eau douce aux œufs très prisés par les fins
-gourmets.	Ein Süßwasserfisch, dessen Eier in der Gourmetküche geschätzt
-werden.
-2212200	太古からその姿を変えずに生き抜いてきた伝説の巨大淡水魚。	A legendary freshwater fish that has existed for millennia.	Un poisson d'eau douce mythique qui existe depuis des
-millénaires.	Ein legendärer Süßwasserfisch, der seit tausenden von Jahren
-existiert.
-2212300	砂の中を好む、変わり者の甲殻魚の一種。	A unique crustacean that enjoys burrowing into the sand.	Un crustacé unique qui aime creuser le sable.	Ein einzigartiges Krebstier, das sich mit Vorliebe im Sand
-eingräbt.
-2212400	ある程度なら陸上でも生活できるように進化した伝説の超巨大魚。	A rare fish that can survive on land for short periods of time.	Un poisson rare qui peut survivre hors de l'eau pendant une
-courte durée.	Ein seltener Fisch, der für kurze Zeit an Land überleben kann.
-2212500	砂浜のある近海で釣れる海水魚。
-胃ごと食べると体に良いとされ、重宝される。
-ただし、胃は苦い。	A saltwater fish often used for medicinal purposes.	Un poisson de mer dont le foie est souvent utilisé dans la
-fabrication de médicaments.	Ein Salzwasserfisch, der häufig für medizinische Zwecke
-verwendet wird.
-2213100	水中によくある植物。	A plant species that makes its home in the water.	Une plante qui vit dans l'eau.	Eine Pflanzenart, die sich im Wasser ansiedelt.
-2213200	折れた木の枝。	A broken tree branch.	Un morceau de bois mort.	Ein abgebrochener Ast eines Baumes.
-2213300	錆びて穴のあいたバケツ。金属は稀少なので高値が付く。	A rusty bucket made from rare and valuable metal alloys.	Un seau rouillé fait d'un métal rare.	Ein rostiger Eimer aus seltenen und wertvollen
-Metall-Legierungen.
-2213400	何かの缶詰の空き缶。金属は稀少なので高値が付く。	An empty can made from rare and valuable metal alloys.	Une boîte de conserve vide faite d'un métal rare.	Eine leere Dose aus seltenen und wertvollen
-Metall-Legierungen.
-2213800	採掘で入手できる鉱石。金を含有している。	Gold that was mined from the earth.	De l'or extrait du sol.	Gold, das aus der Erde abgebaut wurde.
-2213900	採掘で入手できる鉱石。銀を含有している。	Silver that was mined from the earth.	De l'argent extrait du sol.	Silber, das aus der Erde abgebaut wurde.
-2214000	採掘で入手できる鉱石。銅を含有している。	Copper that was mined from the earth.	Du cuivre extrait du sol.	Kupfer, das aus der Erde abgebaut wurde.
-2214100	採掘で入手できる鉱石。鉄を含有している。	Iron that was mined from the earth.	Du fer extrait du sol.	Eisen, das aus der Erde abgebaut wurde.
-2214200	採掘で入手できる鉱石。水晶の塊。	A crystal rock that was mined from the earth.	Un cristal extrait du sol.	Ein Kristallbrocken, der aus der Erde abgebaut wurde.
-2214300	採掘で入手できる鉱石。叩くと火花を散らす。	A mined stone that creates sparks when struck.	Une pierre extraite du sol qui produit des étincelles lorsqu'on
-la frappe.	Ein abgebautes Gestein, das beim Schlagen Funken erzeugt.
-2214400	採掘で入手できる鉱石。緑色をした美しい宝石になる。	A mined stone that can be cut into a beautiful green jewel.	Une pierre verte extraite du sol qui peut être taillée et polie.	Ein abgebautes Gestein, das zu einem wunderschönen grünen
-Juwel verarbeitet werden kann.
-2214500	採掘で入手できる鉱石。宇宙から飛来した隕石の一種。	A meteorite that was dug up from the earth.	Un météore qui s'est écrasé sur le sol.	Ein Meteorit, der aus der Erde ausgegraben wurde.
-2214600	採掘で入手できる鉱石。樹液などが化石化してできた半透明の宝石。	A translucent jewel made of fossilized tree sap.	Une gemme translucide composée de résine fossile de
-conifères.	Ein durchsichtiges Juwel, das aus fossilem Baummark gefertigt
-wurde.
-2214700	採掘で入手できる鉱石。光を当てるとしばらく輝き続ける。
-別名螢石。	A mined stone that holds a glow when exposed to the light.	Une pierre extraite du sol qui luit à la lumière.	Ein abgebautes Gestein, das funkelt, wenn man es ins Licht hält.
-2214800	焼き物や土木の材料にされる粘っこい土。	Versatile soil used in pottery and construction.	Une terre versatile utilisée en poterie et en construction.	Vielseitige Erde, die in der Töpferei und im Bau zum Einsatz
-kommt.
-2215300	木から落ちた実。	Berries that have fallen from a tree.	Une noix tombée d'un arbre.	Beeren, die von einem Baum gefallen sind.
-2215400	シダ植物の一種。若い芽は食用となる。	A type of fern with edible leaf buds.	Une sorte de fougère aux frondes comestibles.	Eine Farnart mit essbaren Blattknospen.
-2215500	手ごろな大きさの枝。	A perfectly sized tree branch.	Une branche d'arbre de taille parfaite.	Ein Baumast von perfekter Größe.
-2215600	木から必要な部分だけ切り出した木材。	Processed timber that's ready for use.	Une bille de bois prête à être utilisée.	Verarbeitetes Holz, bereit für den Einsatz.
-2215700	植物から得られる軟質の液体。	An elastic substance obtained from trees.	Une substance visqueuse provenant du latex d'arbres.	Eine klebrige Flüssigkeit, die von Bäumen gewonnen wird.
-2215800	細く紐状に伸びる植物。ロープなどとしても使われる。	A plant that grows in thin vines. It's frequently used in rope.	Une plante ligneuse grimpante utilisée pour fabriquer des
-cordes.	Eine Pflanze, die in schmalen Ranken wächst.
-Häufig für Seile verwendet.
-2215900	保水性に優れた植物の一種。観賞用や肥料として幅広く用いられる。	A water-retaining plant used for fertilizer and as a decoration.	Une plante hydrophile utilisée comme engrais et à des fins
-décoratives.	Eine Wasser speichernde Pflanze, die als Dünger oder zur
-Dekoration verwendet wird.
-2216000	木の根元などに生える菌類。
-食べるだけでなく、薬としても用いられる。	A multi-use fungus found at the base of trees.	Un champignon polyvalent qui pousse au pied des arbres.	Ein vielseitig verwendbarer Pilz, der am Fuße von Bäumen
-zu finden ist.
-2216100	木の幹などから分泌する粘着質の液体。	A sticky liquid secreted from tree trunks.	Un liquide sirupeux sécrété par les arbres.	Eine klebrige Flüssigkeit, die aus Baumstümpfen stammt.
-2216700	羊から獲れた肉。	The tasty haunch of a sheep.	Un délicieux gigot de mouton.	Die leckere Keule eines Schafes.
-2216800	イノシシから獲れた肉。	The tasty haunch of a boar.	Un délicieux cuissot de sanglier.	Die leckere Keule eines Ebers.
-2216900	羊から獲れた毛。	Fuzzy wool from a sheep.	De la laine vierge de mouton.	Flockige Wolle von einem Schaf.
-2217000	イノシシから獲れた毛皮。	The hide of a boar.	Une peau brute de sanglier.	Der Balg eines Ebers.
-2217100	狼から獲れた毛皮。	The hide of a wolf.	Une épaisse fourrure de loup.	Der Balg eines Wolfs.
-2217200	狼の鋭い牙。	A sharp fang taken from a wolf.	Un croc de loup acéré.	Ein scharfer Zahn eines Wolfes.
-2217300	大蜘蛛から採取した糸。	Thread taken from a giant spider.	Du fil translucide d'araignée géante.	Faden einer Riesenspinne.
-2217400	蝙蝠の小さい牙。	The tiny fang of a bat.	Un minuscule croc de chauve-souris.	Der winzige Zahn einer Fledermaus.
-2217500	蝙蝠から取れた羽。	The wing of a bat.	Une aile de chauve-souris soyeuse.	Der Flügel einer Fledermaus.
-2217600	ヤギから獲れた肉。	The not-so-tasty haunch of a goat.	Un gigot de chèvre filandreux.	Die nicht so leckere Keule einer Ziege.
-2217700	ヤギから獲れた毛皮。	The hide of a goat.	Une peau de chèvre lisse.	Der Balg einer Ziege.
-2217800	鹿から獲れた肉。	The tasty haunch of a deer.	Un délicieux cuissot de cerf.	Die leckere Keule eines Hirsches.
-2217900	大蜘蛛から採取した虹色に輝く糸。	Multicolored thread taken from a giant spider.	Du fil luisant multicolore d'araignée géante.	Faden einer Riesenspinne.
-Er schimmert in zahlreichen Farbtönen.
-2218000	イノシシの胆。腹痛や二日酔いに効くと言われる。	A common folk remedy for stomach trouble and hangovers.	Un remède traditionnel pour les maux d'estomac et les
-gueules de bois.	Ein Heilmittel des gemeinen Volkes für Magenprobleme und Kater.
-2218100	サソリの硬い爪。	A tough claw from a scorpion.	Une pince de scorpion résistante.	Die zähe Klaue eines Skorpions.
-2218200	サソリの毒のある尾。	The poisonous tail of a scorpion.	Une queue de scorpion munie d'un aiguillon venimeux.	Der giftige Schwanz eines Skorpions.
-2218300	機械の部品の一部。	A machine part.	Une pièce d'une machine.	Ein Maschinenteil.
-2218400	機械の部品の一部。	A machine part.	Une pièce d'une machine.	Ein Maschinenteil.
-2218500	機械の部品の一部。	A machine part.	Une pièce d'une machine.	Ein Maschinenteil.
-2218600	機械の部品の一部。	A machine part.	Une pièce d'une machine.	Ein Maschinenteil.
-2218700	機械の部品の一部。	A machine part.	Une pièce d'une machine.	Ein Maschinenteil.
-2218800	機械の部品の一部。	A machine part.	Une pièce d'une machine.	Ein Maschinenteil.
-2218900	機械の部品の一部。	A machine part.	Une pièce d'une machine.	Ein Maschinenteil.
-2219000	機械の部品の一部。	A machine part.	Une pièce d'une machine.	Ein Maschinenteil.
-2219100	機械の部品の一部。	A machine part.	Une pièce d'une machine.	Ein Maschinenteil.
-2219200	機械の部品の一部。	A machine part.	Une pièce d'une machine.	Ein Maschinenteil.
-2219300	レア度の高い金属の使われている部品。	A machine part made from an extremely rare metal.	Une pièce d'une machine faite d'un métal extrêmement rare.	Ein Maschinenteil aus einem extrem seltenen Metall.
-2219400	レア度の高い金属の使われている部品。	A machine part made from an extremely rare metal.	Une pièce d'une machine faite d'un métal extrêmement rare.	Ein Maschinenteil aus einem extrem seltenen Metall.
-2219500	錆びついてボロボロになった機械の部品。	A thoroughly rusted machine part.	Une pièce d'une machine complètement rouillée.	Ein durch und durch rostiges Maschinenteil.
-2219600	機械から漏れたオイル。	Oil that leaked from a machine.	De l'huile qui s'est échappée d'une machine.	Öl, das aus einer Maschine ausgelaufen ist.
-2220100	マモノが落としたネックレス。	A necklace dropped by a Shade.	Un collier qu'une Ombre a laissé tomber.	Eine Halskette, die ein Schatten verloren hat.
-2220200	マモノが落とした指輪。	A ring dropped by a Shade.	Un anneau qu'une Ombre a laissé tomber.	Ein Ring, den ein Schatten verloren hat.
-2220300	マモノが落としたイヤリング。	An earring dropped by a Shade.	Une boucle d'oreille qu'une Ombre a laissé tomber.	Ein Ohrring, den ein Schatten verloren hat.
-2220400	マモノが落としたチョーカー。	A short necklace dropped by a Shade.	Un tour de cou qu'une Ombre a laissé tomber.	Ein Halsreif, den ein Schatten verloren hat.
-2220500	マモノが落としたピアス。	An earring dropped by a Shade.	Un pendant qu'une Ombre a laissé tomber.	Ein Ohrring, den ein Schatten verloren hat.
-2220600	マモノが落とした腕輪。	A bracelet dropped by a Shade.	Un bracelet qu'une Ombre a laissé tomber.	Ein Armreif, den ein Schatten verloren hat.
-2220700	読めない文字で書かれた何かの技術書。	A technical book written in an indecipherable language.	Un mode d'emploi compliqué écrit dans une langue obscure.	Ein technisches Buch, geschrieben in einer nicht zu
-entschlüsselnden Sprache.
-2220800	汚れて読むことのできない本。	A book too dirty and damaged to read.	Un livre aux pages tachées et déchirées.	Ein Buch, das zu schmutzig und beschädigt ist, um es zu lesen.
-2220900	分厚い辞典と思われる本。	A thick book full of big words.	Un livre épais qui contient de grands mots.	Ein dickes Buch, voll von schwierigen Wörtern.
-2221000	ページがはり付いて開かなくなった写真集。	A photo album with the pages stuck together.	Un album de photos dont les pages sont collées ensemble.	Ein Fotoalbum, dessen Seiten zusammenkleben.
-2221100	クレヨンで落書きされた絵本。	A picture book that's been scrawled on with crayon.	Un album à colorier tout barbouillé.	Ein Bilderbuch, das mit Buntstiften vollgekritzelt ist.
-2221200	ボロボロになった古い教本。	An old, tattered schoolbook.	Un vieux cahier d'écolier abîmé.	Ein altes, zerfleddertes Schulbuch.
-2221300	汚れてすりきれたバッグ。	A worn and dirty bag.	Un sac taché et usé.	Ein abgenutzter und schmutziger Sack.
-2221400	派手な飾りの付いた帽子。	A fancy hat.	Un grand chapeau tape-à-l'œil.	Ein extravaganter Hut.
-2221500	ゴワゴワになった革製のグローブ。	Leather gloves that are cracked and stiff.	Une paire de gants de cuir épais et craquelé.	Lederhandschuhe, die eingerissen und steif sind.
-2221600	薄汚れた絹のハンカチ。	A weathered silk handkerchief.	Un mouchoir de soie qui n'est plus de la première fraîcheur.	Ein verwittertes Seidentaschentuch.
-2221700	底の厚い立派な革靴。	Thick-soled leather boots of excellent construction.	Une paire de bottes à semelles épaisses de fabrication
-artisanale.	Dick besohlte Lederstiefel von herausragender Qualität.
-2221800	複雑でよくわからない機械。	A complex machine. Its purpose is a mystery.	Une machine complexe dont la fonction est un mystère.	Eine komplexe Maschine. Ihr Zweck ist ein Rätsel.
-2221900	精巧すぎてよくわからない機械。	An elaborate machine. Its purpose is a mystery.	Une machine élaborée dont la fonction est un mystère.	Eine raffinierte Maschine. Ihr Zweck ist ein Rätsel.
-2222000	単純すぎて何かわからない機械。	A machine so simple, you can't determine its purpose.	Une machine pourtant si simple dont la fonction est un
-mystère.	Eine Maschine, die so einfach ist, dass du nicht weißt,
-wozu sie dient.
-2222100	針が止まった時計。	An inoperable clock.	Une horloge qu'on ne peut plus remonter.	Eine funktionsuntüchtige Uhr.
-2222200	時を刻まない腕時計。	A watch that no longer tells the time.	Une montre qui n'indique plus l'heure.	Eine Uhr, die keine Zeit mehr anzeigt.
-2222300	錆び付いて刃がボロボロになった包丁。	A rusty kitchen knife. Its serrated edge is breaking apart.	Un couteau-scie dont les dents sont rongées par la rouille.	Ein rostiges Küchenmesser.
-Seine gezackte Schneide bricht auseinander.
-2222400	歯が欠けて引けなくなったノコギリ。	A saw missing too many teeth to be of any use.	Une scie aux dents manquantes qui ne sert plus à rien.	Eine Säge, der zu viele Zähne fehlen, um noch nützlich zu sein.
-2222500	ベコベコに凹んだ金属バット。	A noticeably dented metal bat.	Une batte de métal déformée.	Ein deutlich verbogener Metallschläger.
-2222700	海岸に打ち寄せられた貝の殻。	A shell that washed ashore.	Un coquillage qui s'est échoué sur la plage.	Eine Hülle, die an Land gespült wurde.
-2222800	海岸に生息する巻貝。壷焼きにすると美味しい。	A gastropod from the ocean. Tasty when used in a stew.	Un gastéropode délicieux dont on fait des soupes.	Ein Gastropode aus dem Meer.
-Eine leckere Zutat für einen Eintopf.
-2222900	海岸に生息する二枚貝。食材として用いられる。	A bivalve from the ocean. Often used in simple recipes.	Un mollusque pêché dans la mer utilisé dans les recettes
-simples.	Eine Molluske aus dem Meer.
-Oft in einfachen Rezepten verwendet.
-2223000	海岸に生息する海草。食材として用いられる。	Seaweed found by the ocean. A kitchen staple.	Une algue qui pousse près de la mer et qui est l'aliment de
-base des pêcheurs.	Seetang aus dem Meer. Ein Muss in jeder Küche.
-2223100	海岸に打ち寄せられた空の瓶。	An empty bottle that washed ashore.	Une bouteille vide qui s'est échouée sur la plage.	Eine leere Flasche, die an Land gespült wurde.
-2223200	海岸に流れ着いた木材。	Old wood that washed ashore.	Un morceau de bois qui s'est échoué sur la plage.	Altes Holz, das an Land gespült wurde.
-2223300	キラキラと輝く美しい真珠。	A pearl that shines brightly.	Une perle luisante.	Eine Perle, die hell erstahlt.
-2223400	大粒で黒光りする希少な真珠。	A large, valuable pearl with a black veneer.	Une énorme perle précieuse à la nacre sombre.	Eine große, wertvolle Perle mit einem schwarzen Furnier.
-2223500	海岸の生物。両手にハサミを持ち、怒ると威嚇する。	An animal that lives by the ocean. Watch out for its pincers!	Un crustacé qui vit près de la mer. Gare à ses pinces !	Ein Tier, das am Meer lebt. Pass auf seine Scheren auf!
-2223600	星の形をした海の生物。	An ocean creature with multiple arms.	Un invertébré marin aux longs bras.	Eine Meereskreatur mit zahlreichen Armen.
-2224200	特産品。海岸で時々拾える。	A rare item found by the ocean.	Un œuf rare trouvé près de la mer.	Ein seltenes Item, das am Meer gefunden wurde.
-2224300	特産品。鉱石の代わりに時々拾える。	A rare item dug up while mining for ore.	Un objet rare trouvé sur le sol.	Ein seltenes Item, das beim Abbau von Erz gefunden wurde.
-2224400	特産品。砂漠で時々拾える。	A rare item found in the desert.	Une fleur rare trouvée dans le désert.	Ein seltenes Item, das in der Wüste gefunden wurde.
-2224500	特産品。ニワトリにしては巨大な卵。	A rare egg that's a bit too large to be from a chicken.	Un œuf rare qui est un peu trop gros pour être celui d'une
-poule.	Ein seltenes Ei, das ein bisschen zu groß ist, um von einem
-Huhn zu stammen.
-2224600	特産品。ロボット山内部で時々拾える。	A rare item found in the Junk Heap.	Un métal rare trouvé dans la montagne des robots.	Ein seltenes Item, das im Müllberg gefunden wurde.
-2224700	特産品。谷に住む鷲が産みつけた卵。	An egg laid by eagles that live in the valley.	Un œuf d'aigle de la vallée.	Ein Ei, das von Adlern gelegt wurde, die im Tal leben.
-2224800	特産品。ニワトリの卵。	A simple chicken egg found only in certain areas.	Un œuf de poule trouvé seulement à certains endroits.	Ein einfaches Hühnerei, das nur in bestimmten Gegenden
-zu finden ist.
-2225000	くるんと巻いたねずみの尻尾。	A curly mouse tail.	Une longue queue de souris.	Ein gekräuselter Mäuseschwanz.
-2225100	ちぎれてピクピク動くとかげの尻尾。	A reptile tail that is still twitching.	Une queue de lézard toujours frémissante.	Ein Echsenschwanz, der noch immer zuckt.
-2225501	鹿の成長途中の角。貴重な薬の材料となる。	A deer's antler, shorn in mid-growth. Used in various
-medicines.	Le bois d'un cerf en pleine croissance. Il est souvent utilisé
-pulvérisé dans la fabrication de médicaments.	Ein Hirschgeweih, abgetrennt im mittleren Alter.
-Wird für zahlreiche Medikamente verwendet.
-2225502	洋館で手に入れた『光』と刻印された鍵。	A key found in the manor. The word "Light" is written on it. 	Une clef obtenue au manoir.
-Le mot « Lumière » est gravé sur sa tige.	Ein Schlüssel, der in der Villa gefunden wurde.
-Darauf geschrieben steht das Wort „Licht“.
-2225503	洋館で手に入れた『闇』と刻印された鍵。	A key found in the manor. The word "Darkness" is written on it. 	Une clef obtenue au manoir.
-Le mot « Obscurité » est gravé sur sa tige.	Ein Schlüssel, der in der Villa gefunden wurde.
-Darauf geschrieben steht das Wort „Dunkelheit“.
-2225504	マモノが落とした、フリージアの押し花。	A pressed freesia flower that was dropped by a Shade.	Un freesia desséché qu'une Ombre a laissé tomber.	Eine gepresste Freesie, die ein Schatten hinterlassen hat.
-2225505	崖の村へ届けるように託された、フリージアの鉢植え。	A potted freesia, ready for delivery to The Aerie.	Un freesia en pot, prêt à être livré au village de l'Aire.	Eine Topffreesie, bereit zur Auslieferung nach Adlerhorst.
-2225506	仮面の街へ届けるように託された、フリージアの花束。	A bouquet of freesia flowers, ready for delivery to Facade.	Un bouquet de freesias, prêt à être livré à Façade.	Ein Freesienstrauß, bereit zur Auslieferung nach Fassade.
-2225507	宝の地図の場所から出てきたガラクタの山。子供の宝物のようだ。	A pile of junk. This is the "treasure" pointed out by the map.	De la pacotille. C'était le « trésor » indiqué sur la carte.	Ein Haufen Müll.
-Dies ist der „Schatz“, der auf der Karte markiert ist.
-2225508	異国との取引にも使われる純度の高い金貨。	A coin made of pure gold. Used for trade with foreign nations.	Une pièce d'or pur utilisée autrefois comme monnaie dans
-certains pays étrangers.	Eine Münze aus purem Gold.
-Zum Handel mit anderen Nationen verwendet.
+qui rend tous les PV.
+2210100	L'appât préféré des poissons de mer. 
+Utilisé au bon endroit, il permet d'attraper des poissons.
+2210200	L'appât préféré des poissons d'eau douce. 
+Utilisé au bon endroit, il permet d'attraper des poissons.
+2210300	Une amorce qui, utilisée au bon endroit, permet d'attraper
+des poissons.
+2211100	Un poisson de mer commun qui peut aussi servir d'appât.
+2211200	Un poisson d'eau douce populaire qui peut aussi servir d'appât.
+2211300	Un poisson de mer dont les viscères renferment un poison
+mortel. Sa chair est délicate.
+2211400	Un poisson de mer estimé en cuisine et dégusté lors de festins
+d'apparat.
+2211500	Un poisson de mer dont la férocité est légendaire.
+2211600	Un énorme poisson de mer muni d'une mâchoire en forme
+d'épée.
+2211700	Un poisson de mer légendaire que l'on surnomme souvent
+« fossile vivant ».
+2211800	Un poisson d'eau douce multicolore.
+2211900	Un poisson d'eau douce que l'on peut trouver partout.
+2212000	Un poisson d'eau douce dont les longs barbillons ressemblent
+à des moustaches de chat.
+2212100	Un poisson d'eau douce aux œufs très prisés par les fins
+gourmets.
+2212200	Un poisson d'eau douce mythique qui existe depuis des
+millénaires.
+2212300	Un crustacé unique qui aime creuser le sable.
+2212400	Un poisson rare qui peut survivre hors de l'eau pendant une
+courte durée.
+2212500	Un poisson de mer dont le foie est souvent utilisé dans la
+fabrication de médicaments.
+2213100	Une plante qui vit dans l'eau.
+2213200	Un morceau de bois mort.
+2213300	Un seau rouillé fait d'un métal rare.
+2213400	Une boîte de conserve vide faite d'un métal rare.
+2213800	De l'or extrait du sol.
+2213900	De l'argent extrait du sol.
+2214000	Du cuivre extrait du sol.
+2214100	Du fer extrait du sol.
+2214200	Un cristal extrait du sol.
+2214300	Une pierre extraite du sol qui produit des étincelles lorsqu'on
+la frappe.
+2214400	Une pierre verte extraite du sol qui peut être taillée et polie.
+2214500	Un météore qui s'est écrasé sur le sol.
+2214600	Une gemme translucide composée de résine fossile de
+conifères.
+2214700	Une pierre extraite du sol qui luit à la lumière.
+2214800	Une terre versatile utilisée en poterie et en construction.
+2215300	Une noix tombée d'un arbre.
+2215400	Une sorte de fougère aux frondes comestibles.
+2215500	Une branche d'arbre de taille parfaite.
+2215600	Une bille de bois prête à être utilisée.
+2215700	Une substance visqueuse provenant du latex d'arbres.
+2215800	Une plante ligneuse grimpante utilisée pour fabriquer des
+cordes.
+2215900	Une plante hydrophile utilisée comme engrais et à des fins
+décoratives.
+2216000	Un champignon polyvalent qui pousse au pied des arbres.
+2216100	Un liquide sirupeux sécrété par les arbres.
+2216700	Un délicieux gigot de mouton.
+2216800	Un délicieux cuissot de sanglier.
+2216900	De la laine vierge de mouton.
+2217000	Une peau brute de sanglier.
+2217100	Une épaisse fourrure de loup.
+2217200	Un croc de loup acéré.
+2217300	Du fil translucide d'araignée géante.
+2217400	Un minuscule croc de chauve-souris.
+2217500	Une aile de chauve-souris soyeuse.
+2217600	Un gigot de chèvre filandreux.
+2217700	Une peau de chèvre lisse.
+2217800	Un délicieux cuissot de cerf.
+2217900	Du fil luisant multicolore d'araignée géante.
+2218000	Un remède traditionnel pour les maux d'estomac et les
+gueules de bois.
+2218100	Une pince de scorpion résistante.
+2218200	Une queue de scorpion munie d'un aiguillon venimeux.
+2218300	Une pièce d'une machine.
+2218400	Une pièce d'une machine.
+2218500	Une pièce d'une machine.
+2218600	Une pièce d'une machine.
+2218700	Une pièce d'une machine.
+2218800	Une pièce d'une machine.
+2218900	Une pièce d'une machine.
+2219000	Une pièce d'une machine.
+2219100	Une pièce d'une machine.
+2219200	Une pièce d'une machine.
+2219300	Une pièce d'une machine faite d'un métal extrêmement rare.
+2219400	Une pièce d'une machine faite d'un métal extrêmement rare.
+2219500	Une pièce d'une machine complètement rouillée.
+2219600	De l'huile qui s'est échappée d'une machine.
+2220100	Un collier qu'une Ombre a laissé tomber.
+2220200	Un anneau qu'une Ombre a laissé tomber.
+2220300	Une boucle d'oreille qu'une Ombre a laissé tomber.
+2220400	Un tour de cou qu'une Ombre a laissé tomber.
+2220500	Un pendant qu'une Ombre a laissé tomber.
+2220600	Un bracelet qu'une Ombre a laissé tomber.
+2220700	Un mode d'emploi compliqué écrit dans une langue obscure.
+2220800	Un livre aux pages tachées et déchirées.
+2220900	Un livre épais qui contient de grands mots.
+2221000	Un album de photos dont les pages sont collées ensemble.
+2221100	Un album à colorier tout barbouillé.
+2221200	Un vieux cahier d'écolier abîmé.
+2221300	Un sac taché et usé.
+2221400	Un grand chapeau tape-à-l'œil.
+2221500	Une paire de gants de cuir épais et craquelé.
+2221600	Un mouchoir de soie qui n'est plus de la première fraîcheur.
+2221700	Une paire de bottes à semelles épaisses de fabrication
+artisanale.
+2221800	Une machine complexe dont la fonction est un mystère.
+2221900	Une machine élaborée dont la fonction est un mystère.
+2222000	Une machine pourtant si simple dont la fonction est un
+mystère.
+2222100	Une horloge qu'on ne peut plus remonter.
+2222200	Une montre qui n'indique plus l'heure.
+2222300	Un couteau-scie dont les dents sont rongées par la rouille.
+2222400	Une scie aux dents manquantes qui ne sert plus à rien.
+2222500	Une batte de métal déformée.
+2222700	Un coquillage qui s'est échoué sur la plage.
+2222800	Un gastéropode délicieux dont on fait des soupes.
+2222900	Un mollusque pêché dans la mer utilisé dans les recettes
+simples.
+2223000	Une algue qui pousse près de la mer et qui est l'aliment de
+base des pêcheurs.
+2223100	Une bouteille vide qui s'est échouée sur la plage.
+2223200	Un morceau de bois qui s'est échoué sur la plage.
+2223300	Une perle luisante.
+2223400	Une énorme perle précieuse à la nacre sombre.
+2223500	Un crustacé qui vit près de la mer. Gare à ses pinces !
+2223600	Un invertébré marin aux longs bras.
+2224200	Un œuf rare trouvé près de la mer.
+2224300	Un objet rare trouvé sur le sol.
+2224400	Une fleur rare trouvée dans le désert.
+2224500	Un œuf rare qui est un peu trop gros pour être celui d'une
+poule.
+2224600	Un métal rare trouvé dans la montagne des robots.
+2224700	Un œuf d'aigle de la vallée.
+2224800	Un œuf de poule trouvé seulement à certains endroits.
+2225000	Une longue queue de souris.
+2225100	Une queue de lézard toujours frémissante.
+2225501	Le bois d'un cerf en pleine croissance. Il est souvent utilisé
+pulvérisé dans la fabrication de médicaments.
+2225502	Une clef obtenue au manoir.
+Le mot « Lumière » est gravé sur sa tige.
+2225503	Une clef obtenue au manoir.
+Le mot « Obscurité » est gravé sur sa tige.
+2225504	Un freesia desséché qu'une Ombre a laissé tomber.
+2225505	Un freesia en pot, prêt à être livré au village de l'Aire.
+2225506	Un bouquet de freesias, prêt à être livré à Façade.
+2225507	De la pacotille. C'était le « trésor » indiqué sur la carte.
+2225508	Une pièce d'or pur utilisée autrefois comme monnaie dans
+certains pays étrangers.
 2225509	古い字で書かれている上に、擦り切れて読むのが困難になった地図。	A map written in ancient lettering. It's too worn to make out.	Une carte couverte de symboles anciens difficiles à lire.	Eine Karte, geschrieben in einer alten Sprache.
 Sie ist zu zerfleddert, um etwas zu erkennen.
 2225510	洋館の地下で発見したカードキー。ＡＡと刻印されている。	A keycard, marked "AA", discovered in the manor basement.	Une carte magnétique obtenue dans le laboratoire souterrain.
