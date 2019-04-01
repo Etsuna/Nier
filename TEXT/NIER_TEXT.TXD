@@ -1,0 +1,3540 @@
+1100000	Save?
+1100100	Load?
+1100200	Operation complete.
+1100300	Save failed.
+1110000	Level
+1110100	Date
+1110200	Total Play Time
+1110300	Location
+1111000	Select a save file to store your game data.
+1111100	Select the game data you'd like to load.
+1111500	Current Difficulty Level
+1112000	No Data
+1112100	Corrupted Data
+1112500	Press the START Button
+1113000	Village
+1114000	Save Data 01
+1114100	Save Data 02
+1114200	Save Data 03
+1114300	System Data
+1114400	Create New
+1114500	Memory 1
+1114600	Memory 2
+1114700	Memory 3
+1114900	Level:
+1115000	Total Play Time:
+1115100	Area:
+1115200	Difficulty:
+1115300	Ending:
+1115400	System Data
+1200000	Forging
+1200100	Cancel
+1200200	Attack Power
+1200300	Weight
+1200400	Forging Cost
+1200500	Money
+1200600	You don't have any weapons eligible for forging.
+1200700	Proceed with forging?
+1200800	Yes
+1200900	No
+1201000	G
+1201100	Lv. 1
+1201200	Lv. 2
+1201300	Lv. 3
+1203000	Lv. 4
+1201400	Material
+1201500	Needed
+1201600	Inventory
+1201700	You can't forge this weapon right now.
+1201800	Magic Power
+1201900	→
+1202000	Weapon Shop
+1202100	Item Shop
+1202200	Flower Shop
+1202300	Material Shop
+1202400	Grocery Store
+1202500	Fish Shop
+1202600	Strange-Thing Store
+1202700	Tackle Shop
+1202800	Strange-Thing Store
+1202900	Blacksmith
+1300000	Buy
+1300100	Sell
+1300200	Cancel
+1300300	Attack Power
+1300400	Weight
+1300500	Total
+1300600	Money
+1300700	You have no items to sell.
+1300800	There are no items you can buy.
+1300900	Purchase these items?
+1301000	Sell these items?
+1301100	Yes
+1301200	No
+1301300	G
+1301400	(
+1301500	)
+1301600	Magic Power
+1301700	Two Brothers Weaponry
+1400000	Cancel
+1400100	Choose a destination:
+1401000	Surface
+1401100	1F
+1401200	2F
+1402100	B1
+1402200	B2
+1402300	B3
+1403000	Village
+1403100	Seafront
+1403200	Junk Heap
+1403300	The Aerie
+1403400	Forest of Myth
+1403500	Facade
+1403600	Desert
+1403700	Northern Plains
+1403800	Lost Shrine: Rear Path
+1404000	Entrance
+1404100	Weapon Shop
+1404200	Grocery Store
+1404300	King's Mansion
+1404400	Material Shop
+1404500	Strange-Thing Store
+1405000	Desert Entrance
+1405100	Facade Graveyard
+1405200	Facade
+1405300	Barren Temple
+1500000	Difficulty
+1500100	Outfit Selection
+1500200	Install
+1500300	Installing game data...
+1500400	Press the START button
+1510000	Easy
+1510100	Normal
+1510200	Hard
+1520000	Standard
+1520100	Kabuki
+1520200	Samurai
+1520300	Outfit 04
+1520400	Outfit 05
+1600000	Recovery items
+1600100	One-handed sword
+1600200	Two-handed sword
+1600300	Spear
+1600400	Attack Power
+1600500	 
+1600600	→
+1600700	Magic Power
+1600800	Weight
+1600900	Inventory
+1601000	%%
+1601100	Lv.
+1601200	You don't have any usable items.
+1700000	"Leaping Rabbit"
+
+1700100	"Racing Wolf"
+
+1700200	"Evasive Mouse"
+
+1700300	"Protected Turtle"
+
+1700400	"Blade-Wielding Tiger"
+
+1700500	"Magic-Spewing Bat"
+
+1700600	"Stationary Owl"
+
+1700700	"Time-Forgetting Monkey"
+
+1701000	 
+1800000	Nier
+1800100	Please enter your name.
+1800200	What's the name of the person I really like?
+1800300	What's my favorite food?
+1800400	What's my favorite book?
+1800500	What's my favorite place?
+1800600	What's my favorite flower?
+1800700	Who do I love more than anyone?
+1830000	Let's see what work I've got for you today...
+1830100	Which job should I give you first?
+1830200	Doesn't look like I have any work for you right now. Come back next time you're free, okay?
+1830300	Come back next time you're free, okay?
+1830400	I wrote down the client's location on your map, so head over there to get the details.
+1830500	Wait, you don't have a map? Ah, well. Just ask the client for the details.
+1830600	Oh, you want a different job?
+1830700	I think Popola's still suffering from that stupid cold. 
+Can you go check on her for me?
+1830800	Hey, the gatekeeper needs some kind of message delivered.
+The guy never leaves his post, so maybe you can help him out?
+1830900	Popola said she's got a job for you.
+She really depends on you, doesn't she!
+1831000	Seems there's a villager with a job for you.
+It's about chickens, or...something. I don't know, details bore me.<PAGE>Anyway, just go ask the client for details.
+1831100	Boy, the ladies just can't get enough of you! I heard another one's looking for some help.
+Something to do with mutton, I think.
+1831200	Seems like the florist's looking for help.
+I guess she needs something from Seafront.
+1831300	I heard someone needs help organizing books.
+Popola's too busy to handle it herself, so do you mind helping out?
+1831400	The lady who runs the tavern needs some help.
+That's the girl with the really strung-out grandmother.
+1831500	Sounds like someone's got a problem on their hands.
+They burned their kitchen to the ground! Not too smart...
+1831600	The florist has a request.
+Sounds like she needs some shopping done.
+1831700	Um... Well, this is a little weird. It's from Yonah.
+Go home and check on her, will you? I think she's lonely.
+1831800	Someone wants you to collect an item from The Aerie.
+Yeah, go ask the client for more details. I kind of dozed off during that part.
+1831900	There's a parcel that needs to be delivered to The Aerie.
+Some kind of repayment or honor debt or...you know. Something.
+1832000	I've got a request from a woman here.
+I guess she needs parts to repair the waterwheel. Maybe you can help her out?
+1832100	Apparently, the fountain in the village square is breaking down.
+Think you could go check it out? Please? For me?
+1832200	I've got another delivery request here.
+Something about a fragile parcel that needs to go to Seafront.
+1832300	An old-timer in Seafront is looking for help.
+...Sorry, but that's all I know. Oh, and he said he knows you.
+1832400	That old fisherman's got another job for you.
+You guys are getting pretty close, huh?
+1832500	A shipbuilder in Seafront needs some help.
+He needs materials for a repair job. Why don't you go check it out?
+1832600	The old fisherman has another request.
+I had no idea you liked fish so much!
+1832700	That fisherman in Seafront's back with more work.
+How's the fishing going, anyway? You must be getting good!
+1832800	Guess what? ...C'mon, guess!<PAGE>Oh, fine. I'll tell you. It's another job from the fisherman.
+Hey, at least you'll have plenty of fish to eat.
+1832900	The old fisherman needs you again.
+It's good to see you taking such an interest in the elderly.
+1833000	Again? You guessed it—the Seafront fisherman's back.
+Be careful out there. You wouldn't want to hook poor Weiss.
+1833100	Surprise, surprise. The old fisherman's calling...
+Blah blah blah, right? You know the deal by now.
+1833200	The Seafront fisherman said this next job could cost both of you your lives!
+I figure he's just being melodramatic, but it's still kinda spooky.
+1833300	Heya! The Seafront tavern's in need of assistance.
+...Maybe I should take this one. I bet they've got quite a selection!
+1833400	Want a job from the tavern keeper in Seafront?<PAGE>He wants to talk to you about a new dish or something.
+You're like a celebrity, aren't you!
+1833500	Special delivery! From you, to Facade. Sound good?
+By the way, how'd you even get in that place?
+1833600	I've got a job from Facade, fresh off the grill!
+You certainly know a lot of people, don't you? You're a real mover and shaker, <NIER>!
+1833700	Someone in Facade asked for your help.
+...Are they tough to deal with? Because they seem like total weirdos.
+1833800	Facade's looking for help again.
+The king needs materials for something. ...And he's a king, so you better hop to it!
+1833900	...What the heck?
+Okay... Apparently someone in Facade wants you to fix his broken marriage.
+1834000	A Facade resident is looking for help.
+It's something about flowers, or something like that.
+1834100	The tavern keeper in Seafront needs your help.
+I think he's looking for food again. ...Guy must be really hungry!
+1834200	Wanna help out the village blacksmith?
+Um...I don't have much. The request is a bit vague.
+1834300	I got a request from the government of Facade!
+You're like our town's ambassador or something!
+1834400	Hey, look. Yonah's looking for help.
+Better make it a top priority, mister!
+1834500	A Seafront resident has a letter for you to deliver.
+Maybe you should just become a postman?
+1834600	Someone lost their dog.
+...No job too small, huh?
+1834700	Some guy in Seafront wants to become a big-time trader.
+Whatever works, I guess. He's waiting by the port over there.
+1834800	I heard from a man who wants you to track down his son.
+It's a little weird, though. The kid is actually a grown man.
+1834900	Oh, brother. This one's rich.
+Some guy wants to give a gift to a woman, and he needs your help.
+1835000	I've got an urgent job from Facade.
+Some poor girl's gone missing! You should get over there right away and help them out.
+1835100	Facade's got a request.
+Apparently they need you to put the hurt on some bandits. It's about time they gave you some real work!
+1835200	Wanna go to Seafront?<PAGE>I've got a request from a lady there. Actually, it's more like a demand.
+Geez, I wish I could boss people around like this!
+1835300	Seems like there's a traveler in Seafront who's searching for something. 
+Why don't you go see what she wants?
+1835400	Guess what? It's another job from Facade.
+Some young man. ...And that's all I know.
+1835500	There's a request here from a shopkeeper.
+Apparently he's having trouble with thieves.<PAGE>...Stupid thieves! Go give 'em what-for!
+1835600	That trader in Seafront has another request.
+Well, he's more of a would-be trader, I guess. ...Anyway, he can fill you in.
+1835700	The wife of one of the village shopkeepers needs help. I guess her kid is really sick. 
+...I probably don't need to ask you twice about this one, huh?
+1835800	There's a woman here in the village looking for her boyfriend.
+She should just go look for herself! ...But hey, she's paying, so I'll shut up.
+1835900	Seems there's a man looking for a rather unique piece of cutlery.
+He says he'll pay whatever it takes. ...Oooo! How exciting!
+1836000	Got a job from Seafront, if you aren't too busy.
+It's a guy. Looking for something.<PAGE>...Um, yeah. Just go ask him, all right?
+1836100	That butler from the manor needs your help.
+You sure do keep some strange company...
+1836200	Apparently there're Shades in the village? Eeeek!
+Well!? Don't just stand there! Go take care of them!
+1836300	The florist in Seafront has a job for you.
+Just a simple delivery. Easy-peasy.
+1836400	Someone in the Forest of Myth wanted your assistance.
+That's the first job I've gotten from there in...well, as long as I can remember.
+1836500	A villager was attacked by Shades in the northern plains.
+Can you go ask him about it? It may be something we should look into.
+1836600	A postman wants you to get rid of some Shades.
+It's getting pretty dangerous around here lately.
+1836700	I have a job from the manor's butler.
+He says there's a "unique" Shade he wants your advice on.<PAGE>Yeah, don't look at me...
+1836800	Hey, there's a scholar in Seafront who asked about you.
+I guess he needs help with historical research?
+1836900	Another guy in Facade wanted your help with something.
+I tell ya, if it wasn't for you, that whole city would just fall apart.
+1837000	I got a letter from the king of Facade.
+He said he needs you to deal with an "issue." Wonder what that's about?
+1837100	One of the villagers is having problems with a wild boar.
+Those boars can be a real handful. Maybe you could help out?
+1837200	I've got a job from the postman in Seafront.
+He needs your help with a personal matter.
+1837300	I've got another job from that Seafront postman.
+Apparently some cranky old lady is giving him trouble.
+1837400	I got a letter from the Seafront postman.
+Apparently he has a message for you. How mysterious!
+1837500	Something's up over in the Junk Heap.
+I'm worried about the kid who runs Two Brothers Weaponry. Could you give him a visit?
+1837700	I have a job from Facade. 
+Somebody's worried about his son.
+1900000	MAP
+1900100	NO MAP
+2000000	Medicinal Herb
+2000100	Health Salve
+2000200	Recovery Potion
+2000300	Health Salve (Large)
+2000400	Recovery Potion (Small)
+2000500	Recovery Potion (Medium)
+2000600	Recovery Potion (Large)
+2000700	Recovery Potion (Max)
+2001100	Health Elixir (Small)
+2001200	Health Elixir (Medium)
+2001300	Health Elixir (Large)
+2001600	Lifesaver
+2002100	Strength Drop
+2002200	Strength Capsule
+2002300	Magic Drop
+2002400	Magic Capsule
+2002500	Defense Drop
+2002600	Defense Capsule
+2002700	Spirit Drop
+2002800	Spirit Capsule
+2003100	Antidotal Weed
+2003200	Echo Grass
+2003300	Smelling Salts
+2004100	Speed Fertilizer
+2004200	Flowering Fertilizer
+2004300	Bounty Fertilizer
+2004600	Pumpkin Seed
+2004700	Watermelon Seed
+2004800	Melon Seed
+2004900	Gourd Seed
+2005000	Tomato Seed
+2005100	Eggplant Seed
+2005200	Bell Pepper Seed
+2005300	Bean Seed
+2005400	Wheat Seedling
+2005500	Rice Plant Seedling
+2005600	Dahlia Bulb
+2005700	Tulip Bulb
+2005800	Freesia Bulb
+2005900	Red Moonflower Seed
+2006000	Gold Moonflower Seed
+2006100	Peach Moonflower Seed
+2006200	Pink Moonflower Seed
+2006300	Blue Moonflower Seed
+2006400	Indigo Moonflower Seed
+2006500	White Moonflower Seed
+2007100	Pumpkin
+2007200	Watermelon
+2007300	Melon
+2007400	Gourd
+2007500	Tomato
+2007600	Eggplant
+2007700	Bell Pepper
+2007800	Beans
+2007900	Wheat
+2008000	Rice
+2008100	Dahlia Flower
+2008200	Tulip
+2008300	Freesia Flower
+2008400	Red Moonflower
+2008500	Gold Moonflower
+2008600	Peach Moonflower
+2008700	Pink Moonflower
+2008800	Blue Moonflower
+2008900	Indigo Moonflower
+2009000	White Moonflower
+2010100	Lugworm
+2010200	Earthworm
+2010300	Lure
+2011100	Sardine
+2011200	Carp
+2011300	Blowfish
+2011400	Bream
+2011500	Shark
+2011600	Blue Marlin
+2011700	Dunkleosteus
+2011800	Rainbow Trout
+2011900	Black Bass
+2012000	Giant Catfish
+2012100	Royal Fish
+2012200	Hyneria
+2012300	Sandfish
+2012400	Rhizodont
+2012500	Shaman Fish
+2013100	Aquatic Plant
+2013200	Deadwood
+2013300	Rusty Bucket
+2013400	Empty Can
+2013800	Gold Ore
+2013900	Silver Ore
+2014000	Copper Ore
+2014100	Iron Ore
+2014200	Crystal
+2014300	Pyrite
+2014400	Moldavite
+2014500	Meteorite
+2014600	Amber
+2014700	Fluorite
+2014800	Clay
+2015300	Berries
+2015400	Royal Fern
+2015500	Tree Branch
+2015600	Log
+2015700	Natural Rubber
+2015800	Ivy
+2015900	Lichen
+2016000	Mushroom
+2016100	Sap
+2016700	Mutton
+2016800	Boar Meat
+2016900	Wool
+2017000	Boar Hide
+2017100	Wolf Hide
+2017200	Wolf Fang
+2017300	Giant Spider Silk
+2017400	Bat Fang
+2017500	Bat Wing
+2017600	Goat Meat
+2017700	Goat Hide
+2017800	Venison
+2017900	Rainbow Spider Silk
+2018000	Boar Liver
+2018100	Scorpion Claw
+2018200	Scorpion Tail
+2018300	Dented Metal Board
+2018400	Stripped Bolt
+2018500	Broken Lens
+2018600	Severed Cable
+2018700	Broken Arm
+2018800	Broken Antenna
+2018900	Broken Motor
+2019000	Broken Battery
+2019100	Mysterious Switch
+2019200	Large Gear
+2019300	Titanium Alloy
+2019400	Memory Alloy
+2019500	Rusted Clump
+2019600	Machine Oil
+2020100	Forlorn Necklace
+2020200	Twisted Ring
+2020300	Broken Earring
+2020400	Pretty Choker
+2020500	Metal Piercing
+2020600	Subdued Bracelet
+2020700	Technical Guide
+2020800	Grubby Book
+2020900	Thick Dictionary
+2021000	Closed Book
+2021100	Used Coloring Book
+2021200	Old Schoolbook
+2021300	Dirty Bag
+2021400	Flashy Hat
+2021500	Leather Gloves
+2021600	Silk Handkerchief
+2021700	Leather Boots
+2021800	Complex Machine
+2021900	Elaborate Machine
+2022000	Simple Machine
+2022100	Stopped Clock
+2022200	Broken Wristwatch
+2022300	Rusty Kitchen Knife
+2022400	Broken Saw
+2022500	Dented Metal Bat
+2022700	Shell
+2022800	Gastropod
+2022900	Bivalve
+2023000	Seaweed
+2023100	Empty Bottle
+2023200	Driftwood
+2023300	Pearl
+2023400	Black Pearl
+2023500	Crab
+2023600	Starfish
+2024200	Sea Turtle Egg
+2024300	Broken Pottery
+2024400	Desert Rose
+2024500	Giant Egg
+2024600	Damascus Steel
+2024700	Eagle Egg
+2024800	Chicken Egg
+2025000	Mouse Tail
+2025100	Lizard Tail
+2025501	Deer Antler
+2025502	Light Key
+2025503	Darkness Key
+2025504	Pressed Freesia
+2025505	Potted Freesia
+2025506	Freesia Bouquet
+2025507	Pile of Junk
+2025508	Gold Coin
+2025509	Marked Map
+2025510	AA Keycard
+2025511	KA Keycard
+2025512	SA Keycard
+2025513	TA Keycard
+2025514	NA Keycard
+2025515	HA Keycard
+2025516	MA Keycard
+2025517	YA Keycard
+2025518	RA Keycard
+2025519	WA Keycard
+2025600	Moon Key
+2025700	Star Key
+2025800	Fine Flour
+2025900	Coarse Flour
+2026000	Perfume Bottle
+2026100	Postman's Parcel
+2026200	Lover's Letter
+2026300	Water Filter
+2026400	Royal Compass
+2026500	Vapor Moss
+2026600	Valley Spider Silk
+2026700	Animal Guidebook
+2026800	Ore Guidebook
+2026900	Plant Guidebook
+2027000	Red Book
+2027100	Blue Book
+2027200	Old Lady's Elixir
+2027300	Old Lady's Elixir+
+2027400	Parcel for The Aerie
+2027500	Parcel for Seafront
+2027600	Cookbook
+2027700	Parcel for Facade
+2027800	Max's Herbs
+2027900	Drifting Cargo
+2028000	Drifting Cargo 2
+2028100	Drifting Cargo 3
+2028200	Drifting Cargo 4
+2028300	Old Package
+2028400	Mermaid Tear
+2028500	Mandrake Leaf
+2028600	Energizer
+2028700	Toad Oil
+2028800	Sleep-B-Gone
+2028900	Antidote
+2029000	Gold Bracelet
+2029100	Elite Kitchen Knife
+2029200	Elevator Parts
+2029300	Dirty Treasure Map
+2029400	Restored Treasure Map
+2029500	Jade Hair Ornament
+2029600	Employee List
+2029700	Small Safe
+2029800	Safe Key
+2029900	Great Tree Root
+2030000	Eye of Power
+2030100	Ribbon
+2030200	Yonah's Ribbon
+2030300	Bronze Key
+2030400	Brass Key
+2030500	Boar Tusk
+2030600	Cultivator's Handbook
+2030700	貴重品５０
+2030800	貴重品５１
+2030900	貴重品５２
+2031000	貴重品５３
+2031100	貴重品５４
+2031200	貴重品５５
+2031300	貴重品５６
+2031400	貴重品５７
+2031500	貴重品５８
+2031600	貴重品５９
+2031700	貴重品６０
+2031800	貴重品６１
+2031900	貴重品６２
+2032000	"Look at the Sky"
+2032100	"Don't Try So Hard"
+2032200	"My Birthday!"
+2032300	Love Letter 2/12/3340
+2032400	Love Letter 3/28/3340
+2032500	Love Letter 5/1/3340
+2032600	Letter from the Mayor
+2032700	The Postman's Request
+2032800	The Postman's Thanks
+2032900	Invitation from a Stranger
+2033000	Grand Re-Opening Notice
+2033100	Wedding Invitation
+2033200	Letter from the King
+2033300	Underground Research Record 1
+2033400	Underground Research Record 2
+2033500	Underground Research Record 3
+2033600	Underground Research Record 4
+2033700	Letter to the Chief
+2033800	Letter to Two Brothers Weaponry
+2033900	Letter to Popola
+2034000	Letter to a Faraway Lover
+2034100	Letter from Emil
+2034200	Weapon Upgrade Notice
+2034300	Letter from the Chief of The Aerie
+2035200	Project Gestalt Report 0923
+2035300	Project Gestalt Report 9182
+2035400	Project Gestalt Report 10432
+2035500	Project Gestalt Report 11242
+2051200	World Map
+2051500	<NIER>'s Village Map
+2051600	Lost Shrine Area Map
+2051700	Lost Shrine Map
+2051800	The Aerie Map
+2051900	Seafront Map
+2052000	Desert Map
+2052100	Facade Map
+2052200	Barren Temple Map
+2052300	Junk Heap Area Map
+2052400	Junk Heap Map
+2052500	Manor Map
+2052600	Forest of Myth Map
+2052700	Underground Facility Map
+2052900	Shadowlord's Castle Map
+2053100	Northern Plains Map
+2053200	Southern Plains Map
+2053300	Eastern Road Map
+2053500	Tokyo Map
+2200000	Restores up to 30%% of the user's HP.
+2200100	Restores up to 60%% of the user's HP.
+2200200	Restores all of the user's HP.
+2200300	Restores up to 200 HP to the user.
+2200400	Restores 10%% of the user's HP.
+2200500	Restores 30%% of the user's HP.
+2200600	Restores 50%% of the user's HP.
+2200700	Restores 100%% of the user's HP.
+2201100	Restores 2 HP every three seconds for two minutes.
+2201200	Restores 5 HP every three seconds for two minutes.
+2201300	Restores 10 HP every three seconds for two minutes.
+2201600	Revives a character with full HP. Auto-used upon death.
+2202100	Doubles physical damage for
+30 seconds.
+2202200	Doubles physical damage for
+60 seconds.
+2202300	Doubles magic damage for 30 seconds.
+2202400	Doubles magic damage for 60 seconds.
+2202500	Halves damage from physical attacks
+for 30 seconds.
+2202600	Halves damage from physical attacks
+for 60 seconds.
+2202700	Halves damage from magical attacks
+for 30 seconds.
+2202800	Halves damage from magical attacks
+for 60 seconds.
+2203100	Cures poison.
+2203200	Allows you to cast magic again.
+2203300	A powerful-smelling agent that revives
+unconscious allies.
+2204100	Increases growth speed, allowing you to harvest earlier.
+2204200	Increases the length of the flowering and harvesting periods.
+2204300	Increases the output of a harvest.
+2204600	A pumpkin seed that you can plant in the field.
+2204700	A watermelon seed that you can plant in the field.
+2204800	A melon seed that you can plant in the field.
+2204900	A gourd seed that you can plant in the field.
+2205000	A tomato seed that you can plant in the field.
+2205100	An eggplant seed that you can plant in the field.
+2205200	A bell pepper seed that you can plant in the field.
+2205300	A bean seed that you can plant in the field.
+2205400	A wheat seedling that you can plant in the field.
+2205500	A rice plant seedling that you can plant in the field.
+2205600	A dahlia bulb that you can plant in the field.
+2205700	A tulip bulb that you can plant in the field.
+2205800	A freesia bulb that you can plant in the field.
+2205900	A moonflower seed that you can plant in the field.
+2206000	A moonflower seed that you can plant in the field.
+2206100	A moonflower seed that you can plant in the field.
+2206200	A moonflower seed that you can plant in the field.
+2206300	A moonflower seed that you can plant in the field.
+2206400	A moonflower seed that you can plant in the field.
+2206500	A moonflower seed that you can plant in the field.
+2207100	An orange-colored fruit often used as a decoration during
+the winter months.
+2207200	Children often hold spitting contests with the seeds of this fruit.
+2207300	A sweet-smelling fruit that's quite popular among older women.
+2207400	Many people use these empty shells as water containers.
+2207500	A vegetable suitable for both eating and throwing at stage
+performers.
+2207600	A smooth, dark-colored fruit beloved by vegetarians.
+2207700	A vegetable with a bitter taste. Most children run from these
+in terror.
+2207800	Ancient lore claims this fruit is musical.
+2207900	Used to make bread, but also eaten plain during tough times.
+2208000	Some folks cook and eat this, while others use it to brew
+their own wine.
+2208100	A beautiful flower with a long, rich history.
+2208200	A flower that withstands the cold. Once used as a unit
+of currency.
+2208300	Flowers that are popular among ladies. Don't go on a date
+without one!
+2208400	A red moonflower. Use it to restore
+30%% of your HP.
+2208500	A golden moonflower. Use it to restore
+30%% of your HP.
+2208600	A peach-colored moonflower. Use it to
+restore 60%% of your HP.
+2208700	A pink moonflower. Use it to restore
+60%% of your HP.
+2208800	A blue moonflower. Use it to restore
+30%% of your HP.
+2208900	An indigo moonflower. Use it to restore
+60%% of your HP.
+2209000	An extremely rare white moonflower.
+Also known as a Lunar Tear.
+Use it to restore all of your HP.
+2210100	Bait loved by saltwater fish. Use it at the right spot to fish.
+2210200	Bait loved by freshwater fish. Use it at the right spot to fish.
+2210300	Fishing tackle. Use it at the right spot to fish.
+2211100	A common saltwater fish that can also be used as bait.
+2211200	A popular freshwater fish that can also be used as bait.
+2211300	A toxic saltwater fish. The non-lethal parts are delicious.
+2211400	A valuable saltwater fish eaten during auspicious occasions. 
+2211500	A saltwater fish known for its ferociousness.
+2211600	A sharp-billed saltwater fish of impressive size.
+2211700	A legendary saltwater fish often referred to as a living fossil.
+2211800	A freshwater fish that sports vibrant colors.
+2211900	A freshwater fish found almost everywhere.
+2212000	A freshwater fish known for its catlike whiskers.
+2212100	A freshwater fish with eggs valued in gourmet cuisine.
+2212200	A legendary freshwater fish that has existed for millennia.
+2212300	A unique crustacean that enjoys burrowing into the sand.
+2212400	A rare fish that can survive on land for short periods of time.
+2212500	A saltwater fish often used for medicinal purposes.
+2213100	A plant species that makes its home in the water.
+2213200	A broken tree branch.
+2213300	A rusty bucket made from rare and valuable metal alloys.
+2213400	An empty can made from rare and valuable metal alloys.
+2213800	Gold that was mined from the earth.
+2213900	Silver that was mined from the earth.
+2214000	Copper that was mined from the earth.
+2214100	Iron that was mined from the earth.
+2214200	A crystal rock that was mined from the earth.
+2214300	A mined stone that creates sparks when struck.
+2214400	A mined stone that can be cut into a beautiful green jewel.
+2214500	A meteorite that was dug up from the earth.
+2214600	A translucent jewel made of fossilized tree sap.
+2214700	A mined stone that holds a glow when exposed to the light.
+2214800	Versatile soil used in pottery and construction.
+2215300	Berries that have fallen from a tree.
+2215400	A type of fern with edible leaf buds.
+2215500	A perfectly sized tree branch.
+2215600	Processed timber that's ready for use.
+2215700	An elastic substance obtained from trees.
+2215800	A plant that grows in thin vines. It's frequently used in rope.
+2215900	A water-retaining plant used for fertilizer and as a decoration.
+2216000	A multi-use fungus found at the base of trees.
+2216100	A sticky liquid secreted from tree trunks.
+2216700	The tasty haunch of a sheep.
+2216800	The tasty haunch of a boar.
+2216900	Fuzzy wool from a sheep.
+2217000	The hide of a boar.
+2217100	The hide of a wolf.
+2217200	A sharp fang taken from a wolf.
+2217300	Thread taken from a giant spider.
+2217400	The tiny fang of a bat.
+2217500	The wing of a bat.
+2217600	The not-so-tasty haunch of a goat.
+2217700	The hide of a goat.
+2217800	The tasty haunch of a deer.
+2217900	Multicolored thread taken from a giant spider.
+2218000	A common folk remedy for stomach trouble and hangovers.
+2218100	A tough claw from a scorpion.
+2218200	The poisonous tail of a scorpion.
+2218300	A machine part.
+2218400	A machine part.
+2218500	A machine part.
+2218600	A machine part.
+2218700	A machine part.
+2218800	A machine part.
+2218900	A machine part.
+2219000	A machine part.
+2219100	A machine part.
+2219200	A machine part.
+2219300	A machine part made from an extremely rare metal.
+2219400	A machine part made from an extremely rare metal.
+2219500	A thoroughly rusted machine part.
+2219600	Oil that leaked from a machine.
+2220100	A necklace dropped by a Shade.
+2220200	A ring dropped by a Shade.
+2220300	An earring dropped by a Shade.
+2220400	A short necklace dropped by a Shade.
+2220500	An earring dropped by a Shade.
+2220600	A bracelet dropped by a Shade.
+2220700	A technical book written in an indecipherable language.
+2220800	A book too dirty and damaged to read.
+2220900	A thick book full of big words.
+2221000	A photo album with the pages stuck together.
+2221100	A picture book that's been scrawled on with crayon.
+2221200	An old, tattered schoolbook.
+2221300	A worn and dirty bag.
+2221400	A fancy hat.
+2221500	Leather gloves that are cracked and stiff.
+2221600	A weathered silk handkerchief.
+2221700	Thick-soled leather boots of excellent construction.
+2221800	A complex machine. Its purpose is a mystery.
+2221900	An elaborate machine. Its purpose is a mystery.
+2222000	A machine so simple, you can't determine its purpose.
+2222100	An inoperable clock.
+2222200	A watch that no longer tells the time.
+2222300	A rusty kitchen knife. Its serrated edge is breaking apart.
+2222400	A saw missing too many teeth to be of any use.
+2222500	A noticeably dented metal bat.
+2222700	A shell that washed ashore.
+2222800	A gastropod from the ocean. Tasty when used in a stew.
+2222900	A bivalve from the ocean. Often used in simple recipes.
+2223000	Seaweed found by the ocean. A kitchen staple.
+2223100	An empty bottle that washed ashore.
+2223200	Old wood that washed ashore.
+2223300	A pearl that shines brightly.
+2223400	A large, valuable pearl with a black veneer.
+2223500	An animal that lives by the ocean. Watch out for its pincers!
+2223600	An ocean creature with multiple arms.
+2224200	A rare item found by the ocean.
+2224300	A rare item dug up while mining for ore.
+2224400	A rare item found in the desert.
+2224500	A rare egg that's a bit too large to be from a chicken.
+2224600	A rare item found in the Junk Heap.
+2224700	An egg laid by eagles that live in the valley.
+2224800	A simple chicken egg found only in certain areas.
+2225000	A curly mouse tail.
+2225100	A reptile tail that is still twitching.
+2225501	A deer's antler, shorn in mid-growth. Used in various
+medicines.
+2225502	A key found in the manor. The word "Light" is written on it. 
+2225503	A key found in the manor. The word "Darkness" is written on it. 
+2225504	A pressed freesia flower that was dropped by a Shade.
+2225505	A potted freesia, ready for delivery to The Aerie.
+2225506	A bouquet of freesia flowers, ready for delivery to Facade.
+2225507	A pile of junk. This is the "treasure" pointed out by the map.
+2225508	A coin made of pure gold. Used for trade with foreign nations.
+2225509	A map written in ancient lettering. It's too worn to make out.
+2225510	A keycard, marked "AA", discovered in the manor basement.
+2225511	A keycard, marked "KA", discovered in the manor basement.
+2225512	A keycard, marked "SA", discovered in the manor basement.
+2225513	A keycard, marked "TA", discovered in the manor basement.
+2225514	A keycard, marked "NA", discovered in the manor basement.
+2225515	A keycard, marked "HA", discovered in the manor basement.
+2225516	A keycard, marked "MA", discovered in the manor basement.
+2225517	A keycard, marked "YA", discovered in the manor basement.
+2225518	A keycard, marked "RA", discovered in the manor basement.
+2225519	A keycard, marked "WA", discovered in the manor basement.
+2225600	A key found in the manor. The word "Moon" is written on it. 
+2225700	A key found in the manor. The word "Star" is written on it. 
+2225800	Quality flour made by carefully milling only the finest wheat.
+2225900	Coarse flour made by carelessly milling old, stale wheat.
+2226000	A perfume bottle that once held a somewhat tacky fragrance.
+2226100	A box that the postman asked you to deliver in his stead.
+2226200	A letter for the lighthouse lady, given to you by the postman.
+2226300	A device that filters and cleans water.
+2226400	A royal compass that helps the user navigate sandstorms.
+2226500	A medicine to help Yonah's cough.
+2226600	Strong, sticky spider thread used as a type of glue.
+2226700	A reference book of animals that live in the plains.
+2226800	A reference book of metals that can be mined in the plains.
+2226900	A reference book of plants that can be found in the plains.
+2227000	Part of the library's collection.
+2227100	Part of the library's collection.
+2227200	Medicine that must be delivered to the old woman.
+2227300	Powerful medicine that must be delivered to the old woman.
+2227400	A package bound for The Aerie. It's very fragile!
+2227500	A package bound for Seafront. It's very fragile!
+2227600	A book crammed full of recipes.
+2227700	A package bound for Facade. It's very fragile!
+2227800	Even in death, Max kept these in his mouth.
+2227900	Cargo that was found in the water. What could be inside...?
+2228000	Cargo that was found in the water. What could be inside...?
+2228100	Cargo that was found in the water. What could be inside...?
+2228200	Cargo that was found in the water. What could be inside...?
+2228300	An old package that has been tightly sealed.
+2228400	Legend says this gem is from the eye of a lonely mermaid.
+2228500	A powerful herb long used as a staple of magic and alchemy.
+2228600	A "vitality" booster.
+2228700	An item from the Junk Heap. It's quite useful as a medicine.
+2228800	A drug that lets the user forgo sleep for up to seven days.
+2228900	An antidote for a poison fruit found in the Forest of Myth.
+2229000	A gold bracelet found on the body of a dead man.
+2229100	A razor-sharp kitchen knife from Two Brothers Weaponry.
+2229200	A replacement part for the Junk Heap elevator.
+2229300	A treasure map too old and worn to read.
+2229400	A restored treasure map that is now perfectly legible.
+2229500	A jade hair accessory worn by a worried wife.
+2229600	A list of personnel employed at the laboratory.
+2229700	A portable, yet sturdy safe. ...It's locked.
+2229800	A key required to open the portable safe.
+2229900	A piece of root from the great tree at the Lost Shrine.
+2230000	A stone that shows the owner whatever he wants to see.
+2230100	A girl's hair ribbon. How charming!
+2230200	A charming ribbon that Yonah wore in her hair.
+2230300	A bronze key found in the Lost Shrine.
+2230400	A brass key found in the Lost Shrine.
+2230500	A tusk from an old, cunning boar. Fighters in possession
+of one of these gain the respect of other boars.
+2230600	A guidebook for the cultivating elite. Read it and watch your
+desire to cultivate soar!
+2230700	貴重品の説明５０
+2230800	貴重品の説明５１
+2230900	貴重品の説明５２
+2231000	貴重品の説明５３
+2231100	貴重品の説明５４
+2231200	貴重品の説明５５
+2231300	貴重品の説明５６
+2231400	貴重品の説明５７
+2231500	貴重品の説明５８
+2231600	貴重品の説明５９
+2231700	貴重品の説明６０
+2231800	貴重品の説明６１
+2231900	貴重品の説明６２
+2232000	A letter from Yonah.
+2232100	A letter from Yonah.
+2232200	A letter from Yonah.
+2232300	A letter from the lighthouse lady's absent lover.
+2232400	A letter from the lighthouse lady's absent lover.
+2232500	A letter from the lighthouse lady's absent lover.
+2232600	A letter from the mayor living in the Forest of Myth.
+2232700	A request from Seafront's postman.
+2232800	A thank-you note from Seafront's postman.
+2232900	An invitation from an unknown sender.
+2233000	An announcement from Two Brothers Weaponry.
+2233100	A wedding invitation from the king of Facade.
+2233200	A letter from the king of Facade.
+2233300	A document containing information on an old research project.
+2233400	A document containing information on an old research project.
+2233500	A document containing information on an old research project.
+2233600	A document containing information on an old research project.
+2233700	A letter from the mayor of Seafront to the chief of The Aerie.
+2233800	A letter from the Seafront Company to Two Brothers Weaponry.
+2233900	A letter regarding Shade activity around The Aerie.
+2234000	A letter from a faraway lover to his beloved.
+2234100	An update from Emil.
+2234200	A letter from Two Brothers Weaponry informing you
+that your weapon upgrade is complete.
+2234300	A reply from the chief of The Aerie to Popola's inquiry.
+2235200	A document containing information on Project Gestalt.
+2235300	A document containing information on Project Gestalt.
+2235400	A document containing information on Project Gestalt.
+2235500	A document containing information on Project Gestalt.
+2251200	A map of the entire region.
+2251500	A map of <NIER>'s village.
+2251600	A map of the area near the Lost Shrine.
+2251700	A map of the Lost Shrine.
+2251800	A map of The Aerie.
+2251900	A map of Seafront.
+2252000	A map of the desert.
+2252100	A map of Facade.
+2252200	A map of the Barren Temple.
+2252300	A map of the area near the Junk Heap.
+2252400	A map of the Junk Heap.
+2252500	A map of the manor.
+2252600	A map of the Forest of Myth.
+2252700	A map of the underground facility.
+2252900	A map of the Shadowlord's castle.
+2253100	A map of the northern plains.
+2253200	A map of the southern plains.
+2253300	A map of the eastern road.
+2253500	A map of Tokyo.
+2400000	Dear Brother,
+
+I hope you're doing okay. I'm doing fine here,
+though it gets kind of lonely sometimes.
+But whenever that happens, I just look up at the sky and
+wonder if it's the same color wherever you are, too.
+That usually makes me feel better.
+
+Don't catch cold, okay?
+
+Yonah
+2400100	Dear Brother,
+
+I'm worried about you. You spend all your energy focusing
+on my disease, and whenever I think about how upset you are,
+it makes me kind of sad.
+
+I wish you'd slow down a little and not worry about me,
+because seeing you in pain is way worse than this stupid Black Scrawl.
+I know that sounds weird, but it's the truth.
+
+Yonah
+2400200	Dear Brother,
+
+Today was awesome! Popola made me this HUGE cake that was really
+yummy, and everyone in the village has been wishing me happy birthday.
+It's fun! I feel like a princess or something.
+
+I don't feel sick at all today. In fact, I almost forgot I had this disease!
+So maybe you can forget about it too and come back home now? 
+
+Yonah
+2400300	My dearest beloved,
+
+Please forgive the lateness of this letter. I have recently fallen quite ill,
+and had some difficulty finding a doctor in this foreign land.
+The people here, however, have treated me with great kindness,
+and I now feel my body getting stronger by the day.
+If my recovery continues, I hope to attempt the journey home soon. 
+
+I think about you every day, and yearn for the moment when
+we can be together again. Please take care of yourself,
+and know that I am doing everything I can to return to you.
+2400400	My dearest beloved,
+
+Again I put pen to paper when all I desire is to see you with my
+own eyes. How do the days find you? I am faring well enough.
+My illness is stubborn, but my love for you is stronger!
+Just knowing that you wait for me is enough to keep me going. 
+
+I know how lonely you must be, but I must say this again:
+Do not attempt to find me. The voyage is treacherous, and disease
+runs rampant in this land. If anything were to happen to you,
+I fear I would not be able to take it.
+
+My love. My dearest love. I will return to you soon.
+2400500	My dearest beloved,
+
+Fifty years have passed since I last gazed upon your face. How is it
+possible? When next we meet, I hope you can look past the wrinkles
+of an old man and see into a soul as young as the day we first met.
+
+This passage of time has led me to think upon our earlier days. When we
+first met, you were the prettiest girl in town. Your beauty was what first
+attracted me to you, but it was your kind heart which ensnared my soul.
+It gladdens me to read your letters, for I can see in them that your
+spirit is as wonderful as ever. 
+
+I thank the gods each day that we fell in love, even as I curse them
+for keeping us apart. I will see you again. Wait for me, my love.
+2400600	Dearest Popola,
+
+I hope this letter finds you well.
+
+I am writing in hopes of bringing to your attention a certain dream
+issue of concern regarding recent events in dream the village.
+I was hoping I might be dream able to get your advice dream
+on the matter.
+
+Recently there have been dream reports dream dream of a certain dream
+dream dream dream of dream dream dream dream evil dream dream
+dream dream empty dream curse dream dream dream dream dream evil
+dream dream dream dream dream dream dream dream words dream
+dream dream and dreamdreamdreamdreamdreamdream someone
+dreamdreamdreamdreamdream
+2400700	Dear <NIER>,
+
+I know we haven't spoken in a while, and I'm sorry that my first
+communication is a plea for help, but I'm at my wit's end here.
+
+I have an important letter that must be delivered to the woman in
+the lighthouse, but the issues with my leg prevent me from bringing
+it to her. I have asked my fellow postmen from other towns to help
+me, but they all claim to be too busy. (Personally, I think they're
+all just scared of the woman...and I suppose I can't blame them!)
+
+You are the only man I can think of who can stand up to her.
+Will you please come and help me?
+It would mean more than you can know.
+2400800	Dear <NIER>,
+
+You've been fantastic! If I thought you were interested,
+I'd make you a deputy postman on the spot!
+But I'm sure you have more important matters to attend to.
+
+Can you come to the post office in Seafront? I know it's
+a bit of a trek, but I have something for you in the way
+of a thank-you, and I would like to deliver it in person.
+2400900	My good sir,
+
+You do not know me, but rest assured, I know of you.
+Tales of your exploits have spread far and wide across
+the land, bringing hope to even the darkest corners.
+Imagine, a man strong enough to stand against the Shades!
+It makes my heart race just to think of it.
+
+I know this seems sudden, but I would be most appreciative
+if you could pay me a visit. I am the owner of a humble
+manor located in the southern plains, but I promise you,
+my hospitality is second to none! 
+
+Please think upon my offer. I look forward to meeting you.
+2401000	*IMPORTANT NOTICE*
+
+Greetings from Two Brothers Weaponry! We hope that all of our loyal customers are doing well.
+
+We're pleased to announce that the dust has settled, and our renovations are now complete!
+Our new store is opening today, with even more great ways to serve the busy Shade hunter!
+
+We apologize for any inconvenience caused by our lengthy closure, and we hope to see you soon.
+2401100	Official Notice 
+
+As per Rule 25,656, please consider this your official notice that the
+king of Facade has chosen to enter into the ceremony of matrimony.
+Please lodge all objections and/or congratulations through the
+official channels stated in Rule 38,585.
+
+Sincerely,
+
+The Facade Royal Office of Marriage and Other Legally Binding
+Contracts and Concerns
+
+PS: Hey, guys, it's me! The king of Facade! Sorry this
+is all formal and stuff. Listen, I'm getting married,
+and I really want you to come!...So get over here!
+2401200	Dear <NIER>
+
+This is going to sound sudden, but I'm leaving the city soon.
+I have some things I need to get straight in my head,
+and I don't think I can do so here.
+
+If anything happens to me, I'd like you to take care of my personal
+affairs. Oh, and I haven't mentioned this to my advisor because I
+wanted to tell you first. So if he seems really surprised, that's why.
+
+See you soon,
+
+—The king of Facade
+2401300	Notice: Archival Storage   8.2.2026
+
+Following the recent incident with Number 6, we have decided to
+establish an archival room. This room will hold records on the
+methods used to control and/or cancel all forms of magic—
+including petrification and bestial transformation—as well as
+allow other projects to move forward. (Specifically, this
+should make it easier to complete a long-term storage solution
+for Number 6, as well as proceed with our work on Number 7.)
+
+All employees are required to keep the courtyard
+entrance to this new room secure. Failure to do so
+is considered grounds for immediate termination.
+2401400	Notice: Progress Report on Number 6   12.25.2025
+
+We have completed the initial research into Number 6, and are ready
+to initiate the startup experiment in the coming days.
+
+As this will likely mark a great leap forward in Gestalt research,
+the National Weapons Research Laboratory has made the completion of
+the Number 6 project its top priority. Budgets for all other
+projects are to be frozen, effective immediately.
+2401500	Notice: Meeting Agenda   9.12.2026
+
+Today's meeting will address the following topics:
+- A solution for long-term storage of Number 6.
+- A progress report on Number 7.
+- Disguising the laboratory's above-ground facility as a mansion.
+2401600	Notice: Progress Report on Number 6   10.11.2025
+
+The donor body Halua has been chosen from among the seven candidate
+subjects to proceed to the next stage. In the interest of protecting state
+secrets, all but one of the remaining subjects will be disposed of.
+The donor body Emil, however, will be kept in storage as a failsafe
+measure.
+2401700	From: The Office of the Mayor of Seafront
+To: The Chief of The Aerie
+
+I hope my letter finds you in good spirits. That said, I have not
+received correspondence from your village in some time. Is everything
+well? Our merchants have lost contact with their customers from your
+fair town, and this disquiets all of us greatly.
+
+As you know, Shade activity has been on the rise as of late, and this
+makes us fear for the safety of The Aerie—especially since the foul
+creatures seem unusually attracted to your area. Please let us know
+if there is anything that the people of Seafront can do to help in
+the fight against this common enemy.
+2401800	To: Two Brothers Weaponry
+
+Allow us to extend our heartfelt thanks regarding our recent business
+transaction. We hope you will forgive our initial reaction when we
+learned of your youth. Such worries have proven to be totally unfounded,
+as the metals we received were all of the utmost quality.
+We could not be more satisfied with the order!
+
+We hope to continue doing business in the future.
+
+The Seafront Company, Trade Division
+2401900	From: The Office of the Mayor of Seafront
+To: Popola
+
+I write to you regarding the urgent matter of The Aerie. As you know,
+Shade activity in that area has been much increased of late, and we
+now fear the worst. Numerous letters to the village chief have yet
+to be returned, and our merchants have recently lost all contact
+with customers there.
+
+While Seafront has yet to be troubled by the Shades, we fear their
+arrival is only a matter of time. I encourage your village to take
+all necessary steps to defend yourself from this terrible scourge;
+the loss of two outposts would be almost too much to bear.
+
+I hope to hear from you soon.
+2402000	My dearest,
+
+My efforts at cultivating freesia have finally borne fruit!
+I know it's taken a while, but I didn't want to contact
+you until I was sure I could keep my head above water. 
+
+Now that the money is starting to roll in, I was hoping you would leave
+the village and come live with me as my wife. I know it's sudden,
+but I'm not very good at this type of thing, so I figured I'd just
+ask and let the chips fall where they may. 
+
+I'll be waiting for you.
+2402100	Hi, <NIER>!
+
+Hey, it's me! Emil! Sorry I've been quiet for so long.
+Are you and Weiss getting along all right? Is he still using
+big words and making everyone feel dumb? I bet he is!
+
+Anyway, I recently stumbled upon some records
+that might help us in curing Kainé's petrification.
+Would you mind coming here to take a look? 
+
+Thanks! I'll be waiting!
+2402200	Dear <NIER>,
+
+This is to inform you that the upgrade work on your
+weapon has been completed. The weapon is ready and
+available for pickup at your earliest convenience.
+
+I also have a more personal request to make of you, one I hope
+we can discuss further once you arrive to pick up the weapon.
+
+Yours,
+Two Brothers Weaponry
+2402300	From The Office of the Chief of The Aerie
+To: Popola
+
+My greetings to you and your village. I hope everything is going well.
+
+Our village has shut itself away from the world for far too many years,
+and we have therefore decided it is time to change our ways. As part of
+this endeavor, we have resolved to establish a shop within the village.
+It is now open for business, and I look forward to seeing a great many
+customers visit from all over the world.
+
+With regards to the "sacrifice" keyword you wrote about, one of our
+villagers claimed to know the meaning behind the term. You are more
+than welcome to speak with him on the matter as part of your visit
+to The Aerie.
+
+I hope to hear again from you soon.
+2403200	Project Gestalt Report 0923
+
+As noted in the previous report, implementation of Gestalt mode can
+prevent the white chlorination syndrome we recently experienced.
+Transfer of bodily information to civilization-repressed Replicants
+is proceeding as planned, with the genes of the Originals safely
+stored inside.
+
+Our role as surveillance androids to prepare for when the
+incurable bacterial disease eventually dies out is also underway.
+So far, this is proceeding without issue.
+
+Observer: 021   Codename: Popola
+2403300	Project Gestalt Report 9182
+
+This document discusses potential strategies for the relapse cases
+we have observed in recent years. The term "relapse," of course,
+refers to the catastrophic loss of sentience seen in certain Gestalts.
+This syndrome has defied even our most pessimistic initial estimates,
+and continues to trend upward with disturbing speed.
+
+With some relapsed Gestalts beginning to attack Replicants,
+there is an urgent need to take comprehensive action.
+We remain convinced that an unknown technological defect in the
+Gestalt transformation process is responsible for the condition,
+but so far have been unable to confirm this theory.
+
+Research of this condition is now our top priority,
+and looks likely to continue for some time.
+
+Observer: 022   Codename: Devola
+2403400	Project Gestalt Report 10432
+
+Shorthand Minutes of Case 23 (Emergency Response Conference)
+Committee Special Meeting
+
+Issue: Observed upward trend in relapses
+(noted and discussed).
+Issue: Acceleration of restoration schedule (approved).
+Report: Debate over using codename "Noir" for human restoration schedule.
+Report: Preparations to launch "Weiss" decoding system for above.
+Report: Order collection of guidance and release code for
+<NIER> alongside Weiss launch.
+
+Observer: 021   Codename: Popola
+Observer: 022   Codename: Devola
+2403500	Project Gestalt Report 11242
+
+We have determined that the rise of relapses was due to an unexpected
+spike in the sentience of Replicants, as well as a genetic instability
+within the original Gestalt. (It seems the Original's effect on bodies
+that have undergone the Gestalt process was not anticipated in advance.)
+
+Immediate action must be undertaken to identify the links between
+this trend and the original Gestalt—along with its sister,
+the relapsed case known as Yonah.
+
+The Observer Contact Group is growing uneasy, so finding a
+solution to the relapse issue should be considered a top priority.
+(See other reports for more details.)
+
+Observer: 021   Codename: Popola
+2403600	Project Gestalt Report 11242
+
+We have determined that the rise of relapses was due to an unexpected
+spike in the sentience of Replicants, as well as a genetic instability
+within the original Gestalt. (It seems the Original's effect on bodies
+that have undergone the Gestalt process was not anticipated in advance.)
+
+Immediate action must be undertaken to identify the links between
+this trend and the original Gestalt—along with its sister,
+the relapsed case known as Yonah.
+
+The Observer Contact Group is growing uneasy, so finding a
+solution to the relapse issue should be considered a top priority.
+(See other reports for more details.)
+
+Observer: 021   Codename: Popola
+2404000	This is the world of the recycled vessel, created to avoid the destruction of all.
+2404100	The Black Scrawl. A lost destiny. A white book. A false truth.
+2404200	A soldier of salt calling forth white death.
+He is Legion, the man who plunged the world into darkness.
+2404300	The dragon's corpse brought death to the world, delivering unto it the power of the devil.
+2404400	The black sickness stains the future. They journey to return to soulless vessels.
+2404500	The apocalypse divided the world in two: 
+one that knows not day, and one which has never seen the night.
+2404600	Black, and white. Thirteen pacts. The vessels' forms waver as they cross time and space.
+2404700	The song of man has been drowned out. In its place, the scream of something inhuman.
+2404800	The sky falls with the dragon. The world ends this day.
+2404900	The puppet priest collects the accursed prayers and polishes the vessel.
+2405000	As long as this memory exists, as long as mankind has hope,
+a bloody battle will be waged over the holy domain of the body.
+2405100	Foolish human.
+Foolish human.
+Foolish human.
+
+Foolish vessel.
+2405200	All is paid. All is sacrifice.
+2405300	Do not bring back the light.
+Do not bring back the vessel.
+Do not bring back the future.
+Do not bring it back.
+2405400	Every beam of light is an invitation to death.
+2500000	Dear Brother,
+
+I hope you're doing okay. I'm doing fine here,
+though it gets kind of lonely sometimes.
+But whenever that happens, I just look up at the sky and
+wonder if it's the same color wherever you are, too.
+That usually makes me feel better.
+
+Don't catch cold, okay?
+
+Yonah
+2500100	Dear Brother,
+
+I'm worried about you. You spend all your energy focusing
+on my disease, and whenever I think about how upset you are,
+it makes me kind of sad.
+
+I wish you'd slow down a little and not worry about me,
+because seeing you in pain is way worse than this stupid Black Scrawl.
+I know that sounds weird, but it's the truth.
+
+Yonah
+2500200	Dear Brother,
+
+Today was awesome! Popola made me this HUGE cake that was really
+yummy, and everyone in the village has been wishing me happy birthday.
+It's fun! I feel like a princess or something.
+
+I don't feel sick at all today. In fact, I almost forgot I had this disease!
+So maybe you can forget about it too and come back home now? 
+
+Yonah
+2500300	メモの文章61
+2500400	メモの文章61
+2500500	メモの文章62
+2500600	メモの文章63
+2500700	メモの文章61
+3000000	Nameless Blade
+3000100	Phoenix Dagger
+3000200	Beastbain
+3000300	Labyrinth's Whisper
+3000400	Fool's Embrace
+3000500	Ancient Overlord
+3000600	Rebirth
+3000700	Earth Wyrm's Claw
+3000800	Nirvana Dagger
+3000900	Moonrise
+3001000	Blade of Treachery
+3001100	Lily-Leaf Sword
+3001200	Faith
+3001300	Iron Pipe
+3001400	Kusanagi
+3001500	Phoenix Sword
+3001600	Beastlord
+3001700	Labyrinth's Song
+3001800	Fool's Lament
+3001900	Fang of the Twins
+3002000	Axe of Beheading
+3002100	Vile Axe
+3002200	Iron Will
+3002300	Transience
+3002400	Phoenix Spear
+3002500	Beastcurse
+3002600	Labyrinth's Shout
+3002700	Fool's Accord
+3002800	The Devil Queen
+3002900	Sunrise
+3003000	Spear of the Usurper
+3003100	Dragoon Lance
+3003200	Captain's Holy Spear
+3200000	A simple sword forged by a village smith. 
+More suited to fending off small animals than actual combat.
+3200100	A ceremonial blade crafted from feathers of the legendary
+firebird. It is untested as a weapon.
+3200200	A sword that bears a beastly motif. Its short, thin blade seems
+eager to vanish from sight.
+3200300	Forged from steel and liquefied beast fangs, the blade is red
+with the blood of countless sacrificial offerings. 
+3200400	A sword created after a man, driven mad by revenge, sealed
+away a cursed dragon.
+3200500	An ancient warlord used this sword to slay his loyal subjects
+in hopes of gaining eternal life.
+3200600	A unique sword with a round blade. Legend holds that it robs
+the wielder of his life force.
+3200700	Made from the fossil of an ancient beast. It's more unwieldy
+than most swords—but further forging can help.
+3200800	A group of girls used this sword to consecrate a newly-built
+temple with their own blood.
+3200900	A weapon owned by a blind swordsman. The blade shines in
+darkness, making the owner easy to spot.
+3201000	When a man who has lost his way wields this sword, the
+blade becomes blunt as wood.
+3201100	A narrow sword once owned by a woman of such impossible
+beauty that men begged her to take their lives.
+3201200	A sword carried by the world's most loyal servant. Like that
+loyalty, the sword's blade is straight and true.
+3201300	A relic of the civilized age. Its rusty scent comes from the
+blood of all who dared oppose the wielder.
+3201400	レベル１武器説明
+3201500	レベル１武器説明
+3201600	レベル１武器説明
+3201700	レベル１武器説明
+3201800	レベル１武器説明
+3201900	レベル１武器説明
+3202000	A man whose fiancée was spirited away by an eight-headed
+beast used this sword to smite his foe.
+3202100	A large sword used by temple guardsmen, and supposedly
+made from feathers of the legendary firebird.
+3202200	A beastly sword whose keen edge stands ready to mow down
+all who question the divine right of the wielder.
+3202300	A sword forged from metal and liquefied beast horns. Its dull
+glow lures people deep into the labyrinth.
+3202400	A weapon with a heroic dragon motif, used by a man who tried
+to save the world.
+3202500	A giant, accursed axe that was bathed in the blood of young twins
+before being presented to the gods themselves.
+3202600	A man's dementia drove him to attack his daughter's fiancé
+with this axe. Sadly, he hit his daughter instead.
+3202700	A mage with a putrid soul imbued the essence of a fire lizard
+into this axe. 
+3202800	An enormous sword that grows heavier with every kill as
+blood and flesh cling to the blade.
+3202900	レベル１武器説明
+3203000	レベル１武器説明
+3203100	レベル１武器説明
+3203200	レベル１武器説明
+3203300	レベル１武器説明
+3203400	レベル１武器説明
+3203500	レベル１武器説明
+3203600	レベル１武器説明
+3203700	レベル１武器説明
+3203800	レベル１武器説明
+3203900	レベル１武器説明
+3204000	A knight was so moved by the suffering of a beggar that he
+removed all ornamentations from this spear.
+3204100	Forged by monks from feathers of the legendary firebird,
+this spear was designed as a tool of self-defense.
+3204200	A noble lord commissioned this beastly weapon that the world
+might stand in awe of his power.
+3204300	Forged from metal and liquefied beast claws, this destructive
+spear is filled with a deep hatred for the world.
+3204400	A lance birthed as part of a pact with an ancient red dragon.
+3204500	The favorite spear of a mad queen whose lust for power led
+her to kill all of her sons' wives.
+3204600	This spear's point is so finely honed that all who are grazed
+by it experience an instant, painless death.
+3204700	A spear used by a prince's body double to slay his employer.
+The traitor was later killed with the same spear.
+3204800	A spear that symbolizes a pact between a great warlord
+and an ancient dragon.
+3204900	A spear brandished by a warrior monk chief who sacrificed
+his own life to protect his comrades.
+3205000	レベル１武器説明
+3205100	レベル１武器説明
+3205200	レベル１武器説明
+3205300	レベル１武器説明
+3205400	レベル１武器説明
+3205500	レベル１武器説明
+3205600	レベル１武器説明
+3205700	レベル１武器説明
+3205800	レベル１武器説明
+3205900	レベル１武器説明
+3206000	レベル１武器説明
+3206100	レベル１武器説明
+3206200	レベル１武器説明
+3206300	レベル１武器説明
+3210000	A simple sword forged by a village smith. 
+More suited to fending off small animals than actual combat.
+3210100	A ceremonial blade crafted from feathers of the legendary
+firebird. It is untested as a weapon.
+3210200	A sword that bears a beastly motif. Its short, thin blade seems
+eager to vanish from sight.
+3210300	Forged from steel and liquefied beast fangs, the blade is red
+with the blood of countless sacrificial offerings. 
+3210400	A sword created after a man, driven mad by revenge, sealed
+away a cursed dragon.
+3210500	An ancient warlord used this sword to slay his loyal subjects
+in hopes of gaining eternal life.
+3210600	A unique sword with a round blade. Legend holds that it robs
+the wielder of his life force.
+3210700	Made from the fossil of an ancient beast. It's more unwieldy
+than most swords—but further forging can help.
+3210800	A group of girls used this sword to consecrate a newly-built
+temple with their own blood.
+3210900	A weapon owned by a blind swordsman. The blade shines in
+darkness, making the owner easy to spot.
+3211000	When a man who has lost his way wields this sword, the
+blade becomes blunt as wood.
+3211100	A narrow sword once owned by a woman of such impossible
+beauty that men begged her to take their lives.
+3211200	A sword carried by the world's most loyal servant. Like that
+loyalty, the sword's blade is straight and true.
+3211300	A relic of the civilized age. Its rusty scent comes from the
+blood of all who dared oppose the wielder.
+3211400	レベル２武器説明
+3211500	レベル２武器説明
+3211600	レベル２武器説明
+3211700	レベル２武器説明
+3211800	レベル２武器説明
+3211900	レベル２武器説明
+3212000	A man whose fiancée was spirited away by an eight-headed
+beast used this sword to smite his foe.
+3212100	A large sword used by temple guardsmen, and supposedly
+made from feathers of the legendary firebird.
+3212200	A beastly sword whose keen edge stands ready to mow down
+all who question the divine right of the wielder.
+3212300	A sword forged from metal and liquefied beast horns. Its dull
+glow lures people deep into the labyrinth.
+3212400	A weapon with a heroic dragon motif, used by a man who tried
+to save the world.
+3212500	A giant, accursed axe that was bathed in the blood of young twins
+before being presented to the gods themselves.
+3212600	A man's dementia drove him to attack his daughter's fiancé
+with this axe. Sadly, he hit his daughter instead.
+3212700	A mage with a putrid soul imbued the essence of a fire lizard
+into this axe. 
+3212800	An enormous sword that grows heavier with every kill as
+blood and flesh cling to the blade.
+3212900	レベル２武器説明
+3213000	レベル２武器説明
+3213100	レベル２武器説明
+3213200	レベル２武器説明
+3213300	レベル２武器説明
+3213400	レベル２武器説明
+3213500	レベル２武器説明
+3213600	レベル２武器説明
+3213700	レベル２武器説明
+3213800	レベル２武器説明
+3213900	レベル２武器説明
+3214000	A knight was so moved by the suffering of a beggar that he
+removed all ornamentations from this spear.
+3214100	Forged by monks from feathers of the legendary firebird,
+this spear was designed as a tool of self-defense.
+3214200	A noble lord commissioned this beastly weapon that the world
+might stand in awe of his power.
+3214300	Forged from metal and liquefied beast claws, this destructive
+spear is filled with a deep hatred for the world.
+3214400	A lance birthed as part of a pact with an ancient red dragon.
+3214500	The favorite spear of a mad queen whose lust for power led
+her to kill all of her sons' wives.
+3214600	This spear's point is so finely honed that all who are grazed
+by it experience an instant, painless death.
+3214700	A spear used by a prince's body double to slay his employer.
+The traitor was later killed with the same spear.
+3214800	A spear that symbolizes a pact between a great warlord
+and an ancient dragon.
+3214900	A spear brandished by a warrior monk chief who sacrificed
+his own life to protect his comrades.
+3215000	レベル２武器説明
+3215100	レベル２武器説明
+3215200	レベル２武器説明
+3215300	レベル２武器説明
+3215400	レベル２武器説明
+3215500	レベル２武器説明
+3215600	レベル２武器説明
+3215700	レベル２武器説明
+3215800	レベル２武器説明
+3215900	レベル２武器説明
+3216000	レベル２武器説明
+3216100	レベル２武器説明
+3216200	レベル２武器説明
+3216300	レベル２武器説明
+3220000	A simple sword forged by a village smith. 
+More suited to fending off small animals than actual combat.
+3220100	A ceremonial blade crafted from feathers of the legendary
+firebird. It is untested as a weapon.
+3220200	A sword that bears a beastly motif. Its short, thin blade seems
+eager to vanish from sight.
+3220300	Forged from steel and liquefied beast fangs, the blade is red
+with the blood of countless sacrificial offerings. 
+3220400	A sword created after a man, driven mad by revenge, sealed
+away a cursed dragon.
+3220500	An ancient warlord used this sword to slay his loyal subjects
+in hopes of gaining eternal life.
+3220600	A unique sword with a round blade. Legend holds that it robs
+the wielder of his life force.
+3220700	Made from the fossil of an ancient beast. It's more unwieldy
+than most swords—but further forging can help.
+3220800	A group of girls used this sword to consecrate a newly-built
+temple with their own blood.
+3220900	A weapon owned by a blind swordsman. The blade shines in
+darkness, making the owner easy to spot.
+3221000	When a man who has lost his way wields this sword, the
+blade becomes blunt as wood.
+3221100	A narrow sword once owned by a woman of such impossible
+beauty that men begged her to take their lives.
+3221200	A sword carried by the world's most loyal servant. Like that
+loyalty, the sword's blade is straight and true.
+3221300	A relic of the civilized age. Its rusty scent comes from the
+blood of all who dared oppose the wielder.
+3221400	レベル３武器説明
+3221500	レベル３武器説明
+3221600	レベル３武器説明
+3221700	レベル３武器説明
+3221800	レベル３武器説明
+3221900	レベル３武器説明
+3222000	A man whose fiancée was spirited away by an eight-headed
+beast used this sword to smite his foe.
+3222100	A large sword used by temple guardsmen, and supposedly
+made from feathers of the legendary firebird.
+3222200	A beastly sword whose keen edge stands ready to mow down
+all who question the divine right of the wielder.
+3222300	A sword forged from metal and liquefied beast horns. Its dull
+glow lures people deep into the labyrinth.
+3222400	A weapon with a heroic dragon motif, used by a man who tried
+to save the world.
+3222500	A giant, accursed axe that was bathed in the blood of young twins
+before being presented to the gods themselves.
+3222600	A man's dementia drove him to attack his daughter's fiancé
+with this axe. Sadly, he hit his daughter instead.
+3222700	A mage with a putrid soul imbued the essence of a fire lizard
+into this axe. 
+3222800	An enormous sword that grows heavier with every kill as
+blood and flesh cling to the blade.
+3222900	レベル３武器説明
+3223000	レベル３武器説明
+3223100	レベル３武器説明
+3223200	レベル３武器説明
+3223300	レベル３武器説明
+3223400	レベル３武器説明
+3223500	レベル３武器説明
+3223600	レベル３武器説明
+3223700	レベル３武器説明
+3223800	レベル３武器説明
+3223900	レベル３武器説明
+3224000	A knight was so moved by the suffering of a beggar that he
+removed all ornamentations from this spear.
+3224100	Forged by monks from feathers of the legendary firebird,
+this spear was designed as a tool of self-defense.
+3224200	A noble lord commissioned this beastly weapon that the world
+might stand in awe of his power.
+3224300	Forged from metal and liquefied beast claws, this destructive
+spear is filled with a deep hatred for the world.
+3224400	A lance birthed as part of a pact with an ancient red dragon.
+3224500	The favorite spear of a mad queen whose lust for power led
+her to kill all of her sons' wives.
+3224600	This spear's point is so finely honed that all who are grazed
+by it experience an instant, painless death.
+3224700	A spear used by a prince's body double to slay his employer.
+The traitor was later killed with the same spear.
+3224800	A spear that symbolizes a pact between a great warlord
+and an ancient dragon.
+3224900	A spear brandished by a warrior monk chief who sacrificed
+his own life to protect his comrades.
+3225000	レベル３武器説明
+3225100	レベル３武器説明
+3225200	レベル３武器説明
+3225300	レベル３武器説明
+3225400	レベル３武器説明
+3225500	レベル３武器説明
+3225600	レベル３武器説明
+3225700	レベル３武器説明
+3225800	レベル３武器説明
+3225900	レベル３武器説明
+3226000	レベル３武器説明
+3226100	レベル３武器説明
+3226200	レベル３武器説明
+3226300	レベル３武器説明
+3330000	A simple sword forged by a village smith. 
+More suited to fending off small animals than actual combat.
+3330100	A ceremonial blade crafted from feathers of the legendary
+firebird. It is untested as a weapon.
+3330200	A sword that bears a beastly motif. Its short, thin blade seems
+eager to vanish from sight.
+3330300	Forged from steel and liquefied beast fangs, the blade is red
+with the blood of countless sacrificial offerings. 
+3330400	A sword created after a man, driven mad by revenge, sealed
+away a cursed dragon.
+3330500	An ancient warlord used this sword to slay his loyal subjects
+in hopes of gaining eternal life.
+3330600	A unique sword with a round blade. Legend holds that it robs
+the wielder of his life force.
+3330700	Made from the fossil of an ancient beast. It's more unwieldy
+than most swords—but further forging can help.
+3330800	A group of girls used this sword to consecrate a newly-built
+temple with their own blood.
+3330900	A weapon owned by a blind swordsman. The blade shines in
+darkness, making the owner easy to spot.
+3331000	When a man who has lost his way wields this sword, the
+blade becomes blunt as wood.
+3331100	A narrow sword once owned by a woman of such impossible
+beauty that men begged her to take their lives.
+3331200	A sword carried by the world's most loyal servant. Like that
+loyalty, the sword's blade is straight and true.
+3331300	A relic of the civilized age. Its rusty scent comes from the
+blood of all who dared oppose the wielder.
+3331400	レベル４武器説明
+3331500	レベル４武器説明
+3331600	レベル４武器説明
+3331700	レベル４武器説明
+3331800	レベル４武器説明
+3331900	レベル４武器説明
+3332000	A man whose fiancée was spirited away by an eight-headed
+beast used this sword to smite his foe.
+3332100	A large sword used by temple guardsmen, and supposedly
+made from feathers of the legendary firebird.
+3332200	A beastly sword whose keen edge stands ready to mow down
+all who question the divine right of the wielder.
+3332300	A sword forged from metal and liquefied beast horns. Its dull
+glow lures people deep into the labyrinth.
+3332400	A weapon with a heroic dragon motif, used by a man who tried
+to save the world.
+3332500	A giant, accursed axe that was bathed in the blood of young twins
+before being presented to the gods themselves.
+3332600	A man's dementia drove him to attack his daughter's fiancé
+with this axe. Sadly, he hit his daughter instead.
+3332700	A mage with a putrid soul imbued the essence of a fire lizard
+into this axe. 
+3332800	An enormous sword that grows heavier with every kill as
+blood and flesh cling to the blade.
+3332900	レベル４武器説明
+3333000	レベル４武器説明
+3333100	レベル４武器説明
+3333200	レベル４武器説明
+3333300	レベル４武器説明
+3333400	レベル４武器説明
+3333500	レベル４武器説明
+3333600	レベル４武器説明
+3333700	レベル４武器説明
+3333800	レベル４武器説明
+3333900	レベル４武器説明
+3334000	A knight was so moved by the suffering of a beggar that he
+removed all ornamentations from this spear.
+3334100	Forged by monks from feathers of the legendary firebird,
+this spear was designed as a tool of self-defense.
+3334200	A noble lord commissioned this beastly weapon that the world
+might stand in awe of his power.
+3334300	Forged from metal and liquefied beast claws, this destructive
+spear is filled with a deep hatred for the world.
+3334400	A lance birthed as part of a pact with an ancient red dragon.
+3334500	The favorite spear of a mad queen whose lust for power led
+her to kill all of her sons' wives.
+3334600	This spear's point is so finely honed that all who are grazed
+by it experience an instant, painless death.
+3334700	A spear used by a prince's body double to slay his employer.
+The traitor was later killed with the same spear.
+3334800	A spear that symbolizes a pact between a great warlord
+and an ancient dragon.
+3334900	A spear brandished by a warrior monk chief who sacrificed
+his own life to protect his comrades.
+3335000	レベル４武器説明
+3335100	レベル４武器説明
+3335200	レベル４武器説明
+3335300	レベル４武器説明
+3335400	レベル４武器説明
+3335500	レベル４武器説明
+3335600	レベル４武器説明
+3335700	レベル４武器説明
+3335800	レベル４武器説明
+3335900	レベル４武器説明
+3336000	レベル４武器説明
+3336100	レベル４武器説明
+3336200	レベル４武器説明
+3336300	レベル４武器説明
+4000000	Tokyo
+4000100	<NIER>'s Village
+4000200	<NIER>'s Village Library
+4100000	Northern Plains
+4100100	Southern Plains
+4100200	Eastern Road
+5000000	None
+5000100	Defend
+5000200	Evade
+5000300	Dark Blast
+5000400	Dark Phantasm
+5000500	Dark Hand
+5000600	Dark Lance
+5000700	Dark Whirlwind
+5000800	Dark Gluttony
+5000900	Dark Wall
+5001000	Dark Execution
+6000000	Word Edit
+6000100	Quests
+6000200	Weapons
+6000300	Maps
+6000400	Items
+6000500	Memo
+6000600	System
+6000700	Keys
+6001000	Options
+6002000	New Game
+6002100	Continue
+6002200	Downloadable Content
+6100000	Choose a word-edit category:
+6100100	Choose a target to edit:
+6100200	Choose a word to edit:
+6100300	All
+6100400	Magic
+6100500	Weapons
+6100600	Martial Arts
+6100700	Displays all word-edit targets.
+6100800	Displays magic word-edit targets.
+6100900	Displays weapon word-edit targets.
+6101000	Displays martial arts word-edit targets.
+6101100	You don't have any settable word-edit targets.
+6101200	You don't have any settable magic word-edit targets.
+6101300	You don't have any settable weapon word-edit targets.
+6101400	You don't have any settable martial arts word-edit targets.
+6101500	No effect
+6101600	Not set
+6101700	Edit word A
+6101800	Edit word B
+6101900	Edit a target
+6102000	You currently have no settable word A.
+6102100	You currently have no settable word B.
+6102200	It's currently equipped. Setting this will unequip it.
+6102300	Remove all words
+6102400	Equip best words
+6102500	Yes
+6102600	No
+6102700	Return to list
+6102800	Remove all equipped words.
+6102900	Automatically equip the most useful words.
+6103000	Return to word edit target list.
+6103100	→
+6103200	Remove
+6110000	Attack Power
+6110100	Magic Power
+6110200	Magic Cost
+6110300	Armor Break
+6110400	Guard Break
+6110500	Physical Strength
+6111000	Knockback Resistance
+6111100	Physical Defense
+6111200	Magic Defense
+6111300	EXP Rate
+6111400	Item Drop Rate
+6111500	MP Recovery Rate
+6112000	Confuse
+6112100	Poison
+6112200	Weaken
+6112300	Drain HP
+6112400	Drain MP
+6112500	Level 
+6112600	No Effect
+6113000	+
+6113100	-
+6113200	, 
+6113300	Lv
+6113400	%%
+6113500	Weapons: Attack Power
+6113600	Magic: Magic Power
+6113700	Magic: Magic Cost
+6113800	Weapons/Magic: Armor Break
+6113900	Weapons: Guard Break
+6114000	Martial Arts: Physical Strength
+6114100	Martial Arts: Knockback Resistance
+6114200	Martial Arts: Physical Defense
+6114300	Martial Arts: Magic Defense
+6114400	Weapons/Magic: EXP Rate
+6114500	Weapons/Magic: Item Drop Rate
+6114600	Martial Arts: MP Recovery Rate
+6114700	Weapons/Magic: Confuse
+6114800	Weapons/Magic: Poison
+6114900	Weapons/Magic: Weaken
+6115000	Weapons/Magic: Drain HP
+6115100	Weapons/Magic: Drain MP
+6115200	Weapons/Magic: Level
+6115300	Paralyze
+6200000	Choose a quest category:
+6200100	Choose a quest:
+6200200	All Quests
+6200300	Current Quest
+6200400	Incomplete Quests
+6200500	Completed Quests
+6200600	You don't have any quests.
+6200700	No current quest is set.
+6200800	You don't have any incomplete quests.
+6200900	You haven't completed any quests.
+6201000	Displays all quests.
+6201100	Displays your current quest.
+6201200	Displays only incomplete quests.
+6201300	Displays only completed quests.
+6201400	Set this quest as current?
+6201500	Yes
+6201600	No
+6201700	This quest is already complete.
+6201800	This quest is already set as current.
+6201900	View the "
+6202000	" quest.
+6202100	Quest Completion
+6202200	%%
+6202300	This quest has not yet been completed.
+6202400	●
+6202500	Items
+6202600	Required
+6202700	Carried
+6202800	No items are required for the current quest.
+6202900	Uncompletable Quests
+6203000	Display only uncompletable quests.
+6203100	There are no uncompletable quests.
+6203200	You cannot progress any further in this quest.
+6300000	Choose a weapon category:
+6300100	Choose a weapon:
+6300200	Lv.
+6300300	Weight
+6300400	Attack Power
+6300500	Special Effect
+6300600	Forging Recipe
+6300700	Item
+6300800	Needed
+6300900	Inventory
+6301000	Equip this weapon?
+6301100	Yes
+6301200	No
+6301300	Equipped
+6301400	You don't have this weapon yet.
+6301500	All
+6301600	One-Handed Swords
+6301700	Two-Handed Swords
+6301800	Spears
+6301900	Displays all weapons.
+6302000	Displays one-handed swords.
+6302100	Displays two-handed swords.
+6302200	Displays spears.
+6302300	Weapon Collection
+6302400	%%
+6302500	One-Handed Swords
+6302600	Two-Handed Swords
+6302700	Spears
+6302800	Very Light
+6302900	Light
+6303000	Moderate
+6303100	Heavy
+6303200	Very Heavy
+6303300	Attack Power
+6303400	Level
+6303500	???
+6303600	→
+6303700	Equip
+6303800	View Details
+6303900	Magic Power
+6304000	This weapon cannot be upgraded further.
+6304100	Extra Heavy
+6304200	+
+6304300	-
+6304400	You can't equip this now.
+6304500	Remove
+6400000	Current Location
+6400100	Shop
+6400200	Docks
+6400300	Post Office
+6400400	Sandspout Well
+6400500	Save Point
+6400600	Current Goal
+6400700	Client Location
+6410000	Local Map
+6410100	World Map
+6415000	You don't have a map for this area.
+6420000	<NIER>'s Village
+6420100	Library
+6420200	Desert
+6420300	Facade
+6420400	Barren Temple
+6420500	Barren Temple: Hall
+6420600	Lost Shrine: Roof
+6420700	Lost Shrine: Rear Entrance
+6420800	Lost Shrine: 1F
+6420900	Lost Shrine: 2F
+6421000	Lost Shrine: 3F
+6421100	Lost Shrine: Altar
+6421200	Seafront
+6421300	Junk Heap: Outside
+6421400	Junk Heap: 1F
+6421500	Junk Heap: 2F
+6421600	Junk Heap: B1
+6421700	Junk Heap: B2
+6421800	Junk Heap: Depths
+6421900	Junk Heap: Weapon Testing Area
+6422000	Manor
+6422100	Manor: Study
+6422200	Underground Facility: B1
+6422300	Underground Facility: B2
+6422400	Underground Facility: B3
+6422500	Underground Facility: Depths
+6422600	The Aerie
+6422700	Forest of Myth
+6422800	Shadowlord's Castle 1
+6422900	Shadowlord's Castle 2
+6423000	Shadowlord's Castle 3
+6423100	Shadowlord's Castle 4
+6423200	???
+6423300	Southern Plains
+6423400	Northern Plains
+6423500	Eastern Road
+6423600	Lost Shrine: Exterior
+6500000	Choose an item category:
+6500100	Choose an item:
+6500200	All Items
+6500300	Recovery
+6500400	Raw Materials
+6500500	Fishing
+6500600	Cultivation
+6500700	Key Items
+6500800	Use
+6500900	Discard
+6501000	Size Record
+6501100	Weight Record
+6501200	You don't have any items.
+6501300	You can't use that item here.
+6501400	You can't discard that item.
+6501500	Displays all items, regardless of category.
+6501600	Displays recovery items.
+6501700	Displays raw materials for forging.
+6501800	Displays fishing lures and caught fish.
+6501900	Displays seeds and harvested crops.
+6502000	Displays important items vital to your journey.
+6502100	You don't have any recovery items.
+6502200	You don't have any raw materials.
+6502300	You don't have any fishing items.
+6502400	You don't have any cultivation items.
+6502500	You don't have any key items.
+6502600	Keep
+6600000	Choose a memo category:
+6600100	Status
+6600200	Word List
+6600300	Documents
+6600400	Tutorials
+6600500	View your party's status.
+6600600	View your word list.
+6600700	View your documents.
+6600800	View tutorials.
+6600900	Fishing Records
+6601000	Display information about the fish you've caught.
+6610000	Status
+6610100	Level
+6610200	Experience
+6610300	To Next Level
+6610400	HP
+6610500	MP
+6610600	Attack
+6610700	Defense
+6610800	Magic Attack
+6610900	Magic Defense
+6611000	Gold
+6611100	Total Play Time
+6611200	G
+6620000	Choose the word to view.
+6620100	Word Collection
+6620200	%%
+6620300	???
+6620400	Unacquired Word
+6620500	Used w/Magic
+6620600	Used w/Weapons
+6620700	Used w/Martial Arts
+6620800	Used w/Magic & Weapons
+6620900	Used w/Magic & Martial Arts
+6621000	Used w/Weapons & Martial Arts
+6621100	Used w/all categories
+6621200	Weapons: Attack Power
+6621300	Magic: Magic Power
+6621400	Magic: Magic Cost
+6621500	Weapons/Magic: Armor Break
+6621600	Weapons: Guard Break
+6621700	Martial Arts: Physical Strength
+6621800	Martial Arts: Knockback Resistance
+6621900	Martial Arts: Physical Defense
+6622000	Martial Arts: Magic Defense
+6622100	Weapons/Magic: EXP Rate
+6622200	Weapons/Magic: Item Drop Rate
+6622300	Martial Arts: MP Recovery Rate
+6622400	Weapons/Magic: Confuse
+6622500	Weapons/Magic: Poison
+6622600	Weapons/Magic: Weaken
+6622700	Weapons/Magic: Drain HP
+6622800	Weapons/Magic: Drain MP
+6622900	Weapons/Magic: Level
+6623000	+
+6623100	-
+6623200	, 
+6623300	Lv
+6623400	No Effect
+6623500	Weapons/Magic: Paralyze
+6623600	You don't have any words.
+6623700	You don't have this word yet.
+6630000	Choose a document to view.
+6630100	You don't have any documents.
+6640000	Choose the tutorial to view.
+6640100	You haven't unlocked any tutorials yet.
+6640200	View the selected tutorial.
+6640300	<TUTORIAL>
+6640400	Select a fish:
+6640500	Size record:
+6640600	Weight record:
+6640700	 in.
+6640800	 lb.
+6640900	You don't have any fishing records.
+6641000	You don't have this fish yet.
+6641100	You don't have this item yet.
+6700000	Choose from among the following:
+6700100	Use↑ and ↓ to select an option and ← and → to adjust it.
+6700200	Select a save file to store your game data.
+6700300	Select the game data you'd like to load.
+6700400	Select the game's difficulty level.
+6700500	Select an outfit theme.
+6710000	Adjust general game settings.
+6710100	Adjust volume and output settings.
+6710200	Save game data.
+6710300	Load save data.
+6710400	Adjust the game's difficulty level.
+6710500	Select a theme for your party members' outfits.
+6710600	Save all settings and begin the game.
+6710700	Exit the game and return to the title screen.
+6710800	Select whether to display subtitles during cutscenes.
+6710900	Choose between normal and inverted vertical camera control.
+6711000	Choose between normal and inverted horizontal camera control.
+6711100	Enable or disable controller vibration.
+6711200	Select whether to display blood when characters take damage.
+6711300	Select whether to display an arrow indicating the direction of the goal during quests.
+6711400	Select whether to display health bars for non-boss enemies.
+6711500	Select an audio output method.
+6711600	Adjust the volume of background music played during the game.
+6711700	Adjust the volume of sound effects played during the game.
+6711800	Adjust the volume of character voices played during the game.
+6711900	The easiest difficulty setting.
+6712000	The standard (default) difficulty setting.
+6712100	The hardest difficulty setting.
+6712200	Play with the standard party member outfits.
+6712300	Play with the "Kabuki" party member outfits.
+6712400	Play with the "Samurai" party member outfits.
+6712500	DLC outfit 04.
+6712600	DLC outfit 05.
+6712700	Adjust the camera's horizontal movement sensitivity.
+6712800	Adjust the camera's vertical movement sensitivity.
+6712900	Adjust how quickly the camera rotates to follow your character.
+6713000	Save all settings and return to the previous screen.
+6713100	Adjust how closely the camera follows your character.
+6713200	Select an outfit theme.
+6713300	Select a difficulty level.
+6713400	Select whether to display the item log in the lower-left
+corner of the screen.
+6713500	Select whether to display the combo hit counter during combat.
+6713600	Adjust the button command for launching finishing moves.
+6713700	Select whether to display the mini-map in the lower-right
+corner of the screen.
+6713800	Restore default settings.
+6713900	Select a storage device for saving your game data.
+6714000	Select a storage device for loading your game data.
+6714100	Install the game data to the hard disk.
+6720000	Game Settings
+6720100	Sound Settings
+6720200	Save
+6720300	Load
+6720400	Difficulty
+6720500	Wardrobe
+6720600	Start Game
+6720700	Exit Game
+6730000	Subtitles
+6730100	Camera Control (Up/Down)
+6730200	Camera Control (Left/Right)
+6730300	Vibration
+6730400	Blood
+6730500	Quest Guidance
+6730600	Enemy Health Bars
+6730700	Camera Sensitivity (Left/Right)
+6730800	Camera Sensitivity (Up/Down)
+6730900	Auto-Follow
+6731000	Return
+6731100	Camera Delay
+6731200	Item Log
+6731300	Combo Hit Counter
+6731400	Finisher Command
+6731500	Mini-Map
+6731600	Select Device
+6740000	Audio Output
+6740100	BGM Volume
+6740200	SFX Volume
+6740300	Voice Volume
+6750000	On
+6750100	Off
+6750200	Normal
+6750300	Inverted
+6750400	Mono
+6750500	Stereo
+6750600	5.1 Surround
+6750700	Guard+<ICON=2>
+6750800	Guard+<ICON=3>
+6760000	Easy
+6760100	Normal
+6760200	Hard
+6770000	Outfit 01
+6770100	Outfit 02
+6770200	Outfit 03
+6770300	Outfit 04
+6770400	Outfit 05
+6800000	Sacrifice
+6800100	The Law of Robotics
+6800200	The Memory Tree
+6800300	The Stone Guardian
+6800400	Loyal Cerberus
+7000000	An Ominous Sickness
+7000100	Behold the White Book
+7000200	The Black Scrawl
+7000300	Enter Kainé
+7000400	The Battle of The Aerie
+7000500	Master Emil's Haunted Manor
+7000600	The Junk Heap Boys
+7000700	The Breadwinner
+7000800	Mom on the Run
+7000900	Special Delivery
+7000950	The Postman's Request
+7000970	The Lighthouse Lady's Wrath
+7000980	Closure
+7001000	The Rule-Bound City
+7001100	The Absconded Prince
+7001200	A Village Besieged
+7001300	Five Years Later...
+7001400	Project Number 6
+7001500	Back from the Dead
+7001600	A Brother Avenged
+7001700	Cyphers for the Banished
+7001800	Desert Wolves
+7001900	Village of Doubt
+7002000	The End Draws Nigh
+7002100	Into the Lair of the Shadowlord
+7002200	A Sheepish Request
+7002300	Herbal Remedies
+7002400	The Gatekeeper's Errand
+7002500	The Cautious Collector
+7002600	The Lost Eggs
+7002700	Old-Fashioned Home Cooking
+7002800	Shopping List
+7002900	Book Smarts
+7003000	The Tavern Keeper's Grandmother
+7003100	Contract for a Contractor
+7003200	A Return to Shopping
+7003300	Yonah's Home Cooking
+7003400	On the Wings of Eagles
+7003500	Fragile Delivery
+7003600	The Creaky Waterwheel
+7003700	The Faded Fountain
+7003800	Fragile Delivery 2
+7003900	The Fisherman's Gambit
+7004000	The Fisherman's Gambit, Part 2
+7004100	Staying Afloat
+7004200	Learning to Fish
+7004300	The Fisherman's Gambit, Part 3
+7004400	The Fisherman's Gambit, Part 4
+7004500	The Fisherman's Gambit, Part 5
+7004600	The Fisherman's Gambit, Part 6
+7004700	The Fisherman's Gambit, Part 7
+7004800	The Fisherman's Gambit, Part 8
+7004900	The Fisherman's Final Gambit
+7005000	The Postman Knocks
+7005100	The Postman Knocks Anew
+7005200	A Signature Dish
+7005300	Bon Appetit!
+7005400	Fragile Delivery 3
+7005500	The Tangled Message
+7005600	Item Unknown
+7005700	The King's Mask
+7005800	Apology from a Fool
+7005900	Life in the Sands
+7006000	Bon Appetit! 2
+7006100	The Masterless Lighthouse
+7006200	A City Reborn
+7006300	Yonah's Gift
+7006400	The Belated Letter
+7006500	The Ballad of the Twins
+7006600	A Dog Astray
+7006700	The New Merchant in Town
+7006800	The Runaway Son
+7006900	The Pride of a Lover
+7007000	The Littlest Hero
+7007050	The Missing Girl
+7007100	A Shade Entombed
+7007200	The Scattered Cargo
+7007300	The Strange Fate of the Jewel
+7007400	The Military Man
+7007500	Thieves in Training
+7007600	Learning a Trade
+7007700	A Child's Final Chance
+7007800	The Despicable Man
+7007900	A Memorable Knife
+7008000	The Shade Army
+7008100	The Damaged Map
+7008200	Research Project
+7008300	Shadows of the Desert
+7008400	Search for the Shade
+7008500	Freesia
+7008600	Unwanted Guests
+7008700	The Magical Stone
+7008800	A Bridge in Peril
+7008900	Master of the Southern Plains
+7009000	A Tale of the Study
+7009100	The Great Tree
+7009200	Nightmares and Dust
+7009300	Disturbing the Sleep of Kings
+7009400	Boar Hunt!
+7009500	Parcel for the Lady
+7009600	The Postman's Request
+7009700	The Lighthouse Lady's Wrath
+7009800	Closure
+7210000	Defeat the enemies.
+7212000	Return to your sister.
+7214000	See if Popola has any work today.
+7216000	Return home and check on Yonah.
+7218000	See if Popola has any work today.
+7220000	Kill the Shades by the bridge in the northern plains.
+7222000	Return to Popola.
+7224000	Return to Yonah.
+7226000	Head to the library to look for Yonah.
+7228000	Ask Popola if she has seen Yonah.
+7230000	Search for Yonah.
+7232000	Search for Yonah in the Lost Shrine.
+7234000	Defeat the Shades and rescue Yonah.
+7236000	Rescue Yonah and take her home.
+7238000	Can anything be done for Yonah?
+7240000	What do those song lyrics mean?
+7242000	Ask Popola about the Song of the Ancients.
+7244000	Visit the chief of The Aerie.
+7246000	Return to Popola.
+7248000	What's with the house near The Aerie?
+7250000	Defeat the woman in her underwear.
+7252000	Defeat the giant Shade.
+7254000	Ask Popola for more information.
+7256000	Check up on Yonah.
+7258000	Go to the store at the Junk Heap.
+7260000	Go to the village tavern.
+7262000	Go to the Junk Heap.
+7264000	Obtain a shaman fish from Seafront.
+7266000	Visit the old woman in Seafront.
+7268000	Deliver the letter to Popola.
+7270000	Go check up on The Aerie.
+7272000	Defeat the Shades.
+7274000	Rescue Kainé.
+7276000	Head for the desert city of Facade.
+7278000	Meet the person who sent Yonah a letter.
+7280000	Return to Yonah.
+7282000	Retrieve three titanium alloys from the Junk Heap.
+7284000	Return to the brothers' shop.
+7286000	Return to Yonah.
+7288000	Go check up on The Aerie.
+7290000	Check Seafront for info on a shaman fish.
+7292000	Go to the beach and hook a shaman fish.
+7294000	Give the shaman fish to Yonah.
+7296000	Visit the postman for the old woman.
+7298000	Deliver the letter to the old woman.
+7300000	Deliver the letter to Popola.
+7302000	Go give Yonah the shaman fish.
+7304000	Meet with the king of Facade.
+7306000	Return to Kainé.
+7308000	Follow Fyra as she shows you around.
+7310000	Rescue the prince from the Barren Temple.
+7312000	Return to Yonah.
+7314000	Talk to Popola.
+7316000	Talk to Yonah.
+7318000	Return to your sister.
+7320000	Find some mutton in the northern plains.
+7322000	Bring the mutton to the shopkeeper in the shopping district.
+7324000	Report back to Popola.
+7326000	Search for the key needed to advance.
+7328000	Keep looking for Yonah.
+7330000	Leave the village and find Sealed Verses.
+7332000	Talk to Popola.
+7334000	Track down the absent Kainé.
+7336000	Go to the butler's chamber.
+7338000	Search for the brothers' mother.
+7340000	Talk to the advisor.
+7342000	Meet the mayor in the Forest of Myth.
+7344000	Return to Popola.
+7346000	Visit the mayor in the Forest of Myth.
+7348000	Talk to Popola.
+7350000	Talk to Yonah.
+7352000	Get medicine from Popola.
+7354000	Find vapor moss near the southern gate.
+7356000	Go check on the village.
+7358000	Defeat the giant Shade.
+7360000	Head for the library.
+7362000	Defeat all the Shades.
+7510000	Dispatch the Shades.
+7512000	Go to Popola's room.
+7514000	Talk to Emil.
+7516000	Search for the hidden basement entrance.
+7518000	Search the Planning Room.
+7520000	Defeat the Shades.
+7522000	Return to Kainé and save her.
+7524000	Strike the final blow against the Shade.
+7526000	Talk to Devola and Popola.
+7528000	Find the back entrance to the Lost Shrine.
+7530000	Go to the Junk Heap.
+7532000	Go to the Forest of Myth.
+7534000	Check to see if you've received a letter.
+7536000	Talk to Popola.
+7538000	Go to the brothers' store at the Junk Heap.
+7540000	Get a memory alloy from the Junk Heap.
+7542000	Go to the brothers' store at the Junk Heap.
+7544000	Go to the brothers' store at the Junk Heap.
+7546000	Defeat the robot that killed the brother.
+7548000	Defeat the robot and the Shade.
+7550000	Proceed to the shrine's inner depths.
+7552000	Defeat the one-armed Shade.
+7554000	Subdue the out-of-control Kainé.
+7556000	Unlock the door behind the altar.
+7558000	Talk to Popola.
+7560000	Check your mailbox
+7562000	Meet with the king of Facade.
+7564000	Check up on everyone.
+7566000	Dispatch the wolves.
+7568000	Meet with the king of Facade.
+7570000	Defeat all the wolves.
+7572000	Visit the chief of The Aerie.
+7574000	Defeat the Shades.
+7576000	Defeat the giant Shade.
+7578000	Ask the villagers about the letter.
+7580000	Talk to Popola.
+7582000	Head for the Shadowlord's castle.
+7584000	Search inside for Yonah.
+7586000	Defeat the Shadowlord and save Yonah.
+7588000	Go to Yonah.
+7590000	Subdue the out-of-control Kainé.
+7600000	Buy three medicinal herbs for Popola.
+7601000	What is that song...?
+7602000	Go to the village tavern.
+7603000	Go to the store at the Junk Heap.
+7604000	Return to the village.
+7605000	Talk to the mayor in the Forest of Myth.
+7606000	Talk to Popola.
+7607000	Hmm, what next...
+8000000	Pah
+8000100	Paha
+8000200	Pahi
+8000300	Paho
+8000400	Pahu
+8000500	Pahal
+8000600	Pahil
+8000700	Pahol
+8000800	Pahul
+8000900	Pahuloth
+8001000	Var
+8001100	Vara
+8001200	Vari
+8001300	Varo
+8001400	Varu
+8001500	Varal
+8001600	Varil
+8001700	Varol
+8001800	Varul
+8001900	Varuloth
+8002000	Geb
+8002100	Geba
+8002200	Gebi
+8002300	Gebo
+8002400	Gebu
+8002500	Gebal
+8002600	Gebil
+8002700	Gebol
+8002800	Gebul
+8002900	Gebuloth
+8003000	Ul
+8003100	Ula
+8003200	Uli
+8003300	Ulo
+8003400	Ulu
+8003500	Ulal
+8003600	Ulil
+8003700	Ulol
+8003800	Ulul
+8003900	Ululoth
+8004000	Hod
+8004100	Hoda
+8004200	Hodi
+8004300	Hodo
+8004400	Hodu
+8004500	Hodal
+8004600	Hodil
+8004700	Hodol
+8004800	Hodul
+8004900	Hoduloth
+8005000	Bes
+8005100	Besa
+8005200	Besi
+8005300	Beso
+8005400	Besu
+8005500	Besal
+8005600	Besil
+8005700	Besol
+8005800	Besul
+8005900	Besuloth
+8006400	Lug
+8006500	Lugir
+8006600	Luges
+8006700	Lugka
+8006800	Lugza
+8006900	Lugira
+8007000	Lugesra
+8007100	Lugkarr
+8007200	Lugzarr
+8007300	Lugzarken
+8007400	Ot
+8007500	Otir
+8007600	Otes
+8007700	Otka
+8007800	Otza
+8007900	Otira
+8008000	Otesra
+8008100	Otkarr
+8008200	Otzarr
+8008300	Otzarken
+8008400	Mah
+8008500	Mahir
+8008600	Mahes
+8008700	Mahka
+8008800	Mahza
+8008900	Mahira
+8009000	Mahesra
+8009100	Mahkarr
+8009200	Mahzarr
+8009300	Mahzarken
+8009400	Ashur
+8009500	Ashurir
+8009600	Ashures
+8009700	Ashurka
+8009800	Ashurza
+8009900	Ashurira
+8010000	Ashuresra
+8010100	Ashurkarr
+8010200	Ashurzarr
+8010300	Ashurzarken
+8010400	Kon
+8010500	Konir
+8010600	Kones
+8010700	Konka
+8010800	Konza
+8010900	Konira
+8011000	Konesra
+8011100	Konkarr
+8011200	Konzarr
+8011300	Konzarken
+8011400	Sol
+8011500	Solir
+8011600	Soles
+8011700	Solka
+8011800	Solza
+8011900	Solira
+8012000	Solesra
+8012100	Solkarr
+8012200	Solzarr
+8012300	Solzarken
+9000000	Kainé, get 'em!
+9000100	Kainé, I need help!
+9000200	Kainé, keep your guard up!
+9010000	Emil, attack!
+9010100	Emil, help me out here!
+9010200	Emil, stay on guard!
+9020000	Now! Attack all together!
+9020100	The king is in danger! Protect him!
+9020200	We're being overrun! Focus on healing!
+9030000	Animal
+9030100	Kainé
+9030200	Emil
+9030300	Masked Soldiers
+9040000	Call
+10000000	Magic/Abilities
+10000100	Grimoire Weiss
+10000200	Orders
+10000300	Close
+10000400	Remove
+10000500	Unset
+10000600	Options
+10000700	Items
+10000800	Weapons
+10010000	Magic/Abilities
+10010100	Grimoire Weiss
+10010200	Orders
+10010300	Close
+10010400	Dark Lance
+10010500	Dark Hand
+10010600	Dark Phantasm
+10010700	Evade
+10010800	Defend
+10010900	Dark Blast
+10011000	Dark Wall
+10011100	Dark Whirlwind
+10011200	Dark Gluttony
+10011300	Dark Execution
+10022000	Animal
+10022100	Kainé
+10022200	Emil
+10022300	Masked Soldiers
+10022400	Call
+10022500	Options
+10022600	Items
+10022700	Weapons
+10015000	Remove
+10015100	Unset
+10021100	Kainé, get 'em!
+10021200	Kainé, I need help!
+10021300	Kainé, keep your guard up!
+10021400	Emil, attack!
+10021500	Emil, help me out here!
+10021600	Emil, stay on guard!
+10021700	Now! Attack all together!
+10021800	The king is in danger! Protect him!
+10021900	We're being overrun! Focus on healing!
+10050000	Lv
+10050100	Next
+10050200	EXP
+10050300	Gold
+10050400	Weapon
+11000000	Talk
+11000100	Open
+11000200	Examine
+11000300	Gather
+11000400	Hold
+11000500	Throw
+11000600	Place
+11000700	Move
+11000800	Pick Up
+11000900	Strip
+11001000	Catch
+11001100	Grab
+11001200	Save
+11001300	Fish
+11001400	Mount
+11001500	Move
+11001600	Dismount
+11100000	Select
+11100100	Confirm
+11100200	Cancel
+11100300	Select Device
+11100400	Send Line
+11100500	Open Menu
+11100600	Close Menu
+11100700	Shortcut
+11100800	Change Page
+11100900	Change Category
+11101000	Change Number
+11101100	Stop Fishing
+11101200	Reel in Fish
+11101300	Restore Defaults
+11101400	Back
+11101500	Change
+11200000	Well...what next?
+11200100	Head for the Junk Heap.
+11200200	Head for the Forest of Myth.
+11200300	Check to see if a letter's arrived from the younger brother.
+11200400	Go speak with Popola.
+11200500	Go meet with the king of Facade.
+11200600	#
+11200700	— but you can't carry any more.
+11200900	Look at which shelf?
+11201000	Top shelf
+11201100	Middle shelf
+11201200	Bottom shelf
+11201300	Cancel
+11201400	Obtained 
+11201500	Obtained 
+11202000	Press START to Skip
+11202100	Enter the name of the player to be erased.
+11500000	Plant
+11500100	Fertilize
+11500200	Water
+11500300	Do nothing
+11500400	Discard
+11500500	Harvest
+11500600	Observe
+11501000	Select an option.
+11501100	Select an item.
+11600000	Select your bait.
+11800000	NOW LOADING
+11800100	Game Over
+11800200	CONTINUE
+11800300	EXIT
+11800400	hits
+11800500	N
+11800600	O
+11800700	W
+11800800	L
+11800900	O
+11801000	A
+11801100	D
+11801200	I
+11801300	N
+11801400	G
+11801500	#
+11900000	?
+11900100	?
+11900200	?
+11900300	?
+11900400	?
+11900500	?
+11900600	?
+11900700	?
+11900800	?
+11900900	?
+11901000	?
+11901100	?
+11910000	?
+11910100	?
+11910200	?
+11910300	?
+11910400	?
+11910500	?
+11910600	?
+11910700	?
+11910800	?
+11910900	?
+11911000	?
+11940000	?
+11940100	?
+11940200	?
+11940300	?
+11940400	?
+11940500	?
+11940600	?
+11940700	?
+11940800	?
+11940900	?
+11920000	April 5
+
+Got a letter from Brother today! He's in a far-away town
+where he can see the ocean. I hope I can see the
+ocean someday. I bet it's huge!
+11920100	June 6
+
+Today is Brother's birthday, but he's not here. So I just
+had a party by myself!
+11920200	July 20
+
+Devola and Popola came to keep me company today.
+They even sang a song for me! It was really great!
+I need to practice so I can sing to Brother when he gets back.
+11920300	October 28
+
+I was tired today, so I stayed home and hid in bed.
+I could still hear Devola singing from somewhere, though.
+Listening to her always makes me happy.
+11920400	December 1
+
+Today Popola sent me a new book about a great big tree.
+I really hope it has a happy ending. There's nothing
+worse than a sad tree. 
+11920500	January 30
+
+Brother came back! He came back home to see me!
+Yaaaay, Brother!
+11920600	February 4
+
+I'm gonna learn to make awesome food for Brother.
+I better start working on a new secret recipe.
+11920700	March 16
+
+The boy who's always running around outside gave me a
+super pretty flower today! I wonder if Popola knows what
+it's called?
+11920800	August 31
+
+The village is buzzing with excitement and stuff today.
+I dunno what happened, but Devola told me not to worry.
+At first I thought it was a festival, but now I don't know.
+11920900	May 4
+
+I write Brother letters every single day. He always worries
+about me, but I feel fine.
+11921000	September 21
+
+I wish I could meet the Kainé lady Brother told me about.
+I bet she's really nice and always says nice things.
+
+I wonder if that's what my mom was like?
+11921100	December 22
+
+The snow won't stop falling, so Brother said he'd stay here
+with me until it stops. He'll probably leave again when
+it does, so I kinda hope it snows forever.
+11930000	April 5
+
+Whenever I read a letter from Brother, I really feel like I need
+to see him again.
+11930100	June 6
+
+Brother said he'd come home for my birthday, but I wanna
+celebrate his birthday once in a while!
+11930200	July 20
+
+Devola and Popola went back home. That made me
+lonely, so I ran around singing songs as loud as I could.
+But then that got kinda weird and scary, so I stopped. 
+11930300	October 28
+
+These black marks keep showing up on my body.
+Sometimes I wonder if I'm gonna turn into a goblin or
+something, but thinking about it makes my stomach hurt,
+so I try not to.
+11930400	December 1
+
+In the book, the big tree kept on waiting and waiting.
+I have to wait a lot, too. I wish I could do something.
+11930500	January 30
+
+Brother left pretty quick. He said he just stopped by so he
+could see my face.
+11930600	February 4
+
+Once I finish my secret dish, I'm gonna feed it to Brother!
+Then he'll see how helpful I can be!
+11930700	March 16
+
+The flower wasn't in any of Devola's books, so she
+said I could name it whatever I want. Maybe I'll name it
+after Brother!
+11930800	August 31
+
+I guess a Shade came near the village today.
+People kept coming up to me and saying
+"Boy, we sure wish your brother was around!"
+And I said, "Me too! Brother could kick that Shade's butt!"
+11930900	May 4
+
+I wish brother would send me letters every day like I do.
+But I know he's busy, so every other day is okay.
+11931000	September 21
+
+Today Devola said that Kainé is "put together in all the
+right places." I dunno what all of that means, but I
+wanna be like that when I grow up!
+11950000	Case Report 05/18/2004
+
+・ Mutations found in subcutaneous cell structure.
+・ Rise in mental disorders believed to be caused by
+external factors.
+・ Airborne transmission most likely mechanism.
+
+Research into effective treatments is underway.
+11950100	Damage Report 02/06/2008
+
+・ Wall of Jericho collapsed.
+・ 5,000 people believed dead.
+・ Requests for reinforcements streaming in from
+multiple locations. 
+
+We continue to monitor the situation.
+11950200	Death Confirmation 03/01/2030
+
+・ Body 99.999%% likely that of a Red Eye.
+・ Death of Red Eye confirmed.
+・ 13th Expeditionary Force ordered home.
+・ Legion movements untraceable.
+11950300	Founder Research Report 06/06/2010
+
+・ Physical attacks useless.
+・ Thermonuclear attacks useless.
+・ Unknown particles have been detected.
+
+Dealing with the situation will require proving
+the multi-origin theory. 
+11950400	New Medication Cycle 02/09/2016
+
+・ Observed to slow the progress of white chlorination.
+・ No unusual readings seen in subject.
+・ Send records directly to Cabinet Command Room.
+11950500	New Technology Report 08/07/2032
+
+Although the resultant white chlorination syndrome infection makes ours an imperfect solution, we have reason to expect some positive results. Testing will begin on the previously selected subjects; recordkeeping on the procedure's safety is top priority.
+11950600	Abnormalities 06/23/2033
+
+Several deleterious abnormalities have been found with a subject in the early stages of treatment, including a relapse state resulting in a total loss of self. We will investigate the cause of this error and submit a countermeasure plan immediately.
+11950700	Successful Test Case 01/15/2039
+
+A successful test case has been discovered and detained. The specimen's cooperation has been requested according to the predetermined stipulations. Treatment of the specimen will continue on a classified basis until we determine why our results have such a wide range of variation.
+11950800	World Purification Commission Report 09/30/2032
+
+The first detachment is functioning properly. However, continued caution will be required well into the future. A discussion about dealing with relapse cases will be deferred to the next conference.
+11950900	Transition into Sleep Mode 12/28/2034
+
+Transition into sleep mode is proceeding smoothly.
+All that remains is to pray for Project Gestalt's
+ultimate success.
+
+May god have mercy on us all.
+12001000	Head to the library and get a new job from Popola.
+12002000	Your work for Popola is done. It's time to go home.
+12002500	Yonah seems to be missing. Maybe Popola might know something.
+12003000	Head to the eastern gate, which leads to the Lost Shrine that Yonah mentioned.
+12004000	You found Yonah's ribbon at the eastern gate. She must have left the village!
+12011000	Yonah went to the Lost Shrine. Track her down before something happens.
+12012000	Yonah has to be somewhere inside the Lost Shrine...
+12013000	During battle, a talking book named Grimoire Weiss appeared.
+12014000	You managed to save Yonah, but now dark markings have appeared on her body...
+12021000	Yonah has been infected with the Black Scrawl. If you don't come up with some way to save her...
+12022000	You heard Devola sing about a white book that can save the world. Talk to Popola to learn more.
+12023000	According to Popola, you may be able to save Yonah by defeating Shades and obtaining their Sealed Verses. You decide to set out in search of these verses.
+12031000	According to reports, Shades have been appearing in The Aerie with some frequency. Go there and see if the villagers know anything about the Sealed Verses.
+12032000	It doesn't seem like there are any Sealed Verses here. Return to Popola to see if she has any ideas about what to do next.
+12033000	On your way back, you noticed a strange wreath of flowers at a house near the exit. When you approached it, a woman appeared and a battle ensued.
+12034000	The woman's name was Kainé. People say she's been possessed by a Shade.
+12041000	A horde of Shades has appeared in The Aerie. Hurry to the village to check up on Kainé.
+12042000	The giant Shade has returned. Kill it and claim its Sealed Verse.
+12043000	With the Shade defeated and her grandmother avenged, Kainé agrees to travel with you in search of a new life.
+12051000	Yonah received a letter from a mysterious admirer. Head for the manor in the southern plains to find out more.
+12052000	Kainé has gone missing, but finding her will have to wait. First, you must seek out whoever sent the mysterious letter.
+12053000	Search the manor for a cure to Emil's condition.
+12054000	Emil's eyesight is still cursed, but he promised to discover the key to a cure.
+12061000	You met a pair of brothers who live near the Junk Heap. Enter the mountain and find materials for them to sell.
+12062000	You gave the materials you found to the brothers. It should be sufficient enough for them to keep working for a while longer.
+12071000	You need flour, yeast, butter, and milk in order to bake bread for the Junk Heap brothers. Go and see if those items are sold in the village.
+12072000	You delivered the finished bread to the brothers. It was different from their mother's, but they seemed satisfied nonetheless.
+12081000	The younger brother, distraught that his mother is still missing, won't stop crying. Head back inside the Junk Heap and search for her.
+12082000	After defeating a giant robot, you found the bodies of a man and a woman. The boys' mother had apparently abandoned her sons in order to run off with her lover.
+12091000	Head to Seafront and find a shaman fish for Popola.
+12092000	Ask around town until you learn how to catch a shaman fish.
+12093000	A cranky old woman wants you to get the post office to deliver her mail.
+12093500	You delivered the old woman's letter.
+12094000	The postman of Seafront has a personal request for you.
+12094500	You were asked to deliver a letter for the injured postman. Bring the letter to the old woman in the lighthouse.
+12095000	You delivered the letter. The lighthouse lady doesn't look very well...
+12095500	The cranky lighthouse lady is bothering the Seafront postman again. Go see if you can help.
+12096000	You were asked to persuade the lighthouse lady to stay at her post. It's hard to drum up much enthusiasm for this...
+12096500	The lighthouse lady doesn't have long to live. Convince the postman that she should be allowed to leave.
+12097000	Return to the post office and try to reason with the postman one more time.
+12097500	The letters to the lighthouse lady were all written by the postman, and now he's given you a new one. Should you tell her the truth, or...?
+12098000	Telling the lighthouse lady the truth would have broken her heart. But did you make the right choice...?
+12098500	Telling the lighthouse lady the truth would have broken her heart. But did you make the right choice...?
+12099000	The Seafront postman wants to discuss something with you.
+12099100	The lighthouse lady has died. You can only hope she was happy at the end. 
+12101000	The town of Facade has cut off all contact with the outside world. Find a way inside.
+12102000	Apparently Kainé is able to enter Facade freely, although she won't say how.
+12103000	A girl named Fyra has volunteered to show you around.
+12104000	Thanks to Fyra, you were able to order a water filter.
+12105000	Deliver the water filter to Popola.
+12111000	The water filter is ready. Head to Facade and pick it up.
+12112000	Change of plans—now you must aid the prince of Facade. Fyra will guide you to the Barren Temple.
+12113000	You successfully rescued the prince of Facade.
+12114000	The prince is now king. With Rule Zero in place, the town is sure to see prosperous days again.
+12121000	Yonah is running out of medicine. Venture to the southern gate and find some vapor moss.
+12122000	Shades have invaded the village where you and Yonah live. You must stop them and keep Yonah safe!
+12123000	The day is lost. Grimoire Noir has defeated your party, and Yonah has been stolen away. Worse yet, Emil was forced to petrify Kainé to keep a monstrous Shade entombed in the library's basement. Stricken by grief, you swear to free them all, no matter what the cost.
+12131000	Five years after Yonah was taken, the world has changed.
+12132000	Popola has a letter for you. Visit her and see what it's about.
+12133000	The letter is from Emil, who wants to talk to you about Kainé. Go pay him a visit.
+12141000	Go see Emil to discuss Kainé's condition.
+12142000	Emil has discovered something called the Planning Room which may allow him to control his powers. Head for the inner courtyard and find the room's entrance.
+12143000	Deep inside the Planning Room, you defeated a weapon known as Number 6. The event transformed Emil into a monster, but also granted him control of his powers.
+12151000	Five years ago, Kainé had herself petrified in order to entomb a Shade. You now have the ability to rescue her.
+12152000	Kainé's curse has been lifted, and the sealed Shade defeated. You and your friends are overjoyed to see her alive and well.
+12153000	According to Popola, it's possible to reach the Shadowlord's lair from the Lost Shrine. The old path is gone, but you can use a boat to reach an alternate road near the river. Find this road and go rescue Yonah.
+12161000	You received a letter announcing the grand re-opening of Two Brothers Weaponry.
+12162000	The older brother died four years ago, leaving the younger to run the shop alone. Collect the materials he needs to create a new weapon.
+12163000	The younger brother asked you to defeat the Shade that killed his sibling, along with the giant robot that accompanies it. Search for them deep inside the Junk Heap.
+12164000	The Shade and the giant robot have been defeated. The brother's revenge is complete.
+12171000	Find a path in the Lost Shine that leads to the Shadowlord's lair.
+12172000	Kainé, wounded in battle, was taken over by a Shade named Tyrann that possesses her body. After a struggle, she managed to regain her consciousness before it was lost forever.
+12173000	You found a doorway at the altar, but it was locked by a secret code. Ask Popola for a way to crack the code.
+12181000	You received a wedding invite from the king of Facade.
+12182000	A pack of wolves crashed the wedding ceremony, killing Fyra as she tried to protect the king. You should leave him to mourn for now...
+12183000	The king has chosen to fight the wolves and avenge the death of his beloved. Rush to Facade and give him whatever aid is required.
+12184000	You defeated the wolves' pack leader and avenged Fyra.
+12191000	Strange things are happening in The Aerie. Stop by while on Popola's errand and see what's going on.
+12192000	Some of The Aerie's villagers have been possessed by Shades. In the midst of the chaos, Kainé was attacked by a Shade.
+12193000	As you fought the giant mass of Shades, Emil lost control of his power and destroyed The Aerie.
+12201000	You now have all the required keys. Make your final preparations and then head to the Lost Shrine.
+12202000	Using the keys, you opened a path from the altar to the Shadowlord's lair.
+12211000	You've finally arrived at the Shadowlord's castle. The time has come to get Yonah back!
+12501000	A merchant in the shopping district has asked you to hunt some sheep. Collect three pieces of mutton in the northern plains and bring them back to the client.
+12502000	You gave the mutton to the client. Report back to Popola to complete the job.
+12503000	You reported your success to Popola.
+12511000	Popola has sent you on an herb-gathering mission. Search the northern plains for two medicinal herbs and bring them back to her.
+12511500	You got the medicinal herbs. Bring them to Popola.
+12512000	You gave the medicinal herbs to Popola.
+12521000	A guard at the northern gate asked you to deliver a message to the blacksmith's wife.
+12522000	You delivered the message for the gate guard.
+12531000	Popola needs you to acquire some documents for her. Visit the guards at the northern, eastern, and southern gates and collect documents from each of them.
+12531500	You collected the documents. Bring them back to Popola.
+12532000	You collected the documents and gave them to Popola.
+12541000	Popola has a job is for you in the shopping district. Visit the tool shop to find the client.
+12542000	The tool shopkeeper says the village chickens are laying eggs in hidden spots of their own choosing. Find an egg and bring it to the client.
+12542500	One witness remembered seeing eggs near the fountain by the library.
+12543000	You found an egg. Bring it back to the item shop.
+12543500	You told the client where the eggs are located.
+12551000	A woman in green near the fountain in the shopping district has asked you to collect ten pieces of mutton.
+12551500	You collected the mutton. Bring it back to the client.
+12552000	You gave the mutton to the client. She will continue to pay handsomely for mutton, but only in sets of ten.
+12561000	The florist in the shopping district has asked you to travel to Seafront and buy three tulip bulbs.
+12561500	You collected the bulbs. Bring them back to the client.
+12562000	You gave the tulip bulbs to the client.
+12571000	A woman in the village library needs help organizing some books. Take the book and put it in the second bookshelf from the left on the east side of the second floor.
+12571500	Go get the next book to be shelved.
+12572000	Take the book she gave you and put it in the third bookshelf from the right on the southern side of the first floor.
+12572500	The shelving job is complete. Report back to the woman.
+12573000	You shelved all of the books.
+12581000	The tavern keeper needs three medicinal herbs, three berries, and three royal ferns in order to make medicine.
+12581500	You collected the ingredients. Bring them back to the client.
+12582000	You collected the ingredients and gave them to the client, who turned them into a medicine. Deliver the medicine to the old woman near the fountain by the library.
+12583000	You gave the medicine to the old woman. Judging by her condition, it doesn't seem like she'll be getting sick anytime soon.
+12591000	A man milling about near some pigs needs some materials to repair a fire-ravaged kitchen. Find one memory alloy, ten titanium alloys, and ten broken motors.
+12591500	You obtained the materials. Bring them back to the client.
+12592000	You gave the materials to the client.
+12601000	The florist needs three bounty fertilizers for her seeds. They're apparently available for sale at Seafront.
+12601500	You collected the fertilizers. Bring them back to the client.
+12602000	You gave the fertilizers to the client.
+12611000	Yonah needs venison and wheat for her cooking.
+12611500	You collected the ingredients. What kind of stew could she be whipping up?
+12612000	Yonah got her ingredients. The meal was...interesting.
+12621000	The tavern keeper needs more ingredients for her medicine. This time she needs an eagle egg, found in high places where the wind blows.
+12621500	You obtained an eagle egg. Bring it back to the client.
+12622000	You gave the eagle egg to the client, who turned it into medicine. Deliver the medicine to the old woman near the fountain by the library.
+12623000	You gave the medicine to the old woman, although it's hard to imagine her any more energetic than she already is...
+12631000	A guard at the northern gate has asked you to deliver a parcel to the gold house at the highest point of The Aerie. The parcel is fragile, so take extra care when carrying it.
+12631500	You broke the parcel's contents... Return to the client.
+12632000	You successfully delivered the parcel. Report back to the client.
+12633000	You reported your success to the client.
+12641000	The young woman with the dog in the shopping district needs help repairing the village waterwheel. Travel to Facade's "strange-thing store" and obtain parts to repair it.
+12642000	The keeper of the strange-thing store needs materials to make the items you need. Collect ten pieces of iron ore and ten logs.
+12642500	You collected the materials. Bring them back to the strange-thing store.
+12643000	The parts are being built. Return to the village and inform the client of the situation.
+12644000	You reported your success to the client.
+12651000	The fountain in the shopping district is starting to break down, according to the man nearby. Travel to the strange-thing store in Facade and obtain parts to repair it.
+12652000	The keeper of the strange-thing store needs materials to make the items you need. Collect ten broken motors and ten severed cables.
+12652500	You collected the materials. Bring them back to the strange-thing store in Facade.
+12653000	The parts are being built. Return to the village and inform the client of the situation.
+12654000	You reported your success to the client.
+12661000	An old man near the fountain in the shopping district has asked you to deliver a parcel to the tavern in Seafront. The parcel is fragile, so take extra care when carrying it.
+12662000	You successfully delivered the parcel. Report back to the client.
+12663000	You reported your success to the client.
+12671000	The old fisherman will teach you some techniques if you can catch ten sardines.
+12671500	You caught the requested fish. Report back to the old fisherman.
+12672000	You caught ten sardines and learned some fishing techniques.
+12681000	The old fisherman will teach you some techniques if you can catch seven blowfish.
+12681500	You caught the requested fish. Report back to the old fisherman.
+12682000	You caught seven blowfish and learned some fishing techniques.
+12691000	The man with the red sash by the dock needs materials to fix a boat. Collect five logs, twenty dented metal boards, and ten stripped bolts.
+12691500	You collected the materials. Bring them back to the client.
+12692000	You gave the materials to the client.
+12701000	You need to catch a shaman fish, but don't know the first thing about fishing. The old man on the pier seems to know what he's doing...
+12702000	You managed to learn the basics of fishing.
+12711000	The old fisherman will teach you some techniques if you can catch seven rainbow trout.
+12711500	You caught the requested fish. Report back to the old fisherman.
+12712000	You caught seven rainbow trout and learned some fishing techniques.
+12721000	The old fisherman will teach you some techniques if you can catch five bream.
+12721500	You caught the requested fish. Report back to the old fisherman.
+12722000	You caught five bream and learned some fishing techniques.
+12731000	The old fisherman will teach you some techniques if you can catch five black bass.
+12731500	You caught the requested fish. Report back to the old fisherman.
+12732000	You caught five black bass and learned some fishing techniques.
+12741000	The old fisherman will teach you some techniques if you can catch three sandfish over in Facade's desert ocean. Fish...in the desert?
+12741500	You caught the requested fish. Report back to the old fisherman.
+12742000	You caught three sandfish and learned some fishing techniques.
+12751000	The old fisherman will teach you some techniques if you can catch three royal fish.
+12751500	You caught the requested fish. Report back to the old fisherman.
+12752000	You caught three royal fish and learned some fishing techniques.
+12761000	The old fisherman will teach you some techniques if you can catch two blue marlin.
+12761500	You caught the requested fish. Report back to the old fisherman.
+12762000	You caught two blue marlin and learned some fishing techniques.
+12771000	The old fisherman has told you of a legendary fish. Catch a hyneria and show it to him.
+12771500	You caught a hyneria. Show it to the old fisherman.
+12772000	You caught a hyneria and went to show it to the old man. Sadly, he had passed away by the time you arrived.
+12781000	You delivered the letter to the old woman. Report back to the postman.
+12782000	You've been asked to deliver a letter to The Aerie.
+12783000	You've been asked to deliver a letter to the Junk Heap.
+12784000	You delivered the letter.
+12791000	You delivered the letter to the old woman. Report back to the postman.
+12792000	You've been asked to deliver a letter to Popola.
+12793000	You delivered the letter.
+12801000	You've been asked to gather ingredients for the Seafront tavern keeper's signature dish. Collect ten medicinal herbs, ten bags of wheat, and ten sardines.
+12801500	You collected the ingredients. Bring them back to the client.
+12802000	You gave the ingredients to the client.
+12811000	The Seafront tavern keeper needs inspiration for new meals. Head to the library and see what you can find.
+12811500	You found something that should work. Bring it back to the client.
+12812000	You found a cookbook in the library. Deliver it to the client.
+12813000	You've been asked to gather ingredients for a new dish. Collect five sharks, five bags of rice, and five mushrooms.
+12813500	You collected the ingredients. Bring them back to the client.
+12814000	You gave the ingredients to the client.
+12821000	The guard at the eastern gate has asked you to deliver a parcel to Facade's weapon shop. The parcel is fragile, so take extra care when carrying it.
+12822000	You successfully delivered the parcel. Report back to the client.
+12823000	You reported your success to the client.
+12831000	You've been invited to join a game where you pass messages from one person to the next. If you make a mistake, you must start over from the beginning.
+12831200	The first recipient is "the person guarding the left side of the exit."
+12831300	The second recipient is "the king's right-hand man."
+12831400	The third recipient is "the person taking care of the children."
+12831500	The fourth recipient is "the southeastern guardian."
+12831600	The fifth recipient is "the long-winded person."
+12832000	You passed messages to five people.
+12841000	A woman in front of the king of Facade's palace needs you to run an errand. The rules state that she can't expressly state the name of the item she wants, so you must search for ten "round, striped food objects."
+12842000	You located and delivered the items to the client.
+12851000	A Facade royal guard needs titanium alloy and a crystal so he can make a mask.
+12851500	You collected the materials. Bring them back to the client.
+12852000	You gave the materials to the client.
+12861000	The shopkeeper at the strange-thing store in Facade has asked you to collect ten wolf hides as a gift for his wife. It seems they recently had an argument...
+12861500	You collected the hides. Bring them back to the client.
+12862000	You gave the hides to the client. Go to his wife (located directly above her husband) and inform her of the gift.
+12863000	With the present delivered, the couple is happy once more.
+12871000	A person near the mailbox in Facade wants some seeds to grow in the desert. Bring the client ten pink moonflower seeds.
+12871500	You collected the seeds. Bring them back to the client.
+12872000	You gave the seeds to the client.
+12881000	The tavern keeper in Seafront needs ingredients for a new recipe. Collect ten giant catfish and ten bags of rice.
+12881500	You collected the ingredients. Bring them back to the client.
+12882000	You gave the ingredients to the client.
+It seems he can't clean the slimy, smelly fish. Can a restaurant like this survive in a coastal town?
+12891000	A man near the lighthouse in Seafront needs replacement parts for the lighthouse. Collect ten broken lenses, ten broken batteries, and ten mysterious switches.
+12891500	You collected the materials. Bring them back to the client.
+12892000	You gave the materials to the client.
+12901000	A Facade royal guard has asked you for twenty pieces of iron ore, twenty pieces of clay, and twenty logs to help revive the town's fortunes.
+12901500	You collected the materials. Bring them back to the client.
+12902000	You delivered the requested materials. The town should be vibrant again before long.
+12911000	Yonah asked you for a melon.
+12912000	Yonah asked you for a watermelon.
+12913000	Yonah asked you for a pumpkin.
+12914000	You thoroughly enjoyed Yonah's cooking. ...How odd.
+12921000	A man near the fountain in Seafront's plaza has given you a love letter he wants delivered to his lover in The Aerie. The recipient lives near the village's chief.
+12922000	The man's lover seems to be gone. Return to him and report your findings.
+12923000	You explained the situation to the man, but he says he's not ready to give up just yet.
+12931000	Have Devola and Popola sing a song for you. Discuss the matter with both of them.
+12931500	Apparently Popola needs a special drink in order to sing. Get it from the tavern in Seafront.
+12932000	The drink is made of certain special ingredients. Collect five lizard tails and five mouse tails.
+12932200	You collected the ingredients. Take them to the Seafront tavern.
+12932500	You successfully created the drink. Report back to Popola.
+12933000	The sisters have sung their song...though frankly, the drink Popola requested is much more fascinating.
+12941000	An old man near the shopping district's southern entrance needs help finding his dog. The animal likes to roam the northern plains.
+12942000	You found the dog, but it was already dead. Take the leaf from its mouth and return it to its master.
+12943000	The master had already died by the time you returned.
+12951000	A man aboard a ship docked in Seafront needs to build his inventory so he can begin trading. Collect ten bundles of wool, five lumps of natural rubber, and ten goat hides.
+12952000	You collected the materials. Bring them back to the client.
+12953000	You delivered the goods. Hopefully your client can build a successful trading business.
+12961000	A man across the way from the weapon shop near the southern gate needs help finding his runaway son. The young man apparently wears an unusual-looking hat.
+12962000	The runaway wants to thank the tavern keeper's family for helping him. Bring him five pieces of mutton and three pieces of goat meat.
+12962500	You collected all of the meat. Bring it to the tavern keeper.
+12963000	You've lost the runaway. Return to his parents.
+12963500	Look around Seafront for clues to the runaway's whereabouts.
+12964000	The runaway has gone to Facade. Track him down and make him pay for what he's done.
+12964500	You found the runaway in Facade. He's making a run for it—nab him!
+12965000	The runaway has seen the error of his ways. Report back to his parents.
+12966000	Now the runaway's parents are missing! ...Apparently the entire family is full of liars.
+12971000	A man in the open area near the lighthouse wants you to procure fluorite so he can make a fashion accessory for his lover. You can find it in Facade's strange-thing store.
+12972000	It seems the required materials are in the Barren Temple.
+12973000	You've obtained fluorite. Bring it to the man.
+12974000	You gave the ore to the client. Ah, love...
+12981000	The child of Facade's weapon shopkeeper has left home and is headed for the desert. His parents want you to bring him back.
+12981500	Ignoring your pleas, the child set off toward a den of wolves. Don't let him fight alone!
+12982000	You brought the son home safe and sound.
+12991000	A family near Facade's strange-thing store cannot find their daughter. Ask around Facade and see what you can learn.
+12991300	The daughter was sighted with her boyfriend on the lowest level of town. Go search for further clues.
+12991700	The daughter's boyfriend stands watch over the town entrance.
+12992000	You found traces of blood on the lowest level of town. It's time to meet with the girl's boyfriend.
+12993000	The girl's body was dumped at the sandspout well just outside Facade. Search the location for clues.
+12994000	You can't find the body. Tell her parents the grim news.
+12995000	The girl was alive the whole time! How strange...
+13001000	A guard at Facade's gate asked you to eliminate the bandits desecrating the Barren Temple.
+13002000	The bandits have inadvertently broken the seal placed on a Shade. It must be defeated at once.
+13003000	You defeated the Shade. Report back to the client.
+13003500	You reported back to the client. Hopefully this will quiet things down in the temple.
+13011000	An old lady standing under a tree in Seafront needs you to recover cargo from a ship that was lost at sea. Search the shorelines and find her three pieces of cargo.
+13012000	You retrieved the cargo from the Seafront shoreline.
+13013000	You retrieved the cargo from <NIER>'s village.
+13014000	You retrieved the cargo from the shoreline in the northern plains.
+13014500	You retrieved all of the cargo. Now, what to do with it...
+13015000	You gave the cargo to the client.
+13016000	You gave the cargo to the authorities.
+13021000	A woman in orange at the port in Seafront wants you to locate a treasure known as the Mermaid Tear. Search Seafront for leads.
+13022000	It seems the lighthouse lady was involved...
+13023000	Follow the trail of letters to the post office.
+13024000	Report back to the client about the jewel.
+13024500	You spoke with the client. That jewel has quite a story behind it...
+13031000	A young man wants to become a soldier. Help him by collecting five pieces of iron ore and five logs.
+13031500	You collected the materials. Bring them back to the young man.
+13032000	The young man has passed the military entrance exam.
+13033000	The young man has failed the military entrance exam.
+13034000	The young man has become a soldier.
+13041000	The item shopkeeper needs your help finding the culprits that robbed his store. Begin by asking around for clues.
+13042000	Apparently the culprits work as a pair...
+13043000	Apparently the culprits are children...
+13044000	The robbers were a pair of children. You need to talk to their father. Try the tavern.
+13044500	The father is useless. Report back to the client for now.
+13045000	Can anyone take care of these kids?
+13045500	Your client says he'll search for a guardian for the children. Hopefully he'll find someone good.
+13046000	Popola has agreed to take care of the children.
+13051000	A man traveling on a ship in Seafront wants to make a medication that will prevent seasickness. Buy him a mandrake leaf from the strange-thing store in Facade.
+13051500	You obtained the mandrake leaf. The shopkeeper at the strange-thing store sure acted funny when you asked for it...
+13052000	Your client is still working on his seasickness cure. Bring him some toad oil from Two Brothers Weaponry in the Junk Heap.
+13052500	With a nudge and a wink, the younger brother sold you some toad oil.
+13053000	The client wound up going into the medicine business.
+13061000	The grocer's child has been stricken by a mysterious illness after playing with his friends. Maybe the other children would know the cause.
+13062000	Apparently the key lies in the Forest of Myth.
+13062500	You found some poisonous-looking berries. Could they have something to do with the illness?
+13063000	Scour the library for clues to an antidote.
+13063500	The child apparently consumed some poisonous berries. Bring the antidote to the client.
+13064000	The child has passed away...
+13065000	You saved the child's life.
+13071000	The woman sitting diagonally across from the weapon shop asked you to find a young man wearing a golden necklace. Ask around to see if anyone nearby saw him.
+13072000	You learned that he's in the Forest of Myth.
+13073000	You learned that he's in Seafront.
+13074000	You learned that he's at the Junk Heap. Go to Two Brothers Weaponry and ask about him.
+13075000	You learned that he's deep inside the Junk Heap.
+13076000	The man is dead. Report back to the client.
+13076500	You informed the client of the situation. This wasn't a very pleasant job...
+13081000	The tavern keeper in Seafront wants you to purchase a kitchen knife from the Junk Heap. He's willing to pay handsomely.
+13081100	The shop lacks the ten titanium alloys needed to build such a knife.
+13081500	You collected the alloy. Return to the shop so they can craft the knife.
+13081700	The knife is complete. Bring it back to the client.
+13082000	You gave the man his kitchen knife.
+13091000	Collect five broken batteries and five broken motors to repair the elevator in the Junk Heap.
+13091500	You collected the repair parts. Bring them back to the younger brother.
+13092000	The elevator is back online. Defeat all the Shades on the second floor of the Junk Heap.
+13092500	The Shades are defeated. Report back to the shop at the Junk Heap.
+13092700	You reported back to the younger brother, but destroying robots is the only thing on his mind...
+13101000	The blacksmith has asked you to find a treasure map. Where would you look for such a thing...?
+13102000	The map is heavily damaged. Perhaps Facade's strange-thing store would be able to restore it.
+13103000	Gather three drops of machine oil, three eggplants, and three goat hides to repair the map.
+13103100	You collected the materials needed to restore the map. Bring them to the strange-thing store.
+13103300	The map has been restored. Bring it to the client.
+13103500	The man's wife asked you to search for the treasure in place of her husband. Bring the map to Popola to have her decipher it for you.
+13103700	According to the map, the treasure is inside the Lost Shrine, in a place where sunlight does not reach.
+13104000	You found the treasure, but it turned out to be worthless. Report back to the client's wife.
+13104500	The client gave you a treasure map. It might be worthless, but perhaps a trip to Popola's is in order to see if she can decipher it.
+13105000	You gave the client the gold you got in exchange for the hair ornament.
+13105500	The map apparently depicts "the start of a steel bridge."
+13106000	You gave the man the hair ornament.
+13106500	You found treasure in the northern plains. What do you know? It seems real treasure maps do exist.
+13111000	The butler wants you to explore the manor's underground facility in search of a way to restore Emil's body to normal. A clue apparently awaits in the second basement floor.
+13112000	You've obtained the address of a former researcher, whose residence is located above the entrance to Seafront.
+13112500	You found a mysterious letter in the ex-researcher's house. Show it to the butler.
+13113000	The mysterious letter was addressed to Emil.
+Emil seemed happy to see it.
+13121000	You defeated the woman, who was disguised as one of the Masked People. Had she been a Shade this whole time?
+13131000	The guard by the shopping district's southern entrance claims there's a Shade in the village.
+13132000	According to the girl, the Shade was near the river.
+13132500	You failed to find the Shade. Ask the girl where she saw it one more time.
+13133000	The Shade was reportedly in front of the library.
+13133200	There was no Shade to be found. The girl is giving you conflicting statements. Ask some other villagers for clues.
+13133400	Apparently the girl has been telling you lies. Go back and confront her about it.
+13133500	The girl says that the Shade is definitely not near the northern gate or the hill to the west. Hmm...
+13134000	You successfully defeated the Shade. Report back to the guard.
+13134500	You chased the Shade out of the village.
+13141000	A man who lives above the weapon shop in Seafront asked you to deliver a freesia flower to the person running the material shop in Facade.
+13142000	You safely delivered the freesia. Return to the man to collect your reward.
+13143000	You received a reward from the man.
+13151000	The butler wants you to clear Shades from the manor.
+13152000	You defeated all of the Shades, including one disguised as a mercenary.
+13161000	A woman near the entrance to the Forest of Myth asked you to find a "magical stone" used in fortune-telling. Talk to Popola to get more details.
+13162000	The Eye of Power can apparently be found on the roof of the Lost Shrine.
+13162500	You obtained the Eye of Power. Bring it back to the client.
+13163000	You gave the stone to the client. But what did you see...?
+13171000	Dispatch the Shade that has taken up residence near the bridge in the northern plains. However, it seems the Shade isn't always there...
+13172000	You killed the Shade; the bridge is safe once more. Report back to the client.
+13172500	You gave the news to the client. Sadly, his daughter died from her injuries.
+13181000	A large Shade has been sighted in the southern plains. The Seafront postman has asked you to eliminate it for him.
+13182000	You defeated the large Shade. Report back to the postman.
+13182500	You gave the good news to the postman.
+13191000	Investigate a Shade that has appeared in the study.
+13192000	You annihilated the Shade. That should keep the place safe for a while.
+13201000	The botanist next to the item shop in Seafront asked for a piece of root from the Lost Shrine's great tree.
+13202000	You obtained the piece of root. Bring it back to the client.
+13202500	You gave the root to the client.
+13211000	A gate guard in Facade says a great number of people have gone missing in sandstorms as of late. Perhaps you'd better investigate.
+13211500	You defeated the Shade. Report back to the client.
+13212000	You reported back to the client. Hopefully there aren't any more of those Shades.
+13221000	The king of Facade asked you to clear all of the Shades from the Barren Temple.
+13222000	You killed all of the Shades. The ancient kings can rest now.
+13223000	An old man sitting next to the item shop in the shopping district says that a wild boar has been injuring people in the northern plains. It's time to end its rampage.
+13224000	You defeated the wild boar. Report back to the client.
+13225000	The client said that a boar's tusk will allow you to tame and ride the animals.
+13226000	A letter has arrived from the Seafront postman. He wants you to deliver a parcel to the lighthouse lady.
+13227000	You received the old lady's parcel. Bring it to the lighthouse.
+13228000	You delivered the parcel to the lady.
+13229000	The Seafront postman wants you to bring a letter to the old lady.
+13228100	You delivered the letter to the lady. She's got a big mouth, but at least she pays well.
+13228200	The lady wants to leave town, and the postman has asked you to convince her otherwise. Go pay her a visit.
+13229200	The old lady is afflicted with the Black Scrawl. Visit the postman to help make her last request come true.
+13228300	The postman is acting strange. Return to the post office.
+13229300	The postman apparently has something to show you. Search for it inside the post office's storeroom.
+13228400	The letters to the old lady were fakes written by the postman. How should you explain this to the woman?
+13229400	You gave the letter to the lady and told her the truth.
+13228500	You gave the letter to the lady, but decided not to tell her the truth.
+13228600	You received word from the Seafront postman. Apparently he has something to tell you.
+13229600	The old woman has passed away. Was it better this way? Who can say?
+14000000	The carnage begins! No idea
+where I am or why...yet.
+14000100	Building strength by killing
+these dark, creepy...things.
+14000200	An unstable voice cries out
+in an unstable world...
+14000300	Suddenly in the...future?
+Or is this the past? Hmm...
+14000400	Hunting for mutton now?
+This seems oddly MMO-esque.
+14000500	Vast plains, blue skies...
+and white, fluffy sheep.
+14000600	Apparently I'm a freelance
+errand boy. Yippee.
+14000700	Out shopping. The people of
+this world seem very poor...
+14000800	Headed home to see my sister.
+Sister?
+14000900	This world is awful gloomy,
+but at least it seems safe.
+14001000	Taking on some crepuscular
+foes. Go on, look it up.
+14001100	Finished taking out the trash.
+That was an ordeal...
+14001200	Returning home after a day
+of running back and forth.
+14001300	My sister's gone. First,
+the mutton, now this...
+14001400	Nothing good can come from
+a missing sister.
+14001500	Searching for my sister.
+This can't end well.
+14001600	Operation: Sister Quest
+continues. Where is she?
+14001700	Still searching for Yonah.
+Now I'm near a giant tree.
+14001800	Those creatures are all over,
+but still no sign of Yonah...
+14001900	There she is! ...How can she
+sleep at a time like this?
+14002000	Just defeated a pair of iron
+knights. Nothing's easy...
+14002100	My sister's cursed, her body 
+covered with black symbols... 
+14002200	What did that girl do to
+deserve this fate?
+14002300	So THAT'S the objective of
+this game. Very clever.
+14002400	Crossing the plains. This is
+taking forever.
+14002500	Exploring a strange town built
+into the side of a cliff.
+14002600	Stumbled upon a trashy little
+shack just outside town. 
+14002700	Who's this girl, anyway? She's
+wearing nothing but underwear.
+14002800	Underwear Girl's fighting a
+lizard. This is nuts...
+14002900	So I just need to gather all 
+the [SPOILER], right? Great!
+14003000	Got the first [SPOILER]!
+14003100	[SPOILER] is [SPOILER]. Is it
+[SPOILER], or [SPOILER]? Hmm.
+14003200	Off on a field trip to get my
+weapon powered-up.
+14003300	Looking for work in the
+tavern. A man's gotta eat.
+14003400	Off to the Junk Heap to try
+and find some stuff to kill.
+14003500	My sister's sick, and I'm
+kinda freaking out.
+14003600	Shh. I'm off looking for fish.
+...Don't ask.
+14003700	Ran across a whiny old lady.
+At least Shades don't talk...
+14003800	Delivering letters, running
+fetch quests...the usual.
+14003900	Time to head back to Underwear
+Girl's village.
+14004000	Fighting a giant, magical-ball
+shooting lizard. So. Awesome.
+14004100	Battle's over, but I still
+gotta save Underwear Girl!
+14004200	Heading for the desert. Better
+brush up on my sign language.
+14004300	Some guy's been sending mail
+to my kid. Not too thrilled.
+14004400	Underwear Girl got lost in a
+haunted manor. Great.
+14004500	Found a boy with a blindfold
+playing the piano. Um, yeah.
+14004600	Finally got out of that manor.
+Time for a visit home.
+14004700	The Junk Heap's still humming.
+...I kinda wish it wasn't.
+14004800	Fought a tin robot, a tin box,
+and a tin pipe. Tin-acious!
+14004900	Two brothers asked me to find
+their mom. I hope she's okay.
+14005000	That was unfortunate. Reality
+can be pretty rough sometimes.
+14005100	That was depressing. Can't
+always have a happy ending...
+14005200	At a lovely seaside town,
+searching for fish.
+14005300	Who knew I'd be fishing this
+thing out of the sea myself?
+14005400	Time to bring Yonah her meds.
+I hate to see her suffer...
+14005500	That old battle-axe needs our
+help. She's a real pain...
+14005600	Got a letter for the old lady.
+Am I being punished?
+14005700	Finished helping the old lady.
+Hope she's happy now.
+14005800	Finished helping the old lady. 
+Wonder what her guy was like?
+14005900	Desert? Check. Wolves? Check.
+Weird masked people? ...Check.
+14006000	In a weird town full of sand.
+The people here are crazy.
+14006100	Rules, rules, rules, rules!
+What a pain in the [SPOILER]!
+14006200	I could never, EVER live here.
+Seriously, I'd die.
+14006300	Caught up in a plot to save
+the prince of crazytown.
+14006400	Crazy prince saved. Crazytown
+pleased. I'm outta here.
+14006500	Some kind of...dream?
+What the heck is going on?
+14006600	Dreamdreamdreamdreamdream
+dreamdreamdreamdreamdream
+14006700	Villagers in a nightmare...
+They're tormenting me...
+14006800	That village was a nightmare.
+Kinda like this game!
+14006900	Heading home for the first
+time in a while!
+14007000	It's getting worse. What did
+she do to deserve this pain?
+14007100	I need medicine for Yonah.
+Otherwise...
+14007200	Seems like this is the calm
+before the storm...
+14007300	Giant creatures are attacking
+the village. This is bad!
+14007400	The screams of the dead and
+dying echo throughout.
+14007500	Enemies in the library. Must
+protect my sister!
+14007600	Five years have passed.
+14007700	Our world is falling apart.
+14007800	Time to visit the blindfolded
+kid at his creepy manor.
+14007900	Searching for a secret room.
+Everything's a secret here...
+14008000	I don't think anything could
+surprise me at this point.
+14008100	...Okay, that was surprising.
+14008200	That...that was a heck of a
+price to pay, wasn't it...
+14008300	Beating an enemy senseless.
+Get down and stay down!
+14008400	Discrimination blows.
+14008500	Heading back to where it all
+began. I've come full circle.
+14008600	Off to brain some more robots
+at the ol' Junk Heap.
+14008700	Back to the nightmare forest.
+Maybe someday I'll understand.
+14008800	Would any letters come to a
+house in which no one waits?
+14008900	I need some leads. Time to go
+seek out more info.
+14009000	Off to see the Junk Heap
+brothers. It's been a while.
+14009100	Wandering through iron caverns
+in a mechanized paradise.
+14009200	I wonder what the surviving
+robots are thinking?
+14009300	Off to pick up the new weapon.
+Should make life a bit easier.
+14009400	Trying out the new weapon.
+Hope machines don't feel pain!
+14009500	Fighting an insane machine.
+This whole world's insane...
+14009600	Back to the point of origin
+yet again.
+14009700	Fighting a foe that refuses
+to give up the ghost.
+14009800	Underwear Girl's gone berserk.
+This is bad.
+14009900	All the answers I seek lie
+beyond this altar...
+14010000	Returning to a lonely home.
+A letter awaits.
+14010100	Received an invitation from
+the king of Facade.
+14010200	Having a nice, peaceful chat.
+It's about time.
+14010300	Echoing screams. Streams of
+blood. A future lost...
+14010400	Keeping a promise to destroy
+the wolves.
+14010500	Man vs. wolf. Who will emerge
+victorious?
+14010600	For everything I gain, I lose
+something more precious.
+14010700	Back to the strange cliffside
+village. Something's up.
+14010800	Everyone's friendly. Too
+friendly. I don't trust them.
+14010900	I KNEW this was coming.
+How infuriating.
+14011000	A battle against chaos.
+Who's in the right?
+14011100	Everything's in place.
+It's time to end this tale.
+14011200	My sister awaits in the
+last bastion of the enemy.
+14011300	Into the Shadowlord's castle.
+What an incredible sight.
+14011400	Taking on the final boss.
+The journey's almost over!
+14011500	Half a cookie never tasted
+better.
+14011600	Ah gods, what a choice. All
+paths lead to heartbreak...
+14011700	A world draped in despair.
+My tale begins...
+14011800	Wandering through the desolate
+lands. Today and always.
+14011900	Taking a little break...
+14012000	Currently idle.

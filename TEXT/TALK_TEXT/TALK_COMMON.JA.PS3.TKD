@@ -1,0 +1,274 @@
+1		0	1	0	SEID_9900_S0080_9010_X					-1	0	0	0		Desert Well 01 unlocked.
+2		0	1	0	SEID_9900_S0080_9020_X					-1	0	0	0		You must unlock another well before you can use them to fast-travel.
+3		0	1	0						-1	0	0	0		
+4		0	1	0						-1	0	0	0		
+5		0	1	0						-1	0	0	0		
+6		0	1	0						-1	0	0	0		
+7		0	1	0						-1	0	0	0		
+8		0	1	0						-1	0	0	0		
+9		0	1	0						-1	0	0	0		
+10		2	1	0				<FLAG=B,1432,TRUE>
+<CB=Desert_Warp_02>		-1	0	0	0		
+11		2	1	0				<FLAG=B,1432,TRUE>
+<CB=Desert_Warp_03>		-1	0	0	0		
+12		2	1	0				<FLAG=B,1432,TRUE>
+<CB=Desert_Warp_04>		-1	0	0	0		
+13		2	1	0						-1	0	0	0		
+14		0	1	0	SEID_9900_S0080_9100_X					-1	0	0	0		Desert Well 02 unlocked.
+15		0	1	0	SEID_9900_S0080_9110_X					-1	0	0	0		You must unlock another well before you can use them to fast-travel.
+16		0	1	0						-1	0	0	0		
+17		0	1	0						-1	0	0	0		
+18		0	1	0						-1	0	0	0		
+19		0	1	0						-1	0	0	0		
+20		0	1	0						-1	0	0	0		
+21		0	1	0						-1	0	0	0		
+22		0	1	0						-1	0	0	0		
+23		2	1	0				<FLAG=B,1433,TRUE>
+<CB=Desert_Warp_01>		-1	0	0	0		
+24		2	1	0				<FLAG=B,1433,TRUE>
+<CB=Desert_Warp_03>		-1	0	0	0		
+25		2	1	0				<FLAG=B,1433,TRUE>
+<CB=Desert_Warp_04>		-1	0	0	0		
+26		2	1	0						-1	0	0	0		
+27		0	1	0	SEID_9900_S0080_9190_X					-1	0	0	0		Desert Well 03 unlocked.
+28		0	1	0	SEID_9900_S0080_9200_X					-1	0	0	0		You must unlock another well before you can use them to fast-travel.
+29		0	1	0						-1	0	0	0		
+30		0	1	0						-1	0	0	0		
+31		0	1	0						-1	0	0	0		
+32		0	1	0						-1	0	0	0		
+33		0	1	0						-1	0	0	0		
+34		0	1	0						-1	0	0	0		
+35		0	1	0						-1	0	0	0		
+36		2	1	0				<FLAG=B,1434,TRUE>
+<CB=Desert_Warp_01>		-1	0	0	0		
+37		2	1	0				<FLAG=B,1434,TRUE>
+<CB=Desert_Warp_02>		-1	0	0	0		
+38		2	1	0				<FLAG=B,1434,TRUE>
+<CB=Desert_Warp_04>		-1	0	0	0		
+39		2	1	0						-1	0	0	0		
+40		0	1	0	SEID_9900_S0080_9280_X					-1	0	0	0		Desert Well 04 unlocked.
+41		0	1	0	SEID_9900_S0080_9290_X					-1	0	0	0		You must unlock another well before you can use them to fast-travel.
+42		0	1	0						-1	0	0	0		
+43		0	1	0						-1	0	0	0		
+44		0	1	0						-1	0	0	0		
+45		0	1	0						-1	0	0	0		
+46		0	1	0						-1	0	0	0		
+47		0	1	0						-1	0	0	0		
+48		0	1	0						-1	0	0	0		
+49		2	1	0				<FLAG=B,1435,TRUE>
+<CB=Desert_Warp_01>		-1	0	0	0		
+50		2	1	0				<FLAG=B,1435,TRUE>
+<CB=Desert_Warp_02>		-1	0	0	0		
+51		2	1	0				<FLAG=B,1435,TRUE>
+<CB=Desert_Warp_03>		-1	0	0	0		
+52		2	1	0						-1	0	0	0		
+53		0	1	0						-1	0	0	0	28	
+54		0	1	0						-1	0	0	0	28	
+55		0	1	0						-1	0	0	0	28	
+56		0	1	0						-1	0	0	0	28	
+57		0	1	0						-1	0	0	0	28	
+58		0	1	0	EID_1410_a0050g_0010_NIER010_X					-1	0	0	0	2	What is this, a fountain?
+59		0	1	0	EID_1410_a0050g_0020_BOOKW010_X					-1	0	0	0	26	It appears to be out of service.
+60		0	1	0	SEID_9900_S0090_9130_X					-1	0	0	0	2	I don't have time for sightseeing.
+61		0	1	0	SEID_9900_S0090_9140_X					-1	0	0	0	2	I don't need to go out quite yet.
+62		0	1	0	SEID_9900_S0090_9150_X					-1	0	0	0	2	She couldn't have left the village...
+63		0	1	0	SEID_9900_S0090_9160_X					-1	0	0	0	2	I think Popola said to head east...
+64		0	1	0	SEID_9900_S0090_9170_X					-1	0	0	0	2	I'd better look around town some more.
+65		0	1	0	SEID_9900_S0090_9180_X					-1	0	0	0	2	I need to gather more info from the villagers.
+66		0	1	0	SEID_9900_S0090_9190_X					-1	0	0	0	2	I need to kill all the Shades first.
+67		0	1	0	SEID_9900_S0090_9200_X					-1	0	0	0	2	I can't get in yet...
+68		0	1	0	SEID_9900_S0090_9210_X					-1	0	0	0	2	This place is lousy with Shades. There's got to be a Sealed Verse nearby.
+69		0	1	0	EID_0250_a0010g_0010_BOOKW010_X					-1	0	0	0	26	I don't think you can venture in here again.
+70		0	1	0	EID_0100_a0016g_0010_NIER010_X					-1	0	0	0	2	I should go to the library and see what Popola's up to.
+71		0	1	0	EID_0300_a0015g_0060_NIER010_X					-1	0	0	0	2	No. I'm not gonna leave now.
+72		0	1	0	EID_0300_a0025g_0090_NIER010_X					-1	0	0	0	2	We should go talk to Popola.
+73		0	1	0	EID_1410_a0030g_0007_NIER010_X					-1	0	0	0	2	Might as well head for Facade.
+74		0	1	0	EID_3000_a0015g_0010_BOOKW010_X					-1	0	0	0	26	Enough horseplay!
+		0	1	0	EID_3000_a0015g_0020_BOOKW010_X					-1	0	0	0	26	These people need your help! Hurry!
+75		0	1	0	EID_0100_a0016g_0010_NIER010_X					-1	0	0	0	2	I should go to the library and see what Popola's up to.
+76		0	1	0	SEID_100_S0010_00441_X					-1	0	0	0	2	I'd better get this meat back to the village.
+77		0	1	0	SEID_9900_S0090_9120_X	2				-1	0	0	0	2	The sandstorm's too intense to go any further.
+78		0	1	0	EID_4000_a0010g_0017_NIER020_X					-1	0	0	0	2	Popola said we might be able to find a key fragment in the Junk Heap.
+		0	1	0	EID_4000_a0010g_0018_BOOKW010_X					-1	0	0	0	26	Perhaps we can find a clue at Two Brothers Weaponry.
+79		0	1	0	EID_4000_a0010g_0019_NIER020_X					-1	0	0	0	2	Popola said we might be able to find something in the Forest of Myth.
+		0	1	0	EID_4000_a0010g_0020_BOOKW010_X					-1	0	0	0	26	You will forgive me if I seem less than enthusiastic about such a trip.
+80		0	1	0	EID_4000_a0010g_0021_NIER020_X					-1	0	0	0	2	Let's see if the Junk Heap kid sent us a letter.
+81		0	1	0	EID_4000_a0010g_0022_NIER020_X					-1	0	0	0	2	Maybe Popola has some new information. Let's go see her.
+		0	1	0	EID_4000_a0010g_0023_BOOKW010_X					-1	0	0	0	26	Very well.
+82		0	1	0	EID_4230_a0095g_0009_BOOKW010_X					-1	0	0	0	26	Are you ready for battle?
+		0	1	0	EID_4230_a0095g_0010_NIER020_X					-1	0	0	0	2	Yeah. We have to avenge Fyra.
+83		0	1	0						0	-1	1039	0	8	
+84		0	1	0						0	-1	1039	0	8	
+85		0	1	0						0	-1	1040	0	8	
+86		0	1	0						0	-1	1040	0	8	
+87		0	1	0						0	-1	1041	0	8	
+88		0	1	0						0	-1	1041	0	8	
+89		0	1	0						0	-1	1050	0	8	
+90		0	1	0						0	-1	1050	0	8	
+91		0	1	0						0	-1	1061	0	8	
+92		0	1	0						0	-1	1061	0	8	
+93		0	1	0	SEID_9900_S0110_9020_X					0	-1	1011	0	38	I'm ready to strengthen your weapon anytime.
+<LIST=94>Strengthen weapons</LIST>
+<LIST=95>Buy and sell items</LIST>
+<LIST=96>Cancel</LIST>
+94		2	1	0					<CB=A_MOUNT_FIELD_01_Shop_Synthesis>	-1	0	0	0		
+95		2	1	0					<CB=A_MOUNT_FIELD_01_Shop_Buy>	-1	0	0	0		
+96		2	1	0					<CB=A_MOUNT_FIELD_01_Shop_Return>	-1	0	0	0		
+97		0	1	0	EID_1270_a0100_0033_BROTHO010_X					0	-1	1011	0	38	Come back soon!
+98		0	1	0	SEID_9900_S0110_9030_X					0	-1	1008	0	36	What can I help you with?
+<LIST=99>Strengthen weapons</LIST>
+<LIST=100>Buy and sell items</LIST>
+<LIST=101>Cancel</LIST>
+99		2	1	0					<CB=B_MOUNT_FIELD_01_Shop_Synthesis>	-1	0	0	0		
+100		2	1	0					<CB=B_MOUNT_FIELD_01_Shop_Buy>	-1	0	0	0		
+101		2	1	0					<CB=B_MOUNT_FIELD_01_Shop_Return>	-1	0	0	0		
+102		0	1	0	EID_1270_a0100_0033_BROTHO010_X					0	-1	1008	0	36	Come back soon!
+103		0	1	0						-1	0	0	0		
+104		2	1	0				<CB=GM_Elevator_01_01,0>		-1	0	0	0		
+105		2	1	0				<CB=GM_Elevator_01_01,1>		-1	0	0	0		
+106		2	1	0						-1	0	0	0		
+107		0	1	0						-1	0	0	0		
+108		2	1	0				<CB=GM_Elevator_02_01,0>		-1	0	0	0		
+109		2	1	0						-1	0	0	0		
+110		0	1	0						-1	0	0	0		
+111		2	1	0				<CB=GM_Elevator_03_01,0>		-1	0	0	0		
+112		2	1	0						-1	0	0	0		
+113		0	1	0						-1	0	0	0		
+114		2	1	0				<CB=GM_Elevator_04_01,0>		-1	0	0	0		
+115		2	1	0				<CB=GM_Elevator_04_01,1>		-1	0	0	0		
+116		2	1	0						-1	0	0	0		
+117		0	1	0						-1	0	0	0		
+118		2	1	0				<CB=GM_Elevator_05_01,0>		-1	0	0	0		
+119		2	1	0				<CB=GM_Elevator_05_01,1>		-1	0	0	0		
+120		2	1	0						-1	0	0	0		
+121		0	1	0						-1	0	0	0		
+122		2	1	0				<CB=GM_Elevator_06_01,0>		-1	0	0	0		
+123		2	1	0						-1	0	0	0		
+124		0	1	0						-1	0	0	0		
+125		2	1	0				<CB=GM_Elevator_07_01,0>		-1	0	0	0		
+126		2	1	0						-1	0	0	0		
+127		0	1	0						-1	0	0	0		
+128		2	1	0				<CB=GM_Elevator_08_01,0>		-1	0	0	0		
+129		2	1	0						-1	0	0	0		
+130		0	1	0						-1	0	0	0		
+131		2	1	0				<CB=Port_Warp_01>		-1	0	0	0		
+132		2	1	0				<CB=Port_Warp_02>		-1	0	0	0		
+133		2	1	0				<CB=Port_Warp_03>		-1	0	0	0		
+134		2	1	0				<CB=Port_Warp_04>		-1	0	0	0		
+135		2	1	0						-1	0	0	0		
+136		0	1	0						-1	0	0	0		
+137		2	1	0				<CB=Port_Warp_01>		-1	0	0	0		
+138		2	1	0				<CB=Port_Warp_02>		-1	0	0	0		
+139		2	1	0				<CB=Port_Warp_03>		-1	0	0	0		
+140		2	1	0				<CB=Port_Warp_04>		-1	0	0	0		
+141		2	1	0						-1	0	0	0		
+142		0	1	0						-1	0	0	0		
+143		2	1	0				<CB=Port_Warp_01>		-1	0	0	0		
+144		2	1	0				<CB=Port_Warp_02>		-1	0	0	0		
+145		2	1	0				<CB=Port_Warp_03>		-1	0	0	0		
+146		2	1	0				<CB=Port_Warp_04>		-1	0	0	0		
+147		2	1	0						-1	0	0	0		
+148		0	1	0						-1	0	0	0		
+149		2	1	0				<CB=Port_Warp_01>		-1	0	0	0		
+150		2	1	0				<CB=Port_Warp_02>		-1	0	0	0		
+151		2	1	0				<CB=Port_Warp_03>		-1	0	0	0		
+152		2	1	0				<CB=Port_Warp_05>		-1	0	0	0		
+153		2	1	0						-1	0	0	0		
+154		0	1	0						-1	0	0	0		
+155		2	1	0				<CB=Port_Warp_01>		-1	0	0	0		
+156		2	1	0				<CB=Port_Warp_02>		-1	0	0	0		
+157		2	1	0				<CB=Port_Warp_03>		-1	0	0	0		
+158		2	1	0				<CB=Port_Warp_04>		-1	0	0	0		
+159		2	1	0						-1	0	0	0		
+160		0	1	0						-1	0	0	0		
+161		2	1	0				<CB=Post_Warp_01>		-1	0	0	0		
+162		2	1	0				<CB=Post_Warp_02>		-1	0	0	0		
+163		2	1	0				<CB=Post_Warp_03>		-1	0	0	0		
+164		2	1	0				<CB=Post_Warp_04>		-1	0	0	0		
+165		2	1	0				<CB=Post_Warp_05>		-1	0	0	0		
+166		2	1	0						-1	0	0	0		
+167		0	1	0						-1	0	0	0		
+168		2	1	0				<CB=Post_Warp_01>		-1	0	0	0		
+169		2	1	0				<CB=Post_Warp_02>		-1	0	0	0		
+170		2	1	0				<CB=Post_Warp_03>		-1	0	0	0		
+171		2	1	0				<CB=Post_Warp_04>		-1	0	0	0		
+172		2	1	0				<CB=Post_Warp_05>		-1	0	0	0		
+173		2	1	0						-1	0	0	0		
+174		0	1	0						-1	0	0	0		
+175		2	1	0				<CB=Post_Warp_01>		-1	0	0	0		
+176		2	1	0				<CB=Post_Warp_02>		-1	0	0	0		
+177		2	1	0				<CB=Post_Warp_03>		-1	0	0	0		
+178		2	1	0				<CB=Post_Warp_04>		-1	0	0	0		
+179		2	1	0				<CB=Post_Warp_05>		-1	0	0	0		
+180		2	1	0						-1	0	0	0		
+181		0	1	0						-1	0	0	0		
+182		2	1	0				<CB=Post_Warp_01>		-1	0	0	0		
+183		2	1	0				<CB=Post_Warp_02>		-1	0	0	0		
+184		2	1	0				<CB=Post_Warp_03>		-1	0	0	0		
+185		2	1	0				<CB=Post_Warp_04>		-1	0	0	0		
+186		2	1	0				<CB=Post_Warp_05>		-1	0	0	0		
+187		2	1	0						-1	0	0	0		
+188		0	1	0						-1	0	0	0		
+189		2	1	0				<CB=Post_Warp_01>		-1	0	0	0		
+190		2	1	0				<CB=Post_Warp_02>		-1	0	0	0		
+191		2	1	0				<CB=Post_Warp_03>		-1	0	0	0		
+192		2	1	0				<CB=Post_Warp_04>		-1	0	0	0		
+193		2	1	0				<CB=Post_Warp_05>		-1	0	0	0		
+194		2	1	0						-1	0	0	0		
+195		0	1	0						-1	0	0	0		
+196		2	1	0				<CB=Post_Warp_01>		-1	0	0	0		
+197		2	1	0				<CB=Post_Warp_02>		-1	0	0	0		
+198		2	1	0				<CB=Post_Warp_03>		-1	0	0	0		
+199		2	1	0				<CB=Post_Warp_04>		-1	0	0	0		
+200		2	1	0				<CB=Post_Warp_05>		-1	0	0	0		
+201		2	1	0						-1	0	0	0		
+202		0	1	0						-1	0	0	0	8	
+203		0	1	0	C_EID_1410_a0070g_010_010					-1	0	0	0		
+204		0	1	0	C_EID_1410_a0100g_010_010					-1	0	0	0		
+205		0	1	0						-1	0	0	0		
+206		2	1	0	C_STONE_TEMPLE_MOVE			<CB=JUMP_MAP_02>		-1	0	0	0		
+207		2	1	0	C_STONE_TEMPLE_STAY			<CB=SELECT_STAY_01>		-1	0	0	0		
+208		0	1	0	C_EID_4430_a0020g_080_010					0	-1	0	0	8	
+209		0	1	0						0	-1	0	0	8	
+210		0	1	0	EID_4430_a0010_00816_CLIFFNYG_X					0	-1	0	0	8	Hello. Can I help you with something?
+211		0	1	0						0	-1	0	0	8	
+212		0	1	0						-1	0	0	0	2	
+213		0	1	0						-1	0	0	0	26	
+214		0	1	0	EID_3100_a0015g_0065_NIER020_X					-1	0	0	0	2	We need to go to the courtyard.
+215		0	1	0	EID_1350_a0020_0010_BOOKW010_X					-1	0	0	0	26	Perhaps we should pay a visit to the old woman in the lighthouse.
+I have a suspicion about her...
+216		0	1	0						-1	0	0	0	2	
+217		0	1	0	EID_1050_a0010g_00100_BOOKW010_X					-1	0	0	0	26	This is hardly the time to be writing letters.
+218		0	1	0	SEID_9900_S0400_0010_X					-1	0	0	0	2	I guess it's locked.
+219		0	1	0	SEID_9900_S0410_0010_X					-1	0	0	0	26	What's with this room?
+		0	1	0	SEID_9900_S0410_0020_X					-1	0	0	0	2	The hell should I know? Maybe it's Popola's hobby corner or something.
+220		0	1	0	SEID_9900_S0420_0010_X					-1	0	0	0	2	What's that?
+		0	1	0	SEID_9900_S0420_0020_X					-1	0	0	0	26	It looks like the Shade we saw in the Lost Shrine.
+221		0	1	0	SEID_9900_S0430_0010_X					-1	0	0	0	2	It's that lizard thing we fought in The Aerie.
+		0	1	0	SEID_9900_S0430_0020_X					-1	0	0	0	2	Who would make a figure of that, anyway? And what is it doing here!?
+222		0	1	0	SEID_9900_S0440_0010_X					-1	0	0	0	2	It's a sculpted leaf. Um...right?
+		0	1	0	SEID_9900_S0440_0020_X					-1	0	0	0	26	This is the first sane thing I've seen in this room.
+223		0	1	0	SEID_9900_S0450_0010_X					-1	0	0	0	2	This is from the Junk Heap.
+		0	1	0	SEID_9900_S0450_0020_X					-1	0	0	0	26	For a decoration, it's certainly in poor taste.
+224		0	1	0	SEID_9900_S0460_0010_X					-1	0	0	0	2	We saw this cube back in the Barren Temple.
+		0	1	0	SEID_9900_S0460_0020_X					-1	0	0	0	26	Perhaps the prince of Facade gave it to Popola as a gift?
+225		0	1	0	SEID_9900_S0470_0010_X					-1	0	0	0	2	Look, Weiss! Somebody made a copy of you!
+		0	1	0	SEID_9900_S0470_0020_X					-1	0	0	0	26	Nonsense! Rubbish! Utter flimflam! I am nowhere near this filthy!
+226		0	1	0	SEID_9900_S0480_0010_X					-1	0	0	0	2	We saw this Shade in the Lost Shrine. What's it doing here?
+		0	1	0	SEID_9900_S0480_0020_X					-1	0	0	0	26	I have long ceased trying to puzzle out this room.
+227		0	1	0	SEID_9900_S0490_0010_X					-1	0	0	0	2	It's a statue...of a boy.
+		0	1	0	SEID_9900_S0490_0020_X					-1	0	0	0	26	Popola certainly has some eccentric tastes.
+228		0	1	0	SEID_9900_S0500_0010_X					-1	0	0	0	2	What on earth...?
+		0	1	0	SEID_9900_S0500_0020_X					-1	0	0	0	26	It's the massive Shade we saw in The Aerie. 
+		0	1	0	SEID_9900_S0500_0030_X					-1	0	0	0	2	I don't even want to know.
+229		0	1	0	SEID_9900_S0510_0010_X					-1	0	0	0	2	A wolf figurine?
+		0	1	0	SEID_9900_S0510_0020_X					-1	0	0	0	26	Of very fine construction, I would add.
+230		0	1	0	SEID_9900_S0520_0010_X					-1	0	0	0	2	This looks like Emil's sister.
+		0	1	0	SEID_9900_S0520_0020_X					-1	0	0	0	26	An exquisite piece of work! It feels as alive as you or I.
+231		0	1	0	SEID_9900_S0530_0010_X					-1	0	0	0	2	I remember killing this bastard in the Junk Heap.
+		0	1	0	SEID_9900_S0530_0020_X					-1	0	0	0	26	It was a fearsome foe, but under this environment, it looks almost...charming.
+232		0	1	0	SEID_9900_S0540_0010_X					-1	0	0	0	26	Why would Popola be collecting figures of the Shades we defeated?
+		0	1	0	SEID_9900_S0540_0020_X					-1	0	0	0	2	I haven't a clue.
+		0	1	0	SEID_9900_S0540_0030_X					-1	0	0	0	2	Ah, hell. If they aren't real, I guess I don't give a damn. Let her do what she wants.
+233		0	1	0	EID_1200_a0020g_0064_BOOKW010_X					-1	0	0	0	26	It seems we have been shut in...
+234		0	1	0	EID_all_greeting01_VILLNOW_X_1					-1	0	0	0	120	Welcome! I'm afraid we don't have anything in stock at the moment, but please come again!
