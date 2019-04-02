@@ -1,11 +1,11 @@
 1000		0	1	0	EID_0050_a0040g_0060_NIER030_Y					-1	0	0	0	25	Yonah ?!
 1001		0	1	0	EID_0050_a0042g_010_010					-1	0	0	0	25	
-1002	2538	0	1	0	EID_0100_a0012_0010_YONAH010_Y					0	-1	1002	0	5	Papa ? Dis, papa, tu veux que je te raconte le rêve étrange que j'ai fait hier ?
+1002	2538	0	1	0	EID_0100_a0012_0010_YONAH010_Y					0	-1	1002	0	5	Grand frère ? Dis, grand frère, tu veux que je te raconte le rêve étrange que j'ai fait hier ?
 		-1	1	0	EID_0100_a0012_0020_NIER030_Y					0	1002	-1	0	2	Hum ?
-1003		0	1	0	EID_all_greeting02_YONAH010_Y				<CB=YONAH_TalkSet>	0	-1	1002	0	5	Sois prudent, d'accord papa#?
-1004		0	1	0	EID_all_speak02_YONAH010_Y				<CB=YONAH_TalkSet>	0	-1	1002	0	5	... Je t'aime, papa.
+1003		0	1	0	EID_all_greeting02_YONAH010_Y				<CB=YONAH_TalkSet>	0	-1	1002	0	5	Sois prudent, d'accord grand frère#?
+1004		0	1	0	EID_all_speak02_YONAH010_Y				<CB=YONAH_TalkSet>	0	-1	1002	0	5	... Je t'aime, grand frère.
 1005		0	1	0	EID_all_speak02_YONAH010_Y				<CB=YONAH_TalkSet>	0	-1	1002	0	5	... Je prendrai soin de la maison en ton absence.
-1006		0	1	0	EID_all_speak02_YONAH010_Y				<CB=YONAH_TalkSet>	0	-1	1002	0	5	Papa... Je suis désolée d'être malade...
+1006		0	1	0	EID_all_speak02_YONAH010_Y				<CB=YONAH_TalkSet>	0	-1	1002	0	5	Grand frère... Je suis désolée d'être malade...
 1007		0	1	0	EID_all_greeting01_VILLNOW_Y					0	-1	1078	0	108	Bonjour#! Popola ne t'avait pas demandé d'aller la rejoindre à la bibliothèque#?
 1008		0	1	0	EID_all_wonder02_VILLNOG_Y					0	-1	1048	0	8	J'ai entendu dire que Popola a besoin de ton aide.
 1009		0	1	0	EID_all_notice02_VILLNYG_Y_ALT					0	-1	1079	0	8	Je crois que Popola t'attend à la bibliothèque.
@@ -14,7 +14,7 @@
 1012		0	1	0	EID_0100_a0016g_0060_NIER030_Y					0	1003	-1	0	2	Salut, Devola.
 		-1	1	0	EID_0100_a0016g_0070_DEBOL010_Y					0	-1	1003	0	23	Tu m'as l'air d'attaque ce matin !
 		-1	1	0	EID_0100_a0016g_0080_NIER030_Y				<CB=EID_0100_a0016g_End>
-<CB=BGM_A_CENTER_VILLAGE_01_DEBOL_VOCAL_ON>	0	1003	-1	0	2	Tu me connais. C'est pour ma fille que je travaille.
+<CB=BGM_A_CENTER_VILLAGE_01_DEBOL_VOCAL_ON>	0	1003	-1	0	2	Tu me connais. C'est pour ma sœur que je travaille.
 1013		0	1	0	EID_all_speak01_DEBOL010_Y			<CB=BGM_A_CENTER_VILLAGE_01_DEBOL_VOCAL_OFF>	<CB=Sit_Debol_SetMotion>
 <CB=BGM_A_CENTER_VILLAGE_01_DEBOL_VOCAL_ON>	0	-1	1003	0	23	Je sais que Yonah est ce qu'il y a de plus important pour toi, mais ne te surmène pas trop, d'accord#?
 1014	1015	0	2	0	EID_all_speak01_POPOL010_Y			<CB=EID_0100_a0020_Start>		0	-1	1004	0	24	Bonjour. Comment va Yonah aujourd'hui#?
@@ -23,7 +23,7 @@
 		0	1	0	EID_0100_a0020_00301_NIER030_Y					0	1004	-1	0	2	Moi aussi.
 		0	1	0	EID_0100_a0020_00302_NIER030_Y					0	1004	-1	0	2	Je suis si désemparé... Je ne peux pas faire grand-chose pour elle à part m'assurer qu'elle mange assez.
 		0	1	0	EID_0100_a0020_00303_NIER030_Y					0	1004	-1	0	2	La plupart du temps, j'ai l'impression de ne servir à rien.
-		0	1	0	EID_0100_a0020_00304_POPOL010_Y					0	-1	1004	0	24	Oh, ne dis pas des choses pareilles#! Elle ne pourrait pas avoir un père plus attentif que toi.
+		0	1	0	EID_0100_a0020_00304_POPOL010_Y					0	-1	1004	0	24	Oh, ne dis pas des choses pareilles#! Elle ne pourrait pas avoir un frère plus attentif que toi.
 1015	1016	0	1	0	EID_0100_a0020_0040_POPOL010_Y					0	-1	1004	0	24	Au fait, j'ai une faveur à te demander.
 1016	1017	0	1	0	SEID_100_S0010_0041_Y					0	-1	1004	0	24	L'apothicaire du marché aimerait que tu ailles chasser des moutons sur la plaine septentrionale.
 1017	1018	0	1	0	SEID_100_S0010_0042_Y					0	1004	-1	0	2	D'accord, je m'en occupe.
@@ -49,10 +49,10 @@ Tout le monde y gagne.
 1023		0	1	0	EID_0100_a0020_0040_NIER030_Y			<CB=GazeYonah>		-1	0	0	0	2	(Yonah...?)
 		0	1	0	EID_0100_a0020_00401_NIER030_Y				<CB=NOT_ACCESS_YONAH_02>	-1	0	0	0	2	(Mais qu'est-ce qu'elle fait ici#?)
 1024	1025	0	1	0	EID_all_greeting01_NIER030_Y				<CB=SET_YONAH_LOOK_MOTION>	-1	0	0	0	2	Yonah#?
-1025		0	1	0	EID_0100_a0020_00402_YONAH010_Y					-1	0	0	0	5	Oh#! Salut, papa#!
+1025		0	1	0	EID_0100_a0020_00402_YONAH010_Y					-1	0	0	0	5	Oh#! Salut, grand frère#!
 		0	1	0	EID_0100_a0020_00403_NIER030_Y					0	1002	-1	0	2	Bon sang, Yonah#! Tu sais pourtant que tu es trop malade pour te promener dans le village#!
 		0	1	0	EID_0100_a0020_00404_NIER030_Y					0	1002	-1	0	2	Et regarde, ton ruban s'est dénoué. Tu vas le perdre si tu ne fais pas attention...
-		0	1	0	EID_0100_a0020_00405_YONAH010_Y					-1	0	0	0	5	Dé-désolée, papa...
+		0	1	0	EID_0100_a0020_00405_YONAH010_Y					-1	0	0	0	5	Dé-désolée, grand frère...
 		0	1	0	EID_0100_a0020_00406_YONAH010_Y					-1	0	0	0	5	Seulement... Je me suis dit qu'il y aurait peut-être des livres sur ma maladie à la bibliothèque.
 		0	1	0	EID_0100_a0020_00407_NIER030_Y					0	1002	-1	0	2	Oh, Yonah... 
 		0	1	0	EID_0100_a0020_00408_NIER030_Y					0	1002	-1	0	2	Ne te fais pas tant de souci.
@@ -76,7 +76,7 @@ Si tu le fais, ta maladie se guérira toute seule.
 		0	1	0	SEID_100_S0010_0115_Y					0	-1	1004	0	24	Et oui, ces moutons peuvent être féroces#!
 		0	1	0	SEID_100_S0010_0120_Y					0	-1	1004	0	24	Tu as l'air épuisé. Je crois que tu as assez travaillé pour aujourd'hui. Tu devrais rentrer. Je suis certaine que Yonah aimerait pouvoir passer plus de temps avec toi.
 		0	1	0	SEID_100_S0010_0125_Y				<CB=SEID_0100_S0010_a0070_End>	0	1004	-1	0	2	Tu as raison.
-1031		0	2	0	EID_all_speak01_YONAH010_Y			<CB=EID_0100_a0038g_Start>		0	-1	1002	0	5	Hé, papa#! Je veux finir de te raconter mon rêve...
+1031		0	2	0	EID_all_speak01_YONAH010_Y			<CB=EID_0100_a0038g_Start>		0	-1	1002	0	5	Hé, grand frère#! Je veux finir de te raconter mon rêve...
 		-1	1	0	EID_0100_a0038g_00105_YONAH010_Y					0	-1	1002	0	5	J'étais quelque part et euh...
 		-1	1	0	EID_0100_a0038g_0011_YONAH010_Y					0	-1	1002	0	5	Je crois qu'il y avait une énorme chèvre rose et...
 		-1	1	0	EID_0100_a0038g_0012_YONAH010_Y					0	-1	1002	0	5	Euh, j'ai oublié le reste. Il était vraiment bizarre#!
@@ -90,7 +90,7 @@ As-tu déjà entendu parler des larmes lunaires#? Ce sont des fleurs.
 		-1	1	0	EID_0100_a0038g_0050_YONAH010_Y					0	0	1002	0	5	Hum...
 		-1	1	0	EID_0100_a0038g_0060_NIER030_Y					0	1002	-1	0	2	Yonah#? Quelque chose ne va pas#?
 		-1	1	0	EID_0100_a0038g_0070_YONAH010_Y				<CB=EID_0100_a0038g_End>	0	-1	1002	0	5	Non#! Ce n'est rien.
-Bonne nuit, papa.
+Bonne nuit, grand frère.
 1032		0	1	0	EID_0100_a0038g_00701_NIER030_Y					0	1002	-1	0	2	Bon, j'y vais. À plus tard, ma chérie.
 		0	1	0	EID_0100_a0038g_00702_NIER030_Y					0	1002	-1	0	2	Sois sage, d'accord#?
 		0	1	0	EID_0100_a0038g_00703_YONAH010_Y					0	-1	1002	0	5	D'accord.
@@ -212,7 +212,7 @@ Viens, Yonah ! Nous devons partir !
 1061		0	1	0	EID_0300_a0010_0060_BOOKW010_Y					-1	0	0	0	26	Viens. Il vaut mieux la laisser se reposer.
 1062		0	1	0	EID_0300_a0015g_0010_NIER030_Y					-1	0	-1	0	2	Ah, bon sang !
 		0	1	0	EID_0300_a0015g_0020_NIER030_Y					-1	0	-1	0	2	Pourquoi Yonah ? Pourquoi pas moi ?
-		0	1	0	EID_0300_a0015g_0030_NIER030_Y					-1	0	-1	0	2	Pourquoi ma fille unique...?!
+		0	1	0	EID_0300_a0015g_0030_NIER030_Y					-1	0	-1	0	2	Pourquoi ma sœur unique...?!
 		0	1	0	EID_0300_a0015g_0071_BOOKW010_Y					-1	0	0	0	26	Je l'aiderais volontiers si j'en avais le pouvoir.
 1063		0	1	0	EID_0300_a0015g_0060_NIER030_Y					-1	0	0	0	2	Non. Je ne vais pas la quitter maintenant.
 1064		0	1	0	EID_0300_a0015g_0065_NIER030_Y					-1	0	0	0	2	Je n'ai pas envie de parler.
@@ -256,7 +256,7 @@ Je suis tellement désolée.
 		-1	1	0	EID_0300_a0040_0003_NIER030_Y					0	1004	-1	0	2	Si le livre noir disperse les germes d'une maladie, par exemple ceux de la nécrose runique, alors le livre blanc doit pouvoir les détruire#!
 		-1	1	0	EID_0300_a0040_0004_NIER030_Y					0	1004	-1	0	2	Il faut que je trouve ces vers scellés...
 		-1	1	0						-1	0	0	0	26	Ce que j'ai absorbé dans le temple est peut-être ce dont tu parles.
-		-1	1	0						0	1004	-1	0	2	Oui, je crois que tu as raison, Weiss, et ça veut dire que tu sauveras ma petite fille.
+		-1	1	0						0	1004	-1	0	2	Oui, je crois que tu as raison, Weiss, et ça veut dire que tu sauveras ma petite sœur.
 		-1	1	0	EID_0300_a0040_0021_POPOL010_Y					0	-1	1004	0	24	Du calme, ce n'est qu'une vieille légende.
 		-1	1	0	EID_0300_a0040_0022_NIER030_Y					0	1004	-1	0	2	Weiss est bien réel, non#?
 		-1	1	0	EID_0300_a0040_0023_NIER030_Y					0	1004	-1	0	2	Et s'il existe, le reste doit aussi être vrai. Il peut guérir la nécrose runique, j'en suis certain.
@@ -267,7 +267,7 @@ Je suis tellement désolée.
 		-1	1	0	EID_0300_a0040_0070_NIER030_Y					0	1004	-1	0	2	Très bien. Je les éliminerai toutes et j'obtiendrai ce dont j'ai besoin.
 		-1	1	0	EID_0300_a0040_0080_POPOL010_Y					0	-1	1004	0	24	Aurais-tu perdu la tête ?
 		-1	1	0	EID_0300_a0040_0090_BOOKW010_Y					-1	0	0	0	26	Quel plan absurde et irresponsable !
-		-1	1	0	EID_0300_a0040_0100_NIER030_Y					0	1004	-1	0	2	Je ne vais pas rester ici à rien faire alors que ma fille est mourante !
+		-1	1	0	EID_0300_a0040_0100_NIER030_Y					0	1004	-1	0	2	Je ne vais pas rester ici à rien faire alors que ma sœur est mourante !
 Dis-moi où je peux les trouver !
 		-1	1	0	EID_0300_a0040_0101_POPOL010_Y					0	-1	1004	0	24	Mais attends !
 		-1	1	0	EID_0300_a0040_0102_POPOL010_Y					0	-1	1004	0	24	...
@@ -284,7 +284,7 @@ Celui-ci devrait maintenant être réparé.
 		0	1	0	EID_0400_a0010g_0020_NIER030_Y					0	1003	-1	0	2	Oui.
 		0	1	0	EID_0400_a0010g_0030_DEBOL010_Y					0	-1	1003	0	23	Mais c'est de la folie ! Tu te rends compte à quel point ce sera difficile ?!
 		0	1	0	EID_0400_a0010g_0040_NIER030_Y				<CB=EID_0400_a0010g_End>	0	1003	-1	0	2	... Pas aussi difficile que de regarder Yonah mourir.
-1079		0	1	0	EID_0400_a0020g_0010_YONAH010_Y					0	-1	1361	0	5	Il ne m'arrivera rien, papa. Je te le promets.
+1079		0	1	0	EID_0400_a0020g_0010_YONAH010_Y					0	-1	1361	0	5	Il ne m'arrivera rien, grand frère. Je te le promets.
 Je vais t'attendre ici et je ne ferai pas de bêtises.
 		0	1	0	EID_0400_a0020g_0020_YONAH010_Y					0	-1	1361	0	5	Je boirai même le remède qu'a préparé Popola, même s'il est dégoûtant.
 		0	1	0	EID_0400_a0020g_0030_YONAH010_Y					0	-1	1361	0	5	Mais promets-moi que tu reviendras bientôt, d'accord ?
@@ -482,11 +482,11 @@ Je le sais bien.
 		0	1	0	EID_1050_a0004g_0053_YONAH010_Y					0	-1	1361	0	5	J'ai mal...
 		0	1	0	EID_1050_a0004g_0054_NIER030_Y					0	1002	-1	0	2	Oh, ma chérie...
 		0	1	0	EID_1050_a0004g_0055_NIER030_Y					0	1002	-1	0	2	Je vais aller chercher des médicaments. Ne bouge pas.
-		0	1	0	EID_1050_a0004g_0056_YONAH010_Y					0	-1	1361	0	5	Papa...
+		0	1	0	EID_1050_a0004g_0056_YONAH010_Y					0	-1	1361	0	5	Grand frère...
 		0	1	0	EID_1050_a0004g_0057_NIER030_Y					0	1002	-1	0	2	Quoi#?
 		0	1	0	EID_1050_a0004g_0058_YONAH010_Y					0	-1	1361	0	5	Ne prends pas... de risques.
 		0	1	0	EID_1050_a0004g_0059_NIER030_Y				<CB=EID_1020_a0010g_End>	0	1002	-1	0	2	Tu n'as pas à t'inquiéter.
-1142		0	1	0	EID_all_pain01_YONAH010_Y					0	-1	1361	0	5	Papa...
+1142		0	1	0	EID_all_pain01_YONAH010_Y					0	-1	1361	0	5	Grand frère...
 		0	1	0	EID_1050_a0004g_0057_NIER030_Y					0	1361	-1	0	2	Quoi#?
 		0	1	0	EID_1050_a0004g_0058_YONAH010_Y					0	-1	1361	0	5	Ne prends pas... de risques.
 		0	1	0	EID_1050_a0004g_0059_NIER030_Y					0	1361	-1	0	2	Tu n'as pas à t'inquiéter.
@@ -635,18 +635,18 @@ une lettre.
 1192		0	1	0	EID_1320_a0030_0080_BOOKW010_Y					-1	0	0	0	26	Il est atterrant d'imaginer que quelqu'un pourrait se donner la peine de t'écrire
 une lettre.
 		0	1	0	EID_1320_a0030_0090_SOW010_Y					0	-1	1026	0	40	Quel bouquin impertinent#!<PAGE>... Puisque tu veux le savoir, c'est une lettre d'un être cher.
-1193		0	2	0	EID_all_pain01_YONAH010_Y			<CB=EID_1022_a0010g_Start>		0	-1	1361	0	5	Papa... J'ai mal...
+1193		0	2	0	EID_all_pain01_YONAH010_Y			<CB=EID_1022_a0010g_Start>		0	-1	1361	0	5	Grand frère... J'ai mal...
 		0	1	0	EID_1050_a0004g_0076_NIER030_Y					0	1361	-1	0	2	Ne t'en fais pas, je vais te préparer un remède.
 		0	1	0	EID_1050_a0004g_0077_NIER030_Y					0	1361	-1	0	2	Je te préviens, il goûte mauvais, mais tu dois le boire jusqu'à la dernière goutte.
 		0	1	0	EID_1050_a0004g_0078_YONAH010_Y					0	-1	1361	0	5	D'accord...
 		0	1	0	EID_1050_a0004g_0079_NIER030_Y				<CB=EID_1022_a0010g_End>	0	1361	-1	0	2	Bien.
-1194		0	1	0	EID_1050_a0004g_0081_YONAH010_Y					0	-1	1002	0	5	Bonjour, papa#!
+1194		0	1	0	EID_1050_a0004g_0081_YONAH010_Y					0	-1	1002	0	5	Bonjour, grand frère#!
 		0	1	0	EID_1050_a0004g_0082_NIER030_Y					0	1002	-1	0	2	Comment te sens-tu#?
 		0	1	0	EID_1050_a0004g_0083_YONAH010_Y					0	-1	1002	0	5	En pleine forme#! La douleur a complètement disparu#!
 		0	1	0	EID_1050_a0004g_0084_NIER030_Y					0	1002	-1	0	2	C'est formidable, Yonah#!
 		0	1	0	EID_1050_a0004g_0085_NIER030_Y					-1	0	0	0	2	...
 		0	1	0	EID_1050_a0004g_0086_NIER030_Y				<CB=EID_1022_a0020g_End>	0	1002	-1	0	2	C'est vraiment formidable.
-1195		0	1	0	EID_1050_a0004g_0087_YONAH010_Y					0	-1	1002	0	5	Dis, papa...
+1195		0	1	0	EID_1050_a0004g_0087_YONAH010_Y					0	-1	1002	0	5	Dis, grand frère...
 		0	1	0	EID_1050_a0004g_0088_NIER030_Y					0	1002	-1	0	2	Quoi#?
 		0	1	0	EID_1050_a0004g_0089_YONAH010_Y					0	-1	1002	0	5	Tu te souviens de cette vieille femme de Littoral dont tu m'as parlé#?
 		0	1	0	EID_1050_a0004g_0090_YONAH010_Y					0	-1	1002	0	5	Tu crois que je pourrais l'aider#?
@@ -660,7 +660,7 @@ une lettre.
 		0	1	0	EID_1050_a0004g_0098_NIER030_Y					0	1002	-1	0	2	Bon, d'accord, j'irai lui rendre visite.
 		0	1	0	EID_1050_a0004g_0099_YONAH010_Y					0	-1	1002	0	5	Vraiment#?!
 		0	1	0	EID_1050_a0004g_0100_NIER030_Y					0	1002	-1	0	2	Je ne voudrais pas que tu t'enfuies encore une fois...
-		0	1	0	EID_1050_a0004g_0101_YONAH010_Y				<CB=EID_1022_a0030g_End>	0	-1	1002	0	5	Hi, hi, hi#! Merci#! Tu es le meilleur papa au monde#!
+		0	1	0	EID_1050_a0004g_0101_YONAH010_Y				<CB=EID_1022_a0030g_End>	0	-1	1002	0	5	Hi, hi, hi#! Merci#! Tu es le meilleur grand frère au monde#!
 1196		0	1	0	EID_1050_a0004g_0102_BOOKW010_Y					-1	0	0	0	26	Mêmes les pires cauchemars imaginables ne sauraient me préparer à devoir endurer de nouveau cette vieille chipie#!
 1197		0	1	0	EID_1050_a0004g_0103_NIER030_Y					0	1002	-1	0	2	Je dois aller voir Popola. Reste ici et repose-toi bien, d'accord#?
 		0	1	0	EID_1050_a0004g_0104_YONAH010_Y				<CB=EID_1022_a0050g_End>	0	-1	1002	0	5	D'accord#!
@@ -673,7 +673,7 @@ une lettre.
 		0	1	0	EID_1050_a0004g_0126_BOOKW010_Y					-1	0	0	0	26	Je préférerais me jeter dans un feu que de retourner dans ce village de sauvages#!
 		0	1	0	EID_1050_a0004g_0127_POPOL010_Y					0	-1	1004	0	24	Mais ses habitants ont probablement besoin d'aide...! Pourrais-tu aller y jeter un coup d'œil, <NIER>#?
 		0	1	0	EID_1050_a0004g_0125_NIER030_Y				<CB=EID_1040_0010g_End>	0	1004	-1	0	2	Entendu. Je partirai immédiatement.
-1200		0	1	0	EID_1050_a0084_0251_KAINE010_Y					0	-1	-2	0	28	Ta fille a la nécrose runique, c'est ça#?
+1200		0	1	0	EID_1050_a0084_0251_KAINE010_Y					0	-1	-2	0	28	Ta sœur a la nécrose runique, c'est ça#?
 		0	1	0	EID_1050_a0084_0252_NIER030_Y					0	-2	-1	0	2	Oui, et nous devons trouver les vers scellés pour la guérir.
 		0	1	0	EID_1050_a0084_0253_KAINE010_Y					0	-1	-2	0	28	Compris.
 		0	1	0	EID_1050_a0084_0254_KAINE010_Y					-1	0	0	0	28	...
@@ -924,9 +924,9 @@ N'est-ce pas#?)
 		0	1	0	EID_1450_a0105_00706_BOOKW010_Y					0	1009	-1	0	26	Il semblerait que nous n'avons pas le choix. Nous devrons trouver tous les vers scellés.
 		0	1	0	EID_1450_a0105_00707_NIER030_Y					0	1009	-1	0	2	Oui. Heureusement que nous y sommes presque.
 		0	1	0	EID_1450_a0105_00708_TCK010_Y					0	-1	1009	0	45	(Que sont ces vers scellés dont vous parlez#?)
-		0	1	0	EID_1450_a0105_00709_NIER030_Y					0	1009	-1	0	2	Nous n'en sommes pas certains, mais si j'arrive à tous les récupérer, je pourrai guérir ma fille de la nécrose runique.
+		0	1	0	EID_1450_a0105_00709_NIER030_Y					0	1009	-1	0	2	Nous n'en sommes pas certains, mais si j'arrive à tous les récupérer, je pourrai guérir ma sœur de la nécrose runique.
 		0	1	0	EID_1450_a0105_00710_BOOKW010_Y					-1	0	0	0	26	Tu... ne sais pas ce qu'ils sont#?
-		0	1	0	EID_1450_a0105_00711_NIER030_Y					0	0	-1	0	2	Non, et je m'en fiche. Mon seul souci est de sauver ma fille.
+		0	1	0	EID_1450_a0105_00711_NIER030_Y					0	0	-1	0	2	Non, et je m'en fiche. Mon seul souci est de sauver ma sœur.
 		0	1	0	EID_1450_a0105_00712_NIER030_Y				<CB=EID_1450_a0107g_050_End>	0	0	-1	0	2	Je ferais n'importe quoi pour y arriver.
 1286		0	1	0	EID_1450_a0107g_0010_TCK010_Y					0	-1	1009	0	45	(Attendez un instant#!)
 1287		0	1	0	EID_1450_a0107g_0020_TCK010_Y					0	-1	1009	0	45	(Auriez-vous l'amabilité de revenir nous rendre visite un jour#?)
@@ -967,11 +967,11 @@ Oh, misère...)
 		0	1	0	EID_1480_a0020_0100_NIER030_Y					-1	0	0	0	2	Oh, alors ce ne sont pas tous les livres qui sont insensibles.
 ...#Ce n'est que toi.
 1295	1296	0	2	0	EID_all_greeting02_NIER030_Y					-1	1002	-1	0	2	Yonah#?
-		0	1	0	EID_1500_a0001_00002_YONAH010_Y					-1	-1	1002	0	5	Oh, salut papa...
+		0	1	0	EID_1500_a0001_00002_YONAH010_Y					-1	-1	1002	0	5	Oh, salut grand frère...
 		0	1	0	EID_1500_a0001_00003_NIER030_Y					-1	1002	-1	0	2	Comment te sens-tu#?
 		0	1	0	EID_1500_a0001_00004_YONAH010_Y					-1	-1	1002	0	5	Je vais bien. Parfois, j'ai encore mal, mais le remède à base de poisson que tu as préparé aide à calmer la douleur.
 		0	1	0	EID_1500_a0001_00005_NIER030_Y					-1	1002	-1	0	2	Bien.
-1296		0	2	0	EID_1500_a0001_00006_YONAH010_Y					-1	-1	1002	0	5	Euh... Dis, papa#?
+1296		0	2	0	EID_1500_a0001_00006_YONAH010_Y					-1	-1	1002	0	5	Euh... Dis, grand frère#?
 		0	1	0	EID_1500_a0001_00007_NIER030_Y				<CB=EID_1500_a0005_020_Select>	-1	-1	1002	0	5	Passeras-tu la nuit ici#?
 1297		0	1	0						-1	0	0	0		<LIST=1298>Je vais rester avec toi.</LIST>
 <LIST=1299>Pas aujourd'hui, ma chérie.</LIST>
@@ -980,14 +980,14 @@ Oh, misère...)
 1300		0	1	0	EID_1500_a0001_00010_YONAH010_Y					-1	-1	1002	0	5	Oh. Je comprends...
 		0	1	0	EID_1500_a0001_00011_YONAH010_Y				<CB=EID_1500_a0005_010_02_Start>	-1	-1	1002	0	5	La prochaine fois, promets-moi de rester un peu plus longtemps, d'accord#?
 1301		0	1	0	EID_1500_a0001_00011_YONAH010_Y					-1	-1	1002	0	5	La prochaine fois, promets-moi de rester un peu plus longtemps, d'accord#?
-1302		0	1	0	EID_1500_a0001_00012_YONAH010_Y					-1	-1	1002	0	5	Youpi#! Papa passe la nuit à la maison#!
+1302		0	1	0	EID_1500_a0001_00012_YONAH010_Y					-1	-1	1002	0	5	Youpi#! Grand frère passe la nuit à la maison#!
 		0	1	0	EID_1500_a0001_00013_NIER030_Y					-1	1002	-1	0	2	Du calme, Yonah#! Tu pourrais te faire mal.
 		0	1	0	EID_1500_a0001_00014_YONAH010_Y					-1	-1	1002	0	5	Hi, hi, hi#! Peu importe#! Je suis contente#! Tu es là#!
 		0	1	0	EID_1500_a0001_00015_NIER030_Y					-1	1002	-1	0	2	Il se fait tard. Tu devrais aller te coucher.
-		0	1	0	EID_1500_a0001_00016_YONAH010_Y				<CB=EID_1500_a0005_010_01_Start>	-1	-1	1002	0	5	D'accord. Bonne nuit, papa#!
+		0	1	0	EID_1500_a0001_00016_YONAH010_Y				<CB=EID_1500_a0005_010_01_Start>	-1	-1	1002	0	5	D'accord. Bonne nuit, grand frère#!
 1303		0	1	0	NV_ID_1414					-1	0	0	0	2	(Quel drôle de rêve...)
 		0	1	0	NV_ID_1415					-1	0	0	0	2	(Jamais je n'aurais pensé pouvoir trouver un vers scellé dans un endroit comme la forêt des légendes.)
-1304	1305	0	2	0	EID_all_notice01_YONAH010_Y					-1	-1	1002	0	5	Bonjour, papa#!
+1304	1305	0	2	0	EID_all_notice01_YONAH010_Y					-1	-1	1002	0	5	Bonjour, grand frère#!
 		0	1	0	EID_1500_a0001_00018_NIER030_Y					-1	1002	-1	0	2	Hum...
 		0	1	0	EID_1500_a0001_00019_YONAH010_Y					-1	-1	1002	0	5	Qu'est-ce qui ne va pas#? Tu as l'air fatigué et tes yeux sont tout cernés.
 		0	1	0	EID_1500_a0001_00020_NIER030_Y					-1	1002	-1	0	2	Ce n'est rien. Je n'ai pas bien dormi la nuit dernière. J'ai fait des rêves étranges.
@@ -1004,9 +1004,9 @@ Oh, misère...)
 		0	1	0	EID_1500_a0001_00031_NIER030_Y					-1	1002	-1	0	2	... As-tu pu deviner ce qu'il disait#?
 1305		0	1	0	EID_1500_a0001_00032_YONAH010_Y					-1	-1	1002	0	5	Pas vraiment. Je n'ai compris que les mots «#rêve#» et «#forêt des légendes#».
 		0	1	0	EID_1500_a0001_00033_YONAH010_Y					-1	-1	1002	0	5	Mais il a dit qu'il reviendrait, alors je dois m'exercer#! Si je m'exerce assez, je pourrai deviner tout ce qu'il dit et gagner#!
-		0	1	0	EID_1500_a0001_00034_YONAH010_Y					-1	-1	1002	0	5	Tu vas m'aider à m'exercer, hein, papa#?
+		0	1	0	EID_1500_a0001_00034_YONAH010_Y					-1	-1	1002	0	5	Tu vas m'aider à m'exercer, hein, grand frère#?
 		0	1	0	EID_1500_a0001_00035_NIER030_Y				<CB=EID_1500_a0005_060_End>	-1	1002	-1	0	2	Bien sûr...
-1306		0	1	0	EID_1500_a0001_00034_YONAH010_Y					0	-1	1002	0	5	Tu vas m'aider à m'exercer, hein, papa#?
+1306		0	1	0	EID_1500_a0001_00034_YONAH010_Y					0	-1	1002	0	5	Tu vas m'aider à m'exercer, hein, grand frère#?
 1307		0	1	0	EID_1500_a0001_00036_NIER030_Y					-1	0	0	0	2	...
 		0	1	0	EID_1500_a0001_00037_BOOKW010_Y					-1	0	0	0	26	Tu as l'air perdu dans tes pensées.
 ... Cela m'inquiète.
@@ -1040,7 +1040,7 @@ Oh, misère...)
 1315		0	2	0	EID_1100_a0005g_035_010					0	-1	1004	0	24	
 		0	1	0	EID_1100_a0005g_035_020				<CB=EID_1100_a0005g_010_Start>	0	1004	-1	0	2	
 1316		0	1	0	EID_all_speak01_POPOL010_Y					0	-1	1004	0	24	Elle ne m'a pas dit ce qu'elle voulait, mais elle avait l'air inquiète.
-1317	1318	0	2	0	EID_all_notice01_YONAH010_Y					0	-1	1002	0	5	Papa#! Tu es de retour#! Youpi#!
+1317	1318	0	2	0	EID_all_notice01_YONAH010_Y					0	-1	1002	0	5	Grand frère#! Tu es de retour#! Youpi#!
 		0	1	0	EID_1100_a0005g_00002_NIER030_Y					0	1002	-1	0	2	Popola m'a dit que tu as besoin de quelque chose.
 		0	1	0	EID_1100_a0005g_00003_YONAH010_Y					0	-1	1002	0	5	J'aimerais que tu me rendes un service.
 		0	1	0	EID_1100_a0005g_00004_NIER030_Y					0	1002	-1	0	2	Quel service#?
@@ -1061,19 +1061,19 @@ Oh, misère...)
 		0	1	0	EID_1100_a0005g_00019_BOOKW010_Y					-1	0	0	0	26	... Weissounet#?
 		0	1	0	EID_1100_a0005g_00020_NIER030_Y					0	1002	-1	0	2	Parle-moi de ton ami.
 		0	1	0	EID_1100_a0005g_00021_YONAH010_Y					0	-1	1002	0	5	Euh, il habite dans une énorme maison au sud du village, il est très gentil et c'est mon ami.
-		0	1	0	EID_1100_a0005g_00022_YONAH010_Y					0	-1	1002	0	5	Tu dois l'aider, papa#! Je t'en supplie#!
+		0	1	0	EID_1100_a0005g_00022_YONAH010_Y					0	-1	1002	0	5	Tu dois l'aider, grand frère#! Je t'en supplie#!
 		0	1	0	EID_1100_a0005g_00023_NIER030_Y					0	1002	-1	0	2	Écoute, Yonah...
 		0	1	0	EID_1100_a0005g_00024_YONAH010_Y					0	-1	1002	0	5	S'il te plaîîîîîîîît#?
 		0	1	0	EID_1100_a0005g_00025_NIER030_Y				<CB=EID_1100_a0005g_Selsect>	0	1002	-1	0	2	Oh, bon sang. Que devrais-je faire#?
 1319		0	1	1						-1	0	0	0		<LIST=2698>Je ne peux rien lui refuser.</LIST>
 <LIST=2699>Non#! Elle est beaucoup trop jeune pour avoir un petit ami#!</LIST>
 1320		0	1	0	EID_1100_a0005g_00028_NIER030_Y					0	1002	-1	0	2	D'accord, je ferai tout mon possible.
-		0	1	0	EID_1100_a0005g_00029_YONAH010_Y				<CB=EID_1100_a0005g_010_Start>	0	-1	1002	0	5	Youpi#! Merci, papa#!
+		0	1	0	EID_1100_a0005g_00029_YONAH010_Y				<CB=EID_1100_a0005g_010_Start>	0	-1	1002	0	5	Youpi#! Merci, grand frère#!
 1321		0	1	1	EID_1100_a0005g_00030_NIER030_Y					0	1002	-1	0	2	Yonah, tu ne devrais pas...
-		0	1	0	EID_1100_a0005g_00031_YONAH010_Y					0	-1	1002	0	5	Oh, allez, papa#! Il faut que tu l'aides#!
+		0	1	0	EID_1100_a0005g_00031_YONAH010_Y					0	-1	1002	0	5	Oh, allez, grand frère#! Il faut que tu l'aides#!
 		0	1	0	EID_1100_a0005g_00032_NIER030_Y				<CB=EID_1100_a0005g_Selsect>	0	1002	-1	0	2	*soupir*
-1322		0	1	0	EID_all_speak02_YONAH010_Y					0	-1	1002	0	5	Merci, papa#!
-1323		0	1	0	EID_1100_a0005g_00034_NIER030_Y					-1	0	0	0	2	... Merveilleux. Ma fille a un petit ami.
+1322		0	1	0	EID_all_speak02_YONAH010_Y					0	-1	1002	0	5	Merci, grand frère#!
+1323		0	1	0	EID_1100_a0005g_00034_NIER030_Y					-1	0	0	0	2	... Merveilleux. Ma sœur a un petit ami.
 		0	1	0	EID_1100_a0005g_00035_BOOKW010_Y					-1	0	0	0	26	Tu devrais user de circonspection. Ce jeune homme pourrait être un jour ton gendre.
 		0	1	0	EID_1100_a0005g_00036_NIER030_Y					-1	0	0	0	2	Ça suffit, Weiss#!
 1324	1325	0	2	0	EID_1100_a0020_0010_BUTLER_Y			<CB=EID_1100_a0020_01_Start>		-1	0	1028	0	34	Nous vous attendions.
@@ -1099,7 +1099,7 @@ Oh, pourquoi personne ne m'écoute jamais ?!
 		0	1	0	EID_1100_a0060_0060_SNOW010_Y					0	-1	1001	0	25	Ah#!
 		0	1	0	EID_1100_a0060_0070_BOOKW010_Y					-1	0	0	0	26	Maintenant que nous nous sommes présentés, dis-nous, qui es-tu ?
 		0	1	0	EID_1100_a0060_0080_SNOW010_Y					0	-1	1001	0	35	Je m'appelle Émile. Ce manoir m'appartient.
-		0	1	0	EID_1100_a0060_0090_NIER030_Y					0	1001	-1	0	2	C'est toi qui as envoyé une lettre à ma fille ?
+		0	1	0	EID_1100_a0060_0090_NIER030_Y					0	1001	-1	0	2	C'est toi qui as envoyé une lettre à ma sœur ?
 1334		0	1	0	EID_1100_a0060_0100_SNOW010_Y					0	-1	1001	0	35	... Une lettre ? Je ne sais pas de quoi vous parlez.
 		0	1	0	EID_1100_a0060_0110_BOOKW010_Y					-1	0	0	0	26	Bien sûr que non, ce serait beaucoup trop facile.
 1335	1336	0	2	0	EID_1100_a0062g_0010_SNOW010_Y					-1	0	0	0	35	Non ! N'approchez pas !
@@ -1131,7 +1131,7 @@ Oh, pourquoi personne ne m'écoute jamais ?!
 		0	1	0	EID_1100_a0070_0100_SNOW010_Y					0	-1	1001	0	35	C'est un homme bon, mais il est un peu rigide. On pourrait même dire que c'est un homme de bronze.
 		0	1	0	EID_1100_a0070_0110_BUTLER_Y				<CB=ScriptMode_to_Nier_08>	0	1001	1028	0	34	Oui, pardonnez-moi, Monsieur Émile.
 1343	1344	0	1	0	EID_1100_a0070_0120_BOOKW010_Y					-1	0	0	0	26	Pfft ! Je doute qu'il soit humain.
-		0	1	0	EID_1100_a0070_0130_NIER030_Y					0	1028	-1	0	2	Écoutez, quelqu'un a envoyé une lettre à ma fille.
+		0	1	0	EID_1100_a0070_0130_NIER030_Y					0	1028	-1	0	2	Écoutez, quelqu'un a envoyé une lettre à ma sœur.
 		0	1	0	EID_1100_a0070_0140_BUTLER_Y					0	-1	1028	0	34	Hum, oui, c'est moi qui l'ai écrite. Veuillez excuser l'impertinence de cet envoi.
 		0	1	0	EID_1100_a0070_0160_BUTLER_Y					0	-1	1028	0	34	Comme vous le savez probablement déjà, Monsieur Émile s'est isolé du monde extérieur à cause de ses yeux.
 		0	1	0	EID_1100_a0070_0170_BUTLER_Y					0	-1	1028	0	34	Il souffre énormément derrière ce bandeau et il est de mon devoir de lui apporter toute l'aide dont je suis capable.
@@ -1200,7 +1200,7 @@ Bien, partons !
 		-1	1	0	EID_2000_a0025g_0120_SNOW010_Y					-1	0	0	0	35	Vi-vite...
 1358		0	2	0	EID_2000_a0025g_0070_POPOL010_Y				<CB=LIB_SET_START_SUBQUEST,536,QUEST_EID2000_village_A,1,1004,1355>	0	-1	1004	0	24	Pourrais-tu aller ramasser de la mousse vaporeuse pour moi ?
 1359		0	1	0	EID_all_speak02_POPOL010_Y					0	-1	1004	0	24	La mousse vaporeuse pousse près de la porte du sud.
-1360		0	1	0	EID_all_speak02_YONAH010_Y					-1	0	0	0	5	Je suis désolée de tousser tout le temps, papa.
+1360		0	1	0	EID_all_speak02_YONAH010_Y					-1	0	0	0	5	Je suis désolée de tousser tout le temps, grand frère.
 1361	1362	0	1	0	EID_2000_a0040_0010_POPOL010_Y					-1	0	0	0	24	Il n'a pas l'air blessé. Je crois que ce n'est que de la fatigue.
 		0	1	0	EID_2000_a0040_0020_POPOL010_Y					-1	0	0	0	24	Je n'arrive pas à imaginer à quel point ce fut difficile pour un aveugle comme lui de parvenir jusqu'ici.
 1362	1363	0	1	0	EID_2000_a0040_0030_SNOW010_Y			<CB=Far_Jack_FootStep_Sound>		-1	0	0	0	35	Ooooh...
@@ -1260,7 +1260,7 @@ Bien, partons !
 ...#Un instant, ce sont deux mots distincts. Je peux presque les comprendre. Le premier commence par «#v#» et le deuxième par «#s#»...
 		1	1	0	NV_ID_1406					-1	0	0	0		    J'y suis presque. Les lettres s'alignent les unes après les autres, de plus en plus rapidment...
 1391	1392	1	1	0	NV_ID_1407					-1	0	0	0		V<WAIT=0.3>-E<WAIT=0.3>-R<WAIT=0.3>-S<WAIT=0.5> S<WAIT=0.3>-C<WAIT=0.3>-E<WAIT=0.3>-L<WAIT=0.3>-L<WAIT=0.3>-É
-		1	1	0	NV_ID_1408					-1	0	0	0		    Un vers scellé. Ce que je cherche, ce qui me permettra de sauver ma fille... Je dévore le garçon du regard, essayant désespérément de déchiffrer le prochain mot.
+		1	1	0	NV_ID_1408					-1	0	0	0		    Un vers scellé. Ce que je cherche, ce qui me permettra de sauver ma sœur... Je dévore le garçon du regard, essayant désespérément de déchiffrer le prochain mot.
 		1	1	0	NV_ID_1409					-1	0	0	0		R<WAIT=0.3>-Ê<WAIT=0.3>-V<WAIT=0.3>-E
 		1	1	0	NV_ID_1410					-1	0	0	0		    Un rêve#? Qu'est-ce que ça peut bien vouloir dire#?
 1392	1393	1	1	0	NV_ID_1411					-1	0	0	0		    Ses lèvres bougent de nouveau, plus rapidement... Je n'arrive plus à les suivre. Bon sang#! Je ne comprends pas#!
@@ -1356,29 +1356,29 @@ Un digestif du bon vieux temps pour mamie#!
 		0	1	0					<CB=SEID_0300_S0080_a0030_End01>	0	-1	1041	0	112	Et accepte aussi ce bulbe et ce sac d'engrais. Tu seras stupéfait de voir à quel point ces plantes poussent rapidement.
 1439		0	1	0	EID_all_speak01_VILLNMW_Y_ALT				<CB=SEID_0300_S0080_a0030_End02>	0	-1	1041	0	112	N'oublie surtout pas l'engrais, hein#?
 1440		0	1	0						0	-1	1041	0	112	Les bulbes sont comestibles et produisent de jolies fleurs#! Ils sont si polyvalents#!
-1441		0	2	0	EID_all_greeting01_YONAH010_Y					0	-1	1002	0	5	Dis, papa... Je veux essayer de préparer un ragoût. Pourrais-tu acheter de la viande de cerf et du blé#?
+1441		0	2	0	EID_all_greeting01_YONAH010_Y					0	-1	1002	0	5	Dis, grand frère... Je veux essayer de préparer un ragoût. Pourrais-tu acheter de la viande de cerf et du blé#?
 		0	1	0						0	1002	-1	0	2	Un ragoût de blé... et de cerf#? Hum, ça semble... délicieux, Yonah.
 		0	1	0					<CB=LIB_SET_START_SUBQUEST,1600,14,2,1002,1442>	-1	0	0	0	2	(Mon estomac va en souffrir...)
 1442		0	1	0						0	1002	-1	0	2	D'accord, Yonah. Je vais me procurer les ingrédients dont tu as besoin.
-		0	1	0					<CB=LIB_SET_END_SUBQUEST>	0	-1	1002	0	5	Vraiment#? Oh, merci papa#! Tu vas adorer, promis#!
+		0	1	0					<CB=LIB_SET_END_SUBQUEST>	0	-1	1002	0	5	Vraiment#? Oh, merci grand frère#! Tu vas adorer, promis#!
 1443		0	2	0	EID_all_speak02_NIER030_Y					0	1002	-1	0	2	J'ai trouvé tes ingrédients, Yonah.
-		0	1	0						0	-1	1002	0	5	Merci, papa#! Je vais préparer mon ragoût tout de suite#!
+		0	1	0						0	-1	1002	0	5	Merci, grand frère#! Je vais préparer mon ragoût tout de suite#!
 		0	1	0					<CB=SEID_0300_S0090_a0030_01>	0	1002	-1	0	2	Yonah, attends...
 1444		0	1	0						-1	0	0	0		<LIST=1445>«#Ne brûle pas le ragoût#!#»</LIST>
 <LIST=1446>«#Coupe la viande en dés#!#»</LIST>
 1445		2	1	0	SEID_0300_S0090_a0030_0020_Sel			<CB=SEID_0300_S0090_a0030_Sel01>		-1	0	0	0		
 1446		2	1	0	SEID_0300_S0090_a0030_0030_Sel			<CB=SEID_0300_S0090_a0030_Sel02>		-1	0	0	0		
-1447		0	1	0						0	-1	1002	0	5	Oh, voyons papa#! Je ne ferais jamais une chose pareille#!
+1447		0	1	0						0	-1	1002	0	5	Oh, voyons grand frère#! Je ne ferais jamais une chose pareille#!
 1448		0	1	0						-1	0	0	0	2	(Je reconnais les ingrédients, mais... la viande est toujours crue.)
-		0	1	0						0	0	1002	0	5	Papa#? Tu n'as pas faim#?
+		0	1	0						0	0	1002	0	5	Grand frère#? Tu n'as pas faim#?
 		0	1	0						0	1002	0	0	2	Euh... je suis affamé, ma chérie#! Et quelle odeur... délicieuse...!
 		0	1	0						-1	0	0	0	2	(On dirait qu'elle a fait bouillir mes sandales... Je crois que je vais être malade.)
-1449		0	1	0						0	0	1002	0	5	D'accord, papa.
+1449		0	1	0						0	0	1002	0	5	D'accord, grand frère.
 1450		0	1	0						-1	0	0	0	2	(Ce ragoût a une odeur d'urine brûlée. Y a-t-il vraiment de la viande quelque part dans cette pâtée#? Et que peuvent bien être ces morceaux noirs qui flottent à la surface...?)
-		0	1	0						0	0	1002	0	5	Papa#? Tu n'as pas faim#?
+		0	1	0						0	0	1002	0	5	Grand frère#? Tu n'as pas faim#?
 		0	1	0						0	1002	0	0	2	Euh... je suis affamé, ma chérie#! Et quelle odeur... appétissante...!
 		0	1	0						-1	0	0	0	2	(Oh, je n'ai jamais rien avalé de plus infect. Je sens que je vais être malade...)
-1451		0	1	0	EID_all_greeting03_YONAH010_Y				<CB=SEID_0300_S0090_a0030_End02>	0	0	1002	0	5	Je peux préparer du ragoût quand tu veux, papa#!
+1451		0	1	0	EID_all_greeting03_YONAH010_Y				<CB=SEID_0300_S0090_a0030_End02>	0	0	1002	0	5	Je peux préparer du ragoût quand tu veux, grand frère#!
 1452		0	2	0	EID_all_speak01_VILLNMW_Y_ALT					0	-1	1037	0	116	Dis, j'ai du boulot pour toi, ça t'intéresse#?
 		0	1	0						0	1037	-1	0	2	Peut-être, qu'y a-t-il#?
 		0	1	0						0	-1	1037	0	116	J'aimerais que tu me rapportes un œuf d'aigle de l'Aire.
@@ -1611,30 +1611,30 @@ Je le ferai même aux frais de la maison#!
 1530		0	1	0						0	1384	-1	0	2	De rien. Et, euh... bon courage#?
 		0	1	0					<CB=SEID_1320_S0230_a0050_End>	0	-1	1384	0	19	Je ne pensais pas que mon rêve serait anéanti ainsi. Quelle poisse#!
 1531		0	1	0	EID_all_worry03_VILLNMG_Y					0	-1	1384	0	19	Je ne pensais pas que mon rêve serait anéanti ainsi. Quelle poisse#!
-1532		0	2	0	EID_all_speak01_YONAH010_Y				<CB=LIB_SET_START_SUBQUEST,1668,33,2,1002,1533>	0	-1	1002	0	5	Dis, papa, j'ai besoin de quelque chose...
+1532		0	2	0	EID_all_speak01_YONAH010_Y				<CB=LIB_SET_START_SUBQUEST,1668,33,2,1002,1533>	0	-1	1002	0	5	Dis, grand frère, j'ai besoin de quelque chose...
 1533		0	1	0						0	1002	-1	0	2	De quoi s'agit-il#?
 		0	1	0						0	-1	1002	0	5	Euh... un melon.
 		0	1	0					<CB=LIB_SET_END_SUBQUEST>	0	1002	-1	0	2	Un melon#? Je m'en occupe.
-1534		0	1	0	EID_all_speak02_YONAH010_Y				<CB=SEID_1050_S0060_a0030_End02>	0	-1	1002	0	5	Pourrais-tu m'apporter un melon, papa#?
+1534		0	1	0	EID_all_speak02_YONAH010_Y				<CB=SEID_1050_S0060_a0030_End02>	0	-1	1002	0	5	Pourrais-tu m'apporter un melon, grand frère#?
 1535		0	2	0	EID_all_speak02_NIER030_Y					0	1002	-1	0	2	J'ai le melon que tu voulais, Yonah.
-		0	1	0						0	-1	1002	0	5	Merci, papa#!
+		0	1	0						0	-1	1002	0	5	Merci, grand frère#!
 		0	1	0						0	1002	-1	0	2	Si tu veux autre chose, tu n'as qu'à me le demander, d'accord ma chérie#?
 		0	1	0						0	-1	1002	0	5	Eh bien, puisque tu insistes... Pourrais-tu m'apporter une pastèque#?
 		0	1	0					<CB=SEID_1050_S0060_a0030_End01>	0	1002	-1	0	2	Une pastèque#? Mais bien sûr.
-1536		0	1	0	EID_all_speak02_YONAH010_Y				<CB=SEID_1050_S0060_a0050_End02>	0	-1	1002	0	5	Pourrais-tu m'apporter une pastèque, papa#?
+1536		0	1	0	EID_all_speak02_YONAH010_Y				<CB=SEID_1050_S0060_a0050_End02>	0	-1	1002	0	5	Pourrais-tu m'apporter une pastèque, grand frère#?
 1537		0	2	0	EID_all_speak02_NIER030_Y					0	1002	-1	0	2	J'ai la pastèque que tu voulais, Yonah.
-		0	1	0						0	-1	1002	0	5	Merci, papa#!
+		0	1	0						0	-1	1002	0	5	Merci, grand frère#!
 		0	1	0						0	1002	-1	0	2	Veux-tu autre chose#?
 		0	1	0						0	-1	1002	0	5	J'aimerais un potiron#!
 		0	1	0					<CB=SEID_1050_S0060_a0050_End01>	0	1002	-1	0	2	Un potiron#? Pourquoi pas#!
-1538		0	1	0	EID_all_speak02_YONAH010_Y				<CB=SEID_1050_S0060_a0070_End02>	0	-1	1002	0	5	Alors, as-tu trouvé un potiron, papa#?
+1538		0	1	0	EID_all_speak02_YONAH010_Y				<CB=SEID_1050_S0060_a0070_End02>	0	-1	1002	0	5	Alors, as-tu trouvé un potiron, grand frère#?
 1539		0	2	0	EID_all_speak02_NIER030_Y					0	1002	-1	0	2	J'ai le potiron que tu voulais, Yonah.
-		0	1	0						0	-1	1002	0	5	Merci, papa#!
+		0	1	0						0	-1	1002	0	5	Merci, grand frère#!
 		0	1	0						0	1002	-1	0	2	Je t'ai apporté beaucoup de nourriture ces derniers temps, Yonah.
 Qu'est-ce que tu mijotes#?
 		0	1	0						0	-1	1002	0	5	C'est un secret#! Attends encore un peu, d'accord#?
 		0	1	0					<CB=SEID_1050_S0060_a0070_01>	0	1002	-1	0	2	Hum...? 
-1540		0	2	0						-1	0	0	0	5	Voilà#! Regarde, papa, je l'ai fait moi-même#!
+1540		0	2	0						-1	0	0	0	5	Voilà#! Regarde, grand frère, je l'ai fait moi-même#!
 		0	1	0						-1	0	0	0	2	Est-ce un gâteau...?
 		0	1	0						-1	0	0	0	5	Oui#! Popola m'a appris la recette#!
 		0	1	0						-1	0	0	0	5	C'était ça, mon secret#! C'est pour cette raison que j'avais besoin de ces ingrédients#!
@@ -2275,7 +2275,7 @@ Pourquoi ne pas y jeter un coup d'œil#?
 1757		0	1	0	EID_all_speak01_VILLNMG_Y					0	-1	1043	0	9	Littoral est la ville située au-delà de la plaine méridionale. On peut y trouver le meilleur poisson au monde#!<PAGE>Je suppose que c'est un des avantages d'être situé tout près de la mer, même si le niveau de celle-ci monte toujours.
 1758		0	1	0	EID_all_greeting02_VILLNMG_Y_ALT					0	-1	1044	0	9	Allez#! Fais une pause et viens prendre un petit verre avec moi#!
 Je paierai la première tournée#!
-		0	1	0						0	1044	-1	0	2	Désolé, je dois rentrer tôt pour m'occuper de ma fille.
+		0	1	0						0	1044	-1	0	2	Désolé, je dois rentrer tôt pour m'occuper de ma sœur.
 1759		0	1	0	EID_all_worry02_VILLNMG_Y					0	-1	1045	0	9	On dirait que le manoir de la plaine méridionale devient de plus en plus sinistre chaque jour...<PAGE>Bah, ce n'est pas étonnant puisqu'il s'agit d'un des vestiges d'une civilisation ancienne#!
 1760		0	1	0	EID_all_greeting01_VILLNMG_Y					0	-1	1046	0	9	Tu comptes sortir du village#? Sois prudent#!
 		0	1	0						0	1046	-1	0	2	Je le suis toujours.
@@ -3200,27 +3200,27 @@ Celui qui se charge habituellement de la distribution du courrier dans les régi
 2355	1831	0	1	0	NID_0020_a0010_0450_Y					-1	0	0	0	8	Oh, bonjour#! Que diriez-vous d'aller prendre un verre#?
 2356	1843	0	1	0	NID_0020_a0010_0570_Y					-1	0	0	0	8	Je regrette, mais nous n'avons pas encore terminé l'inspection du bateau. Revenez plus tard.
 2357		0	1	0						0	-1	1385	0	19	Il paraît que cette ville est remplie de gens impolis et coléreux. Je suppose qu'il est facile de s'emporter pour un rien quand on a le ventre plein et que le soleil brille.
-2358	2359	0	1	0	EID_0050_a0020_0010_YONAH010_Y					0	-1	1018	0	25	Papa...?
+2358	2359	0	1	0	EID_0050_a0020_0010_YONAH010_Y					0	-1	1018	0	25	Grand frère...?
 2359		0	1	0	EID_0050_a0020_0020_NIER030_Y					0	1018	-1	0	25	Ça va, Yonah ?
-		-1	1	0	EID_0050_a0020_0030_YONAH010_Y					0	-1	1018	0	5	Désolée, papa. Pardon...
+		-1	1	0	EID_0050_a0020_0030_YONAH010_Y					0	-1	1018	0	5	Désolée, grand frère. Pardon...
 Je ne ferai plus de bruit, je te le promets.
 2360	2361	0	1	0	EID_0050_a0024_0020_NIER030_Y					0	1018	-1	0	25	... Yonah.
 2361		0	1	0	EID_0050_a0024_0030_YONAH010_Y					0	-1	1018	0	5	Q-quoi ?
 		-1	1	0	EID_0050_a0024_0040_NIER030_Y					0	1018	-1	0	25	Ne touche pas à ce livre. N'y touche jamais. 
 Tu m'entends ?
-		-1	1	0	EID_0050_a0024_0050_YONAH010_Y					0	-1	1018	0	5	D'accord, papa.
+		-1	1	0	EID_0050_a0024_0050_YONAH010_Y					0	-1	1018	0	5	D'accord, grand frère.
 2362		0	1	0	EID_0050_a0050_0020_NIER030_Y					-1	0	0	0	25	Yonah ! Réponds-moi !
-2363		0	1	0	EID_0050_a0050_0030_YONAH010_Y					0	-1	1018	0	5	Ça va papa ?
+2363		0	1	0	EID_0050_a0050_0030_YONAH010_Y					0	-1	1018	0	5	Ça va grand frère ?
 2364		0	1	0	EID_0050_a0050_0040_NIER030_Y					0	1018	-1	0	25	Ne t'en fais pas pour moi. Je n'ai rien.
 		-1	1	0	EID_0050_a0050_0050_YONAH010_Y					0	-1	1018	0	5	Ouf !
 Oh, regarde ce que j'ai trouvé pendant ton absence.
 		-1	1	0	EID_0050_a0050_0060_NIER030_Y					0	1018	-1	0	25	Des biscuits ? Hé, et tes préférés, en plus.
 2365		0	1	0	EID_0050_a0050_0070_YONAH010_Y					0	-1	1018	0	5	Tiens, on va les partager, d'accord ?
 		-1	1	0	EID_0050_a0050_0080_NIER030_Y					0	1018	-1	0	25	Non, garde-les.
-		-1	1	0	EID_0050_a0050_0090_YONAH010_Y					0	-1	1018	0	5	Papa, tu dois manger quelque chose.
+		-1	1	0	EID_0050_a0050_0090_YONAH010_Y					0	-1	1018	0	5	Grand frère, tu dois manger quelque chose.
 		-1	1	0	EID_0050_a0050_0100_NIER030_Y					0	1018	-1	0	25	... Très bien.
 Donne-moi le plus petit, alors.
-		-1	1	0	EID_0050_a0050_0110_YONAH010_Y					0	-1	1018	0	5	Non. Allez, papa ! T'es plus grand que moi. Tu dois manger pour...
+		-1	1	0	EID_0050_a0050_0110_YONAH010_Y					0	-1	1018	0	5	Non. Allez, grand frère ! T'es plus grand que moi. Tu dois manger pour...
 2366		0	1	0	EID_0100_a0016g_0010_NIER030_Y					-1	0	0	0	2	Je dois aller à la bibliothèque. Popola m'attend.
 2367		0	1	0	EID_0100_a0020_00414_NIER030_Y					0	1002	-1	0	2	
 		0	1	0	EID_0100_a0020_00415_YONAH010_Y					0	-1	1002	0	5	
@@ -3558,9 +3558,9 @@ Ne faites pas attention à nous.
 		0	1	0	EID_1450_a0105_00706_BOOKW010_Y					-1	1009	-1	0	2	Il semblerait que nous n'avons pas le choix. Nous devrons trouver tous les vers scellés.
 		0	1	0	EID_1450_a0105_00707_NIER030_Y					-1	1009	-1	0	2	Oui. Heureusement que nous y sommes presque.
 		0	1	0	EID_1450_a0105_00708_TCK010_Y					-1	-1	1009	0	45	(Que sont ces vers scellés dont vous parlez#?)
-		0	1	0	EID_1450_a0105_00709_NIER030_Y					-1	1009	-1	0	2	Nous n'en sommes pas certains, mais si j'arrive à tous les récupérer, je pourrai guérir ma fille de la nécrose runique.
+		0	1	0	EID_1450_a0105_00709_NIER030_Y					-1	1009	-1	0	2	Nous n'en sommes pas certains, mais si j'arrive à tous les récupérer, je pourrai guérir ma sœur de la nécrose runique.
 		0	1	0	EID_1450_a0105_00710_BOOKW010_Y					-1	0	0	0	26	Tu... ne sais pas ce qu'ils sont#?
-		0	1	0	EID_1450_a0105_00711_NIER030_Y					-1	0	-1	0	2	Non, et je m'en fiche. Mon seul souci est de sauver ma fille.
+		0	1	0	EID_1450_a0105_00711_NIER030_Y					-1	0	-1	0	2	Non, et je m'en fiche. Mon seul souci est de sauver ma sœur.
 		0	1	0	EID_1450_a0105_00712_NIER030_Y					-1	0	-1	0	2	Je ferais n'importe quoi pour y arriver.
 2508		0	1	0	EID_2000_a0025g_0010_NIER030_Y					-1	0	0	0	2	Yonah n'a pas la force nécessaire pour combattre la maladie.
 		-1	1	0	EID_2000_a0025g_0020_BOOKW010_Y					-1	0	0	0	26	Nous devons trouver le Grimoire Noir dès que possible.

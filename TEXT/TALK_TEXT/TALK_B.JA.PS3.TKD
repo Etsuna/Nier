@@ -36,7 +36,7 @@ Tout a changé ce jour-là...
 		0	1	0	EID_3000_a0040_0070_POPOL010_Y					1	-1	1004	0	24	Est-ce que ça veut dire que tu vas quitter le village#?
 		0	1	0	EID_3000_a0040_0080_NIER030_Y					1	1004	-1	0	2	Désolé... Je sais que les temps sont durs dernièrement.
 		0	1	0	EID_3000_a0040_0090_POPOL010_Y				<CB=EID_3000_a0040_End>	1	-1	1004	0	24	C'est bon, vas-y. Nous savons que c'est pour Yonah que tu te bats.
-1019		0	1	0	EID_3040_a0010_0010_BOOKW010_Y					-1	0	0	0	26	Je suis certain que ta fille est toujours en vie.
+1019		0	1	0	EID_3040_a0010_0010_BOOKW010_Y					-1	0	0	0	26	Je suis certain que ta sœur est toujours en vie.
 		0	1	0	EID_3040_a0010_0020_NIER030_Y					-1	0	0	0	2	Je sais qu'elle est vivante. Elle doit l'être. Si elle ne l'est pas...
 1020		0	2	0	EID_3100_a0005g_0010_BUTLER_Y				<CB=EID_3100_a0005g_Start>	0	-1	1028	0	34	Bienvenue. Monsieur Émile vous attend dans ses appartements.
 1021		0	1	0	EID_3100_a0005g_0015_NIER030_Y					-1	0	0	0	2	Nous devons d'abord parler à Émile.
@@ -408,7 +408,7 @@ Je crois que je peux traiter d'égal à égal avec vous.
 		0	1	0	EID_4100_a0127_0070_BOOKW010_Y					-1	0	0	0	26	Oh, merveilleux. Je t'en prie, entreprends une campagne de violence meurtrière#!
 		0	1	0	EID_4100_a0127_0080_NIER030_Y					0	1004	-1	0	2	Si nous ne les tuons pas, eux nous tueront. Et puis, c'est le seul moyen d'atteindre le Maître des Ombres.
 		0	1	0	EID_4100_a0127_0081_POPOL010_Y					0	-1	1004	0	24	Ce ne sera pas une tâche facile.
-		0	1	0	EID_4100_a0127_0082_NIER030_Y					0	1004	-1	0	2	Éliminer des Ombres et sauver ma fille#? Ce sont les choses les plus normales qui soient.
+		0	1	0	EID_4100_a0127_0082_NIER030_Y					0	1004	-1	0	2	Éliminer des Ombres et sauver ma sœur#? Ce sont les choses les plus normales qui soient.
 		0	1	0	EID_4100_a0127_0083_POPOL010_Y					0	-1	1004	0	24	Mais... comment peux-tu être certain qu'elle est toujours...
 		0	1	0	EID_4100_a0127_0084_NIER030_Y					0	1004	-1	0	2	Je le sais, c'est tout#!
 		0	1	0	EID_4100_a0127_0085_POPOL010_Y					0	-1	1004	0	24	...
@@ -784,7 +784,7 @@ Je crois que je peux traiter d'égal à égal avec vous.
 1266	1267	0	1	0	EID_7000_a0010_0050_NIER030_Y					-1	0	0	0	2	Où es-tu ? Je ne te vois pas !
 		0	1	0	EID_7000_a0010_0060_BOOKW010_Y					-1	0	0	0	26	J'ai perdu ma forme physique, voilà tout !
 		0	1	0	EID_7000_a0010_0070_BOOKW010_Y					-1	0	0	0	26	Ma voix s'éteindra sans doute aussi bientôt, alors écoute-moi bien !
-		0	1	0	EID_7000_a0010_0080_BOOKW010_Y					-1	0	0	0	26	Ta fille est saine et sauve.
+		0	1	0	EID_7000_a0010_0080_BOOKW010_Y					-1	0	0	0	26	Ta sœur est saine et sauve.
 		0	1	0	EID_7000_a0010_0090_BOOKW010_Y				<CB=EID_7000_a0010_02_03>	-1	0	0	0	26	Ne pleure pas pour elle et ne perds pas espoir. Rappelle-la !
 1267		0	1	0	EID_7000_a0010_0100_NIER030_Y					-1	0	0	0	2	... Mais comment ?
 		0	1	0	EID_7000_a0010_0110_BOOKW010_Y					-1	0	0	0	26	Évoque tes souvenirs. Rappelle-toi les moments que tu as passés avec Yonah.

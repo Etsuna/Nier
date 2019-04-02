@@ -27,7 +27,7 @@
 1023		4	STREAM	EID_0200_a0030g_0015_NIER030_Y	0.5	 			0	2	Je n'ai pas de temps à perdre ! Je dois sauver Yonah !
 1024		4	STREAM	EID_0200_a0030g_0030_NIER030_Y	0.5			<CB=EID_0200_a0030g_Talk02_End>	0	2	Rends-la-moi !
 1025		4	STREAM	EID_0200_a0030g_0020_NIER030_Y	0.5			<CB=EID_0200_a0030g_Talk03_End>	0	2	Hors de mon chemin !
-1026		4	STREAM	EID_0200_a0030g_0040_NIER030_Y	0.5	 		<CB=EID_0200_a0030g_Talk04_End>	0	2	Rends-moi ma fille !
+1026		4	STREAM	EID_0200_a0030g_0040_NIER030_Y	0.5	 		<CB=EID_0200_a0030g_Talk04_End>	0	2	Rends-moi ma sœur !
 1027		4	STREAM	EID_0200_a0090_0005_NIER030_Y	3	 			0	2	Yonah !
 1028	1029	4	STREAM	EID_0200_a0035_0030_BOOKW010_Y	1	 			0	25	Personne ne m'a jamais traité ainsi,
 le ciel m'en est témoin !
@@ -104,8 +104,8 @@ Ces imbéciles passent à l'attaque sans tenir compte du danger#!
 1052		4	STREAM	EID_0200_a0075g_0050_BOOKW010_Y	0.5				0	26	Examine bien le rythme de ses attaques, puis élimine-la !
 		4	STREAM	EID_0200_a0075g_0060_NIER030_Y	0.5				0	2	D'accord, merci !
 1053		4	STREAM	EID_0200_a0065g_0090_BOOKW010_Y	0.5				0	26	Est-elle détraquée ?
-1054		4	STREAM	EID_0200_a0082g_0070_BOOKW010_Y	0.5				0	26	Tu abandonnerais ta fille ?
-1055		4	STREAM	EID_0300_a0015g_0030_NIER030_Y	0.5	 			0	2	Pourquoi ma fille unique...?!
+1054		4	STREAM	EID_0200_a0082g_0070_BOOKW010_Y	0.5				0	26	Tu abandonnerais ta sœur ?
+1055		4	STREAM	EID_0300_a0015g_0030_NIER030_Y	0.5	 			0	2	Pourquoi mon unique sœur...?!
 1056		4	STREAM	EID_0300_a0015g_0040_NIER030_Y	0.5	 			0	2	Bon sang, ce n'est pas juste !
 1057		4	STREAM	EID_0300_a0015g_0050_NIER030_Y	0.5	 			0	2	Yonah... Elle n'est qu'une enfant...
 1058		4	STREAM	EID_0300_a0015g_0071_BOOKW010_Y	0.5	 			0	26	Je l'aiderais volontiers si j'en avais le pouvoir.
@@ -572,7 +572,7 @@ Ils ne peuvent même pas y pénétrer#!
 		2	STREAM	EID_0200_a0055g_07_NIER030_Y	0.5				0	2	Tu devrais peut-être m'aider au lieu de me donner des ordres#!
 		2	STREAM	EID_0200_a0055g_08_BOOKW010_Y	0.5				0	26	Je t'ai octroyé les pouvoirs du Grimoire Weiss#!
 		2	STREAM	EID_0200_a0055g_09_NIER030_Y	0.5			<CB=Talk_Text_03_02_End>	0	2	Je me doutais bien que ce serait ta réponse.
-1258		2	STREAM	EID_0050_a0032_0050_NIER030_Y	3	 			0		Ne touchez pas à ma fille !
+1258		2	STREAM	EID_0050_a0032_0050_NIER030_Y	3	 			0		Ne touchez pas à ma sœur !
 1259		2	STREAM	EID_0050_a0040g_0070_NIER030_Y	0.5				0		Je dois sauver Yonah.
 1260		2	STREAM	EID_0100_a0038g_00723_NIER030_Y	3	 			0	2	Et voilà.
 		2	STREAM	RA_EID_0100_a0039g_010_020	3	 			0	2	
@@ -603,7 +603,7 @@ Débarrasse-toi d'eux !
 1274		2	STREAM	EID_0200_a0082g_0050_NIER030_Y	0.5				0	2	Ça va, Weiss ? Ressaisis-toi !
 		2	STREAM	EID_0200_a0082g_0060_BOOKW010_Y	0.5				0	26	Il semblerait que je puisse récupérer mes pouvoirs en éliminant ces monstres.
 1275		2	STREAM	EID_0250_a0010g_0010_BOOKW010_Y	3	 			0	26	Je ne crois pas que tu puisses pénétrer de nouveau en cet endroit.
-1276		2	STREAM	EID_0300_a0015g_0030_NIER030_Y	0.5	 			0	2	Pourquoi ma fille unique...?!
+1276		2	STREAM	EID_0300_a0015g_0030_NIER030_Y	0.5	 			0	2	Pourquoi mon unique sœur...?!
 		2	STREAM	EID_0300_a0015g_0040_NIER030_Y	0.5	 			0	2	Bon sang, ce n'est pas juste !
 		2	STREAM	EID_0300_a0015g_0050_NIER030_Y	0.5	 			0	2	Yonah... Elle n'est qu'une enfant...
 1277		2	STREAM	EID_0300_a0025g_0030_NIER030_Y	0.5	 			0	2	Et dire que je pensais que tu pourrais me servir de papier à brûler...!
@@ -717,7 +717,7 @@ Ne pourrais-tu pas... lancer un sort et tout ranger d'un seul coup#?
 		2	STREAM	SEID_0300_S0040_0030_NIER030_Y	0.5				0	2	Il doit bien y avoir quelque chose#!
 		2	STREAM	SEID_0300_S0040_0040_BOOKW010_Y	0.5				0	26	Il existe peut-être des médicaments pouvant pallier la douleur, mais rien ne peut éradiquer la maladie.
 		2	STREAM	SEID_0300_S0040_0050_NIER030_Y	0.5				0	2	Bon sang...
-		2	STREAM	SEID_0300_S0040_0060_BOOKW010_Y	0.5				0	26	Cependant, si la légende dit vrai, je détiens la clef qui permettra de sauver ta fille#!
+		2	STREAM	SEID_0300_S0040_0060_BOOKW010_Y	0.5				0	26	Cependant, si la légende dit vrai, je détiens la clef qui permettra de sauver ta sœur#!
 		2	STREAM	SEID_0300_S0040_0070_NIER030_Y	0.5				0	2	Tu as raison. Je dois me raccrocher à cet espoir.
 		2	STREAM	SEID_0300_S0040_0080_BOOKW010_Y	0.5				0	26	À la bonne heure#!
 1323		2	STREAM	SEID_0300_S0080_0010_BOOKW010_Y	0.5				0	26	À quoi peut bien servir ce bulbe#?
@@ -870,7 +870,7 @@ Ainsi, elle n'a pas eu l'occasion d'apprendre le décès de son bien-aimé.
 		2	STREAM	SEID_1350_S0010_0040_NIER030_Y	0.5				0	2	La vie devait être bien facile à cette époque.
 		2	STREAM	SEID_1350_S0010_0050_BOOKW010_Y	0.5				0	26	Je suppose que oui.
 		2	STREAM	SEID_1350_S0010_0060_NIER030_Y	0.5				0	2	J'aimerais bien pouvoir parler à Yonah chaque fois que je m'inquiète pour elle.
-		2	STREAM	SEID_1350_S0010_0070_BOOKW010_Y	0.5				0	26	Ta fille est toujours dans tes pensées, n'est-ce pas#?
+		2	STREAM	SEID_1350_S0010_0070_BOOKW010_Y	0.5				0	26	Ta sœur est toujours dans tes pensées, n'est-ce pas#?
 1344		2	STREAM	SEID_1350_S0011_0010_BOOKW010_Y	0.5				0	26	Une lettre pour Popola#?
 Voilà qui est intéressant...
 		2	STREAM	SEID_1350_S0011_0020_BOOKW010_Y	0.5				0	26	N'es-tu pas un peu curieux d'en connaître le contenu#?
@@ -1035,7 +1035,7 @@ Concentre tes attaques sur l'autre statue#!
 1382		4	STREAM	EID_0200_a0055g_29_BOOKW010_Y	0.5				0	26	Encore raté#! Oh, ton incompétence est flagrante#!
 		4	STREAM	EID_0200_a0055g_30_NIER030_Y	0.5				0	2	Tu devrais venir tenter toi-même ta chance#!
 1383		4	STREAM	EID_0200_a0055g_31_BOOKW010_Y	0.5				0	26	Et si tu essayais d'atteindre ta cible la prochaine fois#?
-1384		3	STREAM	EID_0200_a0055g_32_BOOKW010_Y	0.5				0	26	Si tu veux sauver ta fille, tu dois éliminer ces adversaires.
+1384		3	STREAM	EID_0200_a0055g_32_BOOKW010_Y	0.5				0	26	Si tu veux sauver ta sœur, tu dois éliminer ces adversaires.
 1385		3	STREAM	EID_0200_a0055g_33_BOOKW010_Y	0.5				0	26	Concentre-toi sur l'ennemi qui est devant toi#!
 1386		3	STREAM	EID_0200_a0055g_34_BOOKW010_Y	0.5				0	26	Abandonnerais-tu si facilement ton enfant sans défense#?
 1387		4	STREAM	EID_0200_a0065g_01_BOOKW010_Y	0.5				0	26	On dirait des taureaux furieux#!
@@ -1107,7 +1107,7 @@ Je vais tuer ce truc à ma façon#!
 1434		4	STREAM	EID_2000_a0067g_01_BOOKW010_Y	0.5				0	26	Elle bat en retraite vers la bibliothèque#!
 		4	STREAM	EID_2000_a0067g_02_NIER030_Y	0.5				0	2	Non#! C'est là que s'est réfugiée Yonah#!
 1435		3	STREAM	EID_2000_a0067g_03_BOOKW010_Y	0.5				0	26	Elle pourrait te pulvériser#!
-		3	STREAM	EID_2000_a0067g_04_NIER030_Y	0.5				0	2	La prudence ne sauvera pas ma fille#!
+		3	STREAM	EID_2000_a0067g_04_NIER030_Y	0.5				0	2	La prudence ne sauvera pas ma sœur#!
 1436		3	STREAM	EID_2000_a0075g_01_BOOKW010_Y	0.5				0	26	Oh, non... Elle se déplace#!
 1437		3	STREAM	EID_2000_a0075g_02_BOOKW010_Y	0.5				0	26	Aurais-tu laissé ta force dans ton autre slip#?!
 		3	STREAM	EID_2000_a0075g_03_KAINE010_Y	0.5				0	28	La ferme, enfoiré#! Je m'en occupe#!
@@ -1146,7 +1146,7 @@ Ce n'est pas le moment de fuir#!
 1469		1	STREAM	EID_100_rw_0170_VILLNOG_Y	0.5				0	8	Bonjour, comment vas-tu#?
 1470		1	STREAM	EID_100_rw_0180_VILLNOG_Y	0.5				0	8	J'ai entendu dire qu'il y a des légumes moins chers aujourd'hui.
 1471		2	STREAM	EID_100_rw_0190_VILLNOG_Y	0.5				0	8	Je suis en bonne santé, le ciel soit loué#!
-1472		1	STREAM	EID_100_rw_0200_VILLNOG_Y	0.5				0	8	Dis à ta fille de se remettre bientôt#!
+1472		1	STREAM	EID_100_rw_0200_VILLNOG_Y	0.5				0	8	Dis à ta sœur de se remettre bientôt#!
 1473		1	STREAM	EID_100_rw_0210_VILLNOW_Y	0.5				0	108	Bonjour, jeunot.
 1474		1	STREAM	EID_100_rw_0220_VILLNOW_Y	0.5				0	108	Comment vas-tu#? Bien#? Merveilleux...
 1475		1	STREAM	EID_100_rw_0230_VILLNOW_Y	0.5				0	108	J'étais sur le point d'aller acheter de quoi préparer le dîner.
@@ -1255,7 +1255,7 @@ C'est le bâtiment le plus sûr du village#!
 1563		2	STREAM	EID_2000_rw_0130_VILLNYG_Y	0.5				0	8	J'ai besoin d'eau immédiatement#!
 1564		2	STREAM	EID_2000_rw_0140_VILLNYW_Y	0.5				0	108	Par ici#! Dépêche-toi#!
 1565		2	STREAM	EID_2000_rw_0150_VILLNYW_Y	0.5				0	108	Oooohhhh...
-1566		2	STREAM	EID_2000_rw_0160_VILLNYW_Y	0.5				0	108	Attends#! Ma fille est toujours dehors#!
+1566		2	STREAM	EID_2000_rw_0160_VILLNYW_Y	0.5				0	108	Attends#! Ma sœur est toujours dehors#!
 1567		2	STREAM	EID_2000_rw_0170_VILLNOG_Y	0.5				0	8	Je... je ne tiendrai pas longtemps.
 1568		2	STREAM	EID_2000_rw_0180_VILLNOG_Y	0.5				0	8	C'est la fin du monde...
 1569		2	STREAM	EID_2000_rw_0190_VILLNOW_Y	0.5				0	108	Kof, kof !
@@ -1438,7 +1438,7 @@ Ne pourrais-tu pas... lancer un sort et tout ranger d'un seul coup#?
 		4	STREAM	SEID_0300_S0040_0030_NIER030_Y	0.5				0	2	Il doit bien y avoir quelque chose#!
 		4	STREAM	SEID_0300_S0040_0040_BOOKW010_Y	0.5				0	26	Il existe peut-être des médicaments pouvant pallier la douleur, mais rien ne peut éradiquer la maladie.
 		4	STREAM	SEID_0300_S0040_0050_NIER030_Y	0.5				0	2	Bon sang...
-		4	STREAM	SEID_0300_S0040_0060_BOOKW010_Y	0.5				0	26	Cependant, si la légende dit vrai, je détiens la clef qui permettra de sauver ta fille#!
+		4	STREAM	SEID_0300_S0040_0060_BOOKW010_Y	0.5				0	26	Cependant, si la légende dit vrai, je détiens la clef qui permettra de sauver ta sœur#!
 		4	STREAM	SEID_0300_S0040_0070_NIER030_Y	0.5				0	2	Tu as raison. Je dois me raccrocher à cet espoir.
 		4	STREAM	SEID_0300_S0040_0080_BOOKW010_Y	0.5				0	26	À la bonne heure#!
 1598		4	STREAM	SEID_0300_S0080_0010_BOOKW010_Y	0.5				0	26	À quoi peut bien servir ce bulbe#?
