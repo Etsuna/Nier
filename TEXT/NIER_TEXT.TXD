@@ -3166,417 +3166,247 @@ Que Dieu nous protège.
 12573000	Vous avez rangé tous les livres.
 12581000	La tavernière a besoin de trois herbes médicinales, trois noix et trois osmondes pour préparer un remède.
 12581500	Vous avez récupéré les ingrédients nécessaires. Apportez-les à la tavernière.
-12582000	材料を集め、依頼主に渡した。
-出来上がった薬を噴水の所にいる老婆へ届けて欲しいと頼まれる。	You collected the ingredients and gave them to the client, who turned them into a medicine. Deliver the medicine to the old woman near the fountain by the library.	La tavernière a élaboré un digestif à partir des ingrédients que vous avez trouvés. Apportez-le à la vieille femme qui se trouve près de la fontaine devant la bibliothèque.	Du hast die Zutaten gesammelt und sie der Kundin übergeben, die daraus Medizin hergestellt hat. Bring die Medizin zu der alten Frau beim Brunnen nahe der Bibliothek.
-12583000	老婆に薬を渡した。
-あの調子なら当分病気にはならなさそうだ。	You gave the medicine to the old woman. Judging by her condition, it doesn't seem like she'll be getting sick anytime soon.	Vous avez donné le digestif à la vieille femme. Elle semble tout à fait rétablie.	Du hast der alten Frau die Medizin gegeben. Ihrem derzeitigen Befinden nach zu urteilen, scheint sie nicht so schnell wieder krank zu werden.
-12591000	豚の居る広場の辺りをブラついている男から、
-ボヤで壊れてしまった台所を直す素材集めの依頼を受けた。
-形状記憶合金を１個、チタン合金を１０個、壊れたモーターを１０個
-集めて欲しいと頼まれる。	A man milling about near some pigs needs some materials to repair a fire-ravaged kitchen. Find one memory alloy, ten titanium alloys, and ten broken motors.	Un homme qui élève des cochons vous a demandé de trouver un morceau d'alliage à mémoire de forme, dix morceaux d'alliage de titane et dix moteurs défectueux afin de remettre à neuf une cuisine qui a brûlé.	Ein Mann, der in der Nähe von ein paar Schweinen herumläuft, hat dich gebeten, Materialien zu sammeln, um eine vom Feuer verwüstete Küche zu reparieren. Finde eine Gedächtnislegierung, zehn Titanlegierungen und zehn kaputte Motoren.
-12591500	材料は集まった。依頼主に渡そう。	You obtained the materials. Bring them back to the client.	Vous avez récupéré les matériaux nécessaires. Apportez-les au villageois.	Du hast die Materialien besorgt. Bring sie zurück zum Kunden.
-12592000	材料を集め、依頼主に渡した。	You gave the materials to the client.	Vous avez donné les matériaux au villageois.	Du hast dem Kunden die Materialien gegeben.
-12601000	肥料の買い出しの依頼を村の花屋から受けた。
-収穫促進肥料を３個、海岸の街で買ってきて欲しいらしい。	The florist needs three bounty fertilizers for her seeds. They're apparently available for sale at Seafront.	La fleuriste vous a demandé d'acheter trois sacs d'engrais de récolte à Littoral.	Die Blumenhändlerin benötigt drei Mal Dünger (Ernte+) für ihre Samen. Diesen gibt es angeblich in Meeresfront zu kaufen.
-12601500	収穫促進肥料を入手した。依頼主に渡そう。	You collected the fertilizers. Bring them back to the client.	Vous avez acheté l'engrais. Apportez-le à la fleuriste.	Du hast den Dünger besorgt. Bring ihn zurück zur Kundin.
-12602000	肥料を購入し、依頼主に渡した。	You gave the fertilizers to the client.	Vous avez donné l'engrais à la fleuriste.	Du hast der Kundin den Dünger gegeben.
-12611000	ヨナが料理を作りたいと言い出した。
-ヨナのため鹿の肉と小麦を集めなければならない。	Yonah needs venison and wheat for her cooking.	Yonah veut essayer une nouvelle recette. Elle a besoin de viande de cerf et de blé.	Yonah braucht Hirschfleisch und Weizen zum Kochen.
-12611500	材料は集まった。
-どんなシチューを作ってくれるのだろうか。	You collected the ingredients. What kind of stew could she be whipping up?	Vous avez récupéré les ingrédients nécessaires. Yonah réussira-t-elle à préparer un ragoût...?	Du hast die Zutaten besorgt. Was für einen Eintopf könnte sie daraus wohl zaubern?
-12612000	材料を集め、ヨナに渡した。
-完成した料理は予想通りのものだった……	Yonah got her ingredients. The meal was...interesting.	Vous avez apporté à Yonah les ingrédients dont elle avait besoin. Le ragoût avait un goût... intéressant.	Yonah hat ihre Zutaten erhalten. Die Mahlzeit war ... interessant.
-12621000	再び酒場の奥さんから薬に使う材料集めの依頼を受けた。
-風が吹く高所にあるという「鷲の卵」を取ってきて欲しいと頼まれる。	The tavern keeper needs more ingredients for her medicine. This time she needs an eagle egg, found in high places where the wind blows.	La tavernière a besoin d'un œuf d'aigle de l'Aire pour préparer un autre remède. On peut en trouver sur les hauteurs, là où il vente beaucoup.	Die Tavernenbesitzerin benötigt mehr Zutaten für ihre Medizin. Dieses Mal benötigt sie ein Adlerei, das an hoch gelegenen Orten gefunden werden kann, an denen der Wind weht.
-12621500	鷲の卵を入手した。依頼主に渡そう。	You obtained an eagle egg. Bring it back to the client.	Vous avez trouvé un œuf d'aigle. Apportez-le à la tavernière.	Du hast ein Adlerei besorgt. Bring es zurück zur Kundin.
-12622000	鷲の卵を入手し、依頼主に渡した。
-調合した薬を噴水の所にいる老婆へ届けて欲しいと頼まれる。	You gave the eagle egg to the client, who turned it into medicine. Deliver the medicine to the old woman near the fountain by the library.	La tavernière a élaboré un élixir à partir de l'œuf d'aigle que vous avez trouvé. Apportez-le à la vieille femme qui se trouve près de la fontaine devant la bibliothèque.	Du hast der Kundin das Adlerei übergeben, die daraus Medizin hergestellt hat. Bring die Medizin zu der alten Frau beim Brunnen nahe der Bibliothek.
-12623000	老婆に薬を渡した。
-これ以上元気になってどうするんだろう。	You gave the medicine to the old woman, although it's hard to imagine her any more energetic than she already is...	Vous avez donné l'élixir à la vieille femme, mais vous auriez du mal à vous imaginer qu'il puisse lui donner plus d'énergie qu'elle n'en a déjà...	Du hast der alten Frau die Medizin gegeben, obwohl es schwer vorstellbar ist, dass sie dadurch noch lebhafter werden könnte, als sie ohnehin schon ist.
-12631000	北門の衛兵から崖の村に荷物を届ける依頼を受けた。
-荷物を壊さないよう、注意しつつ運ばなければならない。
-届け先は、村の一番高い位置にある金色の家らしい。	A guard at the northern gate has asked you to deliver a parcel to the gold house at the highest point of The Aerie. The parcel is fragile, so take extra care when carrying it.	Un garde de la porte du nord vous a demandé de livrer un colis au chef de l'Aire. Celui-ci habite la maison rayée située au sommet du village. Le colis est fragile, alors faites attention.	Eine Wache am Nordtor hat dich gebeten, ein Paket zu dem goldenen Haus am höchsten Punkt von Adlerhorst zuzustellen. Das Paket ist zerbrechlich, also sei besonders vorsichtig damit.
-12631500	荷物を壊してしまった……
-依頼主の所に一度戻ろう。	You broke the parcel's contents... Return to the client.	Vous avez endommagé le colis... Allez l'avouer au client.	Du hast den Inhalt des Pakets zerbrochen ... Kehre zum Kunden zurück.
-12632000	荷物を無事届け終えた。
-依頼主の所へ報告に向かおう。	You successfully delivered the parcel. Report back to the client.	Vous avez réussi à livrer le colis. Allez le dire au client.	Du hast das Paket erfolgreich zugestellt. Berichte dem Kunden davon.
-12633000	依頼主に荷物を届け終えたことを報告した。	You reported your success to the client.	Vous avez informé le garde que vous avez accompli votre tâche.	Du hast dem Kunden von deinem Erfolg berichtet.
-12641000	商店街で犬を連れた若い女性からの依頼。
-村の水車の調子が悪いみたいだ。
-仮面の街にある「変なモノ屋」で修理用の部品を
-手に入れて欲しいと頼まれる。	The young woman with the dog in the shopping district needs help repairing the village waterwheel. Travel to Facade's "strange-thing store" and obtain parts to repair it.	Une jeune femme du marché dit que la roue du moulin à eau est en mauvais état. Allez au magasin de curiosités de Façade trouver les pièces nécessaires pour la réparer.	Die junge Frau mit dem Hund im Handelsbezirk benötigt Hilfe bei der Reparatur des Wasserrads des Dorfes. Reise zum Seltsame-Dinge-Laden in Fassade und besorge Ersatzteile, um es zu reparieren.
-12642000	変なモノ屋に依頼した所、素材が不足しているため部品が作れないと言われた。
-部品を作るため鉄鉱を１０個、丸太を１０本集めなければならない。	The keeper of the strange-thing store needs materials to make the items you need. Collect ten pieces of iron ore and ten logs.	Le marchand de curiosités a besoin de matériaux pour fabriquer les pièces#: dix morceaux de minerai de fer et dix rondins.	Der Betreiber des Seltsame-Dinge-Ladens benötigt Materialien, um die benötigten Items anzufertigen. Besorge zehn Klumpen Eisenerz und zehn Holzscheite.
-12642500	素材を集める事が出来た。変なモノ屋に持って行こう。	You collected the materials. Bring them back to the strange-thing store.	Vous avez récupéré les matériaux nécessaires. Apportez-les au marchand de curiosités.	Du hast die Materialien besorgt. Bring sie zurück zum Seltsame-Dinge-Laden.
-12643000	素材を渡したが部品が出来るまでしばらく掛かるらしい。
-村に戻って発注が完了したことを依頼主へ報告に行こう。	The parts are being built. Return to the village and inform the client of the situation.	Le marchand de curiosités fabriquera les pièces pour vous. Retournez au village le dire à la villageoise.	Die Ersatzteile werden angefertigt. Kehre zum Dorf zurück und informiere die Kundin über die Situation.
-12644000	依頼主に発注が終わったことを伝えた。	You reported your success to the client.	Vous avez informé la jeune femme de la situation.	Du hast der Kundin von deinem Erfolg berichtet.
-12651000	商店街の噴水の近くに居た男からの頼まれ事。
-村の噴水の調子が悪いみたいだ。
-仮面の街にある変なモノ屋で、修理用の部品を手に入れて欲しいと頼まれる。	The fountain in the shopping district is starting to break down, according to the man nearby. Travel to the strange-thing store in Facade and obtain parts to repair it.	Un garde près de la fontaine du marché dit que celle-ci est en mauvais état. Allez au magasin de curiosités de Façade trouver les pièces nécessaires pour la réparer.	Laut dem Mann nahe des Brunnens im Handelsbezirk zerfällt dieser Brunnen langsam. Reise zum Seltsame-Dinge-Laden in Fassade, um Ersatzteile zur Reparatur zu erwerben.
-12652000	変なモノ屋に聞いたところ、必要な素材がないため部品が作れないそうだ。
-壊れたモーターを１０個、切れたケーブルを１０本集めなければならない。	The keeper of the strange-thing store needs materials to make the items you need. Collect ten broken motors and ten severed cables.	Le marchand de curiosités a besoin de matériaux pour fabriquer la pompe#: dix moteurs défectueux et dix câbles coupés.	Der Betreiber des Seltsame-Dinge-Ladens benötigt Materialien, um die benötigten Items herzustellen. Sammle zehn kaputte Motoren und zehn abgetrennte Kabel.
-12652500	素材を揃えた。仮面の街の変なモノ屋に持って行こう。	You collected the materials. Bring them back to the strange-thing store in Facade.	Vous avez récupéré les matériaux nécessaires. Apportez-les au marchand de curiosités.	Du hast die Materialien besorgt. Bring sie zurück zum Seltsame-Dinge-Laden in Fassade.
-12653000	素材を渡したが部品が出来るまでしばらく掛かるらしい。
-村に戻って発注が完了したことを依頼主へ報告に行こう。	The parts are being built. Return to the village and inform the client of the situation.	Le marchand de curiosités fabriquera une pompe pour vous. Retournez au village le dire au garde.	Die Ersatzteile werden angefertigt. Kehre zum Dorf zurück und informiere den Kunden über die Situation.
-12654000	依頼主に発注が終わったことを伝えた。	You reported your success to the client.	Vous avez informé le garde de la situation.	Du hast dem Kunden von deinem Erfolg berichtet.
-12661000	商店街の噴水近くの老人から海岸の街の酒場に荷物を
-届ける依頼を受けた。
-荷物を壊さないよう、注意しつつ運ばなければならない。	An old man near the fountain in the shopping district has asked you to deliver a parcel to the tavern in Seafront. The parcel is fragile, so take extra care when carrying it.	Un vieil homme près de la fontaine du marché vous a demandé de livrer un colis à la taverne de Littoral. Celui-ci est fragile, alors faites attention.	Ein alter Mann beim Brunnen im Handelsbezirk hat dich gebeten, ein Paket zur Taverne in Meeresfront auszuliefern. Das Paket ist zerbrechlich, also sei besonders vorsichtig damit.
-12662000	荷物を無事届け終えた。
-依頼主の所へ報告に向かおう。	You successfully delivered the parcel. Report back to the client.	Vous avez réussi à livrer le colis. Allez le dire au vieil homme.	Du hast das Paket erfolgreich zugestellt. Berichte dem Kunden davon.
-12663000	依頼主に荷物を届け終えたことを報告した。	You reported your success to the client.	Vous avez informé le vieil homme que vous avez accompli votre tâche.	Du hast dem Kunden von deinem Erfolg berichtet.
-12671000	釣竿を貰った老人からサーディンを１０匹釣ってきたら、
-釣りの技を教えようといわれた。	The old fisherman will teach you some techniques if you can catch ten sardines.	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez dix sardines.	Der alte Fischer wird dir einige Techniken beibringen, wenn du zehn Sardinen fangen kannst.
-12671500	言われた魚を全て釣り上げる事が出来た。
-老人に報告しておこう。	You caught the requested fish. Report back to the old fisherman.	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.	Du hast die erforderlichen Fische gefangen. Erstatte dem alten Fischer Bericht.
-12672000	サーディンを１０匹釣り、老人から釣りの技を教わった。	You caught ten sardines and learned some fishing techniques.	Vous avez attrapé dix sardines et appris une technique secrète.	Du hast zehn Sardinen gefangen und einige Angeltechniken gelernt.
-12681000	釣竿を貰った老人からグローブフィッシュを７匹釣ってきたら、
-釣りの技を教えようといわれた。	The old fisherman will teach you some techniques if you can catch seven blowfish.	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez sept poissons-globes.	Der alte Fischer wird dir einige Techniken beibringen, wenn du sieben Kugelfische fangen kannst.
-12681500	言われた魚を全て釣り上げる事が出来た。
-老人に報告しておこう。	You caught the requested fish. Report back to the old fisherman.	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.	Du hast die erforderlichen Fische gefangen. Erstatte dem alten Fischer Bericht.
-12682000	グローブフィッシュを７匹釣り、老人から釣りの技を教わった。	You caught seven blowfish and learned some fishing techniques.	Vous avez attrapé sept poissons-globes et appris une technique secrète.	Du hast sieben Kugelfische gefangen und einige Angeltechniken gelernt.
-12691000	船着き場に居る、赤のたすきをかけた青年から、
-故障した船を修理するための素材集めの依頼を受けた。
-丸太を５本、凹んだ金属板を２０枚、
-磨り減ったネジを１０個集めて欲しいと頼まれる。	The man with the red sash by the dock needs materials to fix a boat. Collect five logs, twenty dented metal boards, and ten stripped bolts.	Un homme près du port de Littoral vous a demandé de trouver cinq rondins, vingt feuilles de métal bosselées et dix vieux boulons afin de réparer un bateau.	Der Mann mit der roten Schärpe am Hafen benötigt Materialien, um ein Boot zu reparieren. Sammle fünf Holzscheite, zwanzig verbeulte Metallplatten und zehn ausgerissene Bolzen.
-12691500	全ての素材を集めた。依頼主に渡そう。	You collected the materials. Bring them back to the client.	Vous avez récupéré les matériaux nécessaires. Apportez-les à l'habitant de Littoral.	Du hast die Materialien besorgt. Bring sie zurück zum Kunden.
-12692000	素材を集め、依頼主に渡した。	You gave the materials to the client.	Vous avez donné les matériaux à l'habitant de Littoral.	Du hast die Materialien gesammelt und sie dem Kunden gegeben.
-12701000	薬魚が必要なのだが、釣る方法が良く判らない。
-突堤に居る老人が詳しいと言うが……	You need to catch a shaman fish, but don't know the first thing about fishing. The old man on the pier seems to know what he's doing...	Vous devez attraper un poisson-shaman, mais vous ne savez pas pêcher. Le vieil homme qui se trouve sur le quai semble être doué...	Du sollst einen Schamanenfisch fangen, aber du hast keinen blassen Schimmer vom Angeln. Der alte Mann auf dem Pier scheint zu wissen, was er tut ...
-12702000	釣りの基本操作を覚える事が出来た。	You managed to learn the basics of fishing.	Vous avez appris les principes fondamentaux de la pêche.	Du hast grundlegende Angelkenntnisse erworben.
-12711000	釣竿を貰った老人からニジマスを７匹釣ってきたら、
-釣りの技を教えようといわれた。	The old fisherman will teach you some techniques if you can catch seven rainbow trout.	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez sept truites arc-en-ciel.	Der alte Fischer wird dir einige Techniken beibringen, wenn du sieben Regenbogenforellen fangen kannst.
-12711500	言われた魚を全て釣り上げる事が出来た。
-老人に報告しておこう。	You caught the requested fish. Report back to the old fisherman.	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.	Du hast die erforderlichen Fische gefangen. Erstatte dem alten Fischer Bericht.
-12712000	ニジマスを７匹釣り、老人から釣りの技を教わった。	You caught seven rainbow trout and learned some fishing techniques.	Vous avez attrapé sept truites arc-en-ciel et appris une technique secrète.	Du hast sieben Regenbogenforellen gefangen und einige Angeltechniken gelernt.
-12721000	釣竿を貰った老人からブリームを５匹釣ってきたら、
-釣りの技を教えようといわれた。	The old fisherman will teach you some techniques if you can catch five bream.	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez cinq daurades.	Der alte Fischer wird dir einige Techniken beibringen, wenn du fünf Brassen fangen kannst.
-12721500	言われた魚を全て釣り上げる事が出来た。
-老人に報告しておこう。	You caught the requested fish. Report back to the old fisherman.	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.	Du hast die erforderlichen Fische gefangen. Erstatte dem alten Fischer Bericht.
-12722000	ブリームを５匹釣り、老人から釣りの技を教わった。	You caught five bream and learned some fishing techniques.	Vous avez attrapé cinq daurades et appris une technique secrète.	Du hast fünf Brassen gefangen und einige Angeltechniken gelernt.
-12731000	釣竿を貰った老人からブラックバスを５匹釣ってきたら、
-釣りの技を教えようといわれた。	The old fisherman will teach you some techniques if you can catch five black bass.	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez cinq perches noires.	Der alte Fischer wird dir einige Techniken beibringen, wenn du fünf Schwarzbarsche fangen kannst.
-12731500	言われた魚を全て釣り上げる事が出来た。
-老人に報告しておこう。	You caught the requested fish. Report back to the old fisherman.	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.	Du hast die erforderlichen Fische gefangen. Erstatte dem alten Fischer Bericht.
-12732000	ブラックバスを５匹釣り、老人から釣りの技を教わった。	You caught five black bass and learned some fishing techniques.	Vous avez attrapé cinq perches noires et appris une technique secrète.	Du hast fünf Schwarzbarsche gefangen und einige Angeltechniken gelernt.
-12741000	釣竿を貰った老人から砂魚を３匹釣ってきたら、
-釣りの技を教えようといわれた。
-砂魚は砂漠の海に居るらしい。砂漠に……海？	The old fisherman will teach you some techniques if you can catch three sandfish over in Facade's desert ocean. Fish...in the desert?	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez trois squilles. Peut-on vraiment pêcher dans le désert#?	Der alte Fischer wird dir einige Techniken beibringen, wenn du drei Sandfische im Wüstenmeer von Fassade fangen kannst. Angeln ... in der Wüste?
-12741500	言われた魚を全て釣り上げる事が出来た。
-老人に報告しておこう。	You caught the requested fish. Report back to the old fisherman.	Vous avez attrapé ce que voulait le vieux pêcheur. Allez l'en informer.	Du hast die erforderlichen Fische gefangen. Erstatte dem alten Fischer Bericht.
-12742000	砂魚を３匹釣り、老人から釣りの技を教わった。	You caught three sandfish and learned some fishing techniques.	Vous avez attrapé trois squilles et appris une technique secrète.	Du hast drei Sandfische gefangen und einige Angeltechniken gelernt.
-12751000	釣竿を貰った老人からロイヤルフィッシュを３匹釣ってきたら、
-釣りの技を教えようといわれた。	The old fisherman will teach you some techniques if you can catch three royal fish.	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez trois esturgeons.	Der alte Fischer wird dir einige Techniken beibringen, wenn du drei Königsfische fangen kannst.
-12751500	言われた魚を全て釣り上げる事が出来た。
-老人に報告しておこう。	You caught the requested fish. Report back to the old fisherman.	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.	Du hast die erforderlichen Fische gefangen. Erstatte dem alten Fischer Bericht.
-12752000	ロイヤルフィッシュを３匹釣り、老人から釣りの技を教わった。	You caught three royal fish and learned some fishing techniques.	Vous avez attrapé trois esturgeons et appris une technique secrète.	Du hast drei Königsfische gefangen und einige Angeltechniken gelernt.
-12761000	釣竿を貰った老人からブルーマーリンを２匹釣ってきたら、
-最後の釣りの技を教えようといわれた。	The old fisherman will teach you some techniques if you can catch two blue marlin.	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez deux makaires bleus.	Der alte Fischer wird dir einige Techniken beibringen, wenn du zwei blaue Marline fangen kannst.
-12761500	言われた魚を全て釣り上げる事が出来た。
-老人に報告しておこう。	You caught the requested fish. Report back to the old fisherman.	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.	Du hast die erforderlichen Fische gefangen. Erstatte dem alten Fischer Bericht.
-12762000	ブルーマーリンを２匹釣り、老人から釣りの技を教わった。	You caught two blue marlin and learned some fishing techniques.	Vous avez attrapé deux makaires bleus et appris une technique secrète.	Du hast zwei blaue Marline gefangen und einige Angeltechniken gelernt.
-12771000	老人から伝説の魚の話を聞いた。
-ハイネリアを釣ってこいとの事。	The old fisherman has told you of a legendary fish. Catch a hyneria and show it to him.	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez une hynéria.	Der alte Fischer hat dir von einem legendären Fisch erzählt. Fange eine Hyneria und zeige sie ihm.
-12771500	ハイネリアを釣り上げた。老人に見せに行こう。	You caught a hyneria. Show it to the old fisherman.	Vous avez attrapé une hynéria. Apportez-la au vieux pêcheur.	Du hast eine Hyneria gefangen. Zeige sie dem alten Fischer.
-12772000	ハイネリアを釣り、老人の所へ見せに行った。
-しかし老人は既に亡くなっていた。	You caught a hyneria and went to show it to the old man. Sadly, he had passed away by the time you arrived.	Vous avez apporté votre hynéria au vieux pêcheur, mais celui-ci est décédé en votre absence.	Du hast eine Hyneria gefangen und wolltest sie dem alten Mann zeigen. Leider war dieser in der Zwischenzeit verstorben.
-12781000	老婆へ手紙を渡した。
-配達員の所へ報告に行こう。	You delivered the letter to the old woman. Report back to the postman.	Vous avez remis la lettre à la vieille femme. Allez en informer le postier.	Du hast den Brief der alten Frau gegeben. Erstatte dem Postboten Bericht.
-12782000	崖の村へ手紙を届けて欲しいと頼まれる頼まれる。	You've been asked to deliver a letter to The Aerie.	Le postier vous a demandé d'apporter une lettre au village de l'Aire.	Du wurdest gebeten, einen Brief nach Adlerhorst zuzustellen.
-12783000	ロボット山へ手紙を届けて欲しいと頼まれる頼まれる。	You've been asked to deliver a letter to the Junk Heap.	Le postier vous a demandé d'apporter une lettre à la montagne des robots.	Du wurdest gebeten, einen Brief zum Müllberg zuzustellen.
-12784000	預かった手紙を届け先に渡した。	You delivered the letter.	Vous avez apporté la lettre à sa destination.	Du hast den Brief ausgeliefert.
-12791000	老婆へ手紙を渡した。
-配達員の所へ報告に行こう。	You delivered the letter to the old woman. Report back to the postman.	Vous avez remis la lettre à la vieille femme. Allez en informer le postier.	Du hast der alten Frau den Brief gegeben. Erstatte dem Postboten Bericht.
-12792000	ポポルへ手紙を届けて欲しいと頼まれる。	You've been asked to deliver a letter to Popola.	Le postier vous a demandé d'apporter une lettre à Popola.	Du wurdest gebeten, Popola einen Brief zuzustellen.
-12793000	預かった手紙をポポルに渡した。	You delivered the letter.	Vous avez remis la lettre à Popola.	Du hast den Brief zugestellt.
-12801000	海岸の街、酒場の主人から定番料理の材料集めの依頼を受けた。
-薬草を１０個、小麦を１０個、サーディンを１０匹集めて欲しいと頼まれる。	You've been asked to gather ingredients for the Seafront tavern keeper's signature dish. Collect ten medicinal herbs, ten bags of wheat, and ten sardines.	Le tavernier de Littoral vous a demandé de trouver les ingrédients nécessaires pour préparer sa spécialité#: dix herbes médicinales, dix sacs de blé et dix sardines.	Du wurdest gebeten, Zutaten für ein spezielles Gericht der Taverne in Meeresfront zu sammeln. Sammle zehn medizinische Kräuter, zehn Säcke Weizen und zehn Sardinen.
-12801500	材料は集まった。依頼主に渡そう。	You collected the ingredients. Bring them back to the client.	Vous avez récupéré les ingrédients nécessaires. Apportez-les au tavernier.	Du hast die Zutaten besorgt. Bring sie zurück zum Kunden.
-12802000	材料を集め、依頼主に渡した。	You gave the ingredients to the client.	Vous avez remis les ingrédients au tavernier.	Du hast dem Kunden die Zutaten gegeben.
-12811000	海岸の街、酒場の主人から
-新しい料理のアイディアがないか相談された。
-図書館で何か探してみよう。	The Seafront tavern keeper needs inspiration for new meals. Head to the library and see what you can find.	Le tavernier de Littoral manque d'inspiration. Vous pourriez peut-être trouver un livre de cuisine à la bibliothèque.	Der Wirt in der Taverne von Meeresfront benötigt Ideen für neue Gerichte. Geh zur Bibliothek und sieh nach, was du finden kannst.
-12811500	材料は集まった。依頼主に渡そう。	You found something that should work. Bring it back to the client.	Vous avez trouvé un livre de cuisine. Apportez-le au tavernier.	Du hast etwas gefunden, das interessant sein könnte. Bring es zurück zum Kunden.
-12812000	図書館で料理の本を見つけた。
-依頼主に本を届けに行こう。	You found a cookbook in the library. Deliver it to the client.	Vous avez trouvé un livre de cuisine à la bibliothèque. Donnez-le au tavernier.	Du hast ein Kochbuch in der Bibliothek gefunden. Bringe es zu dem Kunden.
-12813000	新作料理を作るための材料集めの依頼を受けた。
-シャークを５匹、米を５個、キノコを５個集めて欲しいと頼まれる。	You've been asked to gather ingredients for a new dish. Collect five sharks, five bags of rice, and five mushrooms.	Le tavernier de Littoral vous a demandé de trouver les ingrédients suivants#: cinq requins, cinq sacs de riz et cinq champignons.	Du wurdest gebeten, Zutaten für ein neues Gericht zu sammeln. Sammle fünf Haie, fünf Säcke Reis und fünf Pilze.
-12813500	材料は集まった。依頼主に渡そう。	You collected the ingredients. Bring them back to the client.	Vous avez récupéré les ingrédients nécessaires. Apportez-les au tavernier.	Du hast die Zutaten besorgt. Bring sie zurück zum Kunden.
-12814000	材料を集め、依頼主に渡した。	You gave the ingredients to the client.	Vous avez remis les ingrédients au tavernier.	Du hast dem Kunden die Zutaten gegeben.
-12821000	東門の門番から仮面の街の武器屋に荷物を届ける依頼を受けた。
-荷物を壊さないよう、注意しつつ運ばなければならない。	The guard at the eastern gate has asked you to deliver a parcel to Facade's weapon shop. The parcel is fragile, so take extra care when carrying it.	Un des gardes de la porte de l'est du village vous a demandé de livrer un colis à l'armurerie de Façade. Celui-ci est fragile, alors faites attention.	Die Wache am Osttor hat dich gebeten, ein Paket nach Fassade zuzustellen. Das Paket ist zerbrechlich, also sei besonders vorsichtig damit.
-12822000	荷物を無事届け終えた。
-依頼主の所へ報告に向かおう。	You successfully delivered the parcel. Report back to the client.	Vous avez réussi à livrer le colis. Allez le dire au garde.	Du hast das Paket erfolgreich zugestellt. Berichte dem Kunden davon.
-12823000	依頼主に荷物を届け終えたことを報告した。	You reported your success to the client.	Vous avez informé le garde que vous avez accompli votre tâche.	Du hast dem Kunden von deinem Erfolg berichtet.
-12831000	指定された住人に伝言を伝える変わった交流会の誘いを受けた。
-伝言内容を間違えると初めからやり直しとなるため慎重に
-伝えなければならない。	You've been invited to join a game where you pass messages from one person to the next. If you make a mistake, you must start over from the beginning.	On vous a invité à participer à un rituel. Transmettez chaque message d'une personne à l'autre sans faire d'erreur, sinon vous devrez recommencer du début.	Du wurdest zu einem Spiel eingeladen, bei dem Nachrichten von einer Person zur nächsten weitergegeben werden. Wenn du einen Fehler machst, musst du noch einmal von vorne beginnen.
-12831200	一人目の伝言先は「出口の左を守る者」らしい。	The first recipient is "the person guarding the left side of the exit."	Le premier destinataire est le garde à la gauche de l'entrée de la ville.	Der erste Empfänger ist „die Wache auf der linken Seite am Ausgang“.
-12831300	二人目の伝言先は「王の右を守る者」らしい。	The second recipient is "the king's right-hand man."	Le deuxième destinataire est le garde à la gauche de l'entrée du palais.	Der zweite Empfänger „wacht rechts am Eingang zum Anwesen des Königs“.
-12831400	三人目の伝言先は「子供の面倒を見る者」だった。	The third recipient is "the person taking care of the children."	Le troisième destinataire est la personne qui prend soin des enfants.	Der dritte Empfänger ist „eine Person, die Kinder betreut“.
-12831500	四人目の伝言先は「南東の守護者」だった。	The fourth recipient is "the southeastern guardian."	Le quatrième destinataire est le garde du sud-est.	Der vierte Empfänger ist „die Wache im Südosten“.
-12831600	五人目の伝言先は「話の長い人」だった。	The fifth recipient is "the long-winded person."	Le cinquième destinataire est la personne la plus prolixe de la ville.	Der fünfte Empfänger ist „eine langatmige Person“.
-12832000	５人に伝言を伝え、交流会を終えた。	You passed messages to five people.	Vous avez transmis un message à cinq personnes.	Du hast Nachrichten an fünf Leute weitergegeben.
-12841000	仮面の街。王の館の前にいる女からの依頼。
-掟によって買ってきて欲しいものの名前は言えないとの事。
-「縞模様で球体状の食べ物」を10個らしいのだが。	A woman in front of the king of Facade's palace needs you to run an errand. The rules state that she can't expressly state the name of the item she wants, so you must search for ten "round, striped food objects."	Une femme près du palais de Façade veut que vous lui apportiez quelque chose, mais la loi l'empêche de spécifier de quoi il s'agit. Essayez de trouver dix objets comestibles rayés.	Eine Frau vor dem Königspalast von Fassade hat dich gebeten, etwas zu erledigen. Die Regeln besagen, dass sie den gewünschten Gegenstand nicht explizit erwähnen darf, also musst du nach zehn „runden, gefleckten Lebensmitteln“ suchen.
-12842000	依頼主の求めていたものを見つけ出して渡した。	You located and delivered the items to the client.	Vous avez trouvé les objets et les avez remis à l'habitante de Façade.	Du hast die Gegenstände gefunden und der Kundin übergeben.
-12851000	仮面の街。王の館の衛兵から、
-仮面を作るための素材集めの依頼を受けた。
-チタン合金と水晶を集めて欲しいと頼まれる。	A Facade royal guard needs titanium alloy and a crystal so he can make a mask.	Un des gardes du palais de Façade veut que vous trouviez un morceau d'alliage de titane et un cristal pour fabriquer un masque.	Eine Königswache von Fassade benötigt eine Titanlegierung und einen Kristall, um daraus eine Maske anzufertigen.
-12851500	材料は集まった。依頼主に渡そう。	You collected the materials. Bring them back to the client.	Vous avez récupéré les matériaux nécessaires. Apportez-les au garde du palais.	Du hast die Materialien besorgt. Bring sie zurück zum Kunden.
-12852000	材料を集め、依頼主に渡した。	You gave the materials to the client.	Vous avez remis les matériaux au garde du palais.	Du hast dem Kunden die Materialien gegeben.
-12861000	仮面の街の「変なモノ屋」からの依頼。
-夫婦喧嘩の仲直りにプレゼントを贈るため、
-狼の毛皮を１０枚集めて欲しいと頼まれた。	The shopkeeper at the strange-thing store in Facade has asked you to collect ten wolf hides as a gift for his wife. It seems they recently had an argument...	Le marchand de curiosités a besoin de dix peaux de loup afin de fabriquer un manteau pour sa femme. À ce qu'il paraît, ils se sont querellés...	Der Betreiber des Seltsame-Dinge-Ladens hat dich gebeten, zehn Wolfsbälger als Geschenk für seine Frau zu sammeln. Es scheint, als hätten sie sich kürzlich gestritten ...
-12861500	素材は集まった。依頼主に渡そう。	You collected the hides. Bring them back to the client.	Vous avez récupéré les peaux de loup. Apportez-les au marchand de curiosités.	Du hast die Bälger besorgt. Bring sie zurück zum Kunden.
-12862000	素材を集め、依頼主に渡した。
-プレゼントを贈る相手である奥さんとの橋渡しのため、
-夫のすぐ上に居る奥さんに話をしよう。	You gave the hides to the client. Go to his wife (located directly above her husband) and inform her of the gift.	Vous avez remis les peaux de loup au marchand de curiosités. Allez parler à sa femme à sa place. Elle est tout en haut des escaliers.	Du hast dem Kunden die Felle gegeben. Geh zu seiner Frau (im Stockwerk über ihrem Mann) und informiere sie über das Geschenk.
-12863000	無事プレゼントを受け取り、仲直りできたようだ。	With the present delivered, the couple is happy once more.	La femme a accepté le cadeau de son mari et ils se sont réconciliés.	Nachdem das Geschenk abgeliefert wurde, ist das Paar einmal mehr glücklich.
-12871000	仮面の街。ポストの近くに居る仮面の人から、
-砂漠に花を咲かせるため、花の種を集める依頼を受けた。
-月光草の種(桃)を１０個集めて欲しいと頼まれる。	A person near the mailbox in Facade wants some seeds to grow in the desert. Bring the client ten pink moonflower seeds.	Une femme près de la boîte aux lettres de Façade vous a demandé de trouver dix graines roses afin de les planter dans le désert.	Eine Person nahe des Briefkastens in Fassade möchte einige Samen für den Anbau in der Wüste. Bringe dem Kunden zehn Samen für rosa Mondblumen.
-12871500	種を集めた。依頼主に渡そう。	You collected the seeds. Bring them back to the client.	Vous avez récupéré les graines nécessaires. Apportez-les à l'habitante de Façade.	Du hast die Samen besorgt. Bring sie zurück zum Kunden.
-12872000	花の種を集め、依頼主に渡した。	You gave the seeds to the client.	Vous avez remis les graines à l'habitante de Façade.	Du hast dem Kunden die Samen gegeben.
-12881000	海岸の街の酒場のマスターから、
-新レシピのための素材集めの依頼を受けた。
-オオナマズを１０匹、米を１０個を集めて欲しいと頼まれる。	The tavern keeper in Seafront needs ingredients for a new recipe. Collect ten giant catfish and ten bags of rice.	Le tavernier de Littoral vous a demandé de trouver les ingrédients suivants#: dix poissons-chats et dix sacs de riz.	Der Wirt in Meeresfront benötigt Zutaten für ein neues Rezept. Sammle zehn Riesenwelse und zehn Säcke Reis.
-12881500	材料を集めた。依頼主に渡そう。	You collected the ingredients. Bring them back to the client.	Vous avez récupéré les ingrédients nécessaires. Apportez-les au tavernier.	Du hast die Zutaten besorgt. Bring sie zurück zum Kunden.
-12882000	材料をマスターに渡した。
-ヌルヌルした魚をさばけないようだが、
-海の街のレストランとして大丈夫なんだろうか？	You gave the ingredients to the client.
-It seems he can't clean the slimy, smelly fish. Can a restaurant like this survive in a coastal town?	Vous avez remis les ingrédients au tavernier.
-Comment un chef cuisiner qui déteste vider des poissons visqueux peut-il survivre dans une ville côtière...?	Du hast dem Kunden die Zutaten gegeben. Anscheinend ist er nicht in der Lage, den schleimigen, stinkenden Fisch sauber zu waschen. Wie kann solch ein Lokal nur in einer Küstenstadt überleben?
-12891000	海岸の街。灯台の入り口に立つ男から、
-灯台の修理用素材集めの依頼を受けた。
-割れたレンズを１０枚、壊れたバッテリーを１０個、謎のスイッチを１０個
-集めて欲しいと頼まれる。	A man near the lighthouse in Seafront needs replacement parts for the lighthouse. Collect ten broken lenses, ten broken batteries, and ten mysterious switches.	Un homme près du phare de Littoral vous a demandé de trouver dix lentilles brisées, dix batteries à plat et dix leviers mystérieux afin de réparer le phare.	Ein Mann nahe des Leuchtturms in Meeresfront benötigt Ersatzteile für den Leuchtturm. Sammle zehn kaputte Linsen, zehn kaputte Batterien und zehn rätselhafte Schalter.
-12891500	素材が集まった。依頼主に渡そう。	You collected the materials. Bring them back to the client.	Vous avez récupéré les matériaux nécessaires. Apportez-les à l'habitant de Littoral.	Du hast die Materialien besorgt. Bring sie zurück zum Kunden.
-12892000	素材を集め、依頼主に渡した。	You gave the materials to the client.	Vous avez remis les matériaux à l'habitant de Littoral.	Du hast dem Kunden die Materialien gegeben.
-12901000	仮面の街。王の館の衛兵から、
-街の復興に必要な素材を依頼された。
-鉄鉱を２０個、粘土を２０個、丸太を２０本集めて届けよう。	A Facade royal guard has asked you for twenty pieces of iron ore, twenty pieces of clay, and twenty logs to help revive the town's fortunes.	Un garde du palais de Façade vous a demandé de trouver vingt morceaux de minerai de fer, vingt mottes d'argile et vingt rondins afin d'effectuer des travaux de réparation.	Eine Königswache von Fassade hat dich um zwanzig Klumpen Eisenerz, zwanzig Lehmbrocken und zwanzig Holzscheite ersucht, um dem Wohlstand der Stadt wieder auf die Sprünge zu helfen.
-12901500	素材を集めた。依頼主に届けよう。	You collected the materials. Bring them back to the client.	Vous avez récupéré les matériaux nécessaires. Apportez-les au garde du palais de Façade.	Du hast die Materialien besorgt. Bring sie zurück zum Kunden.
-12902000	無事に素材を届けた。
-これで街も元の活気を取り戻すだろう。	You delivered the requested materials. The town should be vibrant again before long.	Vous avez remis les matériaux au garde du palais de Façade. La ville devrait bientôt prospérer de nouveau.	Du hast die angeforderten Materialien abgeliefert. Die Stadt sollte schon bald wieder florieren.
-12911000	ヨナにメロンを頼まれた。	Yonah asked you for a melon.	Yonah a besoin d'un melon.	Yonah hat dich um eine Melone gebeten.
-12912000	ヨナにスイカを頼まれた。	Yonah asked you for a watermelon.	Yonah a besoin d'une pastèque.	Yonah hat dich um eine Wassermelone gebeten.
-12913000	ヨナにかぼちゃを頼まれた。	Yonah asked you for a pumpkin.	Yonah a besoin d'un potiron.	Yonah hat dich um einen Kürbis gebeten.
-12914000	ヨナの手料理を有り難く食べた。	You thoroughly enjoyed Yonah's cooking. ...How odd.	Le gâteau de Yonah était délicieux.
-...#Étrange.	Du hast Yonahs Kochkünste durchaus genossen. ... Wie ungewöhnlich.
-12921000	海岸の街の広場の噴水近くに居る男からの依頼。
-恋人への手紙を頼まれた。崖の村に届けよう。
-恋人は崖の村の村長の家の近くに住んでいるらしい。	A man near the fountain in Seafront's plaza has given you a love letter he wants delivered to his lover in The Aerie. The recipient lives near the village's chief.	Un homme près de la fontaine de Littoral veut que vous apportiez une lettre à sa petite amie qui habite près de la maison du chef du village de l'Aire.	Ein Mann bei dem Brunnen am Platz von Meeresfront hat dir einen Liebesbrief gegeben, den du an seine Geliebte in Adlerhorst zustellen sollst. Die Empfängerin lebt in der Nähe des Anführers des Dorfes.
-12922000	どうやら、恋人は居なくなったようだ。男のもとに戻ろう。	The man's lover seems to be gone. Return to him and report your findings.	La petite amie de l'homme semble avoir disparu. Retournez l'en informer.	Die Geliebte des Mannes scheint verschwunden zu sein. Kehre zu ihm zurück und erstatte Bericht.
-12923000	男に事の顛末を伝えたが、諦めないと言っている。	You explained the situation to the man, but he says he's not ready to give up just yet.	Bien que vous lui ayez expliqué la situation, l'homme ne veut pas abandonner.	Du hast dem Mann die Situation erklärt, aber er ist noch nicht bereit, aufzugeben.
-12931000	デボルとポポルに歌を聴かせてもらおう。
-二人に頼んでみよう。	Have Devola and Popola sing a song for you. Discuss the matter with both of them.	Demandez à Devola et Popola de vous chanter une chanson.	Bring Devola und Popola dazu, ein Lied für dich zu singen. Sprich mit beiden über diese Angelegenheit.
-12931500	歌うには特殊な酒が必要らしい。
-海岸の街にある酒場に取りに行こう。	Apparently Popola needs a special drink in order to sing. Get it from the tavern in Seafront.	À ce qu'il paraît, Popola ne chante qu'après avoir bu une boisson particulière. Allez vous en procurer à la taverne de Littoral.	Anscheinend benötigt Popola ein spezielles Getränk, um zu singen. Besorge es in der Taverne von Meeresfront.
-12932000	酒を造るには素材が必要なようだ。
-とかげの尻尾を５本とねずみの尻尾を５本揃えよう。	The drink is made of certain special ingredients. Collect five lizard tails and five mouse tails.	Le tavernier de Littoral a besoin d'ingrédients spéciaux pour préparer la boisson#: cinq queues de lézard et cinq queues de souris.	Das Getränk besteht aus sehr speziellen Zutaten. Sammle fünf Echsenschwänze und fünf Mäuseschwänze.
-12932200	全ての材料が揃った。海岸の街の酒場に持って行こう。	You collected the ingredients. Take them to the Seafront tavern.	Vous avez récupéré les ingrédients nécessaires. Apportez-les au tavernier de Littoral.	Du hast die Zutaten besorgt. Bring sie zur Taverne in Meeresfront.
-12932500	酒を造る事が出来た。ポポルに報告しに戻ろう。	You successfully created the drink. Report back to Popola.	Le tavernier a préparé la boisson de Popola. Allez l'en informer.	Du hast das Getränk erfolgreich hergestellt. Erstatte Popola Bericht.
-12933000	無事にデボルとポポルの歌を聴く事が出来た。
-歌の上手さより変わった酒に驚かされた。	The sisters have sung their song...though frankly, the drink Popola requested is much more fascinating.	Vous avez entendu les jumelles chanter ensemble. Toutefois, la préparation de la boisson était beaucoup plus fascinante...	Die Schwestern haben ihr Lied gesungen ... aber ehrlich gesagt, ist das Getränk, das Popola wollte, viel interessanter.
-12941000	商店街の南門近くに住む老人からの依頼。
-犬を探してきて欲しいらしい。
-犬は、北平原でよく遊ぶ事があるとの事。	An old man near the shopping district's southern entrance needs help finding his dog. The animal likes to roam the northern plains.	Un vieil homme du marché a besoin d'aide pour retrouver son chien. Celui-ci aime s'aventurer sur la plaine septentrionale.	Ein alter Mann nahe des südlichen Eingangs zum Handelsbezirk braucht Hilfe bei der Suche nach seinem Hund. Das Tier treibt sich gerne in den Nordfeldern herum.
-12942000	探し出した犬は既に死んでいた。
-咥えていた葉だけでも飼い主に届けよう。	You found the dog, but it was already dead. Take the leaf from its mouth and return it to its master.	Vous avez trouvé le chien, mais il était mort. Rapportez les herbes que vous avez trouvées dans sa gueule au vieil homme.	Du hast den Hund gefunden, aber er war bereits tot. Nimm das Blatt aus seinem Mund und bringe es zu seinem Herrchen zurück.
-12943000	飼い主は既に亡くなっていた。	The master had already died by the time you returned.	Le vieil homme est décédé en votre absence.	Das Herrchen war zum Zeitpunkt deiner Rückkehr bereits verstorben.
-12951000	海岸の街。港の船の上に居る子供連れの男からの依頼。
-貿易をするため、商品の仕入れに協力して欲しいとの事。
-羊毛を１０個、天然ゴムを５個、ヤギの毛皮を１０枚集めよう。	A man aboard a ship docked in Seafront needs to build his inventory so he can begin trading. Collect ten bundles of wool, five lumps of natural rubber, and ten goat hides.	Un négociant en herbe de Littoral veut s'approvisionner en marchandises de base. Rapportez-lui dix pelotes de laine, cinq morceaux de caoutchouc et dix peaux de chèvre.	Ein Mann an Bord eines Schiffes im Hafen von Meeresfront möchte sein Inventar aufbauen, damit er Handel betreiben kann. Sammle zehn Knäuel Wolle, fünf Stücke Kautschuk und zehn Ziegenbälger.
-12952000	無事入手したので、素材を依頼人に渡そう。	You collected the materials. Bring them back to the client.	Vous avez récupéré les matériaux nécessaires. Apportez-les à l'habitant de Littoral.	Du hast die Materialien beschafft. Bringe sie zurück zum Kunden.
-12953000	手伝いの荷物運びも無事に終了した。
-これで無事に依頼人も貿易商になれるだろう。	You delivered the goods. Hopefully your client can build a successful trading business.	Vous lui avez remis les matériaux. Avec un peu de chance, l'habitant de Littoral pourra devenir un négociant prospère.	Du hast die Waren abgeliefert. Hoffentlich gelingt es deinem Kunden, ein erfolgreiches Handelsgeschäft aufzubauen.
-12961000	南門の近く、武器屋の向かいの村人から依頼。
-家出した息子を探して欲しいとの事。
-風変わりな帽子をかぶった青年らしい。	A man across the way from the weapon shop near the southern gate needs help finding his runaway son. The young man apparently wears an unusual-looking hat.	Un villageois qui habite devant l'armurerie du village vous a demandé de retrouver son fils qui a fait une fugue. À ce qu'il paraît, il porte un chapeau unique.	Ein Mann auf der gegenüberliegenden Seite vom Waffenladen nahe des Südtores benötigt Hilfe dabei, seinen Sohn zu finden, der von zu Hause weggelaufen ist. Der junge Mann trägt angeblich einen recht ungewöhnlichen Hut.
-12962000	家出息子は世話になった酒場のマスターに御礼がしたいと言う。
-羊の肉を５個とヤギの肉を３個届けよう。	The runaway wants to thank the tavern keeper's family for helping him. Bring him five pieces of mutton and three pieces of goat meat.	Le fugueur veut remercier le tavernier de l'avoir aidé. Apportez-lui cinq gigots de mouton et trois de chèvre.	Der Ausreißer möchte der Familie des Tavernenbesitzers für ihre Hilfe danken. Bringe ihm fünf Stücke Hammelfleisch und drei Stücke Ziegenfleisch.
-12962500	食材を手に入れた。酒場のマスターの所に届けよう。	You collected all of the meat. Bring it to the tavern keeper.	Vous avez récupéré les ingrédients nécessaires. Apportez-les au tavernier de Littoral.	Du hast das Fleisch besorgt. Bring es dem Wirt in der Taverne.
-12963000	家出息子を見失ってしまった。両親のもとに行ってみよう。	You've lost the runaway. Return to his parents.	Le fugueur s'est enfui de nouveau. Retournez chez ses parents.	Du hast den Ausreißer verloren. Kehre zu seinen Eltern zurück.
-12963500	海岸の街で息子の手がかりを探してみよう。	Look around Seafront for clues to the runaway's whereabouts.	Un habitant de Littoral saura peut-être où est le fugueur...	Schau dich in Meeresfront nach Hinweisen auf den Verbleib des Ausreißers um.
-12964000	ヤツは仮面の街に行ったらしい。
-性悪家出息子を捜し出し、キツイお灸を据えてやろう。	The runaway has gone to Facade. Track him down and make him pay for what he's done.	Le fugueur s'est enfui à Façade. Trouvez-le et donnez-lui une leçon.	Der Ausreißer ist nach Fassade zurückgegangen. Finde ihn und erteile ihm eine Lektion.
-12964500	仮面の街で息子を見つけた。
-逃げようとしているが、逃がすものか！	You found the runaway in Facade. He's making a run for it—nab him!	Vous avez trouvé le fugueur à Façade. Celui-ci s'est enfui de nouveau, mais cette fois, il ne vous échappera pas#!	Du hast den Ausreißer in Fassade gefunden. Er versucht schon wieder, auszubüchsen. Schnapp ihn dir!
-12965000	家出息子は改心した。両親に報告しよう。	The runaway has seen the error of his ways. Report back to his parents.	Le fugueur a accepté de rentrer chez lui. Retournez chez ses parents.	Der Ausreißer hat seinen Fehler eingesehen. Erstatte den Eltern Bericht.
-12966000	両親は居なくなっていた。嘘つき一家だったという訳だ。	Now the runaway's parents are missing! ...Apparently the entire family is full of liars.	Les parents du fugueur ont eux aussi disparu#! Il semblerait qu'ils étaient tous des menteurs.	Nun sind die Eltern des Ausreißers verschwunden! Anscheinend besteht die ganze Familie aus Lügnern.
-12971000	灯台近くの広場に居る男から、恋人に贈る為のアクセサリー用素材
-「フローライト」を依頼された。
-仮面の街の変なモノ屋まで買い出しに行こう。	A man in the open area near the lighthouse wants you to procure fluorite so he can make a fashion accessory for his lover. You can find it in Facade's strange-thing store.	Un homme près du phare de Littoral veut de la fluorine afin de fabriquer un bijou pour sa petite amie. Vous pourrez vous en procurer au magasin de curiosités de Façade.	Ein Mann in der Nähe des Leuchtturms hat dich gebeten, etwas Fluorit zu kaufen, damit er ein Mode-Accessoire für seine Geliebte anfertigen kann. Du kannst es im Seltsame-Dinge-Laden von Fassade finden.
-12972000	素材は砂の神殿にあるようだ。	It seems the required materials are in the Barren Temple.	Il semblerait que vous ne pourrez trouver de la fluorine que dans le temple stérile.	Es scheint, als wären die erforderlichen Materialien im Ödtempel.
-12973000	鉱石フローライトを入手した。
-男のところに戻ろう。	You've obtained fluorite. Bring it to the man.	Vous avez trouvé de la fluorine. Apportez-la à l'habitant de Littoral.	Du hast Fluorit erworben. Bring es zu dem Mann.
-12974000	男に鉱石を渡した。男は大変だと思った。	You gave the ore to the client. Ah, love...	Vous avez remis le minerai à l'habitant de Littoral. Ah, l'amour...!	Du hast dem Kunden das Erz gegeben. Ach, die Liebe ...
-12981000	仮面の街の武器屋の息子が、
-功を焦り、家を飛び出し砂漠に向かったらしい。
-両親に息子を連れ戻す事を依頼される。	The child of Facade's weapon shopkeeper has left home and is headed for the desert. His parents want you to bring him back.	Le fils de l'armurier de Façade s'est aventuré dans le désert. Son père aimerait que vous le retrouviez.	Das Kind des Waffenladen-Betreibers in Fassade hat sein Zuhause verlassen und ist Richtung Wüste aufgebrochen. Seine Eltern möchten, dass du ihn zurückbringst.
-12981500	息子は説得を振り切り、狼達の所に向かった。
-放っておくわけにもいくまい。	Ignoring your pleas, the child set off toward a den of wolves. Don't let him fight alone!	Le garçon refuse de rentrer chez lui et compte attaquer la tanière des loups. Prêtez-lui main-forte#!	Das Kind hat deine Bitte ignoriert und sich in eine Höhle voller Wölfe begeben. Lass es nicht alleine kämpfen!
-12982000	無事に息子を連れ帰る事が出来た。	You brought the son home safe and sound.	Vous avez ramené le garçon chez lui sain et sauf.	Du hast den Sohn gesund und munter zurückgebracht.
-12991000	仮面の街「変なモノ屋」の近くに居る親からの依頼。
-家の娘が行方不明になったとの事。
-仮面の街の人に聞き込みをしてみよう。	A family near Facade's strange-thing store cannot find their daughter. Ask around Facade and see what you can learn.	La fille de la famille qui habite près du magasin de curiosités de Façade a disparu. Essayez de découvrir ce qui lui est arrivé en parlant aux habitants de la ville.	Die Tochter einer Familie nahe des Seltsame-Dinge-Ladens in Fassade ist verschwunden. Frag in Fassade herum und versuche, etwas herauszufinden.
-12991300	最下層で彼氏といるのを見かけたという証言を得た。
-何か手がかりがないか、探してみよう。	The daughter was sighted with her boyfriend on the lowest level of town. Go search for further clues.	Quelqu'un a aperçu la jeune fille avec son petit ami sur le niveau inférieur de la ville. Allez y jeter un coup d'œil.	Die Tochter wurde zuammen mit ihrem Freund auf der untersten Ebene der Stadt gesehen. Suche dort nach weiteren Hinweisen.
-12991700	彼氏は街の入口の警備をしているらしい。	The daughter's boyfriend stands watch over the town entrance.	Le petit ami de la jeune fille est un des gardes à l'entrée de la ville.	Der Freund der Tochter steht am Eingang der Stadt Wache.
-12992000	最下層に血痕があった。
-事件の臭いがする……彼氏を探してみよう。	You found traces of blood on the lowest level of town. It's time to meet with the girl's boyfriend.	Vous avez découvert des taches de sang au niveau inférieur. Le moment est venu d'interroger le petit ami de la jeune fille.	Du hast Blutspuren auf der untersten Ebene der Stadt gefunden. Zeit, sich einmal mit dem Freund des Mädchens zu unterhalten.
-12993000	娘の死体を捨てた場所を調べに行こう。
-仮面の街を出てすぐの「井戸」にあるらしい。	The girl's body was dumped at the sandspout well just outside Facade. Search the location for clues.	Le jeune homme a caché le corps de sa petite amie dans le puits de sable près de l'entrée de Façade. Allez l'examiner.	Die Leiche des Mädchens wurde beim Windhosenbrunnen nahe Fassade entsorgt. Suche an dieser Stelle nach Hinweisen.
-12994000	娘の死体は見あたらない。とりあえず両親に報告をしよう。	You can't find the body. Tell her parents the grim news.	Vous n'avez pas trouvé le corps de la jeune fille. Allez apprendre la mauvaise nouvelle à ses parents.	Du kannst die Leiche nicht finden. Teile ihren Eltern die traurigen Neuigkeiten mit.
-12995000	娘は生きていた。どこか怪しいのだが……	The girl was alive the whole time! How strange...	La jeune fille était toujours en vie#! Étrange...	Das Mädchen war die ganze Zeit über am Leben! Sehr seltsam ...
-13001000	仮面の街の門番から、
-砂の神殿を荒らす盗賊退治を依頼された。	A guard at Facade's gate asked you to eliminate the bandits desecrating the Barren Temple.	Un garde de l'entrée de Façade vous a demandé de vous débarrasser des pillards qui ont osé pénétrer dans le temple stérile.	Eine Wache von Fassade hat dich darum gebeten, die Banditen, die den Ödtempel entweihen, zu erledigen.
-13002000	愚かな盗賊はマモノの封印を解いてしまったらしい。
-放っておくわけにいくまい。	The bandits have inadvertently broken the seal placed on a Shade. It must be defeated at once.	Les pillards ont brisé le sceau de l'Ombre par mégarde. Éliminez-la dès maintenant#!	Die Banditen haben versehentlich einen eingesperrten Schatten befreit. Dieser muss sofort besiegt werden.
-13003000	マモノは無事に倒した。
-仮面の人に報告しておこう。	You defeated the Shade. Report back to the client.	Vous avez vaincu l'Ombre. Allez en informer le garde de Façade.	Du hast den Schatten besiegt. Berichte dem Kunden davon.
-13003500	依頼主に報告した。
-これで神殿も静かになるだろう。	You reported back to the client. Hopefully this will quiet things down in the temple.	Vous avez informé le garde de la situation. Le temple devrait être paisible pendant quelque temps.	Du hast dem Kunden Bericht erstattet. Hoffentlich geht es nun wieder ruhiger zu im Tempel.
-13011000	海岸の街。広場で木陰に立つ老婆からの依頼。
-沈没した船から流出した荷を回収する事になった。
-全部で三つほど集めればいいらしい。
-漂着していそうな水辺を探してみよう。	An old lady standing under a tree in Seafront needs you to recover cargo from a ship that was lost at sea. Search the shorelines and find her three pieces of cargo.	Une vieille femme près de la fontaine de Littoral vous a demandé de récupérer trois caisses qui étaient sur un bateau qui a coulé. Elles se sont probablement éparpillées le long de la côte.	Eine alte Dame unter einem Baum in Meeresfront hat dich gebeten, Treibgut zu bergen, das ein Schiff auf See verloren hat. Suche die Küsten ab und finde ihre drei Kisten Treibgut.
-13012000	海岸の街の海辺にあった積荷を回収した。	You retrieved the cargo from the Seafront shoreline.	Vous avez trouvé la caisse qui s'était échouée sur la plage de Littoral.	Du hast das Treibgut an der Küste bei Meeresfront geborgen.
-13013000	<NIER>の村にあった積荷を回収した。	You retrieved the cargo from <NIER>'s village.	Vous avez trouvé la caisse qui s'était échouée dans le village.	Du hast das Treibgut im Dorf von <NIER> geborgen.
-13014000	北平原にあった水辺の積荷を回収した。	You retrieved the cargo from the shoreline in the northern plains.	Vous avez trouvé la caisse qui s'était échouée sur la côte de la plaine septentrionale.	Du hast das Treibgut an der Küste in den Nordfeldern geborgen.
-13014500	全ての積荷を回収した。さて……	You retrieved all of the cargo. Now, what to do with it...	Vous avez trouvé toutes les caisses. Que devriez-vous en faire#?	Du hast das gesamte Treibgut geborgen. Was nun ...?
-13015000	依頼主に積荷を渡した。	You gave the cargo to the client.	Vous avez remis les caisses à la vieille femme.	Du hast der Kundin das Treibgut gegeben.
-13016000	衛兵に積荷を渡した。	You gave the cargo to the authorities.	Vous avez remis les caisses aux autorités.	Du hast das Treibgut den offiziellen Stellen übergeben.
-13021000	海岸の街。港に居るオレンジ色の服を着た女から
-「人魚の涙」という宝石を捜して欲しいと依頼され、
-海岸の街で情報を調べる事にした。	A woman in orange at the port in Seafront wants you to locate a treasure known as the Mermaid Tear. Search Seafront for leads.	Une joaillière près du port de Littoral vous a demandé de trouver la larme de sirène, une pierre précieuse. Fouillez la ville...	Eine Frau am Hafen von Meeresfront möchte, dass du einen Schatz, bekannt als Meerjungfrauenträne, ausfindig machst. Suche in Meeresfront nach Hinweisen.
-13022000	灯台の老婆と何か関係があるらしい……	It seems the lighthouse lady was involved...	Il semblerait que la vieille femme du phare ait quelque chose à voir avec la pierre...	Es scheint, als hatte die Leuchtturmdame etwas damit zu tun ...
-13023000	過去の手紙の事を郵便局で調べてみよう	Follow the trail of letters to the post office.	Suivez la piste jusqu'au bureau de poste.	Folge der Spur von Briefen zum Postamt.
-13024000	宝石の件を依頼人に報告にいこう	Report back to the client about the jewel.	Retournez voir la joaillière.	Erstatte der Kundin Bericht über das Juwel.
-13024500	依頼人と話をした。
-あの宝石にこんな物語が隠されていたとは……	You spoke with the client. That jewel has quite a story behind it...	Vous avez informé la joaillière de la situation. Qui aurait cru que cette pierre précieuse avait eu une aussi curieuse destinée#?	Du hast mit der Kundin gesprochen. Dieses Juwel hat eine ganz schön bewegte Vergangenheit ...
-13031000	仮面の兵士になりたい青年の為に、防具の素材を揃える。
-必要な素材は鉄鉱×5、丸太×5。	A young man wants to become a soldier. Help him by collecting five pieces of iron ore and five logs.	Un jeune homme de Façade veut devenir un guerrier du masque. Aidez-le en trouvant cinq morceaux de minerai de fer et cinq rondins.	Ein junger Mann möchte Soldat werden. Hilf ihm, indem du fünf Klumpen Eisenerz und fünf Holzscheite sammelst.
-13031500	素材を揃えた。青年に渡してやろう。	You collected the materials. Bring them back to the young man.	Vous avez récupéré les matériaux nécessaires. Apportez-les au jeune homme de Façade.	Du hast die Materialien besorgt. Bring sie zurück zu dem jungen Mann.
-13032000	青年は入隊試験に合格したようだ。	The young man has passed the military entrance exam.	Le jeune homme a réussi l'épreuve.	Der junge Mann hat die Aufnahmeprüfung fürs Militär bestanden.
-13033000	青年は試験に落ちたようだ。	The young man has failed the military entrance exam.	Le jeune homme a échoué l'épreuve.	Der junge Mann ist durch die Aufnahmeprüfung fürs Militär gefallen.
-13034000	青年は無事に仮面の兵士になることが出来た。	The young man has become a soldier.	Le jeune homme est désormais un guerrier du masque.	Aus dem jungen Mann ist ein Soldat geworden.
-13041000	道具屋の主人からの依頼。
-商店の品物が盗まれるらしい。
-犯人探しに協力する事にした。
-まずは村の中で聞き込みをしてみよう。	The item shopkeeper needs your help finding the culprits that robbed his store. Begin by asking around for clues.	L'apothicaire vous a demandé de trouver qui a cambriolé son magasin. Interrogez les villageois pour en savoir davantage.	Der Besitzer der Apotheke benötigt deine Hilfe bei der Suche nach den Übeltätern, die ihn bestohlen haben. Beginne damit, nach Hinweisen zu fragen.
-13042000	犯人は二人組らしい……	Apparently the culprits work as a pair...	On raconte qu'il y a deux voleurs...	Anscheinend handelt es sich bei den Übeltätern um ein Duo#...
-13043000	犯人は子供らしい……	Apparently the culprits are children...	On dit que les voleurs sont des enfants...	Anscheinend sind die Übeltäter Kinder ...
-13044000	犯人は子供達だった。
-親に話をする必要がある。酒場に行ってみよう。	The robbers were a pair of children. You need to talk to their father. Try the tavern.	Les voleurs étaient deux jeunes garçons. Allez parler à leur père. Il est probablement à la taverne.	Die Diebe waren zwei Kinder. Du musst mit ihrem Vater reden. Versuch's mal in der Taverne.
-13044500	どうしようもない親だ……
-とりあえず依頼人に報告しておこう。	The father is useless. Report back to the client for now.	Le père des garçons n'est qu'un bon à rien. Retournez voir l'apothicaire du village.	Der Vater ist ziemlich nutzlos. Erstatte zunächst einmal dem Kunden Bericht.
-13045000	誰か頼りになる人は居ないだろうか……	Can anyone take care of these kids?	Qui pourrait bien s'occuper des garçons#?	Kann sich irgendjemand um diese Kinder kümmern?
-13045500	依頼人は子供達の保護者を捜してくれるそうだ。
-良い人が見つかるといいのだが。	Your client says he'll search for a guardian for the children. Hopefully he'll find someone good.	L'apothicaire a dit qu'il essaierait de trouver quelqu'un pour s'occuper des garçons.	Der Kunde meinte, er würde nach jemandem suchen, der sich um die Kinder kümmern kann. Hoffentlich findet er jemanden.
-13046000	ポポルが子供達の面倒を見てくれる事になった。	Popola has agreed to take care of the children.	Popola a accepté de s'occuper des garçons.	Popola ist einverstanden, sich um die Kinder zu kümmern.
-13051000	海岸の街、船に乗っている男からの依頼。
-依頼人は船酔いの薬を作りたいらしい。
-仮面の街の変なモノ屋に売っているマンドレイクの葉を
-買って持って行こう。	A man traveling on a ship in Seafront wants to make a medication that will prevent seasickness. Buy him a mandrake leaf from the strange-thing store in Facade.	L'apprenti marchand de Littoral veut inventer un remède contre le mal de mer. Rapportez-lui une feuille de mandragore du magasin de curiosités de Façade.	Ein Mann auf einem Schiff in Meeresfront möchte eine Medizin herstellen, die Seekrankheit verhindert. Kaufe für ihn ein Alraunblatt im Seltsame-Dinge-Laden von Fassade.
-13051500	無事にマンドレイクの葉を手に入れた。
-変なモノ屋は何か妙な事を言っていたが……？	You obtained the mandrake leaf. The shopkeeper at the strange-thing store sure acted funny when you asked for it...	Vous avez obtenu une feuille de mandragore. Pourquoi le marchand de curiosités a-t-il réagi de cette façon...?	Du hast das Alraunblatt besorgt. Der Ladenbesitzer hat sich merkwürdig verhalten, als du danach gefragt hast.
-13052000	依頼人は懲りずにさらに新しい酔い止めを開発したいらしい。
-ロボット山の兄弟の店でガマの油を購入し、依頼人に届ける。	Your client is still working on his seasickness cure. Bring him some toad oil from Two Brothers Weaponry in the Junk Heap.	L'apprenti marchand de Littoral essaie toujours d'inventer un remède contre le mal de mer. Rapportez-lui de l'huile de crapaud de l'armurerie de la montagne des robots.	Dein Kunde arbeitet noch immer an einem Heilmittel für Seekrankheit. Bringe ihm etwas Krötenöl von Zwei-Brüder-Waffen beim Müllberg.
-13052500	ガマの油を購入した。依頼人に届けよう。
-弟は何か思わせぶりなことを言っていたが……？	With a nudge and a wink, the younger brother sold you some toad oil.	Gidéon vous a donné de l'huile de crapaud avec un sourire complice.	Der jüngere Bruder hat dir etwas Krötenöl verkauft und konnte sich dabei einen kleinen Seitenhieb nicht verkneifen.
-13053000	結局依頼人は薬屋になってしまった。	The client wound up going into the medicine business.	L'apprenti marchand a décidé de devenir apothicaire.	Der Kunde ist nun im Medizingeschäft.
-13061000	食料品屋の子供が友達と遊んだ帰りに、
-原因不明の病気にかかったらしい。
-子供達なら原因を知っているだろうか？	The grocer's child has been stricken by a mysterious illness after playing with his friends. Maybe the other children would know the cause.	Le fils de l'épicière a attrapé une maladie mystérieuse après avoir joué avec ses amis. Ceux-ci en connaissent peut-être la cause.	Das Kind der Lebensmittelhändlerin wurde nach dem Spielen mit seinen Freunden von einer mysteriösen Krankheit befallen. Vielleicht wissen die anderen Kinder etwas über die Ursache.
-13062000	どうやら神話の森に秘密があるらしい。	Apparently the key lies in the Forest of Myth.	La clef du mystère se trouve dans la forêt des légendes.	Anscheinend liegt der Schlüssel im Märchenwald.
-13062500	毒々しい実を手に入れた。これはなにか関係あるのだろうか？	You found some poisonous-looking berries. Could they have something to do with the illness?	Vous avez trouvé des baies vénéneuses. Pourraient-elles être la cause de la maladie du garçon#?	Du hast ein paar giftig aussehende Beeren gefunden. Könnten sie etwas mit der Krankheit zu tun haben?
-13063000	図書館で解毒剤の製法を調べよう。	Scour the library for clues to an antidote.	Fouillez la bibliothèque afin de trouver un antidote.	Durchforste die Bibliothek auf der Suche nach Hinweisen auf ein Gegenmittel.
-13063500	どうやら毒の実を子供は食べたらしい。
-解毒剤を依頼者に届けよう。	The child apparently consumed some poisonous berries. Bring the antidote to the client.	Il semblerait que le garçon ait mangé des baies vénéneuses. Apportez le contrepoison à l'épicière.	Das Kind hat anscheinend giftige Beeren gegessen. Bring das Gegengift zur Kundin.
-13064000	子供の命は失われてしまった……	The child has passed away...	L'enfant est mort...	Das Kind ist verstorben ...
-13065000	子供の命を救う事が出来た。	You saved the child's life.	Vous avez sauvé la vie de l'enfant.	Du hast das Leben des Kindes gerettet.
-13071000	武器屋斜め向かいに座っている女から、
-人捜しを依頼された。特徴は「黄金の首輪を付けた青年」らしい。
-とりあえず、聞き込みをしてみるか。	The woman sitting diagonally across from the weapon shop asked you to find a young man wearing a golden necklace. Ask around to see if anyone nearby saw him.	Une jeune femme du marché vous a demandé de trouver un homme portant un collier en or. Quelqu'un l'a peut-être aperçu...	Die Frau schräg gegenüber vom Waffenladen hat dich gebeten, einen jungen Mann zu finden, der eine Goldkette trägt. Finde heraus, ob irgendjemand ihn mal gesehen hat.
-13072000	神話の森にいるという情報を得た。	You learned that he's in the Forest of Myth.	Vous avez appris qu'il pourrait être dans la forêt des légendes.	Du hast erfahren, dass er im Märchenwald ist.
-13073000	海岸の街にいるという情報を得た。	You learned that he's in Seafront.	Vous avez appris qu'il pourrait être à Littoral.	Du hast erfahren, dass er in Meeresfront ist.
-13074000	ロボット山にいるという情報を得た。
-兄弟の店で話を聞いてみよう。	You learned that he's at the Junk Heap. Go to Two Brothers Weaponry and ask about him.	Vous avez appris qu'il pourrait être dans la montagne des robots. Allez demander à Gidéon si il l'a aperçu.	Du hast erfahren, dass er im Müllberg ist. Geh zu Zwei-Brüder-Waffen und frage dort nach ihm.
-13075000	ロボット山内部にいるという情報を得た。	You learned that he's deep inside the Junk Heap.	Vous avez appris que l'homme est dans les profondeurs de la montagne des robots.	Du hast erfahren, dass er tief im Inneren des Müllbergs ist.
-13076000	男は既に死亡していた。依頼人に伝えよう。	The man is dead. Report back to the client.	L'homme est mort. Allez le dire à la jeune femme.	Der Mann ist tot. Erstatte deiner Kundin Bericht.
-13076500	依頼人に伝えた。
-後味の悪い仕事だった……	You informed the client of the situation. This wasn't a very pleasant job...	Vous avez informé la jeune femme de la situation. Quel terrible boulot...	Du hast die Kundin über die Situation aufgeklärt. Das war nicht gerade eine angenehme Aufgabe ...
-13081000	海岸の街の酒場のマスターからの依頼。
-ロボット山の兄弟の店で包丁を買ってきて欲しいとの事。
-高値で買い取ってくれるらしい。	The tavern keeper in Seafront wants you to purchase a kitchen knife from the Junk Heap. He's willing to pay handsomely.	Le tavernier de Littoral vous a demandé d'acheter un couteau à l'armurerie des frères. Il est prêt à payer n'importe quel prix.	Der Wirt in Meeresfront möchte, dass du ein Küchenmesser beim Müllberg kaufst. Er ist bereit, dafür eine ordentliche Summe zu bezahlen.
-13081100	包丁を作るには素材が不足しているらしい。
-チタン合金が１０個必要な様だ。	The shop lacks the ten titanium alloys needed to build such a knife.	Gidéon a besoin de dix morceaux d'alliage de titane pour fabriquer le couteau.	Dem Laden fehlen zehn Titanlegierungen, um ein solches Messer herzustellen.
-13081500	素材は集まった。弟に包丁を作ってもらおう。	You collected the alloy. Return to the shop so they can craft the knife.	Vous avez trouvé dix morceaux d'alliage de titane. Apportez-les à Gidéon.	Du hast die Legierungen gesammelt. Kehre zum Laden zurück, damit dieser das Messer anfertigen kann.
-13081700	包丁が完成した。男に包丁を届けに行こう。	The knife is complete. Bring it back to the client.	Le couteau est prêt. Apportez-le au tavernier de Littoral.	Das Messer ist fertig. Bringe es zurück zum Kunden.
-13082000	無事に包丁を渡す事が出来た。	You gave the man his kitchen knife.	Vous avez remis le couteau de chef au tavernier de Littoral.	Du hast dem Mann das Küchenmesser gegeben.
-13091000	ロボット山のエレベーターを修理する為、
-壊れたバッテリーを５個と壊れたモーターを５個集める。	Collect five broken batteries and five broken motors to repair the elevator in the Junk Heap.	Gidéon vous a demandé de trouver cinq batteries à plat et cinq moteurs défectueux afin de fabriquer les pièces de rechange pour réparer l'ascenseur de la montagne des robots.	Sammle fünf kaputte Batterien und fünf kaputte Motoren, um den Aufzug im Müllberg zu reparieren.
-13091500	修理材料を集めた。弟の所へ行こう。	You collected the repair parts. Bring them back to the younger brother.	Vous avez récupéré les matériaux nécessaires. Apportez-les à Gidéon.	Du hast die Ersatzteile besorgt. Bring sie zurück zum jüngeren Bruder.
-13092000	エレベーターを動かせるようになった。
-ロボット山二階に居るマモノを殲滅しに向かおう。	The elevator is back online. Defeat all the Shades on the second floor of the Junk Heap.	Vous avez réparé l'ascenseur. Éliminez toutes les Ombres qui ont envahi le premier étage de la montagne des robots.	Der Aufzug funktioniert wieder. Besiege alle Schatten im ersten Obergeschoss des Müllbergs.
-13092500	マモノは全て撃破した。
-弟の所に報告しにいこう。	The Shades are defeated. Report back to the shop at the Junk Heap.	Vous avez éliminé les Ombres. Retournez à l'armurerie des frères.	Die Schatten wurden besiegt. Erstatte im Laden beim Müllberg Bericht.
-13092700	弟に報告した。
-彼の心はロボットを壊す事に囚われているようだ……	You reported back to the younger brother, but destroying robots is the only thing on his mind...	Vous avez dit à Gidéon que vous aviez éliminé les Ombres, mais cela lui importe peu. Il ne veut que détruire les robots.	Du hast dem jüngeren Bruder Bericht erstattet, aber das Zerstören von Robotern ist das Einzige, woran er denken kann ...
-13101000	武器屋の男から、宝の地図を探す事を依頼された。
-昔の地図がありそうな場所と言えば……？	The blacksmith has asked you to find a treasure map. Where would you look for such a thing...?	L'armurier du village vous a demandé de lui apporter une carte au trésor. Où pourrait-on trouver une chose pareille...?	Der Schmied hat dich darum gebeten, eine Schatzkarte zu finden. Wo würde man wohl nach so etwas suchen ...?
-13102000	地図は傷んでいる。仮面の街の変なモノ屋で復元を依頼しよう。	The map is heavily damaged. Perhaps Facade's strange-thing store would be able to restore it.	La carte que vous avez trouvée est endommagée. Le marchand de curiosités de Façade pourrait sans doute la restaurer.	Die Karte ist ziemlich mitgenommen. Vielleicht kann der Seltsame-Dinge-Laden in Fassade sie wiederherstellen.
-13103000	復元に必要な材料、機械油を３個、ナスを３個、ヤギの毛皮を３枚集める。	Gather three drops of machine oil, three eggplants, and three goat hides to repair the map.	Trouvez trois bouteilles d'huile de graissage, trois aubergines et trois peaux de chèvre pour restaurer la carte.	Sammle drei Kannen Maschinenöl, drei Auberginen und drei Ziegenbälger, um die Karte zu restaurieren.
-13103100	復元に必要な素材を集めた。変なモノ屋で地図を復元してもらおう。	You collected the materials needed to restore the map. Bring them to the strange-thing store.	Vous avez récupéré les matériaux nécessaires. Apportez-les au marchand de curiosités de Façade.	Du hast die erforderlichen Materialien gesammelt, um die Karte zu restaurieren. Bring sie zurück zum Seltsame-Dinge-Laden.
-13103300	地図を復元した。依頼主に渡そう。	The map has been restored. Bring it to the client.	La carte a été restaurée. Apportez-la à l'armurier.	Die Karte wurde restauriert. Bringe sie zum Kunden.
-13103500	男の妻から、代わりに宝探しを依頼される。
-とりあえずは地図の解読をポポルに頼むとするか。	The man's wife asked you to search for the treasure in place of her husband. Bring the map to Popola to have her decipher it for you.	La femme de l'armurier vous a demandé de trouver le trésor à la place de son mari. Popola pourrait sans doute déchiffrer la carte. Allez la lui montrer.	Die Frau des Mannes hat dich gebeten, für ihren Mann nach dem Schatz zu suchen. Bring die Karte zu Popola zum Entschlüsseln.
-13103700	地図には「石の神殿。日の届かぬいずこか」と書かれているようだ。	According to the map, the treasure is inside the Lost Shrine, in a place where sunlight does not reach.	Selon la carte, le trésor est quelque part dans le temple oublié, dans un endroit que la lumière ne peut atteindre.	Laut der Karte befindet sich der Schatz im Verschollenen Schrein, an einem Ort, den das Sonnenlicht nie erreicht.
-13104000	宝を発見したが、ただのガラクタだった。
-依頼主の妻に報告しよう。	You found the treasure, but it turned out to be worthless. Report back to the client's wife.	Le «#trésor#» n'était que de la pacotille. Allez en informer la femme de l'armurier.	Du hast den Schatz gefunden, aber er stellte sich als wertlos heraus. Erstatte der Frau des Kunden Bericht.
-13104500	依頼主から宝の地図をもらった。
-ガラクタかもしれないが、ポポルに解読をお願いするか。	The client gave you a treasure map. It might be worthless, but perhaps a trip to Popola's is in order to see if she can decipher it.	L'armurier vous a donné une carte au trésor. Elle ne mènera probablement nulle part, mais demandez tout de même à Popola de la déchiffrer.	Der Kunde hat dir eine Schatzkarte gegeben. Sie mag nutzlos sein, aber ein kleiner Abstecher zu Popola zum Entschlüsseln ist sicherlich drin.
-13105000	髪飾りと交換した金貨を男に渡した。	You gave the client the gold you got in exchange for the hair ornament.	Vous avez remis à l'armurier la pièce d'or antique que vous avez reçue en échange de la barrette de sa femme.	Du hast dem Kunden das Gold gegeben, das du im Tausch für den Haarschmuck erhalten hast.
-13105500	地図には「鋼鉄の橋の始まりし場所」と書かれているようだ。	The map apparently depicts "the start of a steel bridge."	L'«#extrémité d'un pont#» est indiquée sur la carte...	Die Karte beschreibt anscheinend „den Ausgangspunkt einer Stahlbrücke“.
-13106000	髪飾りを男に渡した。	You gave the man the hair ornament.	Vous avez remis à l'armurier la barrette de sa femme.	Du hast dem Mann den Haarschmuck gegeben.
-13106500	北平原で宝を発見した。
-本物の「宝の地図」も世界にはある事を知った。	You found treasure in the northern plains. What do you know? It seems real treasure maps do exist.	Vous avez trouvé un trésor sur la plaine septentrionale. Qui l'eût cru#? De vraies cartes au trésor existent#!	Du hast einen Schatz in den Nordfeldern gefunden. Sieh mal einer an. Anscheinend existieren Schatzkarten tatsächlich.
-13111000	洋館の執事から、エミールの姿を元に戻す為の情報を入手するため、
-地下施設の捜索を依頼された。
-地下二階のどこかにあることまでは判っているのだが……	The butler wants you to explore the manor's underground facility in search of a way to restore Emil's body to normal. A clue apparently awaits in the second basement floor.	Le majordome aimerait que vous exploriez le laboratoire de recherche souterrain du manoir afin de trouver une moyen de redonner à Émile son apparence d'antan. Il dit que des documents au sujet de son maître sont entreposés quelque part au deuxième sous-sol.	Der Butler möchte, dass du die Untergrundanlage des Anwesens untersuchst, um einen Weg zu finden, Emils Augenlicht wiederherzustellen. Einen Hinweis darauf soll es angeblich im zweiten Untergeschoss geben.
-13112000	元研究員の住所が手に入った。
-海岸の街、入り口の真上にある家らしい。	You've obtained the address of a former researcher, whose residence is located above the entrance to Seafront.	Vous avez trouvé l'adresse d'une ancienne employée du laboratoire. Elle habitait la maison située au-dessus de l'entrée de Littoral.	Du hast die Adresse einer ehemaligen Forscherin entdeckt. Ihr Anwesen liegt über dem Eingang zu Meeresfront.
-13112500	元研究員の家から、謎の書類が発見された。
-執事に見せに行こう。	You found a mysterious letter in the ex-researcher's house. Show it to the butler.	Un descendant de l'ancienne employée du laboratoire vous a donné un document mystérieux. Apportez-le au majordome.	Du hast einen mysteriösen Brief im Haus der ehemaligen Forscherin gefunden. Zeige ihn dem Butler.
-13113000	謎の書類はエミールへの手紙だった。
-エミールは喜んでくれたようだ。よかった。	The mysterious letter was addressed to Emil.
-Emil seemed happy to see it.	La lettre de la scientifique était adressée à Émile. Il a semblé heureux de la recevoir.	Der mysteriöse Brief war an Emil adressiert. Emil schien glücklich über ihn zu sein.
-13121000	仮面の人に化けていた女は倒した。
-昔死んだと言うあの女は……あのときからマモノだったのだろうか。
-	You defeated the woman, who was disguised as one of the Masked People. Had she been a Shade this whole time?	Vous avez vaincu l'Ombre qui s'était déguisée en habitante de Façade. Était-ce une Ombre depuis le début#?	Du hast die Frau besiegt, die als einer der Maskenmenschen verkleidet war. Ist sie die ganze Zeit über ein Schatten gewesen?
-13131000	商店街南側入り口の警備員からの依頼。
-村にマモノが紛れ込んでいるらしい。	The guard by the shopping district's southern entrance claims there's a Shade in the village.	Le garde au sud du marché dit qu'il y a une Ombre dans le village.	Die Wache beim südlichen Eingang zum Handelsbezirk behauptet, es wäre ein Schatten im Dorf.
-13132000	少女によると、マモノは川の近くにいたらしい。	According to the girl, the Shade was near the river.	Une fillette prétend avoir aperçu l'Ombre près de la rivière.	Das Mädchen hat den Schatten angeblich nahe des Flusses gesichtet.
-13132500	マモノは見つからなかった。
-少女にもう一度目撃した場所を聞こう。	You failed to find the Shade. Ask the girl where she saw it one more time.	Vous n'avez pas trouvé l'Ombre. Parlez de nouveau à la fillette qui l'a aperçue.	Du konntest den Schatten nicht finden. Frag das Mädchen noch mal, wo sie ihn gesehen hat.
-13133000	マモノは図書館の前付近に居たらしい。	The Shade was reportedly in front of the library.	L'Ombre aurait été aperçue devant la bibliothèque.	Der Schatten wurde angeblich vor der Bibliothek gesichtet.
-13133200	やはりマモノは居ないようだ。
-どうも少女の言う事は信用出来ない。
-他の村人にも聞き込みをしてみよう。	There was no Shade to be found. The girl is giving you conflicting statements. Ask some other villagers for clues.	Vous n'avez pas trouvé l'Ombre. La fillette se contredit. Interrogez d'autres villageois.	Dort war kein Schatten aufzutreiben. Das Mädchen verstrickt sich in widersprüchlichen Aussagen. Frage andere Dorfbewohner nach Hinweisen.
-13133400	村人の証言と、少女の証言には違いがあるようだ。
-少女に問いただしてみよう。	Apparently the girl has been telling you lies. Go back and confront her about it.	Vous avez découvert que la fillette vous a menti. Allez lui parler encore une fois.	Anscheinend hat das Mädchen dich belogen. Kehre zurück und konfrontiere sie damit.
-13133500	少女が言うには「北門の近くや、西の高台では『見かけていない』」
-らしいのだが……	The girl says that the Shade is definitely not near the northern gate or the hill to the west. Hmm...	La fillette prétend ne jamais avoir vu l'Ombre près de la porte du nord ou sur la colline à l'ouest. Hum...	Das Mädchen behauptet, den Schatten definitv nicht nahe des Nordtores oder dem Hügel im Westen gesehen zu haben. Hmm ...
-13134000	マモノを倒す事が出来た。
-警備員に報告しに行こう。	You successfully defeated the Shade. Report back to the guard.	Vous avez vaincu l'Ombre. Allez le dire au garde.	Du hast den Schatten erfolgreich besiegt. Erstatte der Wache Bericht.
-13134500	マモノを村から追い出す事が出来た。	You chased the Shade out of the village.	Vous avez chassé l'Ombre du village.	Du hast den Schatten aus dem Dorf verjagt.
-13141000	海岸の街。武器屋の上に住んでいる男から、
-仮面の街にフリージアを届ける仕事を受けた。
-素材屋を営んでいるらしい。	A man who lives above the weapon shop in Seafront asked you to deliver a freesia flower to the person running the material shop in Facade.	Le marchand de fleurs qui habite au-dessus de l'armurerie de Littoral vous a demandé d'apporter un bouquet de freesias à la marchande de matériaux de Façade.	Ein Mann, der über dem Waffenladen in Meeresfront lebt, hat dich gebeten, dem Betreiber des Materialienladens in Fassade eine Freesie zu überbringen.
+12582000	La tavernière a élaboré un digestif à partir des ingrédients que vous avez trouvés. Apportez-le à la vieille femme qui se trouve près de la fontaine devant la bibliothèque.
+12583000	Vous avez donné le digestif à la vieille femme. Elle semble tout à fait rétablie.
+12591000	Un homme qui élève des cochons vous a demandé de trouver un morceau d'alliage à mémoire de forme, dix morceaux d'alliage de titane et dix moteurs défectueux afin de remettre à neuf une cuisine qui a brûlé.
+12591500	Vous avez récupéré les matériaux nécessaires. Apportez-les au villageois.
+12592000	Vous avez donné les matériaux au villageois.
+12601000	La fleuriste vous a demandé d'acheter trois sacs d'engrais de récolte à Littoral.
+12601500	Vous avez acheté l'engrais. Apportez-le à la fleuriste.
+12602000	Vous avez donné l'engrais à la fleuriste.
+12611000	Yonah veut essayer une nouvelle recette. Elle a besoin de viande de cerf et de blé.
+12611500	Vous avez récupéré les ingrédients nécessaires. Yonah réussira-t-elle à préparer un ragoût...?
+12612000	Vous avez apporté à Yonah les ingrédients dont elle avait besoin. Le ragoût avait un goût... intéressant.
+12621000	La tavernière a besoin d'un œuf d'aigle de l'Aire pour préparer un autre remède. On peut en trouver sur les hauteurs, là où il vente beaucoup.
+12621500	Vous avez trouvé un œuf d'aigle. Apportez-le à la tavernière.
+12622000	La tavernière a élaboré un élixir à partir de l'œuf d'aigle que vous avez trouvé. Apportez-le à la vieille femme qui se trouve près de la fontaine devant la bibliothèque.
+12623000	Vous avez donné l'élixir à la vieille femme, mais vous auriez du mal à vous imaginer qu'il puisse lui donner plus d'énergie qu'elle n'en a déjà...
+12631000	Un garde de la porte du nord vous a demandé de livrer un colis au chef de l'Aire. Celui-ci habite la maison rayée située au sommet du village. Le colis est fragile, alors faites attention.
+12631500	Vous avez endommagé le colis... Allez l'avouer au client.
+12632000	Vous avez réussi à livrer le colis. Allez le dire au client.
+12633000	Vous avez informé le garde que vous avez accompli votre tâche.
+12641000	Une jeune femme du marché dit que la roue du moulin à eau est en mauvais état. Allez au magasin de curiosités de Façade trouver les pièces nécessaires pour la réparer.
+12642000	Le marchand de curiosités a besoin de matériaux pour fabriquer les pièces#: dix morceaux de minerai de fer et dix rondins.
+12642500	Vous avez récupéré les matériaux nécessaires. Apportez-les au marchand de curiosités.
+12643000	Le marchand de curiosités fabriquera les pièces pour vous. Retournez au village le dire à la villageoise.
+12644000	Vous avez informé la jeune femme de la situation.
+12651000	Un garde près de la fontaine du marché dit que celle-ci est en mauvais état. Allez au magasin de curiosités de Façade trouver les pièces nécessaires pour la réparer.
+12652000	Le marchand de curiosités a besoin de matériaux pour fabriquer la pompe#: dix moteurs défectueux et dix câbles coupés.
+12652500	Vous avez récupéré les matériaux nécessaires. Apportez-les au marchand de curiosités.
+12653000	Le marchand de curiosités fabriquera une pompe pour vous. Retournez au village le dire au garde.
+12654000	Vous avez informé le garde de la situation.
+12661000	Un vieil homme près de la fontaine du marché vous a demandé de livrer un colis à la taverne de Littoral. Celui-ci est fragile, alors faites attention.
+12662000	Vous avez réussi à livrer le colis. Allez le dire au vieil homme.
+12663000	Vous avez informé le vieil homme que vous avez accompli votre tâche.
+12671000	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez dix sardines.
+12671500	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.
+12672000	Vous avez attrapé dix sardines et appris une technique secrète.
+12681000	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez sept poissons-globes.
+12681500	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.
+12682000	Vous avez attrapé sept poissons-globes et appris une technique secrète.
+12691000	Un homme près du port de Littoral vous a demandé de trouver cinq rondins, vingt feuilles de métal bosselées et dix vieux boulons afin de réparer un bateau.
+12691500	Vous avez récupéré les matériaux nécessaires. Apportez-les à l'habitant de Littoral.	Du hast die Materialien besorgt. Bring sie zurück zum Kunden.
+12692000	Vous avez donné les matériaux à l'habitant de Littoral.
+12701000	Vous devez attraper un poisson-shaman, mais vous ne savez pas pêcher. Le vieil homme qui se trouve sur le quai semble être doué...
+12702000	Vous avez appris les principes fondamentaux de la pêche.
+12711000	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez sept truites arc-en-ciel.
+12711500	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.
+12712000	Vous avez attrapé sept truites arc-en-ciel et appris une technique secrète.
+12721000	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez cinq daurades.
+12721500	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.
+12722000	Vous avez attrapé cinq daurades et appris une technique secrète.
+12731000	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez cinq perches noires.
+12731500	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.
+12732000	Vous avez attrapé cinq perches noires et appris une technique secrète.
+12741000	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez trois squilles. Peut-on vraiment pêcher dans le désert#?
+12741500	Vous avez attrapé ce que voulait le vieux pêcheur. Allez l'en informer.
+12742000	Vous avez attrapé trois squilles et appris une technique secrète.
+12751000	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez trois esturgeons.
+12751500	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.
+12752000	Vous avez attrapé trois esturgeons et appris une technique secrète.
+12761000	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez deux makaires bleus.
+12761500	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.
+12762000	Vous avez attrapé deux makaires bleus et appris une technique secrète.
+12771000	Un vieux pêcheur vous enseignera une technique secrète si vous attrapez une hynéria.
+12771500	Vous avez attrapé une hynéria. Apportez-la au vieux pêcheur.
+12772000	Vous avez apporté votre hynéria au vieux pêcheur, mais celui-ci est décédé en votre absence.
+12781000	Vous avez remis la lettre à la vieille femme. Allez en informer le postier.
+12782000	Le postier vous a demandé d'apporter une lettre au village de l'Aire.
+12783000	Le postier vous a demandé d'apporter une lettre à la montagne des robots.
+12784000	Vous avez apporté la lettre à sa destination.
+12791000	Vous avez remis la lettre à la vieille femme. Allez en informer le postier.
+12792000	Le postier vous a demandé d'apporter une lettre à Popola.
+12793000	Vous avez remis la lettre à Popola.
+12801000	Le tavernier de Littoral vous a demandé de trouver les ingrédients nécessaires pour préparer sa spécialité#: dix herbes médicinales, dix sacs de blé et dix sardines.
+12801500	Vous avez récupéré les ingrédients nécessaires. Apportez-les au tavernier.
+12802000	Vous avez remis les ingrédients au tavernier.
+12811000	Le tavernier de Littoral manque d'inspiration. Vous pourriez peut-être trouver un livre de cuisine à la bibliothèque.
+12811500	Vous avez trouvé un livre de cuisine. Apportez-le au tavernier.
+12812000	Vous avez trouvé un livre de cuisine à la bibliothèque. Donnez-le au tavernier.
+12813000	Le tavernier de Littoral vous a demandé de trouver les ingrédients suivants#: cinq requins, cinq sacs de riz et cinq champignons.
+12813500	Vous avez récupéré les ingrédients nécessaires. Apportez-les au tavernier.
+12814000	Vous avez remis les ingrédients au tavernier.
+12821000	Un des gardes de la porte de l'est du village vous a demandé de livrer un colis à l'armurerie de Façade. Celui-ci est fragile, alors faites attention.
+12822000	Vous avez réussi à livrer le colis. Allez le dire au garde.
+12823000	Vous avez informé le garde que vous avez accompli votre tâche.
+12831000	On vous a invité à participer à un rituel. Transmettez chaque message d'une personne à l'autre sans faire d'erreur, sinon vous devrez recommencer du début.
+12831200	Le premier destinataire est le garde à la gauche de l'entrée de la ville.
+12831300	Le deuxième destinataire est le garde à la gauche de l'entrée du palais.
+12831400	Le troisième destinataire est la personne qui prend soin des enfants.
+12831500	Le quatrième destinataire est le garde du sud-est.
+12831600	Le cinquième destinataire est la personne la plus prolixe de la ville.
+12832000	Vous avez transmis un message à cinq personnes.
+12841000	Une femme près du palais de Façade veut que vous lui apportiez quelque chose, mais la loi l'empêche de spécifier de quoi il s'agit. Essayez de trouver dix objets comestibles rayés.
+12842000	Vous avez trouvé les objets et les avez remis à l'habitante de Façade.
+12851000	Un des gardes du palais de Façade veut que vous trouviez un morceau d'alliage de titane et un cristal pour fabriquer un masque.
+12851500	Vous avez récupéré les matériaux nécessaires. Apportez-les au garde du palais.
+12852000	Vous avez remis les matériaux au garde du palais.
+12861000	Le marchand de curiosités a besoin de dix peaux de loup afin de fabriquer un manteau pour sa femme. À ce qu'il paraît, ils se sont querellés...
+12861500	Vous avez récupéré les peaux de loup. Apportez-les au marchand de curiosités.
+12862000	Vous avez remis les peaux de loup au marchand de curiosités. Allez parler à sa femme à sa place. Elle est tout en haut des escaliers.
+12863000	La femme a accepté le cadeau de son mari et ils se sont réconciliés.
+12871000	Une femme près de la boîte aux lettres de Façade vous a demandé de trouver dix graines roses afin de les planter dans le désert.
+12871500	Vous avez récupéré les graines nécessaires. Apportez-les à l'habitante de Façade.
+12872000	Vous avez remis les graines à l'habitante de Façade.
+12881000	Le tavernier de Littoral vous a demandé de trouver les ingrédients suivants#: dix poissons-chats et dix sacs de riz.
+12881500	Vous avez récupéré les ingrédients nécessaires. Apportez-les au tavernier.
+12882000	Vous avez remis les ingrédients au tavernier.
+Comment un chef cuisiner qui déteste vider des poissons visqueux peut-il survivre dans une ville côtière...?
+12891000	Un homme près du phare de Littoral vous a demandé de trouver dix lentilles brisées, dix batteries à plat et dix leviers mystérieux afin de réparer le phare.
+12891500	Vous avez récupéré les matériaux nécessaires. Apportez-les à l'habitant de Littoral.
+12892000	Vous avez remis les matériaux à l'habitant de Littoral.
+12901000	Un garde du palais de Façade vous a demandé de trouver vingt morceaux de minerai de fer, vingt mottes d'argile et vingt rondins afin d'effectuer des travaux de réparation.
+12901500	Vous avez récupéré les matériaux nécessaires. Apportez-les au garde du palais de Façade.
+12902000	Vous avez remis les matériaux au garde du palais de Façade. La ville devrait bientôt prospérer de nouveau.
+12911000	Yonah a besoin d'un melon.
+12912000	Yonah a besoin d'une pastèque.
+12913000	Yonah a besoin d'un potiron.
+12914000	Le gâteau de Yonah était délicieux.
+...#Étrange.
+12921000	Un homme près de la fontaine de Littoral veut que vous apportiez une lettre à sa petite amie qui habite près de la maison du chef du village de l'Aire.
+12922000	La petite amie de l'homme semble avoir disparu. Retournez l'en informer.
+12923000	Bien que vous lui ayez expliqué la situation, l'homme ne veut pas abandonner.
+12931000	Demandez à Devola et Popola de vous chanter une chanson.
+12931500	À ce qu'il paraît, Popola ne chante qu'après avoir bu une boisson particulière. Allez vous en procurer à la taverne de Littoral.
+12932000	Le tavernier de Littoral a besoin d'ingrédients spéciaux pour préparer la boisson#: cinq queues de lézard et cinq queues de souris.
+12932200	Vous avez récupéré les ingrédients nécessaires. Apportez-les au tavernier de Littoral.
+12932500	Le tavernier a préparé la boisson de Popola. Allez l'en informer.
+12933000	Vous avez entendu les jumelles chanter ensemble. Toutefois, la préparation de la boisson était beaucoup plus fascinante...
+12941000	Un vieil homme du marché a besoin d'aide pour retrouver son chien. Celui-ci aime s'aventurer sur la plaine septentrionale.
+12942000	Vous avez trouvé le chien, mais il était mort. Rapportez les herbes que vous avez trouvées dans sa gueule au vieil homme.
+12943000	Le vieil homme est décédé en votre absence.
+12951000	Un négociant en herbe de Littoral veut s'approvisionner en marchandises de base. Rapportez-lui dix pelotes de laine, cinq morceaux de caoutchouc et dix peaux de chèvre.
+12952000	Vous avez récupéré les matériaux nécessaires. Apportez-les à l'habitant de Littoral.
+12953000	Vous lui avez remis les matériaux. Avec un peu de chance, l'habitant de Littoral pourra devenir un négociant prospère.
+12961000	Un villageois qui habite devant l'armurerie du village vous a demandé de retrouver son fils qui a fait une fugue. À ce qu'il paraît, il porte un chapeau unique.
+12962000	Le fugueur veut remercier le tavernier de l'avoir aidé. Apportez-lui cinq gigots de mouton et trois de chèvre.
+12962500	Vous avez récupéré les ingrédients nécessaires. Apportez-les au tavernier de Littoral.
+12963000	Le fugueur s'est enfui de nouveau. Retournez chez ses parents.
+12963500	Un habitant de Littoral saura peut-être où est le fugueur...
+12964000	Le fugueur s'est enfui à Façade. Trouvez-le et donnez-lui une leçon.
+12964500	Vous avez trouvé le fugueur à Façade. Celui-ci s'est enfui de nouveau, mais cette fois, il ne vous échappera pas#!
+12965000	Le fugueur a accepté de rentrer chez lui. Retournez chez ses parents.
+12966000	Les parents du fugueur ont eux aussi disparu#! Il semblerait qu'ils étaient tous des menteurs.
+12971000	Un homme près du phare de Littoral veut de la fluorine afin de fabriquer un bijou pour sa petite amie. Vous pourrez vous en procurer au magasin de curiosités de Façade.
+12972000	Il semblerait que vous ne pourrez trouver de la fluorine que dans le temple stérile.
+12973000	Vous avez trouvé de la fluorine. Apportez-la à l'habitant de Littoral.
+12974000	Vous avez remis le minerai à l'habitant de Littoral. Ah, l'amour...!
+12981000	Le fils de l'armurier de Façade s'est aventuré dans le désert. Son père aimerait que vous le retrouviez.
+12981500	Le garçon refuse de rentrer chez lui et compte attaquer la tanière des loups. Prêtez-lui main-forte#!
+12982000	Vous avez ramené le garçon chez lui sain et sauf.
+12991000	La fille de la famille qui habite près du magasin de curiosités de Façade a disparu. Essayez de découvrir ce qui lui est arrivé en parlant aux habitants de la ville.
+12991300	Quelqu'un a aperçu la jeune fille avec son petit ami sur le niveau inférieur de la ville. Allez y jeter un coup d'œil.
+12991700	Le petit ami de la jeune fille est un des gardes à l'entrée de la ville.
+12992000	Vous avez découvert des taches de sang au niveau inférieur. Le moment est venu d'interroger le petit ami de la jeune fille.
+12993000	Le jeune homme a caché le corps de sa petite amie dans le puits de sable près de l'entrée de Façade. Allez l'examiner.
+12994000	Vous n'avez pas trouvé le corps de la jeune fille. Allez apprendre la mauvaise nouvelle à ses parents.
+12995000	La jeune fille était toujours en vie#! Étrange...
+13001000	Un garde de l'entrée de Façade vous a demandé de vous débarrasser des pillards qui ont osé pénétrer dans le temple stérile.
+13002000	Les pillards ont brisé le sceau de l'Ombre par mégarde. Éliminez-la dès maintenant#!
+13003000	Vous avez vaincu l'Ombre. Allez en informer le garde de Façade.
+13003500	Vous avez informé le garde de la situation. Le temple devrait être paisible pendant quelque temps.
+13011000	Une vieille femme près de la fontaine de Littoral vous a demandé de récupérer trois caisses qui étaient sur un bateau qui a coulé. Elles se sont probablement éparpillées le long de la côte.
+13012000	Vous avez trouvé la caisse qui s'était échouée sur la plage de Littoral.
+13013000	Vous avez trouvé la caisse qui s'était échouée dans le village.
+13014000	Vous avez trouvé la caisse qui s'était échouée sur la côte de la plaine septentrionale.
+13014500	Vous avez trouvé toutes les caisses. Que devriez-vous en faire#?
+13015000	Vous avez remis les caisses à la vieille femme.
+13016000	Vous avez remis les caisses aux autorités.
+13021000	Une joaillière près du port de Littoral vous a demandé de trouver la larme de sirène, une pierre précieuse. Fouillez la ville...
+13022000	Il semblerait que la vieille femme du phare ait quelque chose à voir avec la pierre...
+13023000	Suivez la piste jusqu'au bureau de poste.
+13024000	Retournez voir la joaillière.
+13024500	Vous avez informé la joaillière de la situation. Qui aurait cru que cette pierre précieuse avait eu une aussi curieuse destinée#?
+13031000	Un jeune homme de Façade veut devenir un guerrier du masque. Aidez-le en trouvant cinq morceaux de minerai de fer et cinq rondins.
+13031500	Vous avez récupéré les matériaux nécessaires. Apportez-les au jeune homme de Façade.
+13032000	Le jeune homme a réussi l'épreuve.
+13033000	Le jeune homme a échoué l'épreuve.
+13034000	Le jeune homme est désormais un guerrier du masque.
+13041000	L'apothicaire vous a demandé de trouver qui a cambriolé son magasin. Interrogez les villageois pour en savoir davantage.
+13042000	On raconte qu'il y a deux voleurs...
+13043000	On dit que les voleurs sont des enfants...
+13044000	Les voleurs étaient deux jeunes garçons. Allez parler à leur père. Il est probablement à la taverne.
+13044500	Le père des garçons n'est qu'un bon à rien. Retournez voir l'apothicaire du village.
+13045000	Qui pourrait bien s'occuper des garçons#?
+13045500	L'apothicaire a dit qu'il essaierait de trouver quelqu'un pour s'occuper des garçons.
+13046000	Popola a accepté de s'occuper des garçons.
+13051000	L'apprenti marchand de Littoral veut inventer un remède contre le mal de mer. Rapportez-lui une feuille de mandragore du magasin de curiosités de Façade.
+13051500	Vous avez obtenu une feuille de mandragore. Pourquoi le marchand de curiosités a-t-il réagi de cette façon...?
+13052000	L'apprenti marchand de Littoral essaie toujours d'inventer un remède contre le mal de mer. Rapportez-lui de l'huile de crapaud de l'armurerie de la montagne des robots.
+13052500	Gidéon vous a donné de l'huile de crapaud avec un sourire complice.
+13053000	L'apprenti marchand a décidé de devenir apothicaire.
+13061000	Le fils de l'épicière a attrapé une maladie mystérieuse après avoir joué avec ses amis. Ceux-ci en connaissent peut-être la cause.
+13062000	La clef du mystère se trouve dans la forêt des légendes.
+13062500	Vous avez trouvé des baies vénéneuses. Pourraient-elles être la cause de la maladie du garçon#?
+13063000	Fouillez la bibliothèque afin de trouver un antidote.
+13063500	Il semblerait que le garçon ait mangé des baies vénéneuses. Apportez le contrepoison à l'épicière.
+13064000	L'enfant est mort...
+13065000	Vous avez sauvé la vie de l'enfant.
+13071000	Une jeune femme du marché vous a demandé de trouver un homme portant un collier en or. Quelqu'un l'a peut-être aperçu...
+13072000	Vous avez appris qu'il pourrait être dans la forêt des légendes.
+13073000	Vous avez appris qu'il pourrait être à Littoral.
+13074000	Vous avez appris qu'il pourrait être dans la montagne des robots. Allez demander à Gidéon si il l'a aperçu.
+13075000	Vous avez appris que l'homme est dans les profondeurs de la montagne des robots.
+13076000	L'homme est mort. Allez le dire à la jeune femme.
+13076500	Vous avez informé la jeune femme de la situation. Quel terrible boulot...
+13081000	Le tavernier de Littoral vous a demandé d'acheter un couteau à l'armurerie des frères. Il est prêt à payer n'importe quel prix.
+13081100	Gidéon a besoin de dix morceaux d'alliage de titane pour fabriquer le couteau.
+13081500	Vous avez trouvé dix morceaux d'alliage de titane. Apportez-les à Gidéon.
+13081700	Le couteau est prêt. Apportez-le au tavernier de Littoral.
+13082000	Vous avez remis le couteau de chef au tavernier de Littoral.
+13091000	Gidéon vous a demandé de trouver cinq batteries à plat et cinq moteurs défectueux afin de fabriquer les pièces de rechange pour réparer l'ascenseur de la montagne des robots.
+13091500	Vous avez récupéré les matériaux nécessaires. Apportez-les à Gidéon.
+13092000	Vous avez réparé l'ascenseur. Éliminez toutes les Ombres qui ont envahi le premier étage de la montagne des robots.
+13092500	Vous avez éliminé les Ombres. Retournez à l'armurerie des frères.
+13092700	Vous avez dit à Gidéon que vous aviez éliminé les Ombres, mais cela lui importe peu. Il ne veut que détruire les robots.
+13101000	L'armurier du village vous a demandé de lui apporter une carte au trésor. Où pourrait-on trouver une chose pareille...?
+13102000	La carte que vous avez trouvée est endommagée. Le marchand de curiosités de Façade pourrait sans doute la restaurer.
+13103000	Trouvez trois bouteilles d'huile de graissage, trois aubergines et trois peaux de chèvre pour restaurer la carte.
+13103100	Vous avez récupéré les matériaux nécessaires. Apportez-les au marchand de curiosités de Façade.
+13103300	La carte a été restaurée. Apportez-la à l'armurier.
+13103500	La femme de l'armurier vous a demandé de trouver le trésor à la place de son mari. Popola pourrait sans doute déchiffrer la carte. Allez la lui montrer.
+13103700	Selon la carte, le trésor est quelque part dans le temple oublié, dans un endroit que la lumière ne peut atteindre.
+13104000	Le «#trésor#» n'était que de la pacotille. Allez en informer la femme de l'armurier.
+13104500	L'armurier vous a donné une carte au trésor. Elle ne mènera probablement nulle part, mais demandez tout de même à Popola de la déchiffrer.
+13105000	Vous avez remis à l'armurier la pièce d'or antique que vous avez reçue en échange de la barrette de sa femme.
+13105500	L'«#extrémité d'un pont#» est indiquée sur la carte...
+13106000	Vous avez remis à l'armurier la barrette de sa femme.
+13106500	Vous avez trouvé un trésor sur la plaine septentrionale. Qui l'eût cru#? De vraies cartes au trésor existent#!
+13111000	Le majordome aimerait que vous exploriez le laboratoire de recherche souterrain du manoir afin de trouver une moyen de redonner à Émile son apparence d'antan. Il dit que des documents au sujet de son maître sont entreposés quelque part au deuxième sous-sol.
+13112000	Vous avez trouvé l'adresse d'une ancienne employée du laboratoire. Elle habitait la maison située au-dessus de l'entrée de Littoral.
+13112500	Un descendant de l'ancienne employée du laboratoire vous a donné un document mystérieux. Apportez-le au majordome.
+13113000	La lettre de la scientifique était adressée à Émile. Il a semblé heureux de la recevoir.
+13121000	Vous avez vaincu l'Ombre qui s'était déguisée en habitante de Façade. Était-ce une Ombre depuis le début#?
+13131000	Le garde au sud du marché dit qu'il y a une Ombre dans le village.
+13132000	Une fillette prétend avoir aperçu l'Ombre près de la rivière.
+13132500	Vous n'avez pas trouvé l'Ombre. Parlez de nouveau à la fillette qui l'a aperçue.
+13133000	L'Ombre aurait été aperçue devant la bibliothèque.
+13133200	Vous n'avez pas trouvé l'Ombre. La fillette se contredit. Interrogez d'autres villageois.
+13133400	Vous avez découvert que la fillette vous a menti. Allez lui parler encore une fois.
+13133500	La fillette prétend ne jamais avoir vu l'Ombre près de la porte du nord ou sur la colline à l'ouest. Hum...
+13134000	Vous avez vaincu l'Ombre. Allez le dire au garde.
+13134500	Vous avez chassé l'Ombre du village.
+13141000	Le marchand de fleurs qui habite au-dessus de l'armurerie de Littoral vous a demandé d'apporter un bouquet de freesias à la marchande de matériaux de Façade.
 13142000	無事にフリージアを届けた。
 戻って男から報酬を受け取ろう。	You safely delivered the freesia. Return to the man to collect your reward.	Vous avez remis le bouquet de freesias à la marchande de matériaux de Façade. Allez réclamer votre récompense au marchand de fleurs de Littoral.	Du hast die Freesie sicher ausgeliefert. Kehre zu dem Mann zurück, um deine Belohnung zu kassieren.
 13143000	男から報酬を受け取った。	You received a reward from the man.	Vous avez reçu votre récompense.	Du hast eine Belohnung von dem Mann erhalten.
