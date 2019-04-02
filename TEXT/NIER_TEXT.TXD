@@ -3449,571 +3449,240 @@ Comment un chef cuisiner qui déteste vider des poissons visqueux peut-il surviv
 13228500	Vous avez remis la lettre à la vieille femme. Vous n'avez pas pu lui dire la vérité.
 13228600	Le postier de Littoral a quelque chose à vous dire.
 13229600	La vieille femme du phare est décédée. Était-elle heureuse...?
-14000000	ゲーム開始！
-意味不明の状況！	The carnage begins! No idea
-where I am or why...yet.	Que le massacre commence !
-Je ne sais pas où je suis...	Das Gemetzel beginnt! Keine
-Ahnung, wo ich hier bin.
-14000100	黒い何かをひたすら倒した。
-自分のレベルが無闇に上昇した。	Building strength by killing
-these dark, creepy...things.	Je prends des forces en tuant
-d'étranges créatures...	Ich werde stärker durch das
-Töten dieser dunklen Viecher.
-14000200	不安な世界。
-不安な音。	An unstable voice cries out
-in an unstable world...	Une voix chevrotante dans un
-monde fragile...	Eine unsichere Stimme schreit
-in eine unsichere Welt hinein.
-14000300	いきなり未来になった。
-いや、未来になったというか……	Suddenly in the...future?
-Or is this the past? Hmm...	Suis-je soudain dans le futur ?
-Ou peut-être dans le passé ?	Ist das die Zukunft?
-Oder die Vergangenheit?
-14000400	意外と……ＲＰＧっぽい？	Hunting for mutton now?
-This seems oddly MMO-esque.	La chasse au mouton ? On se
-croirait dans un jeu MMO.	Nach Schafen jagen?
-Das ist so MMO ...
-14000500	やたら広い平原に出た。
-羊が居る。光が眩しい。	Vast plains, blue skies...
-and white, fluffy sheep.	Une plaine immense, un ciel
-d'azur et de jolis moutons.	Weite Ebenen, blauer Himmel ...
-und weiße, flauschige Schafe.
-14000600	どうやら仕事を貰って
-暮らす身分らしい。	Apparently I'm a freelance
-errand boy. Yippee.	Me voilà garçon de courses.
-Hourra.	Anscheinend bin ich eine
-Art Laufbursche. Juhuu.
-14000700	買い物。
-この世界って貧しいなぁ。	Out shopping. The people of
-this world seem very poor...	En train de faire des achats.
-Les gens sont pauvres, ici.	Beim Einkaufen. Die Leute hier
-scheinen sehr arm zu sein ...
-14000800	ひとまず休憩。娘に会う。
-娘？	Headed home to see my little
-girl. Yeah...I'm old.	Je vais voir ma fille.
-Oui, je sais, je suis vieux.	Nach Hause, um mein kleines
-Mädchen zu sehen. Ich werde alt.
-14000900	やや不穏な世界だけれど、
-平和な日々を送り中。	This world is awful gloomy,
-but at least it seems safe.	Ce monde est sinistre, mais il
-n'a pas l'air trop dangereux.	Diese Welt ist ziemlich düster,
-aber zumindest sicher.
-14001000	モヤモヤした謎の敵と遭遇。
-モヤモヤする。	Taking on some crepuscular
-foes. Go on, look it up.	En train de combattre des
-créatures des ténèbres...	Dabei, ein paar nachtaktive
-Feinde zu erschlagen.
-14001100	謎の敵を撃破した。
-ひどく……疲れる。本当に。	Finished taking out the trash.
-That was an ordeal...	J'ai vaincu tous ces monstres.
-Ils étaient coriaces !	Hab den Müll entsorgt.
-Das war eine harte Probe.
-14001200	家に帰ろう。
-家に帰るまでが冒険です。	Returning home after a day
-of running back and forth.	Après une dure journée de
-travail, je rentre chez moi.	Heimkehr am Ende eines
-hektischen Tages.
-14001300	娘がいない。
-羊の次は娘を捜す事に……	My daughter's gone. First,
-the mutton, now this...	Ma fille a disparu... Il ne
-manquait plus que ça.	Meine Tochter ist fort. Erst
-die Schafe und nun dies ...
-14001400	娘失踪。
-ちょっとヤバい気がする。	Nothing good can come from
-a missing daughter.	La disparition de ma fille ne
-me dit rien qui vaille...	Eine vermisste Tochter
-verheißt nichts Gutes.
-14001500	娘捜索中。
-面倒な事になる予感がする。	Searching for my daughter.
-This can't end well.	Je cherche ma fille.
-J'espère qu'elle n'a rien.	Suche nach meiner Tochter.
-Das sieht nicht gut aus.
-14001600	ヨナ大捜査線。	Operation: Daughter Quest
-continues. Where is she?	Toujours à la recherche de ma
-fille. Où peut-elle bien être ?	Operation Tochtersuche geht
-weiter. Wo ist sie nur?
-14001700	巨大植物がある遺跡で
-娘捜し。	Still searching for Yonah.
-Now I'm near a giant tree.	Je n'ai pas encore trouvé Yonah.
-Cet arbre est gigantesque !	Suche noch immer nach Yonah.
-Bin bei einem Riesenbaum.
-14001800	遺跡と敵。
-居なくなった娘。	Those creatures are all over,
-but still no sign of Yonah...	Le temple fourmille d'Ombres.
-Aucune trace de Yonah...	Diese Kreaturen sind überall.
-Aber keine Spur von Yonah ...
-14001900	娘を発見！
-この状態でよく寝ていられるな…	There she is! ...How can she
-sleep at a time like this?	La voilà ! Comment peut-elle
-dormir ici ?!	Da ist sie! ... Wie kann sie nur
-in so einem Moment schlafen?
-14002000	完全に謎の鉄騎士２体を撃破。
-疲れた。いろんな意味で。	Just defeated a pair of iron
-knights. Nothing's easy...	J'ai vaincu deux statues.
-Rien n'est jamais facile...	Ein Paar Eisenritter besiegt.
-Gar nicht so einfach ...
-14002100	黒の文様。呪われた娘。
-不治の病……？	My daughter's cursed, her body 
-covered with black symbols... 	Ma fille est malade. Son corps
-est couvert de runes noires.	Meine Tochter ist verflucht, ihr
-Körper voller dunkler Runen.
-14002200	あんな小さな子が……	What did that girl do to
-deserve this fate?	Qu'a-t-elle pu bien faire pour
-mériter un sort pareil ?	Womit hat sie dieses
-Schicksal verdient?
-14002300	ここには書けないが
-ゲームの目的が判ってきた。	So THAT'S the objective of
-this game. Very clever.	Voilà donc l'objectif du jeu ?
-Fascinant.	Also DARUM geht's in diesem
-Spiel. Ganz schön clever.
-14002400	平原を横断中。
-広　す　ぎ　る　な。	Crossing the plains. This is
-taking forever.	En train de traverser la
-plaine. Elle est immense !	Überquere die Ebenen.
-Das dauert ewig.
-14002500	崖にある変わった村に居る。
-なんというか……変わっている。	Exploring a strange town built
-into the side of a cliff.	J'explore un village situé
-sur le flanc d'une falaise.	Erforsche eine seltsame
-Klippenstadt.
-14002600	村の外れに
-ゴミみたいな家があった。	Stumbled upon a trashy little
-shack just outside town. 	J'ai trouvé une hutte à
-l'extérieur du village.	Eine verkommene Hütte
-direkt vor der Stadt?!
-14002700	（ほとんど）下着の女が
-出てきた。	Who's this girl, anyway? She's
-wearing nothing but underwear.	Qui est cette jeune femme ?
-Elle est en petite tenue !	Wer ist dieses Mädel?
-Schicke Unterwäsche!
-14002800	下着女と戦っていたら敵が乱入。
-滅茶苦茶な事に。	Underwear Girl's fighting a
-lizard. This is nuts...	La fille en sous-vêtements
-se bat contre un lézard.	Mädel in Unterwäsche
-gegen Riesenechse.
-14002900	○○を全部揃えればいいのか。
-すると○○が○○になるわけだ。	So I just need to gather all 
-the [SPOILER], right? Great!	Alors, je n'ai qu'à récupérer
-tous les [CENSURÉ] ? Parfait !	Also muss ich einfach nur alle
-[SPOILER] sammeln? Großartig!
-14003000	例の○○を一個入手。○○だ。	Got the first [SPOILER]!	J'ai trouvé le premier
-[CENSURÉ] !	Habe den ersten [SPOILER]!
-14003100	○○は○○だが○○○なのか？
-それとも○○○○○○○○○！	[SPOILER] is [SPOILER]. Is it
-[SPOILER], or [SPOILER]? Hmm.	[CENSURÉ] est [CENSURÉ]. Est-ce
-[CENSURÉ] ou [CENSURÉ] ? Hum.	[SPOILER] ist [SPOILER]. Ist es
-[SPOILER] oder [SPOILER]? Hmm.
-14003200	武器を強化してもらうために
-遠出中。	Off on a field trip to get my
-weapon powered-up.	Avant de continuer, je dois
-améliorer mon arme.	Auf dem Weg meine Waffe
-verstärken zu lassen.
-14003300	酒場で仕事を受けられるらしい。
-貧乏だから素直にうれしい。	Looking for work in the
-tavern. A man's gotta eat.	Je cherche du travail à la
-taverne.	Auf der Suche nach Arbeit
-in der Taverne. 
-14003400	ロボット山に向かっている。
-何がいるんだろうなあ（棒読み）	Off to the Junk Heap to try
-and find some stuff to kill.	Allons détruire des machines
-dans la montagne des robots.	Auf zum Müllberg, um
-etwas zum Töten zu finden.
-14003500	娘の具合が悪くなった。
-本気で心配だ。	My daughter's sick, and I'm
-kinda freaking out.	Ma fille est malade. Je me fais
-beaucoup de souci pour elle.	Meine Tochter ist krank und
-ich drehe irgendwie am Rad.
-14003600	なぜか今、魚を探しに
-海へ向かっている……	Shh. I'm off looking for fish.
-...Don't ask.	Je dois trouver un poisson
-pour aider ma fille.	Auf der Suche nach einem
-Fisch. ... Frag nicht.
-14003700	口の悪い老婆に遭遇。
-敵よりタチが悪い気がする。	Ran across a whiny old lady.
-At least Shades don't talk...	Quelle femme geignarde ! Les
-Ombres ne parlent pas, elles !	Jammernde alte Dame getroffen.
-Schatten sind immerhin ruhig.
-14003800	手紙を配達中。
-つまり雑用させられ中。	Delivering letters, running
-fetch quests...the usual.	Distribution de courrier et
-autres tâches ingrates...	Briefe austragen, Items
-sammeln ... Das Übliche.
-14003900	再び下着女の居る村へ。	Time to head back to Underwear
-Girl's village.	Allons rendre visite à la
-jeune femme en petite tenue.	Zeit für eine Rückkehr zum Dorf
-des Unterwäsche-Mädels.
-14004000	口から弾を撃ってくる
-意味不明な巨大トカゲと交戦中。	Fighting a giant, magical-ball
-shooting lizard. So. Awesome.	Combat contre un lézard qui
-lance des boules de feu...	Bekämpfe eine Riesenechse,
-die magische Kugeln verschießt.
-14004100	巨大マモノとの戦闘終結。
-カイネを助けないと！	Battle's over, but I still
-gotta save Underwear Girl!	La bataille est finie. Sauvons
-la fille en petite tenue !	Der Kampf ist vorbei. Nun noch
-das Unterwäsche-Mädel retten!
-14004200	砂塵の奥。謎の街へ。
-異文化コミュニケーション予定。	Heading for the desert. Better
-brush up on my sign language.	En route pour le désert ! On y
-parle le langage des signes ?	Auf dem Weg in die Wüste.
-Sollte Zeichensprache lernen.
-14004300	娘の文通相手が男の子
-である事が発覚。	Some guy's been sending mail
-to my kid. Not too thrilled.	Quelqu'un a envoyé une lettre
-à Yonah. Ça ne me plaît pas.	Meine Tochter hat einen Brief
-von einem Typen erhalten. Hm.
-14004400	薄暗い洋館でイカれた下着女が
-絶賛行方不明中。	Underwear Girl got lost in a
-haunted manor. Great.	La fille en petite tenue s'est
-perdue dans le manoir hanté.	Unterwäsche-Mädel ist in einer
-verfluchten Villa verschwunden.
-14004500	目隠しした少年と出会った。
-館も少年も怪しすぎる。	Found a boy with a blindfold
-playing the piano. Um, yeah.	J'ai trouvé un garçon aux yeux
-bandés qui jouait du piano.	Einen Jungen mit Augenbinde
-gefunden, der Klavier spielt.
-14004600	洋館からようやく脱出。
-さすがに娘を放置しすぎの予感。	Finally got out of that manor.
-Time for a visit home.	Enfin sorti du manoir.
-J'ai hâte de rentrer chez moi.	Endlich aus der Villa raus.
-Zeit für einen Besuch daheim.
-14004700	機械の設備が元気に稼働中。
-もちろん全部敵です。	The Junk Heap's still humming.
-...I kinda wish it wasn't.	Il y a un vrombissement continu
-dans la montagne des robots.	Der Müllberg brummt noch immer.
-Ich wünschte, er wäre ruhig.
-14004800	ブリキのロボットとブリキの箱と
-ブリキの筒と戦った。	Fought a tin robot, a tin box,
-and a tin pipe. Tin-acious!	Des robots, des boîtes et des
-tuyaux ! Merveilleux !	Blechroboter, Blechkasten
-und Blechrohr vernichtet.
-14004900	ある兄弟に母親探しを
-依頼されたが……	Two brothers asked me to find
-their mom. I hope she's okay.	Deux garçons m'ont demandé
-de trouver leur mère.	Zwei Brüder baten mich,
-ihre Mutter zu finden. 
-14005000	苦い結末だった。
-あの子達には辛い現実だった。	That was unfortunate. Reality
-can be pretty rough sometimes.	Dommage... La vie est parfois
-bien cruelle.	Das war bedauerlich. Die
-Realität ist mitunter hart.
-14005100	苦い結末だった。
-何もかも上手く行く訳じゃない。	That was depressing. Can't
-always have a happy ending...	Tout ça est déprimant. Il n'y
-a pas toujours de fin heureuse.	Das war deprimierend. Es gibt
-nicht immer ein Happy End ...
-14005200	天気の良すぎる海の街で
-魚を探している中年一人。	At a lovely seaside town,
-searching for fish.	À la recherche d'un poisson dans
-une jolie ville portuaire.	Eine liebliche Stadt am Meer.
-Auf der Suche nach Fisch.
-14005300	まさか釣りをさせられるとは。
-しかも意外と大変。	Who knew I'd be fishing this
-thing out of the sea myself?	Qui aurait deviné que j'aurais
-à l'attraper moi-même ?	Wer hätte gedacht, dass ich
-den Fisch selber fangen muss?
-14005400	娘に薬を持って帰る事に。
-咳をする娘の様子が切ない。	Time to bring Yonah her meds.
-I hate to see her suffer...	Dépêchons-nous. Je ne supporte
-pas de voir souffrir Yonah.	Yonah braucht ihre Medizin.
-Sie soll nicht länger leiden.
-14005500	気の強い老婆からの依頼。
-何だ？この強引なバァさんは！	That old battle-axe needs our
-help. She's a real pain...	Cette vieille mégère a besoin
-de mon aide. *soupir*	Diese alte Schreckschraube
-braucht unsere Hilfe. Nervig.
-14005600	強引な老婆への手紙を預かった。
-また会いに行くのか……	Got a letter for the old lady.
-Am I being punished?	Je dois apporter une lettre à
-la vieille femme. *soupir*	Ein Brief für die alte Dame.
-Womit habe ich das verdient?
-14005700	老婆の望みを叶えた……
-何を望むかは人それぞれだな。	Finished helping the old lady.
-Hope she's happy now.	J'ai aidé la vieille femme.
-J'espère qu'elle est contente.	Habe der alten Dame geholfen.
-Hoffe, sie ist nun glücklich.
-14005800	老婆の望みを叶えた。
-彼女の大切な人とは誰だろう？	Finished helping the old lady. 
-Wonder what her guy was like?	J'ai aidé la vieille femme.
-Qui était son bien-aimé...?	Habe der alten Dame geholfen.
-Wie ihr Typ wohl so war?
-14005900	病の情報を求めて砂漠の街へ。
-狼と砂漠と奇妙な人々と出会う。	Desert? Check. Wolves? Check.
-Weird masked people? ...Check.	Un désert rempli de loups et
-peuplé de gens masqués...?	Wüste? Ja. Wölfe? Ja.
-Seltsam maskierte Leute? Ja.
-14006000	砂の流れる変わった街。
-それを上回る変な人々。	In a weird town full of sand.
-The people here are crazy.	Dans une ville désertique. Ils
-sont fous, ces gens masqués !	In einer seltsamen Sandstadt.
-Die Leute hier sind verrückt.
-14006100	掟とか掟とか掟とか、
-掟とか掟とか…面倒くさ過ぎる！	Rules, rules, rules, rules!
-What a pain in the [SPOILER]!	La loi, toujours la loi ! 
-Elle commence à me [CENSURÉ] !	Regeln, Regeln, Regeln!
-Welch ein [SPOILER]!
-14006200	こ　の　街　に　住　む　の　は
-絶　対　に　無　理。	I could never, EVER live here.
-Seriously, I'd die.	Jamais je ne pourrais vivre
-dans un endroit pareil...	Ich könnte NIEMALS hier leben.
-Ehrlich, ich würde sterben.
-14006300	話の流れで変な街の
-変な王子様を助けるハメに。	Caught up in a plot to save
-the prince of crazytown.	On dirait que je vais devoir
-sauver le prince des fous.	In die Rettung des Prinzen der
-verrückten Stadt verwickelt.
-14006400	奇妙な王子様を救出完了。
-奇妙な街での仕事も完了。	Crazy prince saved. Crazytown
-pleased. I'm outta here.	J'ai sauvé le prince des fous.
-Il faut que je sorte d'ici...	Verrückter Prinz gerettet.
-Verrückte Stadt zufrieden.
-14006500	夢……夢……
-これは一体……？	Some kind of...dream?
-What the heck is going on?	C'était un rêve...?
-Que se passe-t-il donc ?	Eine Art ... Traum? Was
-zur Hölle geht hier vor?
-14006600	夢夢夢夢夢夢夢夢夢夢夢夢夢
-夢夢夢夢夢夢夢夢夢夢夢夢夢	Dreamdreamdreamdreamdream
-dreamdreamdreamdreamdream	Rêve rêve rêve rêve rêve rêve
-rêve rêve rêve rêve rêve rêve.	Traumtraumtraumtraum
-Traumtraumtraumtraum
-14006700	悪夢に囚われた村人達と、
-悪夢にうなされた自分。	Villagers in a nightmare...
-They're tormenting me...	Je suis prisonnier des
-cauchemars des villageois...	Dorfleute in einem Alptraum.
-Sie lassen mir keine Ruhe.
-14006800	悪夢のような村だった。
-悪夢のようなゲームだった。	That village was a nightmare.
-Kinda like this game!	Quel village infernal !
-Un peu comme ce jeu, quoi...	Dieses Dorf war ein Alptraum.
-Irgendwie mag ich das Spiel!
-14006900	ひさしぶりに自宅へ戻り中。	Heading home for the first
-time in a while!	Il y a longtemps que je ne suis
-pas rentré chez moi.	Auf dem Weg nach Hause!
-Seit langem mal wieder.
-14007000	進行する病。痛む体
-あんなに小さな娘なのに……	It's getting worse. What did
-she do to deserve this pain?	Qu'a-t-elle fait pour mériter
-tant de douleur ?	Was hat sie getan, um diese
-Schmerzen zu verdienen?
-14007100	娘の為の薬を集めている。
-笑い事じゃない。	I need medicine for Yonah.
-Otherwise...	Je dois trouver des médicaments
-pour Yonah, sinon...	Ich brauche Medizin für
-Yonah. Ansonsten ...
-14007200	狂い始める平和。
-嵐の前の、静寂。	Seems like this is the calm
-before the storm...	C'est le calme avant la
-tempête...	Das scheint die Ruhe
-vor dem Sturm zu sein.
-14007300	巨大な敵が村を襲う。
-応戦するが、足止めが出来ない！	Giant creatures are attacking
-the village. This is bad!	Une créature géante attaque le
-village !	Riesige Kreaturen greifen
-das Dorf an. Das ist nicht gut!
-14007400	すり潰すように敵を撃破した。
-破壊された村に悲鳴が響く。	The screams of the dead and
-dying echo throughout.	Les cris des victimes percent
-l'air.	Die Schreie der Toten und
-Sterbenden hallen umher.
-14007500	図書館の中にまで敵が侵入。
-最後の砦で娘を守っている。	Enemies in the library. Must
-protect my daughter!	Il y a des monstres dans la
-bibliothèque ! J'arrive, Yonah !	Eindringlinge in der Bibliothek.
-Muss meine Tochter schützen!
-14007600	あれから、５年。	Five years have passed.	Cinq ans se sont écoulés...	Fünf Jahre sind vergangen.
-14007700	崩れゆく均衡。荒む世界。	Our world is falling apart.	Notre monde se meurt...	Unsere Welt fällt auseinander.
-14007800	再び、あの陰気な洋館へ向かう。
-目隠し美少年と再会予定。	Time to visit the blindfolded
-kid at his creepy manor.	Le moment est venu de rendre
-visite au garçon du manoir.	Zeit, dieses Kind mit der
-Augenbinde zu besuchen.
-14007900	秘密の部屋を探している。
-これ以上まだ秘密があるのか。	Searching for a secret room.
-Everything's a secret here...	Il faut que je trouve la salle
-secrète. Tout est secret, ici.	Auf der Suche nach einem
-Geheimraum. Alles geheim hier.
-14008000	そろそろ、何が出てきても
-驚かない自信が付いてきた。	I don't think anything could
-surprise me at this point.	Je crois que plus rien ne peut
-me surprendre désormais.	Ich glaube nicht, dass mich noch
-irgendwas überraschen könnte.
-14008100	少年の、姉と、戦っている。	...Okay, that was surprising.	... D'accord, je suis surpris,
-je l'avoue.	... Okay, das war überraschend.
-14008200	これが……代償……
-そういう事だったのか……	That...that was a heck of a
-price to pay, wasn't it...	Quel sacrifice...!	Das war ein ziemlich
-hoher Preis, nicht wahr?
-14008300	復活した敵を二度と復活しない
-ように粉々にしている最中。	Beating an enemy senseless.
-Get down and stay down!	En train de tabasser un ennemi.
-Cette fois, je le vaincrai !	Schlage einen Gegner
-bewusstlos. Bleib am Boden!
+14000000	Que le massacre commence !
+Je ne sais pas où je suis...
+14000100	Je prends des forces en tuant
+d'étranges créatures...
+14000200	Une voix chevrotante dans un
+monde fragile...
+14000300	Suis-je soudain dans le futur ?
+Ou peut-être dans le passé ?
+14000400	La chasse au mouton ? On se
+croirait dans un jeu MMO.
+14000500	Une plaine immense, un ciel
+d'azur et de jolis moutons.
+14000600	Me voilà garçon de courses.
+Hourra.
+14000700	En train de faire des achats.
+Les gens sont pauvres, ici.
+14000800	Je vais voir ma fille.
+Oui, je sais, je suis vieux.
+14000900	Ce monde est sinistre, mais il
+n'a pas l'air trop dangereux.
+14001000	En train de combattre des
+créatures des ténèbres...
+14001100	J'ai vaincu tous ces monstres.
+Ils étaient coriaces !
+14001200	Après une dure journée de
+travail, je rentre chez moi.
+14001300	Ma fille a disparu... Il ne
+manquait plus que ça.
+14001400	La disparition de ma fille ne
+me dit rien qui vaille...
+14001500	Je cherche ma fille.
+J'espère qu'elle n'a rien.
+14001600	Toujours à la recherche de ma
+fille. Où peut-elle bien être ?
+14001700	Je n'ai pas encore trouvé Yonah.
+Cet arbre est gigantesque !
+14001800	Le temple fourmille d'Ombres.
+Aucune trace de Yonah...
+14001900	La voilà ! Comment peut-elle
+dormir ici ?!
+14002000	J'ai vaincu deux statues.
+Rien n'est jamais facile...
+14002100	Ma fille est malade. Son corps
+est couvert de runes noires.
+14002200	Qu'a-t-elle pu bien faire pour
+mériter un sort pareil ?
+14002300	Voilà donc l'objectif du jeu ?
+Fascinant.
+14002400	En train de traverser la
+plaine. Elle est immense !
+14002500	J'explore un village situé
+sur le flanc d'une falaise.
+14002600	J'ai trouvé une hutte à
+l'extérieur du village.
+14002700	Qui est cette jeune femme ?
+Elle est en petite tenue !
+14002800	La fille en sous-vêtements
+se bat contre un lézard.
+14002900	Alors, je n'ai qu'à récupérer
+tous les [CENSURÉ] ? Parfait !
+14003000	J'ai trouvé le premier
+[CENSURÉ] !
+14003100	[CENSURÉ] est [CENSURÉ]. Est-ce
+[CENSURÉ] ou [CENSURÉ] ? Hum.
+14003200	Avant de continuer, je dois
+améliorer mon arme.
+14003300	Je cherche du travail à la
+taverne.
+14003400	Allons détruire des machines
+dans la montagne des robots.
+14003500	Ma fille est malade. Je me fais
+beaucoup de souci pour elle.
+14003600	Je dois trouver un poisson
+pour aider ma fille.
+14003700	Quelle femme geignarde ! Les
+Ombres ne parlent pas, elles !
+14003800	Distribution de courrier et
+autres tâches ingrates...
+14003900	Allons rendre visite à la
+jeune femme en petite tenue.
+14004000	Combat contre un lézard qui
+lance des boules de feu...
+14004100	La bataille est finie. Sauvons
+la fille en petite tenue !
+14004200	En route pour le désert ! On y
+parle le langage des signes ?
+14004300	Quelqu'un a envoyé une lettre
+à Yonah. Ça ne me plaît pas.
+14004400	La fille en petite tenue s'est
+perdue dans le manoir hanté.
+14004500	J'ai trouvé un garçon aux yeux
+bandés qui jouait du piano.
+14004600	Enfin sorti du manoir.
+J'ai hâte de rentrer chez moi.
+14004700	Il y a un vrombissement continu
+dans la montagne des robots.
+14004800	Des robots, des boîtes et des
+tuyaux ! Merveilleux !
+14004900	Deux garçons m'ont demandé
+de trouver leur mère.
+14005000	Dommage... La vie est parfois
+bien cruelle.
+14005100	Tout ça est déprimant. Il n'y
+a pas toujours de fin heureuse.
+14005200	À la recherche d'un poisson dans
+une jolie ville portuaire.
+14005300	Qui aurait deviné que j'aurais
+à l'attraper moi-même ?
+14005400	Dépêchons-nous. Je ne supporte
+pas de voir souffrir Yonah.
+14005500	Cette vieille mégère a besoin
+de mon aide. *soupir*
+14005600	Je dois apporter une lettre à
+la vieille femme. *soupir*
+14005700	J'ai aidé la vieille femme.
+J'espère qu'elle est contente.
+14005800	J'ai aidé la vieille femme.
+Qui était son bien-aimé...?
+14005900	Un désert rempli de loups et
+peuplé de gens masqués...?
+14006000	Dans une ville désertique. Ils
+sont fous, ces gens masqués !
+14006100	La loi, toujours la loi ! 
+Elle commence à me [CENSURÉ] !
+14006200	Jamais je ne pourrais vivre
+dans un endroit pareil...
+14006300	On dirait que je vais devoir
+sauver le prince des fous.
+14006400	J'ai sauvé le prince des fous.
+Il faut que je sorte d'ici...
+14006500	C'était un rêve...?
+Que se passe-t-il donc ?
+14006600	Rêve rêve rêve rêve rêve rêve
+rêve rêve rêve rêve rêve rêve.
+14006700	Je suis prisonnier des
+cauchemars des villageois...
+14006800	Quel village infernal !
+Un peu comme ce jeu, quoi...
+14006900	Il y a longtemps que je ne suis
+pas rentré chez moi.
+14007000	Qu'a-t-elle fait pour mériter
+tant de douleur ?
+14007100	Je dois trouver des médicaments
+pour Yonah, sinon...
+14007200	C'est le calme avant la
+tempête...
+14007300	Une créature géante attaque le
+village !
+14007400	Les cris des victimes percent
+l'air.
+14007500	Il y a des monstres dans la
+bibliothèque ! J'arrive, Yonah !
+14007600	Cinq ans se sont écoulés...
+14007700	Notre monde se meurt...
+14007800	Le moment est venu de rendre
+visite au garçon du manoir.
+14007900	Il faut que je trouve la salle
+secrète. Tout est secret, ici.
+14008000	Je crois que plus rien ne peut
+me surprendre désormais.
+14008100	... D'accord, je suis surpris,
+je l'avoue.
+14008200	Quel sacrifice...!
+14008300	En train de tabasser un ennemi.
+Cette fois, je le vaincrai !
 
-14008400	差別。	Discrimination blows.	Je ne supporte pas la
-discrimination.	Ich rieche Diskriminierung.
-14008500	世界の裏側から、旅立ちの場所へ。	Heading back to where it all
-began. I've come full circle.	Je suis revenu à mon point de
-départ.	Zurück zu dem Ort, wo alles
-begann. Der Kreis schließt sich.
-14008600	機械仕掛けの山へ。再び向かう。	Off to brain some more robots
-at the ol' Junk Heap.	Parti mettre en pièces des
-robots dans la montagne.	Ein paar weitere Roboter beim
-alten Müllberg zerlegen.
-14008700	悪夢の森へ向かっている。
-何を言っているか、いつか判る。	Back to the nightmare forest.
-Maybe someday I'll understand.	De retour dans la forêt des
-cauchemars. Pfft.	Zurück zum Alptraumwald.
-Noch immer ein seltsamer Ort.
-14008800	手紙が届いているだろうか。
-誰もいない家、に。	Would any letters come to a
-house in which no one waits?	Qu'arrive-t-il à une lettre si
-personne n'est à la maison ?	Erreichen Briefe ein Haus,
-in dem niemand wartet?
-14008900	手詰まり感が出てきている。
-情報を集めていかないと。	I need some leads. Time to go
-seek out more info.	J'ai besoin de plus de détails.
-Je ne sais pas quoi faire.	Brauche ein paar Hinweise.
-Suche weitere Informationen.
-14009000	５年ぶりに機械の山に向かう。
-幼かった兄弟に会うために。	Off to see the Junk Heap
-brothers. It's been a while.	Parti rendre visite aux frères
-de la montagne des robots.	Auf zu den Müllberg-Brüdern.
-War länger nicht mehr dort.
-14009100	機械だけの楽園。
-鉄の洞窟で彷徨っている。	Wandering through iron caverns
-in a mechanized paradise.	En balade dans les corridors
-de métal de la montagne.	Ich wandere durch Eisenhöhlen
-in einem mechanischen Paradies.
-14009200	生き残っている機械達は、
-何を考えているんだろう。	I wonder what the surviving
-robots are thinking?	Je me demande comment les
-autres robots réagiront.	Ich frage mich, was die über-
-lebenden Roboter wohl denken?
-14009300	強化された武器を受け取りに。
-これで楽になる予定だ。	Off to pick up the new weapon.
-Should make life a bit easier.	Ma nouvelle arme est prête !
-Elle devrait m'être utile.	Hole die neue Waffe ab. Das
-sollte mein Leben vereinfachen.
-14009400	武器の試し斬りをしている。
-機械相手なら心は痛まない。	Trying out the new weapon.
-Hope machines don't feel pain!	Essayons ma nouvelle arme !
-Pauvre robots...!	Probiere die neue Waffe aus.
-Die armen Maschinen!
-14009500	狂った機械と戦闘中。
-本当に、狂ってる。何もかも。	Fighting an insane machine.
-This whole world's insane...	En train de me battre contre
-une machine détraquée...	Kampf gegen irre Maschine.
-Diese ganze Welt ist verrückt.
-14009600	再び、始まりの地で。	Back to the point of origin
-yet again.	De retour à mon point de
-départ.	Mal wieder zurück zum
-Ausgangspunkt.
-14009700	再び、倒した筈の敵と。	Fighting a foe that refuses
-to give up the ghost.	Combat contre un ennemi
-qui refuse d'abandonner.	Bekämpfe einen Gegner, der
-den Geist nicht aufgeben mag.
-14009800	下着女が暴走した。
-手に負えない。	Underwear Girl's gone berserk.
-This is bad.	La fille en petite tenue
-a perdu le contrôle !	Das Mädel in der Unterwäsche
-dreht durch. Das ist nicht gut.
-14009900	祈りを捧げる祭壇。
-その先に全ての答えが……？	All the answers I seek lie
-beyond this altar...	Je trouverai la réponse à mes
-questions derrière cet autel.	Alle Antworten auf meine Fragen
-liegen hinter diesem Altar ...
-14010000	ただいまと言う相手のいない家。
-受け取った手紙。	Returning to a lonely home.
-A letter awaits.	Ma maison est toujours vide,
-mais une lettre m'attend.	Rückkehr zu einem einsamen
-Heim. Ein Brief wartet auf mich.
-14010100	王からの招待状を受け取った。	Received an invitation from
-the king of Facade.	J'ai reçu un faire-part du
-roi de Façade.	Eine Einladung vom König
-von Fassade erhalten.
-14010200	ひと時の語らい。
-束の間の休息。	Having a nice, peaceful chat.
-It's about time.	Enfin un événement heureux...!	Nette, friedliche Unterhaltung.
-Wurde ja auch mal Zeit.
-14010300	響く悲鳴。広がる鮮血。
-取り返せぬ未来と、復讐の炎。	Echoing screams. Streams of
-blood. A future lost...	Des hurlements retentissent
-dans la ville. Tant de sang...	Widerhallende Schreie.
-Blutströme. Verlorene Zukunft.
-14010400	狼達を根絶やしにする。
-そう、誓った。	Keeping a promise to destroy
-the wolves.	Je remplirai ma promesse et
-éliminerai les loups !	Löse ein Versprechen ein,
-die Wölfe zu töten.
-14010500	狼と人。その存在をかけた激戦。	Man vs. wolf. Who will emerge
-victorious?	L'Homme contre la bête...
-Qui sera le vainqueur ?	Mann gegen Wolf. Wer wird
-siegreich hervorgehen?
-14010600	何かを手に入れたら何かを失う。
-その繰り返し。	For everything I gain, I lose
-something more precious.	Chaque victoire est aussi une
-défaite...	Mit jedem Sieg verliere ich
-etwas viel Wertvolleres.
-14010700	陰気な村に再来したが、
-様子がおかしい。	Back to the strange cliffside
-village. Something's up.	Quelque chose ne va pas
-au village sur la falaise...	Zurück zur Klippenstadt.
-Etwas geht da vor sich.
-14010800	陽気な人々。陽気な会話。
-それが信じられない。	Everyone's friendly. Too
-friendly. I don't trust them.	Ils sont trop accueillants.
-Beaucoup trop, même...	Alle sind so freundlich.
-Irgendwie zu freundlich ...
-14010900	どうせこんな事だと思った。
-最低だ。	I KNEW this was coming.
-How infuriating.	Je m'en doutais bien ! C'était
-trop beau pour être vrai !	Ich WUSSTE, es würde so
-kommen. Wie ärgerlich.
-14011000	混沌との戦い。
-何が正しいんだ……！？	A battle against chaos.
-Who's in the right?	Dans une telle situation,
-peut-il y avoir un vainqueur ?	Ein Kampf gegen das Chaos.
-Wer wird gewinnen?
-14011100	全てが揃った。
-この物語を終わらせに行く。	Everything's in place.
-It's time to end this tale.	J'ai tout ce qu'il me faut.
-Finissons-en.	Nun liegen alle Karten offen.
-Das Ende der Geschichte naht.
-14011200	敵の本拠地へ。
-娘を助けに。	My daughter awaits in the
-last bastion of the enemy.	Ma fille m'attend dans la
-forteresse de l'ennemi.	Meine Tochter wartet in der
-letzten Bastion des Feindes.
-14011300	ヨナを探して魔王の城の奥へ。
-一体ここは何なんだ？	Into the Shadowlord's castle.
-What an incredible sight.	Le château du Maître des
-Ombres... Incroyable...!	In der Burg des Schattenlords.
-Welch unglaublicher Anblick.
-14011400	今、最後の戦いを迎えている。
-もうすぐ、この話も終わる。	Taking on the final boss.
-The journey's almost over!	Le combat ultime. Mon aventure
-est presque terminée !	Nehme mir den letzten Boss
-vor. Die Reise ist fast zu Ende!
-14011500	小さなクッキーの欠片。
-「はんぶんこにしよ？」	Half a cookie never tasted
-better.	La moitié d'un biscuit n'a
-jamais eu aussi bon goût...	Ein halber Keks hat noch
-nie besser geschmeckt.
-14011600	心が壊れる選択。
-「さよなら」と笑うのは誰？	Ah gods, what a choice. All
-paths lead to heartbreak...	Quel choix impossible !
-Mon cœur se déchire...	Welch eine Entscheidung. Alle
-Wege brechen mir das Herz ...
-14011700	絶望に塗り潰された世界。
-物語のはじまり。	A world draped in despair.
-My tale begins...	Un monde en proie au désespoir.
-Mon aventure commence.	Eine Welt am Abgrund.
-Meine Geschichte beginnt ...
-14011800	終わりゆく世界を放浪中。
-今日も。明日も。	Wandering through the desolate
-lands. Today and always.	Je parcours toujours les
-terres ravagées...	Wandere durch trostlose Lande.
-Heute und für alle Ewigkeit.
-14011900	ちょっと休憩中……	Taking a little break...	Faisons une petite pause...	Mache eine kleine Pause ...
-14012000	アイドル状態	Currently idle.	Inactif	Derzeit inaktiv.
+14008400	Je ne supporte pas la
+discrimination.
+14008500	Je suis revenu à mon point de
+départ.
+14008600	Parti mettre en pièces des
+robots dans la montagne.
+14008700	De retour dans la forêt des
+cauchemars.
+14008800	Qu'arrive-t-il à une lettre si
+personne n'est à la maison ?
+14008900	J'ai besoin de plus de détails.
+Je ne sais pas quoi faire.
+14009000	Parti rendre visite aux frères
+de la montagne des robots.
+14009100	En balade dans les corridors
+de métal de la montagne.
+14009200	Je me demande comment les
+autres robots réagiront.
+14009300	Ma nouvelle arme est prête !
+Elle devrait m'être utile.
+14009400	Essayons ma nouvelle arme !
+Pauvre robots...!
+14009500	En train de me battre contre
+une machine détraquée...
+14009600	De retour à mon point de
+départ.
+14009700	Combat contre un ennemi
+qui refuse d'abandonner.
+14009800	La fille en petite tenue
+a perdu le contrôle !
+14009900	Je trouverai la réponse à mes
+questions derrière cet autel.
+14010000	Ma maison est toujours vide,
+mais une lettre m'attend.
+14010100	J'ai reçu un faire-part du
+roi de Façade.
+14010200	Enfin un événement heureux...!
+14010300	Des hurlements retentissent
+dans la ville. Tant de sang...
+14010400	Je remplirai ma promesse et
+éliminerai les loups !
+14010500	L'Homme contre la bête...
+Qui sera le vainqueur ?
+14010600	Chaque victoire est aussi une
+défaite...
+14010700	Quelque chose ne va pas
+au village sur la falaise...
+14010800	Ils sont trop accueillants.
+Beaucoup trop, même...
+14010900	Je m'en doutais bien ! C'était
+trop beau pour être vrai !
+14011000	Dans une telle situation,
+peut-il y avoir un vainqueur ?
+14011100	J'ai tout ce qu'il me faut.
+Finissons-en.
+14011200	Ma fille m'attend dans la
+forteresse de l'ennemi.
+14011300	Le château du Maître des
+Ombres... Incroyable...!
+14011400	Le combat ultime. Mon aventure
+est presque terminée !
+14011500	La moitié d'un biscuit n'a
+jamais eu aussi bon goût...
+14011600	Quel choix impossible !
+Mon cœur se déchire...
+14011700	Un monde en proie au désespoir.
+Mon aventure commence.
+14011800	Je parcours toujours les
+terres ravagées...
+14011900	Faisons une petite pause...
+14012000	Inactif
