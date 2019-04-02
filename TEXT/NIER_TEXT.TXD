@@ -130,21 +130,13 @@
 1601100	Niv. 
 1601200	--
 1700000	« Lièvre sautillant »
-
 1700100	« Loup rapide »
-
 1700200	« Souris fuyante »
-
-1700300 « Tortue cuirassée »
-
+1700300	« Tortue cuirassée »
 1700400	« Tigre épéiste »
-
 1700500	« Chauve-souris sorcière »
-
 1700600	« Hibou immobile »
-
 1700700	« Singe intemporel »
-
 1701000	 
 1800000	Nier
 1800100	Veuillez saisir un nom.
@@ -174,7 +166,7 @@ Je pense qu'elle veut du mouton.
 1831200	La fleuriste du village aimerait que tu lui rendes service.
 Je crois qu'elle a besoin de quelque chose de Littoral.
 1831300	Quelqu'un aurait besoin d'aide pour mettre de l'ordre dans la bibliothèque.
-Popola est trop occupée pour s'en charger, alors pourrais-tu le faire#?	
+Popola est trop occupée pour s'en charger, alors pourrais-tu le faire#?
 1831400	La tavernière du village a besoin de ton aide.
 Sa grand-mère est malade.
 1831500	J'ai entendu dire que l'un des villageois a un problème.
@@ -226,11 +218,11 @@ Les gens de Façade sont-ils faciles à aborder#? Ils semblent tous être un peu
 1833800	Un autre habitant de Façade a besoin de ton aide.
 Un des gardes du palais royal veut se procurer des matériaux.<PAGE>Mais allez, qu'est-ce que tu attends#? Va voir si tu peux lui donner un coup de main#!
 1833900	Un habitant de Façade veut que tu l'aides à se réconcilier avec sa femme.
-Je me demande ce qu'il a à se faire pardonner...	
+Je me demande ce qu'il a à se faire pardonner...
 1834000	Une habitante de Façade qui aime les fleurs a besoin d'aide.
-Je ne savais pas qu'ils cultivaient des fleurs là-bas...	
+Je ne savais pas qu'ils cultivaient des fleurs là-bas...
 1834100	Le tavernier de Littoral a encore besoin de toi.
-Je crois qu'il veut d'autres ingrédients. Il doit vraiment aimer cuisiner#!	
+Je crois qu'il veut d'autres ingrédients. Il doit vraiment aimer cuisiner#!
 1834200	Que dirais-tu d'aller donner un coup de main à l'armurier du village#?
 Hum... Je n'ai pas plus de détails. Sa requête était plutôt vague.
 1834300	Façade a besoin de ton aide#!
@@ -1305,7 +1297,6 @@ Je m'inquiète à ton sujet. Tu te donnes tant de mal pour trouver un moyen de g
 S'il te plaît, arrête de te surmener et de te faire du souci pour moi#! Te voir souffrir me fait plus de mal que la nécrose runique le pourrait. C'est peut-être étrange, mais c'est la vérité.
 
 Yonah
-			
 2500200	Cher grand frère,
 
 Je m'inquiète à ton sujet. Tu te donnes tant de mal pour trouver un moyen de guérir ma maladie#! Ça me rend un peu triste.
@@ -1313,7 +1304,6 @@ Je m'inquiète à ton sujet. Tu te donnes tant de mal pour trouver un moyen de g
 S'il te plaît, arrête de te surmener et de te faire du souci pour moi#! Te voir souffrir me fait plus de mal que la nécrose runique le pourrait. C'est peut-être étrange, mais c'est la vérité.
 
 Yonah
-			
 2500300	メモの文章61
 2500400	メモの文章61
 2500500	メモの文章62
@@ -3209,7 +3199,7 @@ Que Dieu nous protège.
 12681500	Vous avez attrapé les poissons nécessaires. Allez en informer le vieux pêcheur.
 12682000	Vous avez attrapé sept poissons-globes et appris une technique secrète.
 12691000	Un homme près du port de Littoral vous a demandé de trouver cinq rondins, vingt feuilles de métal bosselées et dix vieux boulons afin de réparer un bateau.
-12691500	Vous avez récupéré les matériaux nécessaires. Apportez-les à l'habitant de Littoral.	Du hast die Materialien besorgt. Bring sie zurück zum Kunden.
+12691500	Vous avez récupéré les matériaux nécessaires. Apportez-les à l'habitant de Littoral.
 12692000	Vous avez donné les matériaux à l'habitant de Littoral.
 12701000	Vous devez attraper un poisson-shaman, mais vous ne savez pas pêcher. Le vieil homme qui se trouve sur le quai semble être doué...
 12702000	Vous avez appris les principes fondamentaux de la pêche.
