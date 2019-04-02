@@ -3407,75 +3407,48 @@ Comment un chef cuisiner qui déteste vider des poissons visqueux peut-il surviv
 13134000	Vous avez vaincu l'Ombre. Allez le dire au garde.
 13134500	Vous avez chassé l'Ombre du village.
 13141000	Le marchand de fleurs qui habite au-dessus de l'armurerie de Littoral vous a demandé d'apporter un bouquet de freesias à la marchande de matériaux de Façade.
-13142000	無事にフリージアを届けた。
-戻って男から報酬を受け取ろう。	You safely delivered the freesia. Return to the man to collect your reward.	Vous avez remis le bouquet de freesias à la marchande de matériaux de Façade. Allez réclamer votre récompense au marchand de fleurs de Littoral.	Du hast die Freesie sicher ausgeliefert. Kehre zu dem Mann zurück, um deine Belohnung zu kassieren.
-13143000	男から報酬を受け取った。	You received a reward from the man.	Vous avez reçu votre récompense.	Du hast eine Belohnung von dem Mann erhalten.
-13151000	執事から洋館内部のマモノ駆除を依頼された。	The butler wants you to clear Shades from the manor.	Le majordome vous a demandé d'éliminer les Ombres du manoir.	Der Butler möchte, dass du alle Schatten in der Villa vernichtest.
-13152000	全てのマモノを倒した。
-傭兵に化けたマモノも……	You defeated all of the Shades, including one disguised as a mercenary.	Vous avez vaincu toutes les Ombres, y compris celle qui était déguisée en guerrier.	Du hast alle Schatten besiegt. Einer von ihnen war als Söldner getarnt.
-13161000	神話の森の入り口近くに居る女から、
-占いに使うという「魔力を持った石」の入手を依頼された。
-ポポルから詳しい情報を入手しよう。	A woman near the entrance to the Forest of Myth asked you to find a "magical stone" used in fortune-telling. Talk to Popola to get more details.	Une femme près de l'entrée de la forêt des légendes vous a demandé de trouver une pierre de divination magique. Allez demander à Popola si elle sait où en trouver.	Eine Frau nahe des Eingangs zum Märchenwald hat dich gebeten, einen magischen Stein zu finden, der in der Wahrsagerei verwendet wird. Frag Popola nach weiteren Informationen.
-13162000	「力の目」は石の神殿屋上にあるらしい。	The Eye of Power can apparently be found on the roof of the Lost Shrine.	D'après Popola, on peut trouver un œil de puissance sur le toit du temple oublié.	Das Auge der Macht kann angeblich auf dem Dach des Verschollenen Schreins gefunden werden.
-13162500	「力の目」を手に入れた。依頼主に届けよう。	You obtained the Eye of Power. Bring it back to the client.	Vous avez trouvé un œil de puissance. Rapportez-le à la femme près de l'entrée de la forêt des légendes.	Du hast das Auge der Macht erlangt. Bringe es zurück zur Kundin.
-13163000	「魔力を持った石」を依頼主に渡した。
-しかしあの景色は一体何だったのだろう……	You gave the stone to the client. But what did you see...?	Vous avez remis la pierre à la femme près de l'entrée de la forêt des légendes.
-...#Était-ce une illusion#? Une hallucination#?	Du hast der Kundin den Stein gegeben. Aber was hast du gesehen ...?
-13171000	北平原の橋付近に巣喰うマモノの討伐を依頼された。
-だが、マモノはいつも居るとは限らないらしい……	Dispatch the Shade that has taken up residence near the bridge in the northern plains. However, it seems the Shade isn't always there...	Éliminez l'Ombre qui rôde près du pont de la plaine septentrionale. Il semblerait que l'Ombre n'apparaît pas tous les jours.	Beseitige den Schatten, der sich nahe der Brücke in den Nordfeldern niedergelassen hat. Jedoch ist der Schatten anscheinend nicht immer dort ...
-13172000	無事にマモノを殺す事が出来た。
-これで安心して橋を渡れるだろう。依頼主に報告しよう。	You killed the Shade; the bridge is safe once more. Report back to the client.	Vous avez vaincu l'Ombre et il est de nouveau possible de traverser le pont sans danger. Allez en informer le villageois.	Du hast den Schatten besiegt und die Brücke ist wieder sicher. Erstatte dem Kunden Bericht.
-13172500	依頼主に報告した。だが、襲われた娘は死んでしまったらしい。	You gave the news to the client. Sadly, his daughter died from her injuries.	Vous avez appris la nouvelle au villageois. Malheureusement, sa fille est morte de ses blessures.	Du hast dem Kunden die Neuigkeiten mitgeteilt. Leider ist seine Tochter ihren Verwundungen erlegen.
-13181000	大型のマモノが南平原に出没するらしい。
-海岸の街の配達員から討伐を依頼される。	A large Shade has been sighted in the southern plains. The Seafront postman has asked you to eliminate it for him.	On a aperçu une Ombre énorme sur la plaine méridionale. Le postier de Littoral vous a demandé de l'éliminer.	In den Südfeldern wurde ein großer Schatten gesichtet. Der Postbote von Meeresfront hat dich gebeten, diesen für ihn zu eliminieren.
-13182000	大型のマモノを撃破した。
-配達員に報告しよう。	You defeated the large Shade. Report back to the postman.	Vous avez vaincu l'Ombre gigantesque. Allez en informer le postier.	Du hast den großen Schatten besiegt. Erstatte dem Postboten Bericht.
-13182500	配達員に報告した。	You gave the good news to the postman.	Vous avez appris la nouvelle au postier.	Du hast dem Postboten die guten Neuigkeiten überbracht.
-13191000	洋館図書室に発生したマモノを退治するように依頼される。	Investigate a Shade that has appeared in the study.	Éliminez l'Ombre qui est apparue dans la bibliothèque du manoir.	Untersuche einen Schatten, der im Arbeitszimmer der Villa erschienen ist.
-13192000	マモノは殲滅した。これでしばらくは大丈夫だろう。	You annihilated the Shade. That should keep the place safe for a while.	Vous avez vaincu l'Ombre. Le manoir devrait être paisible pendant quelque temps.	Du hast den Schatten beseitigt. Dieser Ort sollte nun für eine Weile sicher sein.
-13201000	海岸の街。道具屋の隣に座っている学者の老人から、
-石の神殿の巨木の根の試料採取を依頼された。	The botanist next to the item shop in Seafront asked for a piece of root from the Lost Shrine's great tree.	Un botaniste près de l'apothicaire de Littoral vous a demandé de récupérer un bout de racine de l'arbre du temple oublié.	Der Botaniker neben der Apotheke in Meeresfront hat dich um ein Stück Wurzel von dem großen Baum im Verschollenen Schrein gebeten.
-13202000	根の皮を入手した。依頼人に届けよう。	You obtained the piece of root. Bring it back to the client.	Vous avez récupéré un bout de racine. Apportez-le au botaniste de Littoral.	Du hast ein Stück Wurzel besorgt. Bringe es zurück zum Kunden.
-13202500	無事に試料を依頼人に届けた。	You gave the root to the client.	Vous avez donné le bout de racine au botaniste de Littoral.	Du hast dem Kunden die Wurzel gegeben.
-13211000	仮面の街の門番からの依頼。
-砂嵐の砂漠で行方不明になる人が多いとの事。
-調査する必要があるようだ……	A gate guard in Facade says a great number of people have gone missing in sandstorms as of late. Perhaps you'd better investigate.	Un des gardes de Façade dit que plusieurs voyageurs ont disparu dans les tempêtes de sable. Vous devriez sans doute aller y jeter un coup d'œil...	Eine Torwache in Fassade hat dir erzählt, dass in letzter Zeit viele Leute in Sandstürmen verschwunden sind. Vielleicht solltest du dieser Sache mal nachgehen.
-13211500	マモノを討伐した。依頼人に報告しよう。	You defeated the Shade. Report back to the client.	Vous avez vaincu une Ombre puissante qui se camouflait dans les tempêtes de sable. Allez le dire au garde.	Du hast den Schatten besiegt. Erstatte dem Kunden Bericht.
-13212000	依頼人に報告した。
-砂嵐の中をマモノが暴れるのは
-もうこれっきりにしてもらいたい。	You reported back to the client. Hopefully there aren't any more of those Shades.	Vous avez informé le garde de la situation. Espérons qu'il n'y a pas d'autres Ombres semblables dans le désert...	Du hast dem Kunden Bericht erstattet. Hoffentlich gibt es nicht noch mehr von diesen Schatten.
-13221000	仮面の王から、砂の神殿のマモノ駆除を依頼された。	The king of Facade asked you to clear all of the Shades from the Barren Temple.	Le roi de Façade vous a demandé d'éliminer les Ombres qui ont envahi le temple stérile.	Der König von Fassade hat dich gebeten, alle Schatten im Ödtempel zu vernichten.
-13222000	マモノ達を撃退した。これで古の王達も安らかに眠れるだろう。	You killed all of the Shades. The ancient kings can rest now.	Vous avez vaincu toutes les Ombres. Les rois d'antan peuvent désormais reposer en paix.	Du hast alle Schatten getötet. Die uralten Könige können nun ruhen.
-13223000	商店街の道具屋の隣に座る老人からの依頼。
-北平原に居るイノシシが人に危害を加えているらしい。
-討伐する必要があるだろう。	An old man sitting next to the item shop in the shopping district says that a wild boar has been injuring people in the northern plains. It's time to end its rampage.	Un vieil homme près de l'apothicaire du marché vous a demandé d'abattre le sanglier de la plaine septentrionale qui a attaqué des villageois.	Ein alter Mann, der neben der Apotheke im Handelsbezirk sitzt, erzählte, dass ein wilder Eber Leute in den Nordfeldern verletzt. Es ist an der Zeit, dessen Amoklauf zu beenden.
-13224000	イノシシを倒した。依頼主に報告しよう。	You defeated the wild boar. Report back to the client.	Vous avez vaincu le sanglier. Allez en informer le vieil homme.	Du hast den wilden Eber besiegt. Erstatte dem Kunden Bericht.
-13225000	依頼主によると、イノシシの牙があればイノシシに乗る事が出来るらしい。	The client said that a boar's tusk will allow you to tame and ride the animals.	Le vieil homme dit qu'une défense de sanglier permet d'apprivoiser ces créatures et de monter sur leur dos.	Der Kunde meinte, dass ein Hauer eines Ebers es dir ermöglicht, die Tiere zu zähmen und zu reiten.
-13226000	海岸の街の配達員から手紙が来た。
-灯台の老婆に荷物を届けて欲しいらしい。	A letter has arrived from the Seafront postman. He wants you to deliver a parcel to the lighthouse lady.	Vous avez reçu une lettre du postier de Littoral. Il aimerait que vous apportiez un colis à la vieille femme du phare.	Du hast einen Brief von dem Postboten in Meeresfront erhalten. Er möchte, dass du der Leuchtturmdame ein Paket zustellst.
-13227000	老婆の荷物を預かった。灯台まで届けに行こう。	You received the old lady's parcel. Bring it to the lighthouse.	Vous avez récupéré le colis. Apportez-le à la vieille femme du phare.	Du hast das Paket für die alte Dame erhalten. Bringe es zum Leuchtturm.
-13228000	老婆の荷物を配達した。	You delivered the parcel to the lady.	Vous avez remis le colis à la vieille femme.	Du hast das Paket an die Dame ausgeliefert.
-13229000	海岸の街の配達員からの依頼。
-老婆の所に手紙を持って行って欲しいらしい。	The Seafront postman wants you to bring a letter to the old lady.	Le postier veut que vous apportiez une lettre à la vieille femme du phare.	Der Postbote von Meeresfront möchte, dass du der alten Dame einen Brief bringst.
-13228100	老婆に手紙を届けた。
-口は悪いが金払いは良いようだ。	You delivered the letter to the lady. She's got a big mouth, but at least she pays well.	Vous avez remis la lettre à la vieille femme. Au moins, la récompense en valait la peine.	Du hast den Brief an die Dame zugestellt. Sie hat ein großes Mundwerk, aber zumindest zahlt sie gut.
-13228200	街から出たいという老婆の説得を、
-海岸の街の配達員から依頼された。
-とりあえず灯台の老婆の所に行く事に。	The lady wants to leave town, and the postman has asked you to convince her otherwise. Go pay her a visit.	La vieille femme du phare veut quitter la ville, mais le postier vous a demandé de lui faire entendre raison. Allez rendre visite à la vieille femme.	Die Dame möchte die Stadt verlassen, doch der Postbote hat dich gebeten, sie zum Bleiben zu überreden. Statte ihr einen Besuch ab.
-13229200	老婆は黒文病に冒されていた。
-彼女の願いを叶える為、配達員の所に向かう。	The old lady is afflicted with the Black Scrawl. Visit the postman to help make her last request come true.	La vieille femme du phare a la nécrose runique. Essayez de persuader le postier de lui accorder son ultime requête.	Die alte Dame ist von der Runenpest befallen. Besuche den Postboten, um ihren letzten Wunsch zu erfüllen.
-13228300	配達員の様子がおかしい。
-郵便局に戻ってみよう。	The postman is acting strange. Return to the post office.	On dirait que le postier vous cache quelque chose. Retournez au bureau de poste.	Der Postbote verhält sich merkwürdig. Kehre zum Postamt zurück.
-13229300	配達員が「見せたいものがある」との事。
-郵便局の奥の部屋から探し出す。	The postman apparently has something to show you. Search for it inside the post office's storeroom.	Le postier veut vous montrer quelque chose. Fouillez l'entrepôt du bureau de poste.	Der Postbote möchte dir anscheinend etwas zeigen. Suche im Lagerraum des Postamtes danach.
-13228400	老婆への手紙は配達員の書いたニセモノだった。
-老婆にはどうやって説明すべきか……	The letters to the old lady were fakes written by the postman. How should you explain this to the woman?	Le postier écrivait les lettres que recevait la vieille femme du phare. Que devriez-vous dire à la vieille femme#?	Die Briefe an die alte Dame waren allesamt Fälschungen, geschrieben von dem Postboten. Wie sollst du das nur der Frau erklären?
-13229400	老婆に手紙を渡し、真実を告げた。	You gave the letter to the lady and told her the truth.	Vous avez remis la lettre à la vieille femme du phare, mais vous n'avez pas pu lui mentir.	Du hast der Dame den Brief übergeben und ihr die Wahrheit gesagt.
-13228500	老婆に手紙を渡したが、真実は告げなかった。	You gave the letter to the lady, but decided not to tell her the truth.	Vous avez remis la lettre à la vieille femme. Vous n'avez pas pu lui dire la vérité.	Du hast der Dame den Brief übergeben, aber dich dafür entschieden, ihr nicht die Wahrheit zu sagen.
-13228600	海岸の街の配達員から連絡があった。
-何か伝えたい事があるらしい。	You received word from the Seafront postman. Apparently he has something to tell you.	Le postier de Littoral a quelque chose à vous dire.	Du hast eine Nachricht vom Postboten von Meeresfront erhalten. Anscheinend hat er dir etwas zu sagen.
-13229600	老婆は既に亡くなっていた。
-……これで良かったのだろうか。今も答えは分からないままだ。	The old woman has passed away. Was it better this way? Who can say?	La vieille femme du phare est décédée. Était-elle heureuse...?	Die alte Frau ist verstorben. War es besser so? Wer vermag das zu sagen?
+13142000	Vous avez remis le bouquet de freesias à la marchande de matériaux de Façade. Allez réclamer votre récompense au marchand de fleurs de Littoral.
+13143000	Vous avez reçu votre récompense.
+13151000	Le majordome vous a demandé d'éliminer les Ombres du manoir.
+13152000	Vous avez vaincu toutes les Ombres, y compris celle qui était déguisée en guerrier.
+13161000	Une femme près de l'entrée de la forêt des légendes vous a demandé de trouver une pierre de divination magique. Allez demander à Popola si elle sait où en trouver.
+13162000	D'après Popola, on peut trouver un œil de puissance sur le toit du temple oublié.
+13162500	Vous avez trouvé un œil de puissance. Rapportez-le à la femme près de l'entrée de la forêt des légendes.
+13163000	Vous avez remis la pierre à la femme près de l'entrée de la forêt des légendes.
+...#Était-ce une illusion#? Une hallucination#?
+13171000	Éliminez l'Ombre qui rôde près du pont de la plaine septentrionale. Il semblerait que l'Ombre n'apparaît pas tous les jours.
+13172000	Vous avez vaincu l'Ombre et il est de nouveau possible de traverser le pont sans danger. Allez en informer le villageois.
+13172500	Vous avez appris la nouvelle au villageois. Malheureusement, sa fille est morte de ses blessures.
+13181000	On a aperçu une Ombre énorme sur la plaine méridionale. Le postier de Littoral vous a demandé de l'éliminer.
+13182000	Vous avez vaincu l'Ombre gigantesque. Allez en informer le postier.
+13182500	Vous avez appris la nouvelle au postier.
+13191000	Éliminez l'Ombre qui est apparue dans la bibliothèque du manoir.
+13192000	Vous avez vaincu l'Ombre. Le manoir devrait être paisible pendant quelque temps.
+13201000	Un botaniste près de l'apothicaire de Littoral vous a demandé de récupérer un bout de racine de l'arbre du temple oublié.
+13202000	Vous avez récupéré un bout de racine. Apportez-le au botaniste de Littoral.
+13202500	Vous avez donné le bout de racine au botaniste de Littoral.
+13211000	Un des gardes de Façade dit que plusieurs voyageurs ont disparu dans les tempêtes de sable. Vous devriez sans doute aller y jeter un coup d'œil...
+13211500	Vous avez vaincu une Ombre puissante qui se camouflait dans les tempêtes de sable. Allez le dire au garde.
+13212000	Vous avez informé le garde de la situation. Espérons qu'il n'y a pas d'autres Ombres semblables dans le désert...
+13221000	Le roi de Façade vous a demandé d'éliminer les Ombres qui ont envahi le temple stérile.
+13222000	Vous avez vaincu toutes les Ombres. Les rois d'antan peuvent désormais reposer en paix.
+13223000	Un vieil homme près de l'apothicaire du marché vous a demandé d'abattre le sanglier de la plaine septentrionale qui a attaqué des villageois.
+13224000	Vous avez vaincu le sanglier. Allez en informer le vieil homme.
+13225000	Le vieil homme dit qu'une défense de sanglier permet d'apprivoiser ces créatures et de monter sur leur dos.
+13226000	Vous avez reçu une lettre du postier de Littoral. Il aimerait que vous apportiez un colis à la vieille femme du phare.
+13227000	Vous avez récupéré le colis. Apportez-le à la vieille femme du phare.
+13228000	Vous avez remis le colis à la vieille femme.
+13229000	Le postier veut que vous apportiez une lettre à la vieille femme du phare.
+13228100	Vous avez remis la lettre à la vieille femme. Au moins, la récompense en valait la peine.
+13228200	La vieille femme du phare veut quitter la ville, mais le postier vous a demandé de lui faire entendre raison. Allez rendre visite à la vieille femme.
+13229200	La vieille femme du phare a la nécrose runique. Essayez de persuader le postier de lui accorder son ultime requête.
+13228300	On dirait que le postier vous cache quelque chose. Retournez au bureau de poste.
+13229300	Le postier veut vous montrer quelque chose. Fouillez l'entrepôt du bureau de poste.
+13228400	Le postier écrivait les lettres que recevait la vieille femme du phare. Que devriez-vous dire à la vieille femme#?
+13229400	Vous avez remis la lettre à la vieille femme du phare, mais vous n'avez pas pu lui mentir.
+13228500	Vous avez remis la lettre à la vieille femme. Vous n'avez pas pu lui dire la vérité.
+13228600	Le postier de Littoral a quelque chose à vous dire.
+13229600	La vieille femme du phare est décédée. Était-elle heureuse...?
 14000000	ゲーム開始！
 意味不明の状況！	The carnage begins! No idea
 where I am or why...yet.	Que le massacre commence !
