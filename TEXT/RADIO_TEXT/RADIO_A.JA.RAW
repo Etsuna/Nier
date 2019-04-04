@@ -29,40 +29,52 @@
 1025		4	STREAM	EID_0200_a0030g_0020_NIER010_X	0.5			<CB=EID_0200_a0030g_Talk03_End>	0	2	Hors de mon chemin !
 1026		4	STREAM	EID_0200_a0030g_0040_NIER010_X	0.5	 		<CB=EID_0200_a0030g_Talk04_End>	0	2	Rends-moi ma sœur !
 1027		4	STREAM	EID_0200_a0090_0005_NIER010_X	3	 			0	2	Yonah !
-1028	1029	4	STREAM	EID_0200_a0035_0030_BOOKW010_X	1	 			0	25	Personne ne m'a jamais traité ainsi, le ciel m'en est témoin !
-		4	STREAM	EID_0200_a0035_0040_BOOKW010_X	0.5	 			0	25	Tu t'adresses à moi comme si je n'étais qu'une blatte immonde, alors que je suis d'une importance inestimable.
+1028	1029	4	STREAM	EID_0200_a0035_0030_BOOKW010_X	1	 			0	25	Personne ne m'a jamais traité ainsi,
+le ciel m'en est témoin !
+		4	STREAM	EID_0200_a0035_0040_BOOKW010_X	0.5	 			0	25	Tu t'adresses à moi comme si je n'étais qu'une blatte
+immonde, alors que je suis d'une importance inestimable.
 1029	1032	4	STREAM	EID_0200_a0035_0045_NIER010_X	0.5	 			0	2	Yonah ! Réponds-moi !
 1030		4	STREAM	EID_0200_a0020_0011_NIER010_X	3				0	2	Je dois d'abord porter secours à Yonah.
 1031	1028	4	STREAM	EID_0200_a0035_0025_NIER010_X	0.5	 			0	2	Yonah !
 1032	1033	4	STREAM	EID_0200_a0035_0075_NIER010_X	0.5	 			0	2	Yonah ! YONAH !!
 1033	1262	4	STREAM	EID_0200_a0035_0080_BOOKW010_X	1	 			0	25	Bah ! C'est pour cette raison que je déteste avoir à faire avec des humains.
-		4	STREAM	EID_0200_a0035_0090_BOOKW010_X	0.5	 			0	25	Écoute-moi bien ! J'admire ton audace : tu es un homme qui se bat seul contre vents et marées...
+		4	STREAM	EID_0200_a0035_0090_BOOKW010_X	0.5	 			0	25	Écoute-moi bien !
+J'admire ton audace : tu es un homme qui se bat seul contre vents et marées...
 1034	1035	4	STREAM	EID_0200_a0035_0100_BOOKW010_X	0.5	 			0	25	Mais ton plan est d'une incroyable stupidité !
 		4	STREAM	EID_0200_a0035_0110_BOOKW010_X	0.5	 			0	25	Tu es en présence d'un recueil de connaissances antiques !
-		4	STREAM	EID_0200_a0035_0120_BOOKW010_X	0.5	 			0	25	Je recèle un savoir ésotérique et obscur. Je pourrais t'être d'une grande utilité.
+		4	STREAM	EID_0200_a0035_0120_BOOKW010_X	0.5	 			0	25	Je recèle un savoir ésotérique et obscur.
+Je pourrais t'être d'une grande utilité.
 1035		4	STREAM	EID_0200_a0035_0123_NIER010_X	0.5	 			0	2	... Quoi ?!
 		4	STREAM	EID_0200_a0035_0127_BOOKW010_X	0.5	 			0	25	Je pourrais me débarrasser de ces créatures en un clin d'œil, si j'en avais envie.
-		4	STREAM	EID_0200_a0035_0190_BOOKW010_X	1	 		<CB=EID_0200_a0035_01_End>	0	25	Ga ha ha ! Je suis le Grimoire Weiss ! Le simple fait de mentionner mon nom met des royaumes à genoux !
-1036		4	STREAM	EID_0200_a0035_0170_BOOKW010_X	1			<CB=EID_0200_a0037_Lo_01>	0	25	Je t'accorde une dernière chance. Incline-toi devant moi et assume mon pouvoir, ou accepte ta défaite inéluctable.
+		4	STREAM	EID_0200_a0035_0190_BOOKW010_X	1	 		<CB=EID_0200_a0035_01_End>	0	25	Ga ha ha ! Je suis le Grimoire Weiss !
+Le simple fait de mentionner mon nom met des royaumes à genoux !
+1036		4	STREAM	EID_0200_a0035_0170_BOOKW010_X	1			<CB=EID_0200_a0037_Lo_01>	0	25	Je t'accorde une dernière chance. 
+Incline-toi devant moi et assume mon pouvoir,
+ou accepte ta défaite inéluctable.
 1037		4	STREAM	EID_0200_a0035_0110_BOOKW010_X	0.5	 			0	25	Tu es en présence d'un recueil de connaissances antiques !
 1038		4	STREAM	EID_0200_a0035_0172_NIER010_X	0.5	 			0	2	Alors, que devons-nous faire pour sauver Yonah ?
 		4	STREAM	EID_0200_a0035_0173_BOOKW010_X	0.5	 			0	25	La barrière magique devrait se dissiper dès que je me débarrasserai de ces Ombres.
 		4	STREAM	EID_0200_a0035_0174_NIER010_X	0.5	 			0	2	Tu peux vraiment faire une chose pareille ?
-		4	STREAM	EID_0200_a0035_0190_BOOKW010_X	1	 			0	25	Ga ha ha ! Je suis le Grimoire Weiss ! Le simple fait de mentionner mon nom met des royaumes à genoux !
+		4	STREAM	EID_0200_a0035_0190_BOOKW010_X	1	 			0	25	Ga ha ha ! Je suis le Grimoire Weiss !
+Le simple fait de mentionner mon nom met des royaumes à genoux !
 		4	STREAM	EID_0200_a0035_0195_NIER010_X	0.5	 			0	2	Alors, qu'attends-tu donc, Weiss ?
 		4	STREAM	EID_0200_a0035_0210_BOOKW010_X	0.5	 			0	26	Gah ! Adresse-toi à moi correctement : par mon nom complet !
 		4	STREAM	EID_0200_a0035_0215_NIER010_X	0.5	 			0	2	Il y en a toujours plus !
 		4	STREAM	EID_0200_a0037g_0010_BOOKW010_X	0.5				0	26	Vous n'auriez pas dû oser brandir vos lames contre moi, créatures infectes !
-		4	STREAM	EID_0200_a0037g_0020_BOOKW010_X	0.5				0	26	Je suis le Grimoire Weiss ! D'une simple parole, je peux fracasser l'univers entier ! Et maintenant, préparez-vous à...
+		4	STREAM	EID_0200_a0037g_0020_BOOKW010_X	0.5				0	26	Je suis le Grimoire Weiss !
+D'une simple parole, je peux fracasser l'univers entier !
+Et maintenant, préparez-vous à...
 		4	STREAM	EID_0200_a0037g_0030_BOOKW010_X	0.5				0	26	Préparez-vous à... Euh...
 		4	STREAM	EID_0200_a0037g_0040_BOOKW010_X	0.5				0	26	... Oh, zut.
 		4	STREAM	EID_0200_a0037g_0050_NIER010_X	0.5				0	2	Oh zut ?!
-		4	STREAM	EID_0200_a0037g_0060_BOOKW010_X	1				0	26	On dirait que le passage à tabac frénétique dont tu m'as honoré un peu plus tôt m'a fait perdre la mémoire.
+		4	STREAM	EID_0200_a0037g_0060_BOOKW010_X	1				0	26	On dirait que le passage à tabac frénétique dont tu m'as
+honoré un peu plus tôt m'a fait perdre la mémoire.
 		4	STREAM	EID_0200_a0037g_0070_NIER010_X	0.5			<CB=EID_0200_a0037g_EnemyCount>	0	2	Quoi ?!
 1039		4	STREAM	EID_0200_a0037g_0075_NIER010_X	0.5	 			0	2	Bon sang ! Tu ne sers donc à rien ?!
 1040		4	STREAM	EID_0200_a0040g_0010_BOOKW010_X	0.5	 			0		
 1041		4	STREAM	EID_0200_a0082g_0010_NIER010_X	0.5				0	2	As-tu absorbé le sang de ces créatures ?
-		4	STREAM	EID_0200_a0082g_0020_BOOKW010_X	1				0	26	Le sang est une onde... Les ondes forment les mots... Et les mots sont source de puissance !
+		4	STREAM	EID_0200_a0082g_0020_BOOKW010_X	1				0	26	Le sang est une onde... Les ondes forment les mots...
+Et les mots sont source de puissance !
 		4	STREAM	EID_0200_a0082g_0030_NIER010_X	0.5				0	2	Que se passe-t-il, Weiss ?
 		4	STREAM	EID_0200_a0082g_0040_BOOKW010_X	0.5				0	26	Sont-ce... mes souvenirs ?
 		4	STREAM	EID_0200_a0082g_0050_NIER010_X	0.5				0	2	Ça va, Weiss ? Ressaisis-toi !
@@ -71,18 +83,22 @@
 		4	STREAM	EID_0200_a0082g_0062_BOOKW010_X	0.5	 			0	26	Bien sûr ! Le véritable pouvoir du Grimoire Weiss !
 		4	STREAM	EID_0200_a0082g_0063_NIER010_X	0.5	 			0	2	Tiens bon, Yonah ! Je dois d'abord m'occuper de ces Ombres !
 1043		4	STREAM	EID_0200_a0040g_0030_NIER010_X	0.5	 			0	2	C'est... c'est tout ?
-1044		4	STREAM	EID_0200_a0055g_0030_NIER010_X	0.5				0	2	Un livre qui parle et des statues qui bougent ? Et puis quoi encore ?!
+1044		4	STREAM	EID_0200_a0055g_0030_NIER010_X	0.5				0	2	Un livre qui parle et des statues qui bougent ?
+Et puis quoi encore ?!
 		4	STREAM	EID_0200_a0055g_0040_BOOKW010_X	0.5				0	26	Tu ne rêves pas, mon ami ! Brandis ton épée !
 1045		4	STREAM	EID_0200_a0055g_0010_BOOKW010_X	0.5				0	26	Quoi qu'il arrive, garde l'œil sur leurs lames !
 		4	STREAM	EID_0200_a0055g_0020_NIER010_X	0.5				0	2	Entendu !
-1046		4	STREAM	EID_0200_a0055g_0060_BOOKW010_X	1				0	26	Reste calme ! Celui qui sait garder la tête froide pendant un combat émerge victorieux !
-1047		4	STREAM	EID_0200_a0055g_0070_BOOKW010_X	0.5				0	26	Oh, c'est ridicule ! Tu te bats comme une volaille estropiée !
+1046		4	STREAM	EID_0200_a0055g_0060_BOOKW010_X	1				0	26	Reste calme !
+Celui qui sait garder la tête froide pendant un combat émerge victorieux !
+1047		4	STREAM	EID_0200_a0055g_0070_BOOKW010_X	0.5				0	26	Oh, c'est ridicule !
+Tu te bats comme une volaille estropiée !
 		4	STREAM	EID_0200_a0055g_0080_NIER010_X	0.5				0	2	Tu peux la fermer une seconde ?!
 1048		4	STREAM	EID_0200_a0055g_0090_NIER010_X	0.5				0	2	Ah ! Bon sang !
 1049		4	STREAM	EID_0200_a0075g_0001_NIER010_X	0.5				0	2	Est-ce un autre de tes pouvoirs ?
 		4	STREAM	EID_0200_a0075g_0002_BOOKW010_X	0.5				0	26	Hum... Cela en a bien l'air.
 		4	STREAM	EID_0200_a0075g_0003_NIER010_X	0.5				0	2	Es-tu certain de savoir ce que tu fais ?
-1050		4	STREAM	EID_0200_a0055g_01_BOOKW010_X	0.5	 			0	26	Regarde-les un peu#! Ces imbéciles passent à l'attaque sans tenir compte du danger#!
+1050		4	STREAM	EID_0200_a0055g_01_BOOKW010_X	0.5	 			0	26	Regarde-les un peu#!
+Ces imbéciles passent à l'attaque sans tenir compte du danger#!
 		4	STREAM	EID_0200_a0055g_02_BOOKW010_X	0.5	 			0	26	Cependant, il serait sans doute difficile de s'occuper des deux à la fois.
 1051		4	STREAM	EID_0200_a0055g_25_BOOKW010_X	0.5				0	26	Voilà ta chance#! À l'assaut#!
 1052		4	STREAM	EID_0200_a0075g_0050_BOOKW010_X	0.5				0	26	Examine bien le rythme de ses attaques, puis élimine-la !
@@ -93,16 +109,20 @@
 1056		4	STREAM	EID_0300_a0015g_0040_NIER010_X	0.5	 			0	2	Bon sang, ce n'est pas juste !
 1057		4	STREAM	EID_0300_a0015g_0050_NIER010_X	0.5	 			0	2	Yonah... Elle n'est qu'une enfant...
 1058		4	STREAM	EID_0300_a0015g_0071_BOOKW010_X	0.5	 			0	26	Je l'aiderais volontiers si j'en avais le pouvoir.
-1059		4	STREAM	EID_0300_a0015g_0072_BOOKW010_X	0.5	 			0	26	J'entends quelque chose... ... Est-ce une chanson ?
+1059		4	STREAM	EID_0300_a0015g_0072_BOOKW010_X	0.5	 			0	26	J'entends quelque chose...
+... Est-ce une chanson ?
 1060		4	STREAM	EID_0300_a0025g_0081_NIER010_X	0.5				0	2	Un livre blanc... Un livre noir...
 		4	STREAM	EID_0300_a0025g_0082_NIER010_X	0.5				0	2	Et une maladie...
 		4	STREAM	EID_0300_a0025g_0083_BOOKW010_X	0.5				0	26	Quelque chose ne va pas ?
 		4	STREAM	EID_0300_a0025g_0084_NIER010_X	0.5				0	2	... Je réfléchissais, c'est tout.
-1061		4	STREAM	EID_0300_a0025g_0010_NIER010_X	0.5	 			0	2	Tu peux sauver Yonah, Weiss. Tu pourrais même sauver le monde entier.... Je suis presque content de t'avoir rencontré.
+1061		4	STREAM	EID_0300_a0025g_0010_NIER010_X	0.5	 			0	2	Tu peux sauver Yonah, Weiss.
+Tu pourrais même sauver le monde entier.
+... Je suis presque content de t'avoir rencontré.
 		4	STREAM	EID_0300_a0025g_0020_BOOKW010_X	0.5	 			0	26	Pfft ! Je t'avais pourtant dit que tu aurais besoin de moi.
 		4	STREAM	EID_0300_a0025g_0030_NIER010_X	0.5	 			0	2	Et dire que je pensais que tu pourrais me servir de papier à brûler...!
 		4	STREAM	EID_0300_a0025g_0040_BOOKW010_X	0.5	 		<CB=Talk_Text_00_02_Set>	0	26	Tu devrais vraiment traiter les créatures magiques omnipotentes avec plus de respect.
-1062		4	STREAM	EID_0300_a0025g_0050_BOOKW010_X	1	 			0	26	Je dois avouer que sa chanson possède un rythme envoûtant. Je comprends pourquoi les bardes l'ont préservée à travers les âges.
+1062		4	STREAM	EID_0300_a0025g_0050_BOOKW010_X	1	 			0	26	Je dois avouer que sa chanson possède un rythme envoûtant.
+Je comprends pourquoi les bardes l'ont préservée à travers les âges.
 		4	STREAM	EID_0300_a0025g_0060_NIER010_X	0.5	 			0	2	Oui, elle est entraînante.
 1063		4	STREAM	EID_1000_a0015_0001_NIER010_X	0.5				0	2	Qui a bien pu concevoir ce village...?
 		4	STREAM	EID_1000_a0015_0002_BOOKW010_X	0.5		<CB=Look_Chief_House_Start>		0	26	Comment sommes-nous censés atteindre la demeure du chef ?
@@ -112,21 +132,26 @@
 		4	STREAM	EID_1000_a0015_0050_NIER010_X	0.5				0	2	Taisez-vous et écoutez-moi !
 1066		4	STREAM	EID_1000_a0015_0060_CLIFFNYG_X	0.5			<CB=EID_1000_a0015_check,1434,0>	0	8	Maudit ! Vous êtes maudit !
 		4	STREAM	EID_1000_a0015_0070_BOOKW010_X	0.5				0	26	Eh bien, on dirait que ceci est une prodigieuse perte de temps.
-1067		2	STREAM	EID_1000_a0015_0080_CLIFFNMG_X	0.5			<CB=EID_1000_a0015_check,1435,0>	0	8	Sortez de notre village tout de suite ! Vous n'êtes pas le bienvenu !
+1067		2	STREAM	EID_1000_a0015_0080_CLIFFNMG_X	0.5			<CB=EID_1000_a0015_check,1435,0>	0	8	Sortez de notre village tout de suite !
+Vous n'êtes pas le bienvenu !
 1068		2	STREAM	EID_1000_a0015_0100_CLIFFNMG_X	0.5			<CB=EID_1000_a0015_check,1436,0>	0	8	Nous n'osons pas défier les Ombres...
 1069		2	STREAM	EID_1000_a0015_0090_CLIFFNMG_X	0.5			<CB=EID_1000_a0015_check,1437,0>	0	8	Nous devons tuer Kainé !
 1070		2	STREAM	EID_1000_a0015_0110_CLIFFNYG_X	0.5			<CB=EID_1000_a0015_check,1438,0>	0	8	Cette fille a été souillée par une Ombre, et regardez ce qu'elle est devenue...
-1071		2	STREAM	EID_1000_a0015_0120_CLIFFNMG_X	0.5			<CB=EID_1000_a0015_check,1439,0>	0	8	J'ai peur... J'ai si peur... Je ne sortirai plus jamais de ma maison.
-1072		2	STREAM	EID_1000_a0015_0080_CLIFFNMG_X	0.5			<CB=EID_1000_a0015_check,1440,0>	0	8	Sortez de notre village tout de suite ! Vous n'êtes pas le bienvenu !
+1071		2	STREAM	EID_1000_a0015_0120_CLIFFNMG_X	0.5			<CB=EID_1000_a0015_check,1439,0>	0	8	J'ai peur... J'ai si peur...
+Je ne sortirai plus jamais de ma maison.
+1072		2	STREAM	EID_1000_a0015_0080_CLIFFNMG_X	0.5			<CB=EID_1000_a0015_check,1440,0>	0	8	Sortez de notre village tout de suite !
+Vous n'êtes pas le bienvenu !
 1073		2	STREAM	EID_1000_a0015_0100_CLIFFNMG_X	0.5			<CB=EID_1000_a0015_check,1441,0>	0	8	Nous n'osons pas défier les Ombres...
 1074		2	STREAM	EID_1000_a0015_0020_CLIFFNYW_X	0.5			<CB=EID_1000_a0015_check,1442,0>	0	108	Nous ne vous faisons pas confiance.
 1075		2	STREAM	EID_1000_a0015_0040_CLIFFNMG_X	0.5			<CB=EID_1000_a0015_check,1443,0>	0	8	Vous êtes comme elle ! Comme Kainé !
 1076		2	STREAM	EID_1000_a0015_0060_CLIFFNYG_X	0.5			<CB=EID_1000_a0015_check,1444,0>	0	8	Maudit ! Vous êtes maudit !
 1077		2	STREAM	EID_1000_a0015_0020_CLIFFNYW_X	0.5			<CB=EID_1000_a0015_check,1445,0>	0	108	Nous ne vous faisons pas confiance.
-1078		2	STREAM	EID_1000_a0015_0080_CLIFFNMG_X	0.5			<CB=EID_1000_a0015_check,242,0>	0	8	Sortez de notre village tout de suite ! Vous n'êtes pas le bienvenu !
+1078		2	STREAM	EID_1000_a0015_0080_CLIFFNMG_X	0.5			<CB=EID_1000_a0015_check,242,0>	0	8	Sortez de notre village tout de suite !
+Vous n'êtes pas le bienvenu !
 1079		4	STREAM	EID_1000_a0015_0140_BOOKW010_X	0.5				0	26	Il semblerait qu'il n'y a pas d'Ombre puissante dans ce village...
 		4	STREAM	EID_1000_a0015_0150_BOOKW010_X	0.5				0	26	Jamais nous ne trouverons un vers scellé dans un endroit pareil.
-		4	STREAM	EID_1000_a0015_0155_NIER010_X	0.5			<CB=Talk_Text_11_End>	0	2	Tu as raison. Retournons au village élaborer une stratégie avec Popola.
+		4	STREAM	EID_1000_a0015_0155_NIER010_X	0.5			<CB=Talk_Text_11_End>	0	2	Tu as raison.
+Retournons au village élaborer une stratégie avec Popola.
 1080		4	STREAM	EID_1000_a0035g_0010_BOOKW010_X	0.5				0	26	As-tu perdu la tête ? Qu'attends-tu donc ? Attaque-la !
 1081		4	STREAM	EID_1000_a0035g_0020_KAINE010_X	0.5				0	25	Ah, merde. Je savais que ça allait arriver.
 1082		4	STREAM	EID_1000_a0035g_0030_NIER010_X	0.5	 			0	2	L'avons-nous vaincue ?
@@ -143,13 +168,16 @@
 1089		4	STREAM	EID_1000_a0065g_01_BOOKW010_X	1				0	26	Il a craché quelque chose#! Qu'est-ce donc#?
 		4	STREAM	EID_1000_a0065g_02_NIER010_X	0.5				0	2	Ce sont aussi des Ombres#?
 1090		4	STREAM	EID_1000_a0075_0010_NIER010_X	0.5	 			0	2	Je n'ai jamais rien vu de tel.
-		4	STREAM	EID_1000_a0075_0020_BOOKW010_X	1	 			0	26	Elle est possédée par une Ombre. Elle n'est ni humaine ni monstre.
+		4	STREAM	EID_1000_a0075_0020_BOOKW010_X	1	 			0	26	Elle est possédée par une Ombre.
+Elle n'est ni humaine ni monstre.
 		4	STREAM	EID_1000_a0075_0030_NIER010_X	1	 			0	2	Je suppose qu'être à moitié humaine est mieux que ne pas être humaine du tout.
 		4	STREAM	EID_1000_a0075_0040_NIER010_X	0.5	 			0	2	Mais si elle perd son humanité, je la tuerai comme les autres.
 1091		4	STREAM	EID_1000_a0080_0141_BOOKW010_X	0.5				0	26	Une fille à moitié humaine et une Ombre géante ?
 		4	STREAM	EID_1000_a0080_0142_NIER010_X	0.5				0	2	Je pourrais sans doute accepter une de ces invraisemblances, mais deux...?
-1092		4	STREAM	EID_1050_a0004g_0015_BOOKW010_X	0.5				0	26	Cette Ombre géante possède un vers scellé, j'en suis convaincu !
-		4	STREAM	EID_1050_a0004g_0016_NIER010_X	0.5				0	2	Tu as sans doute raison, mais nous avons à peine pu la chasser du village avec l'aide de cette fille !
+1092		4	STREAM	EID_1050_a0004g_0015_BOOKW010_X	0.5				0	26	Cette Ombre géante possède un vers scellé,
+j'en suis convaincu !
+		4	STREAM	EID_1050_a0004g_0016_NIER010_X	0.5				0	2	Tu as sans doute raison, mais nous avons à peine pu la
+chasser du village avec l'aide de cette fille !
 		4	STREAM	EID_1050_a0004g_0017_NIER010_X	0.5				0	2	Nous devons devenir plus forts...
 1093		4	STREAM	EID_1050_a0004g_0043_BOOKW010_X	0.5				0	26	Que sais-tu au sujet de cette montagne des robots ?
 		4	STREAM	EID_1050_a0004g_0044_NIER010_X	0.5				0	2	Elle est remplie de ferraille et de détritus datant de l'époque des Anciens.
@@ -166,26 +194,31 @@
 1095		4	STREAM	EID_1200_a0020g_0030_NIER010_X	0.5	 			0	2	Ces gamins ont la vie dure. Je veux simplement les aider.
 		4	STREAM	EID_1200_a0020g_0040_BOOKW010_X	0.5	 			0	26	Il est vrai que ce n'est pas un travail approprié pour des enfants...
 1096		4	STREAM	EID_1200_a0020g_0050_NIER010_X	0.5	 			0	2	Ils sont plutôt maigres.
-		4	STREAM	EID_1200_a0020g_0060_BOOKW010_X	1	 			0	26	Et l'aîné donne sa part de nourriture à son frère, j'en suis certain !
+		4	STREAM	EID_1200_a0020g_0060_BOOKW010_X	1	 			0	26	Et l'aîné donne sa part de nourriture à son frère,
+j'en suis certain !
 1097		4	STREAM	EID_1200_a0020g_0063_NIER010_X	3	 			0	2	Ça devrait suffire.
 1098		4	STREAM	EID_4030_a0095g_0005_NIER020_X	3				0	2	La porte est coincée...
 1099		4	STREAM	EID_1270_a0020g_0001_NIER010_X	0.5	 			0	2	Il a dit que sa mère est sans doute quelque part dans les profondeurs de la montagne, n'est-ce pas ?
 		4	STREAM	EID_1270_a0020g_0002_BOOKW010_X	0.5	 			0	26	Pourquoi t'immisces-tu donc dans leurs affaires ?
-		4	STREAM	EID_1270_a0020g_0003_NIER010_X	1	 			0	2	À leur âge, vivre sans le soutien de leur mère doit être difficile. Je veux seulement leur donner un coup de main.
+		4	STREAM	EID_1270_a0020g_0003_NIER010_X	1	 			0	2	À leur âge, vivre sans le soutien de leur mère doit être difficile.
+Je veux seulement leur donner un coup de main.
 1100	1101	4	STREAM	EID_1270_a0020g_0010_BOOKW010_X	1	 			0	26	Tu ne peux quand même pas croire que leur mère s'est rendue jusqu'ici !
 		4	STREAM	EID_1270_a0020g_0020_NIER010_X	0.5	 			0	2	Hum...
 		4	STREAM	EID_1270_a0020g_0030_BOOKW010_X	1	 			0	26	Ou encore qu'elle a passé toute une semaine à ramasser de la ferraille ?
 		4	STREAM	EID_1270_a0020g_0040_NIER010_X	0.5	 			0	2	Euh...
-		4	STREAM	EID_1270_a0020g_0050_BOOKW010_X	0.5	 			0	26	Ouvre les yeux, bougre d'imbécile ! Cette femme est manifestement...
+		4	STREAM	EID_1270_a0020g_0050_BOOKW010_X	0.5	 			0	26	Ouvre les yeux, bougre d'imbécile !
+Cette femme est manifestement...
 1101		4	STREAM	EID_1270_a0020g_0060_NIER010_X	0.5	 			0	2	Ça suffit, Weiss !
 		4	STREAM	EID_1270_a0020g_0070_BOOKW010_X	0.5	 			0	26	...
-		4	STREAM	EID_1270_a0020g_0080_NIER010_X	0.5	 			0	2	Ces enfants mènent une vie misérable. Ils ont peut-être juste besoin d'un miracle.
+		4	STREAM	EID_1270_a0020g_0080_NIER010_X	0.5	 			0	2	Ces enfants mènent une vie misérable.
+Ils ont peut-être juste besoin d'un miracle.
 		4	STREAM	EID_1270_a0020g_0090_BOOKW010_X	0.5	 			0	26	Un miracle ? Pfft !
 1102		4	STREAM	EID_1270_a0035g_08_BOOKW010_X	0.5	 			0	26	Ne te laisse pas écraser#!
 		4	STREAM	EID_1270_a0035g_09_NIER010_X	0.5	 			0	2	Quel fantastique conseil, merci#!
 1103		4	STREAM	EID_1270_a0035g_11_BOOKW010_X	0.5	 			0	26	Cette machine est coriace.
 		4	STREAM	EID_1270_a0035g_12_NIER010_X	0.5	 			0	2	Bon sang#! Ça n'en finit plus...
-		4	STREAM	EID_1270_a0035g_13_BOOKW010_X	0.5	 			0	26	Élimine-les tous#! Il n'y a pas d'autre solution#!
+		4	STREAM	EID_1270_a0035g_13_BOOKW010_X	0.5	 			0	26	Élimine-les tous#!
+Il n'y a pas d'autre solution#!
 1104		4	STREAM	EID_1270_a0035g_06_BOOKW010_X	0.5	 			0	26	Une simple machine ne saurait être à notre hauteur#!
 		4	STREAM	EID_1270_a0035g_07_NIER010_X	0.5				0	2	Que dirais-tu de m'aider au lieu de jacasser#?
 1105		4	STREAM	EID_1270_a0035g_14_BOOKW010_X	0.5	 			0	26	Sois conscient de ce qui t'entoure#!
@@ -193,8 +226,10 @@
 1107		4	STREAM	EID_1270_a0035g_21_NIER010_X	0.5	 			0	2	Ça fonctionne#!
 		4	STREAM	EID_1270_a0035g_22_BOOKW010_X	0.5	 			0	26	Sa bouche est un point faible tellement évident#!
 1108		4	STREAM	EID_1270_a0035g_0010_GEPPETT010_X	1	 			0	39	Niveau d'alerte : jaune.
-		4	STREAM	EID_1270_a0035g_0020_GEPPETT010_X	3	 			0	39	Intrus détecté. Intrus détecté.
-		4	STREAM	EID_1270_a0035g_0030_GEPPETT010_X	1	 			0	39	Niveau d'alerte : rouge. Filtre d'attaque systématique : en ligne.
+		4	STREAM	EID_1270_a0035g_0020_GEPPETT010_X	3	 			0	39	Intrus détecté.
+Intrus détecté.
+		4	STREAM	EID_1270_a0035g_0030_GEPPETT010_X	1	 			0	39	Niveau d'alerte : rouge.
+Filtre d'attaque systématique : en ligne.
 1109		4	STREAM	EID_1270_a0035g_17_BOOKW010_X	0.5	 			0	26	Il ne reste plus que l'énorme tête.
 1110		4	STREAM	EID_1270_a0100_0034_NIER010_X	0.5	 			0	2	Je me fais du souci pour Yonah. Allons la voir.
 1111		4	STREAM	EID_1270_a0100_0035_NIER010_X	0.5	 			0	2	Allons éliminer les Ombres qui ont envahi le village de l'Aire.
@@ -210,7 +245,8 @@
 1120		4	STREAM	SEID_1320_S0130_0160_X	3	 			0	26	Lorsque ta canne à pêche bouge, tu dois réagir en conséquence.
 		4	STREAM	SEID_1320_S0130_0170_X	3	 			0	2	Je sais#!
 1121		4	STREAM	SEID_1320_S0130_0190_X	3	 			0	2	Bien. Apportons-le à Yonah.
-1122		4	STREAM	EID_1350_a0020_0010_BOOKW010_X	1	 			0	26	Nous devrions peut-être aller rendre visite à la vieille dame du phare. J'ai quelques doutes...
+1122		4	STREAM	EID_1350_a0020_0010_BOOKW010_X	1	 			0	26	Nous devrions peut-être aller rendre visite à la vieille dame du phare.
+J'ai quelques doutes...
 1123		4	STREAM	EID_1050_a0010g_0010_NIER010_X	0.5				0	2	Non. Je ne la laisserai pas mourir.
 1124		4	STREAM	EID_1050_a0010g_0020_KAINE010_X	0.5				0	28	Qu'est-ce que tu fais ici ?
 		4	STREAM	EID_1050_a0010g_0030_NIER010_X	0.5				0	2	Je me suis dit que tu aurais besoin d'un coup de main.
@@ -250,7 +286,8 @@
 		4	STREAM	EID_1050_a0065g_0020_KAINE010_X	0.5				0	28	Elle me dirait jamais d'abandonner ! Jamais !
 		4	STREAM	EID_1050_a0065g_0030_KAINE010_X	1				0	28	J'ai passé ma vie à chercher une façon de venger sa mort !
 		4	STREAM	EID_1050_a0065g_0040_KAINE010_X	0.5				0	28	Elle m'a donné la force de pouvoir supporter ce foutu corps monstrueux !
-		4	STREAM	EID_1050_a0065g_0050_KAINE010_X	1				0	28	Sais-tu depuis quand je suis comme ça ? À quel point je me déteste ?
+		4	STREAM	EID_1050_a0065g_0050_KAINE010_X	1				0	28	Sais-tu depuis quand je suis comme ça ?
+À quel point je me déteste ?
 1144		4	STREAM	EID_1050_a0065g_0060_BOOKW010_X	0.5				0	26	Maintenant !
 		4	STREAM	EID_1050_a0065g_0070_NIER010_X	0.5				0	2	Je m'en charge !
 1145	1146	4	STREAM	EID_1050_a0072g_0010_NIER010_X	0.5				0	2	Kainé !
@@ -259,36 +296,47 @@
 		4	STREAM	EID_1050_a0072g_0040_NIER010_X	0.5				0	2	Ce n'est pas à toi de décider.
 		4	STREAM	EID_1050_a0072g_0050_BOOKW010_X	0.5				0	26	Hum ?
 1146		4	STREAM	EID_1050_a0072g_0060_NIER010_X	0.5				0	2	Tu n'as pas le droit de déterminer qui vit et qui meurt.
-		4	STREAM	EID_1050_a0072g_0070_NIER010_X	0.5				0	2	Elle a une vie. Son existence a un sens et de la valeur... ... et nous allons la sauver.
-		4	STREAM	EID_1050_a0072g_0080_NIER010_X	1				0	2	Nous avons tous une raison d'être. Même Kainé. ... Même Yonah.
+		4	STREAM	EID_1050_a0072g_0070_NIER010_X	0.5				0	2	Elle a une vie. Son existence a un sens et de la valeur...
+... et nous allons la sauver.
+		4	STREAM	EID_1050_a0072g_0080_NIER010_X	1				0	2	Nous avons tous une raison d'être. Même Kainé.
+... Même Yonah.
 		4	STREAM	EID_1050_a0072g_0090_BOOKW010_X	0.5				0	26	Tu devrais peut-être réserver tes belles paroles pour elle au lieu de les gaspiller avec moi.
 1147		4	STREAM	EID_1050_a0072g_0100_NIER010_X	0.5				0	2	Je ne vais pas l'abandonner. Pas ainsi.
-1148		4	STREAM	EID_1400_a0010g_0010_BOOKW010_X	3				0	26	C'est de la folie#! Nous n'avons aucune raison de nous aventurer dans un tel endroit#!
+1148		4	STREAM	EID_1400_a0010g_0010_BOOKW010_X	3				0	26	C'est de la folie#!
+Nous n'avons aucune raison de nous aventurer dans un tel endroit#!
 1149		4	STREAM	EID_1400_a0010g_0020_BOOKW010_X	1	 			0	26	Ptoui ! Ptoui ! J'ai du sable entre mes pages !
 1150		4	STREAM	EID_1400_a0010g_0030_NIER010_X	0.5				0	2	J'ai du sable dans des recoins de mon corps qui m'étaient jusqu'à présent inconnus.
-		4	STREAM	EID_1400_a0010g_0040_BOOKW010_X	1	 			0	26	Je t'avais pourtant prévenu ! Nous devrions faire demi-tour pendant qu'il en est encore temps.
+		4	STREAM	EID_1400_a0010g_0040_BOOKW010_X	1	 			0	26	Je t'avais pourtant prévenu !
+Nous devrions faire demi-tour pendant qu'il en est encore temps.
 1151		4	STREAM	EID_1410_a0030g_0010_NIER010_X	0.5				0	2	Alors, quelle sorte de ville est Façade ?
 		4	STREAM	EID_1410_a0030g_0020_KAINE010_X	1	 			0	28	C'est une ville étrange. Tenons-nous-en là.
-		4	STREAM	EID_1410_a0030g_0030_BOOKW010_X	0.5				0	26	Plus étrange qu'une jeune fille grossière en sous-vêtements qui se bat contre des monstres ?!
+		4	STREAM	EID_1410_a0030g_0030_BOOKW010_X	0.5				0	26	Plus étrange qu'une jeune fille grossière en sous-vêtements
+qui se bat contre des monstres ?!
 		4	STREAM	EID_1410_a0030g_0040_KAINE010_X	0.5	 			0	28	... Allons-y.
 1152		4	STREAM	EID_1410_a0040g_0010_NIER010_X	0.5				0	2	Des loups !
 		4	STREAM	EID_1410_a0040g_0020_BOOKW010_X	0.5	 			0	26	Attention !
 1153		4	STREAM	EID_1410_a0040g_0030_NIER010_X	0.5				0	2	Attendez, ils se retirent.
 		4	STREAM	EID_1410_a0040g_0040_BOOKW010_X	0.5	 			0	26	On dirait que ce loup noir est le chef de la meute.
 1154		4	STREAM	EID_1410_a0065_0070_NIER010_X	1				0	2	Allez, Weiss. Aide-moi un peu.
-		4	STREAM	EID_1410_a0065_0080_BOOKW010_X	1				0	26	Je suis un livre formidable d'une valeur inestimable, pas un guide touristique !
-1155		4	STREAM	EID_1410_a0065_0101_NIER010_X	3				0	2	Encore des escaliers... Même en faisant un effort, ils n'auraient pas pu construire de labyrinthe plus compliqué !
+		4	STREAM	EID_1410_a0065_0080_BOOKW010_X	1				0	26	Je suis un livre formidable d'une valeur inestimable,
+pas un guide touristique !
+1155		4	STREAM	EID_1410_a0065_0101_NIER010_X	3				0	2	Encore des escaliers...
+Même en faisant un effort, ils n'auraient pas pu construire de labyrinthe plus compliqué !
 		4	STREAM	EID_1410_a0065_0102_BOOKW010_X	0.5				0	26	Nous ferions mieux de trouver un moyen d'atteindre le palais.
 		4	STREAM	EID_1410_a0065_0103_BOOKW010_X	0.5				0	26	Sinon, nous continuerons de monter et descendre des escaliers jusqu'à la fin des temps !
 1156		4	STREAM	EID_1410_a0065_0090_BOOKW010_X	1				0	26	Hum... Cette ville est curieuse. Nous sommes manifestement des étrangers, mais personne ne nous remarque.
-		4	STREAM	EID_1410_a0065_0100_NIER010_X	1	 			0	2	C'est une ville tranquille. Elle me plaît. Si seulement je pouvais parler à quelqu'un...!
+		4	STREAM	EID_1410_a0065_0100_NIER010_X	1	 			0	2	C'est une ville tranquille. Elle me plaît.
+Si seulement je pouvais parler à quelqu'un...!
 1157		4	STREAM	EID_1410_a0070g_0010_BOOKW010_X	0.5	 			0	26	On ne veut plus aider les gens dans le besoin, c'est ça#?
 1158		4	STREAM	EID_1410_a0100g_02416_BOOKW010_X	3				0	26	N'avons-nous pas encore à faire dans la ville#?
 1159		4	STREAM	EID_1410_a0100g_02415_BOOKW010_X	3				0	26	Il semblerait que nous sommes sur son chemin.
 1160		4	STREAM	EID_1410_a5000_0010_VIER010_X	3	 			0	42	(Ça alors#!)
 1161		4	STREAM	EID_1450_a0020g_0010_NIER010_X	0.5	 			0	2	On dirait que leurs lois sont soudainement bien encombrantes.
-		4	STREAM	EID_1450_a0020g_0020_BOOKW010_X	1				0	26	Ils possèdent leurs propres us et coutumes. En tant qu'étrangers, nous ne pouvons pas intervenir... Allez. Nous devrions partir.
-1162		4	STREAM	EID_1450_a0030g_0020_NIER010_X	1	 			0	2	Les habitants de la ville devraient arrêter de se disputer et suivre plutôt l'exemple de Fyra.
+		4	STREAM	EID_1450_a0020g_0020_BOOKW010_X	1				0	26	Ils possèdent leurs propres us et coutumes.
+En tant qu'étrangers, nous ne pouvons pas intervenir...
+Allez. Nous devrions partir.
+1162		4	STREAM	EID_1450_a0030g_0020_NIER010_X	1	 			0	2	Les habitants de la ville devraient arrêter de se disputer
+et suivre plutôt l'exemple de Fyra.
 		4	STREAM	EID_1450_a0030g_0030_BOOKW010_X	0.5				0	26	Elle semble posséder des réserves infinies d'énergie.
 1163		4	STREAM	EID_1450_a0030g_0054_VIER010_X	3	 			0	42	(Je vous guiderai à travers le désert. Ne vous éloignez pas trop !)
 1164		4	STREAM	EID_1450_a0030g_0051_BOOKW010_X	0.5				0	26	Voudrais-tu abandonner la jeune fille ?
@@ -300,21 +348,28 @@
 		4	STREAM	EID_1450_a0065g_0020_NIER010_X	0.5				0	2	On dirait que nous allons devoir respecter les lois.
 1170		4	STREAM	EID_1450_a0065g_0024_BOOKW010_X	0.5				0	26	Pfft ! Tout cela est bien ennuyeux !
 		4	STREAM	EID_1450_a0055g_0010_NIER010_X	0.5				0	2	Je me demande quelle sorte d'homme est le prince.
-		4	STREAM	EID_1450_a0055g_0020_BOOKW010_X	1				0	26	Il a pour tâche de protéger ses sujets et pourtant ce sont eux qui s'efforcent de le sauver#? Je crois que c'est tout ce qu'il y a à savoir.
+		4	STREAM	EID_1450_a0055g_0020_BOOKW010_X	1				0	26	Il a pour tâche de protéger ses sujets et pourtant ce sont eux qui s'efforcent de le sauver#?
+Je crois que c'est tout ce qu'il y a à savoir.
 		4	STREAM	EID_1450_a0055g_0030_TCK010_Y	0.5				0	25	(Qui va là#?)
-		4	STREAM	EID_1450_a0055g_0040_BOOKW010_X	0.5				0	26	Nous ne sommes qu'une intrépide équipe de secours ! Ne faites pas attention à nous.
+		4	STREAM	EID_1450_a0055g_0040_BOOKW010_X	0.5				0	26	Nous ne sommes qu'une intrépide équipe de secours !
+Ne faites pas attention à nous.
 		4	STREAM	EID_1450_a0055g_0050_TCK010_Y	0.5				0	25	(Comment#?!)
 		4	STREAM	EID_1450_a0055g_0060_NIER010_X	0.5			<CB=Clear_Law_Game_01_RadioEnd>	0	2	... Il y a quelqu'un !
 1171	1360	4	STREAM	EID_1450_a0080_0045_BOOKW010_X	0.5	 			0	26	Le gamin pleurnicheur est à l'intérieur !
 1172		4	STREAM	EID_1450_a0087g_0010_NIER010_X	0.5	 			0	2	Je savais que tu reviendrais.
-		4	STREAM	EID_1450_a0087g_0020_KAINE010_X	1				0	28	T'excite pas trop, d'accord ? C'est pas comme si je te cherchais.
+		4	STREAM	EID_1450_a0087g_0020_KAINE010_X	1				0	28	T'excite pas trop, d'accord ?
+C'est pas comme si je te cherchais.
 		4	STREAM	EID_1450_a0087g_0030_BOOKW010_X	0.5	 			0	26	Alors, tu t'es simplement égarée ?
 		4	STREAM	EID_1450_a0087g_0040_KAINE010_X	0.5				0	28	Va te faire foutre, bouquin !
 1173		4	STREAM	EID_2000_a0010_0015_NIER010_X	0.5				0	2	Je me fais du souci au sujet de Yonah. Rentrons au village.
-1174	1175	4	STREAM	EID_1450_a0110_0010_BOOKW010_X	0.5	 			0	26	L'avenir de Façade me paraît hasardeux. Même avec les meilleures intentions du monde, le roi est si jeune...
+1174	1175	4	STREAM	EID_1450_a0110_0010_BOOKW010_X	0.5	 			0	26	L'avenir de Façade me paraît hasardeux.
+Même avec les meilleures intentions du monde,
+le roi est si jeune...
 		4	STREAM	EID_1450_a0110_0020_NIER010_X	1				0	2	Le peuple comblera les lacunes de leur roi.
-		4	STREAM	EID_1450_a0110_0030_BOOKW010_X	0.5	 			0	26	Je parie que nous aurons une myriade de nouvelles lois à découvrir lors de notre prochaine visite.
-		4	STREAM	EID_1450_a0110_0040_NIER010_X	1				0	2	Probablement. Mais leurs lois semblent leur convenir, alors ce n'est pas à nous de prétendre le contraire.
+		4	STREAM	EID_1450_a0110_0030_BOOKW010_X	0.5	 			0	26	Je parie que nous aurons une myriade de nouvelles
+lois à découvrir lors de notre prochaine visite.
+		4	STREAM	EID_1450_a0110_0040_NIER010_X	1				0	2	Probablement. Mais leurs lois semblent leur convenir,
+alors ce n'est pas à nous de prétendre le contraire.
 		4	STREAM	EID_1450_a0110_0050_BOOKW010_X	0.5	 			0	26	Oh, voyons !
 		4	STREAM	EID_1450_a0110_0060_NIER010_X	0.5				0	2	Chaque peuple a sa propre façon de voir le monde.
 		4	STREAM	EID_1450_a0110_0070_BOOKW010_X	1	 			0	26	Tu auras peut-être appris quelque chose au cours de notre périple, après tout !
@@ -325,30 +380,37 @@
 		4	STREAM	EID_1500_a0200_0038_X	3				0	26	C'est comme si quelqu'un avait voulu nous guider jusqu'à ce village...
 		4	STREAM	EID_1500_a0200_0039_X	3				0	2	Ah, tu t'inquiètes pour rien, Weiss.
 1177		4	STREAM	EID_4500_a0300_0061_X	3				0	28	Et le village, il était comment#?
-		4	STREAM	EID_4500_a0300_0062_X	3				0	26	Je n'ai jamais vu d'endroit plus merveilleux. J'ai peine à trouver les mots appropriés pour le décrire.
+		4	STREAM	EID_4500_a0300_0062_X	3				0	26	Je n'ai jamais vu d'endroit plus merveilleux.
+J'ai peine à trouver les mots appropriés pour le décrire.
 		4	STREAM	EID_4500_a0300_0063_X	3				0	28	Super.
 		4	STREAM	EID_4500_a0300_0064_X	3				0	2	Retournons voir Popola.
 		4	STREAM	EID_4500_a0300_0065_X	3				0	2	Nous devrions lui dire ce qui s'est passé dans la forêt.
 1178		4	STREAM	RA_EID_1100_a0005g_0010	3				0	26	
 		4	STREAM	RA_EID_1100_a0005g_0020	3				0	2	
-1179		4	STREAM	EID_1100_a0025g_0010_BOOKW010_X	0.5	 			0	26	Eh bien, nous sommes venus jusqu'ici. Je suppose qu'il ne servirait à rien de reculer maintenant.
+1179		4	STREAM	EID_1100_a0025g_0010_BOOKW010_X	0.5	 			0	26	Eh bien, nous sommes venus jusqu'ici.
+Je suppose qu'il ne servirait à rien de reculer maintenant.
 		4	STREAM	EID_1100_a0025g_0015_NIER010_X	0.5	 			0	2	J'espère que son petit ami en vaut la peine.
 1180		4	STREAM	EID_1100_a0025g_0020_BOOKW010_X	1	 			0	26	Cet endroit ne me dit rien qui vaille !
 		4	STREAM	EID_1100_a0025g_0030_NIER010_X	0.5	 			0	2	On dirait que tu as peur, Weiss.
 1181		4	STREAM	EID_1100_a0030_0033_NIER010_X	0.5				0	2	Des Ombres !
 		4	STREAM	EID_1100_a0030_0034_BOOKW010_X	0.5				0	26	De quel abîme infernal sont-elles sorties ?
 1182		4	STREAM	EID_1100_a0067g_0010_NIER010_X	0.5	 	<CB=EID_1100_a0067g_RA_Start>		0	2	Tu crois que nous devrions chercher Kainé ?
-		4	STREAM	EID_1100_a0067g_0020_BOOKW010_X	1	 			0	26	Oublie-la ! Cette fille peut très bien se débrouiller toute seule.
+		4	STREAM	EID_1100_a0067g_0020_BOOKW010_X	1	 			0	26	Oublie-la !
+Cette fille peut très bien se débrouiller toute seule.
 		4	STREAM	EID_1100_a0067g_0030_NIER010_X	0.5	 		<CB=EID_1100_a0067g_RA_End>	0	2	Tu as raison.
 1183		4	STREAM	EID_1100_a0067g_0061_NIER010_X	0.5				0	2	Des Ombres !
 1184		4	STREAM	EID_1100_a0067g_0062_NIER010_X	0.5				0	2	Mince, nous ne pouvons pas sortir !
-1185		4	STREAM	EID_1100_a0072g_0031_SNOW010_X	0.5				0	35	Je sais que c'est beaucoup vous demander. Je suis désolé.
-		4	STREAM	EID_1100_a0072g_0032_SNOW010_X	1				0	35	Je peux au moins transformer les ennemis en pierre ! Cela devrait vous aider, non ?
+1185		4	STREAM	EID_1100_a0072g_0031_SNOW010_X	0.5				0	35	Je sais que c'est beaucoup vous demander.
+Je suis désolé.
+		4	STREAM	EID_1100_a0072g_0032_SNOW010_X	1				0	35	Je peux au moins transformer les ennemis en pierre !
+Cela devrait vous aider, non ?
 1186		4	STREAM	EID_1100_a0072g_0033_BOOKW010_X	0.5				0	26	Des araignées !
 		4	STREAM	EID_1100_a0072g_0034_NIER010_X	0.5				0	2	Gare à leur poison, Émile !
 		4	STREAM	EID_1100_a0072g_0035_SNOW010_X	0.5				0	35	Entendu !
-1187		4	STREAM	EID_1100_a0078g_0010_NIER010_X	1	 			0	2	Formidable. Pourquoi tous les livres que je rencontre ont-ils un comportement hostile ?
-		4	STREAM	EID_1100_a0078g_0020_BOOKW010_X	1	 			0	26	Oh, comme tu es drôle#! Tu oserais comparer un livre ordinaire avec la merveille qu'est le Grimoire Weiss#?
+1187		4	STREAM	EID_1100_a0078g_0010_NIER010_X	1	 			0	2	Formidable.
+Pourquoi tous les livres que je rencontre ont-ils un comportement hostile ?
+		4	STREAM	EID_1100_a0078g_0020_BOOKW010_X	1	 			0	26	Oh, comme tu es drôle#!
+Tu oserais comparer un livre ordinaire avec la merveille qu'est le Grimoire Weiss#?
 1188		4	STREAM	EID_1100_a0078g_0030_BOOKW010_X	0.5	 			0	26	La pétrification est en effet un pouvoir redoutable !
 1189		4	STREAM	EID_1100_a0078g_0040_NIER010_X	1	 			0	2	N'abandonnera-t-il donc jamais ?!
 1190		4	STREAM	EID_1100_a0078g_0060_SNOW010_X	0.5	 			0	35	Oh, non ! Je ne peux pas le pétrifier !
@@ -358,15 +420,18 @@
 		4	STREAM	EID_1100_a0085g_0050_NIER010_X	0.5				0	2	En train de nous faire démolir par un dictionnaire volant !
 1192	1193	4	STREAM	EID_1100_a0085g_0060_BOOKW010_X	0.5				0	26	La puissance de cet adversaire est incommensurable !
 		4	STREAM	EID_1100_a0085g_0070_NIER010_X	0.5				0	2	Alors, quel est notre plan d'attaque ?!
-		4	STREAM	EID_1100_a0085g_0080_BOOKW010_X	0.5				0	26	Je suis un grimoire mystérieux, pas un guide stratégique ! Tu es censé te charger de ces détails !
+		4	STREAM	EID_1100_a0085g_0080_BOOKW010_X	0.5				0	26	Je suis un grimoire mystérieux, pas un guide stratégique !
+Tu es censé te charger de ces détails !
 1193	1194	4	STREAM	EID_1100_a0085g_0090_SNOW010_X	1				0	35	Fuyez ! Je l'occuperai pendant que vous vous échappez.
 		4	STREAM	EID_1100_a0085g_0100_KAINE010_X	0.5				0	28	C'est qui, lui ?
 		4	STREAM	EID_1100_a0085g_0110_NIER010_X	1				0	2	C'est Émile. C'est le garçon qui...
 		4	STREAM	EID_1100_a0085g_0120_KAINE010_X	1				0	28	Putain de merde, ce livre est un enculé de première !
 		4	STREAM	EID_1100_a0085g_0130_NIER010_X	1				0	2	Euh oui, j'aurais dû te prévenir, Émile...
 		4	STREAM	EID_1100_a0085g_0140_BOOKW010_X	0.5				0	26	Ah, sa douce voix féminine retentit de nouveau à mes oreilles#!
-1194	1195	4	STREAM	EID_1100_a0085g_0150_SNOW010_X	1				0	35	Sortez d'ici ! C'est à moi de me battre et je ne peux pas vous demander de mourir pour moi !
-		4	STREAM	EID_1100_a0085g_0160_BOOKW010_X	0.5				0	26	Braves paroles ! Et pourtant, je vois que tes genoux tremblent de peur.
+1194	1195	4	STREAM	EID_1100_a0085g_0150_SNOW010_X	1				0	35	Sortez d'ici !
+C'est à moi de me battre et je ne peux pas vous demander de mourir pour moi !
+		4	STREAM	EID_1100_a0085g_0160_BOOKW010_X	0.5				0	26	Braves paroles !
+Et pourtant, je vois que tes genoux tremblent de peur.
 		4	STREAM	EID_1100_a0085g_0170_NIER010_X	0.5				0	2	Tu pourras jouer les héros quand tu seras plus grand.
 		4	STREAM	EID_1100_a0085g_0180_KAINE010_X	0.5				0	28	Vous pourriez vous la fermer et vous battre ?
 		4	STREAM	EID_1100_a0085g_0190_NIER010_X	0.5				0	2	Je te déconcentre, Kainé ?
@@ -380,9 +445,11 @@
 		4	STREAM	EID_1100_a0120g_0050_BOOKW010_X	0.5	 			0	26	J'espère qu'il n'y avait rien... d'inapproprié pour un jeune homme de son âge dans votre conversation ? Hummm ?
 		4	STREAM	EID_1100_a0120g_0060_KAINE010_X	0.5	 			0	28	...
 		4	STREAM	EID_1100_a0120g_0070_BOOKW010_X	0.5	 			0	26	Réponds, traînée !
-		4	STREAM	EID_1100_a0120g_0080_KAINE010_X	0.5	 			0	28	Bouquin ? ... La ferme.
+		4	STREAM	EID_1100_a0120g_0080_KAINE010_X	0.5	 			0	28	Bouquin ?
+... La ferme.
 1199		4	STREAM	EID_2000_a0025g_0010_NIER010_X	1	 			0	2	Yonah n'a pas la force nécessaire pour combattre la maladie.
-		4	STREAM	EID_2000_a0025g_0020_BOOKW010_X	1	 			0	26	Nous devons trouver le Grimoire Noir dès que possible. C'est la seule solution.
+		4	STREAM	EID_2000_a0025g_0020_BOOKW010_X	1	 			0	26	Nous devons trouver le Grimoire Noir dès que possible.
+C'est la seule solution.
 1200		4	STREAM	EID_2000_a0042_0001_NIER010_X	0.5				0	2	Des Ombres attaquent le village !
 1201		4	STREAM	EID_2000_a0046g_0110_NIER010_X	0.5	 			0	2	Je vous tuerai toutes jusqu'à la dernière !
 		4	STREAM	EID_2000_a0046g_0120_BOOKW010_X	0.5	 			0	26	Ha ! Elles ne sont pas dignes de ta lame !
@@ -397,7 +464,8 @@
 		4	STREAM	EID_2000_a0075g_0020_BOOKW010_X	1	 			0	26	Essaie-t-elle de nous encourager ou est-elle vraiment aussi insensée qu'elle n'en a l'air ?
 		4	STREAM	EID_2000_a0075g_0030_NIER010_X	1	 			0	2	Probablement les deux. Allons-y !
 1206		4	STREAM	EID_2000_a0075g_0040_KAINE010_X	0.5	 			0	28	C'est aujourd'hui que tu vas mourir, ragot de merde !
-		4	STREAM	EID_2000_a0075g_0050_BOOKW010_X	1	 			0	26	Ragot de merde ? Oh, allons ! Ce n'est même pas une vraie insulte !
+		4	STREAM	EID_2000_a0075g_0050_BOOKW010_X	1	 			0	26	Ragot de merde ?
+Oh, allons ! Ce n'est même pas une vraie insulte !
 1207		4	STREAM	EID_2000_a0075g_0060_KAINE010_X	0.5	 			0	28	On dirait que t'as enfin appris à te battre#!
 		4	STREAM	EID_2000_a0075g_0070_NIER010_X	0.5	 			0	2	Content de savoir que tu l'as remarqué.
 1208		4	STREAM	EID_2000_a0075g_0080_BOOKW010_X	0.5	 			0	26	Tu y es presque ! Continue !
@@ -407,12 +475,14 @@
 		4	STREAM	EID_2000_a0105g_0030_BOOKW010_X	0.5	 			0	26	Elle se remet trop rapidement !
 		4	STREAM	EID_2000_a0105g_0040_NIER010_X	0.5	 			0	2	Nous avons besoin d'une meilleure stratégie.
 1212		4	STREAM	EID_2000_a0105g_0050_BOOKW010_X	0.5	 			0	26	Nous pourrions peut-être la repousser jusqu'au sous-sol et l'y enfermer.
-		4	STREAM	EID_2000_a0105g_0060_BOOKW010_X	0.5	 			0	26	Ces murs de pierre sont solides. Je doute que même cette créature puisse les détruire.
+		4	STREAM	EID_2000_a0105g_0060_BOOKW010_X	0.5	 			0	26	Ces murs de pierre sont solides.
+Je doute que même cette créature puisse les détruire.
 		4	STREAM	EID_2000_a0105g_0070_NIER010_X	0.5	 			0	2	Ça me va.
 		4	STREAM	EID_2000_a0105g_0080_KAINE010_X	0.5	 			0	28	Super ! J'adore les sous-sols !
 1213		4	STREAM	EID_2000_a0105g_0090_BOOKW010_X	0.5	 			0	26	Vas-y ! Pousse-la dans le sous-sol !
 1214	1215	4	STREAM	EID_2000_a0129g_0010_BOOKB010_X	0.5	 			0	1	Sois maudit !
-1215		4	STREAM	EID_2000_a0129g_0020_BOOKB010_X	0.5	 			0	1	Nos vrais souvenirs sont toujours là ! Comment oses-tu les ignorer ?!
+1215		4	STREAM	EID_2000_a0129g_0020_BOOKB010_X	0.5	 			0	1	Nos vrais souvenirs sont toujours là !
+Comment oses-tu les ignorer ?!
 		4	STREAM	EID_2000_a0129g_0030_BOOKW010_X	0.5	 			0	26	Tu aurais peut-être dû les griffonner dans mes marges#!
 1216		4	STREAM	EID_2000_a0129g_0040_NIER010_X	1	 			0	2	Bon sang ! La bibliothèque ne tiendra pas longtemps.
 		4	STREAM	EID_2000_a0129g_0050_BOOKW010_X	0.5	 			0	26	Finissons-en au plus vite !
@@ -433,33 +503,45 @@
 1230		2	STREAM	SEID_1050_S0070_0132_X	3	 			0	26	Une autre Ombre...? Elles n'abandonnent donc jamais#!
 		2	STREAM	SEID_1050_S0070_0134_X	3	 			0	2	Allons-y#!
 1231		4	STREAM	SEID_1050_S0070_0140_X	3	 			0	2	Hum...? L'Ombre tenait une fleur#?
-		4	STREAM	SEID_1050_S0070_0150_X	3	 			0	26	C'est un freesia. La même sorte de fleur que nous étions censés donner à la petite amie du marchand.
-		4	STREAM	SEID_1050_S0070_0160_X	3	 			0	2	Ce ne peut pas être qu'une coïncidence. Je crois qu'elle a été attaquée par une Ombre.
+		4	STREAM	SEID_1050_S0070_0150_X	3	 			0	26	C'est un freesia.
+La même sorte de fleur que nous étions censés donner à la petite amie du marchand.
+		4	STREAM	SEID_1050_S0070_0160_X	3	 			0	2	Ce ne peut pas être qu'une coïncidence.
+Je crois qu'elle a été attaquée par une Ombre.
 1232		2	STREAM	SEID_1320_S0220_0152_X	3	 			0	2	Regarde...
 		2	STREAM	SEID_1320_S0220_0154_X	3	 			0	26	Serait-ce le corps d'un chien#?
 1233		2	STREAM	SEID_1320_S0220_0156_X	3	 			0	2	Sales Ombres...!
-1234	1341	4	STREAM	EID_1350_a0038g_0010_NIER010_X	1	 			0	2	C'est un dilemme difficile. Voudrait-elle découvrir la vérité ?
-		4	STREAM	EID_1350_a0038g_0020_BOOKW010_X	1	 			0	26	Seuls les philosophes pourraient répondre à une telle question. Personne ne s'attend à ce que tu puisses savoir d'avance comment elle va réagir.
+1234	1341	4	STREAM	EID_1350_a0038g_0010_NIER010_X	1	 			0	2	C'est un dilemme difficile.
+Voudrait-elle découvrir la vérité ?
+		4	STREAM	EID_1350_a0038g_0020_BOOKW010_X	1	 			0	26	Seuls les philosophes pourraient répondre à une telle question.
+Personne ne s'attend à ce que tu puisses savoir d'avance comment elle va réagir.
 1235		4	STREAM	EID_1350_a0060g_0010_NIER010_X	0.5	 			0	2	Tout ça pousse à se demander à quoi servent nos actions.
 		4	STREAM	EID_1350_a0060g_0020_NIER010_X	1	 			0	2	La vie est dure et il semble que la meilleure décision soit rarement celle qui rend les gens heureux.
-		4	STREAM	EID_1350_a0060g_0030_BOOKW010_X	0.5	 			0	26	Pfft ! Tu peux te compliquer la vie si tu le veux. C'est ton choix.
-		4	STREAM	EID_1350_a0060g_0040_BOOKW010_X	1	 			0	26	La vieille femme était-elle heureuse ? Malheureuse ? Qui sait ?
-		4	STREAM	EID_1350_a0060g_0050_BOOKW010_X	1	 			0	26	On ne pourra jamais en être certain. Tu ne peux que faire de ton mieux et aller de l'avant.
+		4	STREAM	EID_1350_a0060g_0030_BOOKW010_X	0.5	 			0	26	Pfft ! Tu peux te compliquer la vie si tu le veux.
+C'est ton choix.
+		4	STREAM	EID_1350_a0060g_0040_BOOKW010_X	1	 			0	26	La vieille femme était-elle heureuse ? Malheureuse ?
+Qui sait ?
+		4	STREAM	EID_1350_a0060g_0050_BOOKW010_X	1	 			0	26	On ne pourra jamais en être certain.
+Tu ne peux que faire de ton mieux et aller de l'avant.
 		4	TIME	RA_SEID_1320_S0320_a0030_060	3	 			0		
 		4	STREAM	EID_1350_a0060g_0060_NIER010_X	0.5	 			0	2	Je suppose...
 1236		2	STREAM	SEID_1410_S0130_0410_X	3				0	8	ATTENTION#! IL Y A PLUSIEURS OMBRES...
 		2	STREAM	SEID_1410_S0130_0420_X	3				0	2	La ferme.
 1237		2	STREAM	SEID_1410_S0130_0430_X	3				0	8	Euh... C'est quoi ça, à droite, là-bas#?
-		2	STREAM	SEID_1410_S0130_0440_X	3				0	26	Oh, tu penses pouvoir nous duper une troisième fois#?! Je te donnerai une leçon dont tu te souviendras avec ma magie#!
+		2	STREAM	SEID_1410_S0130_0440_X	3				0	26	Oh, tu penses pouvoir nous duper une troisième fois#?!
+Je te donnerai une leçon dont tu te souviendras avec ma magie#!
 1238		2	STREAM	SEID_1410_S0130_0450_X	3				0	8	Une meute de loups#!
-		2	STREAM	SEID_1410_S0130_0460_X	3				0	2	Si je te coupe la langue, tu ne pourras plus... Mince, il y a vraiment une meute de loups#!
+		2	STREAM	SEID_1410_S0130_0460_X	3				0	2	Si je te coupe la langue, tu ne pourras plus...
+Mince, il y a vraiment une meute de loups#!
 1239		2	STREAM	RA_SEID_1410_a0130_a0130_010	3	 			0	2	
-1240		2	STREAM	SEID_1450_S0070_0105_X	3	 			0	2	Je crois que j'ai dix peaux de loup. Rapportons-les au marchand de curiosités.
+1240		2	STREAM	SEID_1450_S0070_0105_X	3	 			0	2	Je crois que j'ai dix peaux de loup.
+Rapportons-les au marchand de curiosités.
 1241		2	STREAM	SEID_1450_S0160_0190_X	3				0	46	(Sales cabots#! Je massacrerai votre meute#!)
-		2	STREAM	SEID_1450_S0160_0200_X	1				0	2	Nous arrivons trop tard#! Allez#! Protégeons-le#!
+		2	STREAM	SEID_1450_S0160_0200_X	1				0	2	Nous arrivons trop tard#! Allez#!
+Protégeons-le#!
 1242		2	STREAM	SEID_9250_S0010_0080_BOOKW010_X	0.5	 			0	26	Il n'y a pas de corps nulle part.
 		2	STREAM	SEID_9260_S0010_0010_NIER010_X	0.5	 			0	2	Que se passe-t-il#?
-		2	STREAM	SEID_9260_S0010_0020_BOOKW010_X	0.5	 			0	26	Le courant a dû l'emporter. ... Ou peut-être les loups.
+		2	STREAM	SEID_9260_S0010_0020_BOOKW010_X	0.5	 			0	26	Le courant a dû l'emporter.
+... Ou peut-être les loups.
 		2	STREAM	SEID_9260_S0010_0030_NIER010_X	0.5	 			0	2	Je suppose que c'est possible.
 		2	STREAM	SEID_9260_S0010_0040_BOOKW010_X	0.5	 			0	26	Le jeune homme se trompe peut-être depuis le début...
 		2	STREAM	SEID_9260_S0010_0050_NIER010_X	0.5	 			0	2	De toute façon, nous devrions retourner le lui dire.
@@ -473,12 +555,14 @@
 		2	STREAM	SEID_9110_S0010_0030_BOOKW010_X	0.5	 			0	26	Nous n'avons pas le temps de nous occuper d'une bande de pillards#!
 		2	STREAM	SEID_9110_S0010_0040_NIER010_X	0.5	 			0	2	Le temple est très important aux yeux du peuple masqué, tu sais.
 		2	STREAM	SEID_9110_S0010_0050_BOOKW010_X	0.5	 			0	26	Alors, ils devraient poster des sentinelles à son entrée#!
-		2	STREAM	SEID_9110_S0010_0060_NIER010_X	0.5	 			0	2	Il y a probablement une loi qui les en empêche. Ils ne peuvent même pas y pénétrer#!
+		2	STREAM	SEID_9110_S0010_0060_NIER010_X	0.5	 			0	2	Il y a probablement une loi qui les en empêche.
+Ils ne peuvent même pas y pénétrer#!
 		2	STREAM	SEID_9110_S0010_0070_BOOKW010_X	0.5	 			0	26	Et donc, j'ai la migraine.
 		2	STREAM	SEID_9110_S0010_0080_KAINE010_X	0.5	 			0	28	Arrête de pleurnicher et continue, bouquin.
 1245		2	STREAM	SEID_9900_S0010_9130_X	3				0	26	Hum... Aurais-tu oublié les paroles du vieil homme#? Tu devrais récupérer une défense de sanglier avant de partir.
 1248		2	STREAM	EID_0300_a0025g_0070_NIER010_X	0.5	 			0	2	Es-tu arrivé à te souvenir de quelque chose à propos du livre noir ?
-		2	STREAM	EID_0300_a0025g_0080_BOOKW010_X	0.5	 			0	26	Hum, j'ai bien peur que ce ne soit pas aussi simple que cela n'en a l'air.  ... Les choses d'une telle importance le sont rarement.
+		2	STREAM	EID_0300_a0025g_0080_BOOKW010_X	0.5	 			0	26	Hum, j'ai bien peur que ce ne soit pas aussi simple que cela n'en a l'air.
+... Les choses d'une telle importance le sont rarement.
 1249		2	STREAM	EID_0300_a0025g_0090_NIER010_X	0.5	 			0	2	Nous devrions aller parler à Popola.
 1255		4	STREAM	EID_0300_a0015g_0070_NIER010_X	0.5	 			0	2	Un instant... Cette chanson...
 1257		2	STREAM	EID_0200_a0055g_03_BOOKW010_X	0.5				0	26	Leurs attaques physiques sont puissantes#!
@@ -498,18 +582,22 @@
 		4	STREAM	EID_0200_a0065g_0020_NIER010_X	0.5				0	2	J'avais remarqué.
 1264		4	STREAM	EID_0200_a0065g_0030_NIER010_X	0.5				0	2	La statue à deux cornes ne fait que se défendre.
 		4	STREAM	EID_0200_a0065g_0040_BOOKW010_X	0.5				0	26	Ignore-la ! Tu ne peux pas percer sa garde !
-1265		4	STREAM	EID_0200_a0065g_0050_BOOKW010_X	1				0	26	Tu m'as l'air bien satisfait. On pourrait même jurer que tu t'amuses bien.
+1265		4	STREAM	EID_0200_a0065g_0050_BOOKW010_X	1				0	26	Tu m'as l'air bien satisfait.
+On pourrait même jurer que tu t'amuses bien.
 		4	STREAM	EID_0200_a0065g_0060_NIER010_X	0.5				0	2	Peut-être !
 1266		4	STREAM	EID_0200_a0065g_0070_NIER010_X	0.5				0	2	Je vais te fendre en deux !
 1267		4	STREAM	EID_0200_a0065g_0080_BOOKW010_X	0.5				0	26	Profite du moment d'inertie entre ses attaques !
 1268		4	STREAM	EID_0200_a0075g_0010_NIER010_X	0.5				0	2	L'autre continue toujours d'attaquer !
-		4	STREAM	EID_0200_a0075g_0020_BOOKW010_X	0.5				0	26	Considère la situation comme une épreuve de volonté ! Oh, et essaie aussi de ne pas perdre.
+		4	STREAM	EID_0200_a0075g_0020_BOOKW010_X	0.5				0	26	Considère la situation comme une épreuve de volonté !
+Oh, et essaie aussi de ne pas perdre.
 1269		4	STREAM	EID_0200_a0075g_0030_BOOKW010_X	1				0	26	Cette statue excelle dans les combats au corps à corps ! Garde tes distances !
 		4	STREAM	EID_0200_a0075g_0040_NIER010_X	0.5				0	2	Mieux vaut utiliser une attaque à longue portée, c'est ça ?
 1270		4	STREAM	EID_0200_a0075g_0070_NIER010_X	0.5				0	2	Elle a l'air furieuse.
-		4	STREAM	EID_0200_a0075g_0080_BOOKW010_X	1				0	26	La colère n'est qu'une forme d'énergie négative. Tu n'as rien à craindre !
+		4	STREAM	EID_0200_a0075g_0080_BOOKW010_X	1				0	26	La colère n'est qu'une forme d'énergie négative.
+Tu n'as rien à craindre !
 1271	1272	4	STREAM	EID_0200_a0075g_0090_NIER010_X	0.5				0	2	Il y en a tellement...
-1272		4	STREAM	EID_0200_a0075g_0100_BOOKW010_X	1				0	26	Ce n'est qu'une horde de sous-fifres insignifiants. Débarrasse-toi d'eux !
+1272		4	STREAM	EID_0200_a0075g_0100_BOOKW010_X	1				0	26	Ce n'est qu'une horde de sous-fifres insignifiants.
+Débarrasse-toi d'eux !
 1273		2	STREAM	EID_0200_a0082g_0030_NIER010_X	0.5				0	2	Que se passe-t-il, Weiss ?
 		2	STREAM	EID_0200_a0082g_0040_BOOKW010_X	0.5				0	26	Sont-ce... mes souvenirs ?
 1274		2	STREAM	EID_0200_a0082g_0050_NIER010_X	0.5				0	2	Ça va, Weiss ? Ressaisis-toi !
@@ -522,13 +610,15 @@
 		2	STREAM	EID_0300_a0025g_0040_BOOKW010_X	0.5	 		<CB=Talk_Text_00_02_Set>	0	26	Tu devrais vraiment traiter les créatures magiques omnipotentes avec plus de respect.
 1278		4	STREAM	EID_1000_a0015_0010_NIER010_X	0.5				0	2	Le village semble désert...
 1279		2	STREAM	EID_1000_a0035g_01_BOOKW010_X	0.5				0	26	Attaque sans relâche#!
-		2	STREAM	EID_1000_a0035g_02_BOOKW010_X	0.5				0	26	Elle ouvre sa garde lorsqu'elle attaque#! Profites-en#!
+		2	STREAM	EID_1000_a0035g_02_BOOKW010_X	0.5				0	26	Elle ouvre sa garde lorsqu'elle attaque#!
+Profites-en#!
 1280		2	STREAM	EID_1000_a0045g_0030_BOOKW010_X	0.5				0	26	Nos attaques n'ont aucun effet !
 		2	STREAM	EID_1000_a0045g_0040_NIER010_X	0.5				0	2	Saloperie...
 1281		2	STREAM	EID_1000_a0045g_0050_BOOKW010_X	0.5				0	26	Arrête, imbécile ! Il est inutile d'utiliser des attaques magiques contre elle !
 1282		2	STREAM	EID_1000_a0035g_03_BOOKW010_X	0.5				0	26	Ne la traite pas à la légère#!
 		2	STREAM	EID_1000_a0035g_04_BOOKW010_X	0.5				0	26	Reste vigilant#!
-1283		2	STREAM	EID_1240_a0025g_0010_NIER010_X	0.5	 			0	2	Ma femme faisait du pain. ... Yonah n'a jamais eu l'occasion d'y goûter.
+1283		2	STREAM	EID_1240_a0025g_0010_NIER010_X	0.5	 			0	2	Ma femme faisait du pain.
+... Yonah n'a jamais eu l'occasion d'y goûter.
 1284		2	STREAM	EID_1240_a0025g_0020_BOOKW010_X	0.5	 			0	26	On dirait qu'il y a plusieurs sortes de farine.
 1285		2	STREAM	EID_1240_a0025g_0030_NIER010_X	0.5	 			0	2	Yonah fait son propre pain maintenant. Popola lui a appris comment le faire.
 1286		2	STREAM	EID_1240_a0025g_0040_BOOKW010_X	0.5	 			0	26	Je me demande s'il y a un pain que je pourrais apprécier...
@@ -539,8 +629,10 @@
 1289		2	STREAM	EID_1100_a0067g_0040_BOOKW010_X	0.5	 			0	26	Ah ha ! Je savais bien que c'était un piège ! Maudite soit mon intuition géniale...
 1290		2	STREAM	EID_1100_a0067g_0050_NIER010_X	0.5	 			0	2	Oh !
 		2	STREAM	EID_1100_a0067g_0060_BOOKW010_X	0.5	 			0	26	Aaaah !
-1291		4	STREAM	EID_1100_a0072g_0010_SNOW010_X	0.5	 			0	35	Je suis désolé. Je sais que mon majordome s'inquiète beaucoup à mon sujet, mais de là à vous adresser une demande aussi saugrenue...
-		4	STREAM	EID_1100_a0072g_0020_SNOW010_X	0.5	 			0	35	Je vous accompagne. Il serait inconvenant de vous laisser y aller seuls.
+1291		4	STREAM	EID_1100_a0072g_0010_SNOW010_X	0.5	 			0	35	Je suis désolé.
+Je sais que mon majordome s'inquiète beaucoup à mon sujet, mais de là à vous adresser une demande aussi saugrenue...
+		4	STREAM	EID_1100_a0072g_0020_SNOW010_X	0.5	 			0	35	Je vous accompagne.
+Il serait inconvenant de vous laisser y aller seuls.
 		4	STREAM	EID_1100_a0072g_0030_SNOW010_X	0.5	 			0	35	Et d'ailleurs, ce sera peut-être amusant d'utiliser mes yeux à bon escient pour une fois !
 1292		2	STREAM	EID_1100_a0078g_0050_SNOW010_X	0.5	 			0	35	Je vais pétrifier ses pages ! Donne-lui le coup de grâce !
 1293		2	STREAM	EID_1100_a0078g_0070_NIER010_X	0.5	 			0	2	Bon sang ! Je n'arrive pas à le blesser !
@@ -560,17 +652,22 @@
 1299		2	STREAM	EID_1403_a0020g_0010_NIER010_X	3	 			0	2	Alors, c'était un cimetière#?
 1300		2	STREAM	EID_1403_a0020g_0020_NIER010_X	3				0	2	Étrange... Toutes les pierres tombales ont l'air récentes.
 		2	STREAM	EID_1403_a0020g_0030_BOOKW010_X	3	 			0	26	Ils ont dû être la proie des loups. Quel triste sort#!
-1301		2	STREAM	EID_1410_a0010g_0100_NIER010_X	3				0	2	En quoi cette ville peut-elle être si différente#? Parlent-ils une autre langue#? Ont-ils des coutumes étranges#?
-1302		2	STREAM	EID_1410_a0010g_0110_BOOKW010_X	3				0	26	Elle pourrait être plus singulière que nous ne pourrions l'imaginer. Quelle sorte de ville refuse tout contact avec le monde extérieur#?
+1301		2	STREAM	EID_1410_a0010g_0100_NIER010_X	3				0	2	En quoi cette ville peut-elle être si différente#? Parlent-ils une autre langue#?
+Ont-ils des coutumes étranges#?
+1302		2	STREAM	EID_1410_a0010g_0110_BOOKW010_X	3				0	26	Elle pourrait être plus singulière que nous ne pourrions l'imaginer.
+Quelle sorte de ville refuse tout contact avec le monde extérieur#?
 1303		2	STREAM	EID_1410_a0010g_0120_NIER010_X	3				0	2	Je veux aider Popola, mais...
 1304		2	STREAM	EID_1410_a0020_0010_BOOKW010_X	0.5				0	26	Une ville isolée dans le désert...
 		2	STREAM	EID_1410_a0020_0020_NIER010_X	0.5	 			0	2	Nous devons trouver un moyen d'y entrer pour trouver un filtre à eau.
-1305		2	STREAM	EID_1410_a0020_0110_BOOKW010_X	0.5				0	26	Bou-bouquin ! Comment oses-tu ?! Jamais je n'ai été traité avec aussi peu de décence et...
+1305		2	STREAM	EID_1410_a0020_0110_BOOKW010_X	0.5				0	26	Bou-bouquin ! Comment oses-tu ?!
+Jamais je n'ai été traité avec aussi peu de décence et...
 		2	STREAM	EID_1410_a0020_0120_NIER010_X	0.5	 			0	2	Du calme, Weiss. Voyons voir ce qu'elle a en tête.
 1306		2	STREAM	EID_1410_a0065_0050_NIER010_X	0.5				0	2	J'aurais peut-être dû apprendre d'autres langues quand j'étais petit...
-		2	STREAM	EID_1410_a0065_0060_BOOKW010_X	0.5	 			0	26	Tu pourrais parler mille langues différentes, mais toujours échouer si tu ne possèdes pas les connaissances nécessaires pour comprendre la culture d'un autre peuple.
+		2	STREAM	EID_1410_a0065_0060_BOOKW010_X	0.5	 			0	26	Tu pourrais parler mille langues différentes, mais toujours échouer si tu ne possèdes
+pas les connaissances nécessaires pour comprendre la culture d'un autre peuple.
 1307		2	STREAM	EID_1450_a0030g_0040_NIER010_X	0.5				0	2	Fyra... Attends... J'ai besoin de me reposer.
-1308		2	STREAM	EID_1450_a0030g_0050_BOOKW010_X	0.5				0	26	Le patriotisme de cette jeune fille est sans égal. Regardez comment elle sacrifie tout pour son prince !
+1308		2	STREAM	EID_1450_a0030g_0050_BOOKW010_X	0.5				0	26	Le patriotisme de cette jeune fille est sans égal.
+Regardez comment elle sacrifie tout pour son prince !
 1309		2	STREAM	EID_2000_a0046g_0010_DEBOL010_X	0.5	 			0	23	Mais qu'est-ce qui se passe ?!
 		2	STREAM	EID_2000_a0046g_0080_NIER010_X	0.5	 			0	2	Va sceller la porte ! Allez !
 		2	STREAM	EID_2000_a0046g_0030_NIER010_X	0.5	 			0	2	Que quelqu'un s'occupe de Yonah !
@@ -589,8 +686,10 @@
 1318		2	STREAM	SEID_1450_S0180_0240_X	3	 			0	2	Elle nous a donné du fil à retordre. Je comprends pourquoi le peuple masqué ne voulait pas qu'elle sorte d'ici.
 		2	STREAM	SEID_1450_S0180_0250_X	3	 			0	26	Nous n'aurions tout de même pas dû avoir à nous en occuper.
 		2	STREAM	SEID_1450_S0180_0260_X	3	 			0	2	Tu as raison. Allons retrouver le pillard qui a réussi à sortir du temple et ramenons-le à Façade.
-1319		2	STREAM	SEID_0300_S0010_0010_BOOKW010_X	0.5				0	26	La chasse aux moutons#? Il n'y a vraiment pas de tâche trop insignifiante à tes yeux#!
-		2	STREAM	SEID_0300_S0010_0020_NIER010_X	0.5				0	2	C'est beaucoup plus difficile que ça en a l'air, Weiss. ... Ils sont rapides.
+1319		2	STREAM	SEID_0300_S0010_0010_BOOKW010_X	0.5				0	26	La chasse aux moutons#?
+Il n'y a vraiment pas de tâche trop insignifiante à tes yeux#!
+		2	STREAM	SEID_0300_S0010_0020_NIER010_X	0.5				0	2	C'est beaucoup plus difficile que ça en a l'air, Weiss.
+... Ils sont rapides.
 		2	STREAM	SEID_0300_S0010_0030_BOOKW010_X	0.5				0	26	Alors, frappe-les de tes sorts#!
 		2	STREAM	SEID_0300_S0010_0040_NIER010_X	0.5				0	2	Oh, bon sang#!
 		2	STREAM	SEID_0300_S0010_0050_BOOKW010_X	0.5				0	26	Qu'y a-t-il#?! As-tu repéré des Ombres#?!
@@ -600,14 +699,16 @@
 		2	STREAM	SEID_0300_S0010_0090_BOOKW010_X	0.5				0	26	Essaie de ne pas hurler comme un fou furieux chaque fois que tu te rends compte de quelque chose d'évident, d'accord#?
 1320		2	STREAM	SEID_0300_S0020_0010_BOOKW010_X	0.5				0	26	On te demande souvent de te charger d'emplettes ridicules#?
 		2	STREAM	SEID_0300_S0020_0020_NIER010_X	0.5				0	2	Elles ne sont pas ridicules.
-		2	STREAM	SEID_0300_S0020_0030_NIER010_X	0.5				0	2	Je suis un frère qui habite un monde mourant. J'accepte tout le boulot qu'on m'offre.
+		2	STREAM	SEID_0300_S0020_0030_NIER010_X	0.5				0	2	Je suis un frère qui habite un monde mourant.
+J'accepte tout le boulot qu'on m'offre.
 		2	STREAM	SEID_0300_S0020_0040_NIER010_X	0.5				0	2	Nous avons tous la vie dure, alors je n'ai pas le droit de me plaindre.
 		2	STREAM	SEID_0300_S0020_0050_NIER010_X	0.5				0	2	Ces tâches me permettent de gagner ma vie honnêtement et je leur en suis reconnaissant.
 		2	STREAM	SEID_0300_S0020_0060_BOOKW010_X	0.5				0	26	Je vois. Eh bien, continue#!
 		2	STREAM	SEID_0300_S0020_0070_NIER010_X	0.5				0	2	Entendu.
 1321		2	STREAM	SEID_0300_S0030_0010_NIER010_X	0.5				0	2	Dis...
 		2	STREAM	SEID_0300_S0030_0020_BOOKW010_X	0.5				0	26	Qu'y a-t-il#?
-		2	STREAM	SEID_0300_S0030_0030_NIER010_X	0.5				0	2	N'es-tu pas omnipotent#? Ne pourrais-tu pas... lancer un sort et tout ranger d'un seul coup#?
+		2	STREAM	SEID_0300_S0030_0030_NIER010_X	0.5				0	2	N'es-tu pas omnipotent#?
+Ne pourrais-tu pas... lancer un sort et tout ranger d'un seul coup#?
 		2	STREAM	SEID_0300_S0030_0040_BOOKW010_X	0.5				0	26	Le pouvoir infini du Grimoire Weiss ne doit pas être utilisé pour accomplir des tâches aussi ingrates#!
 		2	STREAM	SEID_0300_S0030_0050_NIER010_X	0.5				0	2	Je n'en demande pourtant pas beaucoup.
 		2	STREAM	SEID_0300_S0030_0060_BOOKW010_X	0.5				0	26	Tu es celui qui prétend se complaire à exécuter un travail honnête et consciencieux#!
@@ -645,28 +746,33 @@
 		2	STREAM	SEID_0300_S0110_0070_NIER010_X	0.5				0	2	Et nous ne pouvons plus en fabriquer maintenant...
 		2	STREAM	SEID_0300_S0110_0080_BOOKW010_X	0.5				0	26	Ciel, non#!
 		2	STREAM	SEID_0300_S0110_0090_NIER010_X	0.5				0	2	Étrange...
-		2	STREAM	SEID_0300_S0110_0100_BOOKW010_X	0.5				0	26	Ce sont des reliques d'une civilisation ancienne. Ceux qui les ont forgés possédaient sûrement d'excellentes connaissances en matière de technologie.
+		2	STREAM	SEID_0300_S0110_0100_BOOKW010_X	0.5				0	26	Ce sont des reliques d'une civilisation ancienne.
+Ceux qui les ont forgés possédaient sûrement d'excellentes connaissances en matière de technologie.
 		2	STREAM	SEID_0300_S0110_0110_NIER010_X	0.5				0	2	Une fois oubliées, les connaissances ne servent plus à rien.
 		2	STREAM	SEID_0300_S0110_0120_BOOKW010_X	0.5				0	26	Oh ho#! C'est bien vrai.
 1327		2	STREAM	SEID_1000_S0010_0010_BOOKW010_X	0.5				0	26	Bleuh... Tu ne peux pas le nier, cette fois tu as accepté une tâche plutôt éprouvante.
 		2	STREAM	SEID_1000_S0010_0020_NIER010_X	0.5				0	2	Oh, arrête de te plaindre.
 		2	STREAM	SEID_1000_S0010_0030_BOOKW010_X	0.5				0	26	Je présume que cet œuf pourrait nous rapporter des profits considérables si nous le vendions au plus offrant.
-		2	STREAM	SEID_1000_S0010_0040_NIER010_X	0.5				0	2	Nous ne pouvons pas le faire. La vieille femme a besoin de son remède.
+		2	STREAM	SEID_1000_S0010_0040_NIER010_X	0.5				0	2	Nous ne pouvons pas le faire.
+La vieille femme a besoin de son remède.
 		2	STREAM	SEID_1000_S0010_0050_BOOKW010_X	0.5				0	26	Nous devrions peut-être penser d'abord à notre situation financière et non aux besoins d'une vieille femme, hum#?
 		2	STREAM	SEID_1000_S0010_0060_NIER010_X	0.5				0	2	Je t'ai pourtant dit d'arrêter de te plaindre.
 1328		2	STREAM	SEID_1000_S0020_0010_BOOKW010_X	0.5				0	26	Ah... 
 		2	STREAM	SEID_1000_S0020_0020_NIER010_X	0.5				0	2	Ah, mince#!
 		2	STREAM	SEID_1000_S0020_0030_BOOKW010_X	0.5				0	26	Ce bruit n'était guère encourageant...
 		2	STREAM	SEID_1000_S0020_0040_NIER010_X	0.5				0	2	Je crois qu'il y a quelque chose de cassé.
-		2	STREAM	SEID_1000_S0020_0050_BOOKW010_X	0.5				0	26	Eh bien, il ne servirait à rien d'aller plus loin. Nous devrions plutôt retourner nous excuser.
+		2	STREAM	SEID_1000_S0020_0050_BOOKW010_X	0.5				0	26	Eh bien, il ne servirait à rien d'aller plus loin.
+Nous devrions plutôt retourner nous excuser.
 		2	STREAM	SEID_1000_S0020_0060_NIER010_X	0.5				0	2	... Oui, tu as raison.
 1329		2	STREAM	SEID_9230_S0010_0010_BOOKW010_X	0.5	 			0	26	Yonah a vraiment des goûts... originaux.
 		2	STREAM	SEID_9230_S0010_0020_NIER010_X	0.5	 			0	2	Elle a toujours été comme ça.
 		2	STREAM	SEID_9230_S0010_0030_NIER010_X	0.5	 			0	2	Si c'est ce qu'elle désire, c'est ce qu'elle recevra.
 		2	STREAM	SEID_9230_S0010_0040_BOOKW010_X	0.5	 			0	26	En tant que frère, tu dois relever plusieurs défis uniques.
-		2	STREAM	SEID_9230_S0010_0050_NIER010_X	0.5	 			0	2	L'important est qu'elle me sourie. C'est tout ce qui compte.
+		2	STREAM	SEID_9230_S0010_0050_NIER010_X	0.5	 			0	2	L'important est qu'elle me sourie.
+C'est tout ce qui compte.
 1330		2	STREAM	SEID_1320_S0010_0080_BOOKW010_X	0.5				0	26	Oh, non. Pas encore une livraison#!
-		2	STREAM	SEID_1320_S0010_0090_NIER010_X	0.5				0	2	Tout ira bien. Nous n'avons qu'à aller lentement et prendre notre temps.
+		2	STREAM	SEID_1320_S0010_0090_NIER010_X	0.5				0	2	Tout ira bien.
+Nous n'avons qu'à aller lentement et prendre notre temps.
 		2	STREAM	SEID_1320_S0010_0100_BOOKW010_X	0.5				0	26	Je possède des talents extraordinaires, mais ce sont deux choses que je suis incapable de maîtriser.
 		2	STREAM	SEID_1320_S0010_0110_NIER010_X	0.5				0	2	Je ne vais sûrement pas laisser Kainé s'en charger.
 		2	STREAM	SEID_1320_S0010_0120_BOOKW010_X	0.5				0	26	Tu as raison. Je suis certain que le langage vulgaire de cette dévergondée réduirait notre précieux colis en miettes.
@@ -674,19 +780,24 @@
 1331		2	STREAM	SEID_1320_S0020_0010_BOOKW010_X	0.5				0	26	... Quoi, toujours pas de prise#?!
 		2	STREAM	SEID_1320_S0020_0020_NIER010_X	0.5				0	2	Chut#! Tu vas les effrayer#!
 		2	STREAM	SEID_1320_S0020_0030_BOOKW010_X	0.5				0	26	Oh. Je... je vois.
-1332		2	STREAM	SEID_1320_S0040_0010_BOOKW010_X	0.5				0	26	Pour avoir du succès à la pêche, il faut de la patience, de la concentration, de la volonté, de l'ambition...
+1332		2	STREAM	SEID_1320_S0040_0010_BOOKW010_X	0.5				0	26	Pour avoir du succès à la pêche, il faut de la patience,
+de la concentration, de la volonté, de l'ambition...
 		2	STREAM	SEID_1320_S0040_0020_NIER010_X	0.5				0	2	Chut#! Tu vas les effrayer#!
-		2	STREAM	SEID_1320_S0040_0030_BOOKW010_X	0.5				0	26	Oh.  ... D'accord.
+		2	STREAM	SEID_1320_S0040_0030_BOOKW010_X	0.5				0	26	Oh.
+... D'accord.
 1333		2	STREAM	SEID_1320_S0070_0010_NIER010_X	0.5				0	2	Le bateau d'un marchand...
 		2	STREAM	SEID_1320_S0070_0020_BOOKW010_X	0.5				0	26	Qu'y a-t-il#?
-		2	STREAM	SEID_1320_S0070_0030_NIER010_X	0.5				0	2	C'est que... Je n'ai jamais voyagé par bateau.
+		2	STREAM	SEID_1320_S0070_0030_NIER010_X	0.5				0	2	C'est que...
+Je n'ai jamais voyagé par bateau.
 		2	STREAM	SEID_1320_S0070_0040_NIER010_X	0.5				0	2	Je me demande ce que ce serait que de découvrir de nouveaux horizons.
 		2	STREAM	SEID_1320_S0070_0050_NIER010_X	0.5				0	2	Un jour, j'aimerais emmener Yonah dans une aventure comme celle-ci.
 		2	STREAM	SEID_1320_S0070_0060_BOOKW010_X	0.5				0	26	Et tu le feras sûrement#!
 		2	STREAM	SEID_1320_S0070_0070_NIER010_X	0.5				0	2	Oui, j'en suis certain.
-1334		2	STREAM	SEID_1320_S0140_0010_BOOKW010_X	0.5				0	26	Oh, ho#! Cette fois, je ne ferai aucun bruit#! Les poissons ne se douteront jamais que...
+1334		2	STREAM	SEID_1320_S0140_0010_BOOKW010_X	0.5				0	26	Oh, ho#! Cette fois, je ne ferai aucun bruit#!
+Les poissons ne se douteront jamais que...
 		2	STREAM	SEID_1320_S0140_0020_NIER010_X	0.5				0	2	Chut#! Tu vas les effrayer#!
-		2	STREAM	SEID_1320_S0140_0030_BOOKW010_X	0.5				0	26	Oh. ... D'accord.
+		2	STREAM	SEID_1320_S0140_0030_BOOKW010_X	0.5				0	26	Oh.
+... D'accord.
 1335		2	STREAM	SEID_1320_S0150_0010_BOOKW010_X	3				0	26	...
 		2	STREAM	SEID_1320_S0150_0020_NIER010_X	0.5				0	2	Tu es plutôt silencieux, Weiss.
 		2	STREAM	SEID_1320_S0150_0030_BOOKW010_X	0.5				0	26	J'effraierais les poissons, sinon, n'est-ce pas#?
@@ -703,19 +814,24 @@
 		2	STREAM	SEID_1320_S0160_0050_BOOKW010_X	0.5				0	26	... Non.
 		2	STREAM	SEID_1320_S0160_0060_NIER010_X	0.5				0	2	... Continuons d'utiliser notre bonne vieille méthode, alors.
 		2	STREAM	SEID_1320_S0160_0070_BOOKW010_X	0.5				0	26	... Cela me semble en effet préférable.
-1337		2	STREAM	SEID_9100_S0010_0010_BOOKW010_X	0.5	 			0	26	Un breuvage dans lequel flotte une queue de lézard... Cela me semble impressionnant#!
+1337		2	STREAM	SEID_9100_S0010_0010_BOOKW010_X	0.5	 			0	26	Un breuvage dans lequel flotte une queue de lézard...
+Cela me semble impressionnant#!
 		2	STREAM	SEID_9100_S0010_0020_NIER010_X	0.5	 			0	2	Elle n'en a peut-être pas l'air, mais après quelques verres, Popola est la femme la plus forte au monde.
 		2	STREAM	SEID_9100_S0010_0030_BOOKW010_X	0.5	 			0	26	Tu plaisantes#!
-		2	STREAM	SEID_9100_S0010_0040_NIER010_X	0.5	 			0	2	Non. Un jour, elle était tellement ivre qu'elle a presque détruit la taverne. Elle a même démoli un mur.
+		2	STREAM	SEID_9100_S0010_0040_NIER010_X	0.5	 			0	2	Non. Un jour, elle était tellement ivre qu'elle a presque détruit la taverne.
+Elle a même démoli un mur.
 		2	STREAM	SEID_9100_S0010_0050_BOOKW010_X	0.5	 			0	26	Est-ce que l'alcool a la même influence sur Devola#?
 		2	STREAM	SEID_9100_S0010_0060_NIER010_X	0.5	 			0	2	En fait, Devola ne boit pas d'alcool.
-		2	STREAM	SEID_9100_S0010_0070_NIER010_X	0.5	 			0	2	Quand elle en boit ne serait-ce qu'une goutte, elle devient... plutôt affectueuse.
+		2	STREAM	SEID_9100_S0010_0070_NIER010_X	0.5	 			0	2	Quand elle en boit ne serait-ce qu'une goutte,
+elle devient... plutôt affectueuse.
 		2	STREAM	SEID_9100_S0010_0080_BOOKW010_X	0.5	 			0	26	Devola#?! Vraiment#?!
 		2	STREAM	SEID_9100_S0010_0090_NIER010_X	0.5	 			0	2	... Ouaip.
 		2	STREAM	SEID_9100_S0010_0100_BOOKW010_X	0.5	 			0	26	L'alcool est une substance bien redoutable.
-1338		2	STREAM	SEID_9030_S0010_0010_NIER010_X	0.5	 			0	2	Eh bien, nous l'avons trouvé... Mais on dirait que nous sommes arrivés trop tard.
+1338		2	STREAM	SEID_9030_S0010_0010_NIER010_X	0.5	 			0	2	Eh bien, nous l'avons trouvé...
+Mais on dirait que nous sommes arrivés trop tard.
 		2	STREAM	SEID_9030_S0010_0020_NIER010_X	0.5	 			0	2	Le vieillard aura du mal à l'accepter.
-		2	STREAM	SEID_9030_S0010_0030_BOOKW010_X	0.5	 			0	26	Nul ne peut échapper à son funeste destin, qu'il soit un homme ou un chien.
+		2	STREAM	SEID_9030_S0010_0030_BOOKW010_X	0.5	 			0	26	Nul ne peut échapper à son funeste destin,
+qu'il soit un homme ou un chien.
 		2	STREAM	SEID_9030_S0010_0040_NIER010_X	0.5	 			0	2	Et toi aussi, Weiss#?
 		2	STREAM	SEID_9030_S0010_0050_BOOKW010_X	0.5	 			0	26	Hum... À vrai dire, je n'avais jamais considéré la question.
 		2	STREAM	SEID_9030_S0010_0060_BOOKW010_X	0.5	 			0	26	Je suppose qu'un jour je pourrais tout simplement... disparaître.
@@ -723,24 +839,30 @@
 		2	STREAM	SEID_9030_S0010_0080_BOOKW010_X	0.5	 			0	26	Hum... Dis...
 		2	STREAM	SEID_9030_S0010_0090_NIER010_X	0.5	 			0	2	Qu'y a-t-il#?
 		2	STREAM	SEID_9030_S0010_0100_BOOKW010_X	0.5	 			0	26	Écoute, s'il advient que je passe dans l'autre monde...
-		2	STREAM	SEID_9030_S0010_0110_NIER010_X	0.5	 			0	2	Oh, ne sois pas si morbide, Weiss#! ... De toute façon, tu ne peux pas mourir. Tu es fait de papier.
+		2	STREAM	SEID_9030_S0010_0110_NIER010_X	0.5	 			0	2	Oh, ne sois pas si morbide, Weiss#!
+... De toute façon, tu ne peux pas mourir.
+Tu es fait de papier.
 		2	STREAM	SEID_9030_S0010_0120_BOOKW010_X	0.5	 			0	26	Ah...! Je n'y avais jamais songé.
 1339		2	STREAM	SEID_9120_S0010_0010_BOOKW010_X	0.5	 			0	26	Dis...
 		2	STREAM	SEID_9120_S0010_0020_NIER010_X	0.5	 			0	2	Qu'y a-t-il#?
 		2	STREAM	SEID_9120_S0010_0030_BOOKW010_X	0.5	 			0	26	Que faisons-nous ici#?
 		2	STREAM	SEID_9120_S0010_0040_NIER010_X	0.5	 			0	2	Nous mettons de l'ordre dans ces marchandises.
-		2	STREAM	SEID_9120_S0010_0050_BOOKW010_X	0.5	 			0	26	Laisse-moi reformuler ma question. Tu fais tout cela pour l'apprenti marchand, n'est-ce pas#?
+		2	STREAM	SEID_9120_S0010_0050_BOOKW010_X	0.5	 			0	26	Laisse-moi reformuler ma question.
+Tu fais tout cela pour l'apprenti marchand, n'est-ce pas#?
 		2	STREAM	SEID_9120_S0010_0060_NIER010_X	0.5	 			0	2	Oui.
 		2	STREAM	SEID_9120_S0010_0070_BOOKW010_X	0.5	 			0	26	Alors, ne serait-il pas plus approprié qu'il s'occupe lui-même de ses effets personnels#? 
-		2	STREAM	SEID_9120_S0010_0080_NIER010_X	0.5	 			0	2	Il est dans le pétrin, Weiss. Nous lui donnons un coup de main, voilà tout.
+		2	STREAM	SEID_9120_S0010_0080_NIER010_X	0.5	 			0	2	Il est dans le pétrin, Weiss.
+Nous lui donnons un coup de main, voilà tout.
 		2	STREAM	SEID_9120_S0010_0090_BOOKW010_X	0.5	 			0	26	J'attends avec grande impatience le jour où quelqu'un fera preuve de tant de générosité envers nous.
 1340		2	STREAM	SEID_9120_S0010_0100_BOOKW010_X	0.5	 			0	26	Quelle perte de temps#!
 		2	STREAM	SEID_9120_S0010_0110_NIER010_X	0.5	 			0	2	Qui aurait cru qu'il aurait le mal de mer#?
 		2	STREAM	SEID_9120_S0010_0120_NIER010_X	0.5	 			0	2	La prochaine fois, il devrait peut-être se trouver du boulot sur la terre ferme.
 		2	STREAM	SEID_9120_S0010_0130_BOOKW010_X	0.5	 			0	26	Il devrait peut-être plutôt rester chez lui à ne rien faire#!
 1341	1342	4	STREAM	EID_1350_a0038g_0030_NIER010_X	0.5	 			0	2	Je n'arrive pas à croire que la ville entière lui ait menti.
-		4	STREAM	EID_1350_a0038g_0040_BOOKW010_X	0.5	 			0	26	Je suppose qu'ils avaient de bonnes intentions. Autrement, ils n'auraient pas perpétué ce stratagème pendant 50 ans.
-1342		4	STREAM	EID_1350_a0038g_0050_BOOKW010_X	0.5	 			0	26	Cela explique aussi pourquoi ils l'ont chargée de s'occuper du phare. Ainsi, elle n'a pas eu l'occasion d'apprendre le décès de son bien-aimé.
+		4	STREAM	EID_1350_a0038g_0040_BOOKW010_X	0.5	 			0	26	Je suppose qu'ils avaient de bonnes intentions.
+Autrement, ils n'auraient pas perpétué ce stratagème pendant 50 ans.
+1342		4	STREAM	EID_1350_a0038g_0050_BOOKW010_X	0.5	 			0	26	Cela explique aussi pourquoi ils l'ont chargée de s'occuper du phare.
+Ainsi, elle n'a pas eu l'occasion d'apprendre le décès de son bien-aimé.
 		4	STREAM	EID_1350_a0038g_0060_NIER010_X	0.5	 			0	2	Ça ne me semble pas être de bonnes intentions.
 1343		2	STREAM	SEID_1350_S0010_0010_NIER010_X	0.5				0	2	Distribuer le courrier est plus difficile que ça en a l'air.
 		2	STREAM	SEID_1350_S0010_0020_NIER010_X	0.5				0	2	Pourtant, il n'existe pas d'autre façon de communiquer à longue distance avec les autres.
@@ -749,9 +871,11 @@
 		2	STREAM	SEID_1350_S0010_0050_BOOKW010_X	0.5				0	26	Je suppose que oui.
 		2	STREAM	SEID_1350_S0010_0060_NIER010_X	0.5				0	2	J'aimerais bien pouvoir parler à Yonah chaque fois que je m'inquiète pour elle.
 		2	STREAM	SEID_1350_S0010_0070_BOOKW010_X	0.5				0	26	Ta sœur est toujours dans tes pensées, n'est-ce pas#?
-1344		2	STREAM	SEID_1350_S0011_0010_BOOKW010_X	0.5				0	26	Une lettre pour Popola#? Voilà qui est intéressant...
+1344		2	STREAM	SEID_1350_S0011_0010_BOOKW010_X	0.5				0	26	Une lettre pour Popola#?
+Voilà qui est intéressant...
 		2	STREAM	SEID_1350_S0011_0020_BOOKW010_X	0.5				0	26	N'es-tu pas un peu curieux d'en connaître le contenu#?
-		2	STREAM	SEID_1350_S0011_0030_NIER010_X	0.5				0	2	Ce sont ses affaires, pas les miennes. Je ne peux pas m'inquiéter à propos de détails anodins.
+		2	STREAM	SEID_1350_S0011_0030_NIER010_X	0.5				0	2	Ce sont ses affaires, pas les miennes.
+Je ne peux pas m'inquiéter à propos de détails anodins.
 		2	STREAM	SEID_1350_S0011_0040_BOOKW010_X	0.5				0	26	Anodins#? Ton vocabulaire s'est amélioré#!
 		2	STREAM	SEID_1350_S0011_0050_NIER010_X	0.5				0	2	C'est Popola qui m'a appris ce mot.
 		2	STREAM	SEID_1350_S0011_0060_BOOKW010_X	0.5				0	26	Je l'avais peut-être sous-estimée.
@@ -769,16 +893,21 @@
 		2	STREAM	SEID_1410_S0030_0060_BOOKW010_X	0.5				0	26	Tu n'as pas oublié le message, n'est-ce pas#?
 		2	STREAM	SEID_1410_S0030_0070_NIER010_X	0.5				0	2	... Non.
 1348		2	STREAM	SEID_1410_S0070_0010_BOOKW010_X	0.5				0	26	Ces lois sont complètement absurdes#!
-		2	STREAM	SEID_1410_S0070_0020_BOOKW010_X	0.5				0	26	Nous ne pouvons même pas dire à cette personne ce que nous voulons acheter#! Je n'ai jamais rien entendu d'aussi ridicule#!
+		2	STREAM	SEID_1410_S0070_0020_BOOKW010_X	0.5				0	26	Nous ne pouvons même pas dire à cette personne ce que nous voulons acheter#!
+Je n'ai jamais rien entendu d'aussi ridicule#!
 		2	STREAM	SEID_1410_S0070_0030_NIER010_X	0.5				0	2	Ah, ce n'est pas grave.
-		2	STREAM	SEID_1410_S0070_0040_BOOKW010_X	0.5				0	26	Oh, allons#! La situation doit te contrarier un peu#!
-		2	STREAM	SEID_1410_S0070_0050_NIER010_X	0.5				0	2	Oui, mais je suis certain que cette loi existe pour une bonne raison... Une raison importante que nous ne connaissons simplement pas encore.
-		2	STREAM	SEID_1410_S0070_0060_BOOKW010_X	0.5				0	26	Tu sembles faire preuve d'une largeur d'esprit inhabituelle. ... Tu n'es pas malade, au moins#?
+		2	STREAM	SEID_1410_S0070_0040_BOOKW010_X	0.5				0	26	Oh, allons#!
+La situation doit te contrarier un peu#!
+		2	STREAM	SEID_1410_S0070_0050_NIER010_X	0.5				0	2	Oui, mais je suis certain que cette loi existe pour une bonne raison...
+Une raison importante que nous ne connaissons simplement pas encore.
+		2	STREAM	SEID_1410_S0070_0060_BOOKW010_X	0.5				0	26	Tu sembles faire preuve d'une largeur d'esprit inhabituelle.
+... Tu n'es pas malade, au moins#?
 		2	STREAM	SEID_1410_S0070_0070_NIER010_X	0.5				0	2	Tu m'as presque fait un compliment#!
 1349		2	STREAM	SEID_9050_S0010_0010_BOOKW010_X	0.5	 			0	26	*soupir*
 		2	STREAM	SEID_9050_S0010_0020_NIER010_X	0.5	 			0	2	Qu'y a-t-il#?
 		2	STREAM	SEID_9050_S0010_0030_BOOKW010_X	0.5	 			0	26	Comment un fils peut-il tant affliger ses parents#?
-		2	STREAM	SEID_9050_S0010_0040_BOOKW010_X	0.5	 			0	26	Il semble complètement aveugle à tout le souci qu'il leur cause#! C'est déplorable#!
+		2	STREAM	SEID_9050_S0010_0040_BOOKW010_X	0.5	 			0	26	Il semble complètement aveugle à tout le souci qu'il leur cause#!
+C'est déplorable#!
 		2	STREAM	SEID_9050_S0010_0050_NIER010_X	0.5	 			0	2	J'adore quand tu te comportes comme un vieux grognon, Weiss.
 		2	STREAM	SEID_9050_S0010_0060_BOOKW010_X	0.5	 			0	26	Je me comporte peut-être de cette manière parce que j'existe depuis des temps immémoriaux#!
 		2	STREAM	SEID_9050_S0010_0070_NIER010_X	0.5	 			0	2	Quel âge as-tu, au fait#?
@@ -787,30 +916,40 @@
 		2	STREAM	SEID_9050_S0010_0100_BOOKW010_X	0.5	 			0	26	Cette pauvre famille...
 1350		2	STREAM	SEID_1450_S0070_0010_NIER010_X	0.5				0	2	Croit-il vraiment qu'elle lui pardonnera s'il lui donne un manteau de fourrure#?
 		2	STREAM	SEID_1450_S0070_0020_BOOKW010_X	0.5				0	26	En effet, cela semble plutôt matérialiste.
-		2	STREAM	SEID_1450_S0070_0030_KAINE010_X	0.5				0	28	Vous rigolez#? Si quelqu'un me donnait un cadeau, je serais aussi heureuse qu'un cochon qui se roule dans la fange#!
+		2	STREAM	SEID_1450_S0070_0030_KAINE010_X	0.5				0	28	Vous rigolez#?
+Si quelqu'un me donnait un cadeau, je serais aussi heureuse qu'un cochon qui se roule dans la fange#!
 		2	STREAM	SEID_1450_S0070_0040_BOOKW010_X	0.5				0	26	Le monde serait beaucoup plus simple s'il n'était peuplé que de gens comme Kainé.
 		2	STREAM	SEID_1450_S0070_0050_KAINE010_X	0.5				0	28	Je vais prétendre que c'est un compliment.
 1351		2	STREAM	SEID_1450_S0120_0010_NIER010_X	0.5				0	2	Possèdes-tu des recettes, Weiss#?
-		2	STREAM	SEID_1450_S0120_0020_BOOKW010_X	0.5				0	26	Comment oses-tu me comparer à un vulgaire livre de cuisine#! Des informations aussi insignifiantes n'ont pas de place parmi mes pages.
-1352		2	STREAM	SEID_9020_S0010_0010_BOOKW010_X	0.5	 			0	26	Quelle vive affection#! Cet homme a manifestement été envoûté par sa bien-aimée.
+		2	STREAM	SEID_1450_S0120_0020_BOOKW010_X	0.5				0	26	Comment oses-tu me comparer à un vulgaire livre de cuisine#!
+Des informations aussi insignifiantes n'ont pas de place parmi mes pages.
+1352		2	STREAM	SEID_9020_S0010_0010_BOOKW010_X	0.5	 			0	26	Quelle vive affection#!
+Cet homme a manifestement été envoûté par sa bien-aimée.
 		2	STREAM	SEID_9020_S0010_0020_NIER010_X	0.5	 			0	2	À mon avis, je crois qu'elle se joue de lui.
 		2	STREAM	SEID_9020_S0010_0030_BOOKW010_X	0.5	 			0	26	Hum...? Que veux-tu dire par là#?
 		2	STREAM	SEID_9020_S0010_0040_NIER010_X	0.5	 			0	2	Ha, c'est peut-être une de ces choses qu'un grimoire magique ne peut comprendre.
-		2	STREAM	SEID_9020_S0010_0050_BOOKW010_X	0.5	 			0	26	Absurde#! Rien n'est au-delà de mes connaissances#!
+		2	STREAM	SEID_9020_S0010_0050_BOOKW010_X	0.5	 			0	26	Absurde#!
+Rien n'est au-delà de mes connaissances#!
 		2	STREAM	SEID_9020_S0010_0060_NIER010_X	0.5	 			0	2	Pfft. Ça doit être avantageux.
 1353		2	STREAM	SEID_9020_S0010_0070_BOOKW010_X	0.5	 			0	26	Crois-tu qu'il soit possible que cet homme se fasse duper par sa bien-aimée#?
 		2	STREAM	SEID_9020_S0010_0080_NIER010_X	0.5	 			0	2	Oui, c'est probable.
 		2	STREAM	SEID_9020_S0010_0090_BOOKW010_X	0.5	 			0	26	Alors, allons l'en informer immédiatement.
 		2	STREAM	SEID_9020_S0010_0100_NIER010_X	0.5	 			0	2	... Ce n'est pas une bonne idée.
-		2	STREAM	SEID_9020_S0010_0110_BOOKW010_X	0.5	 			0	26	Et pourquoi pas#?! Avons-nous enfin découvert quelqu'un que tu n'es pas disposé à aider#?
-		2	STREAM	SEID_9020_S0010_0120_NIER010_X	0.5	 			0	2	Les rapports chez les êtres humains sont complexes. Je sais que c'est difficile à comprendre, mais...
+		2	STREAM	SEID_9020_S0010_0110_BOOKW010_X	0.5	 			0	26	Et pourquoi pas#?!
+Avons-nous enfin découvert quelqu'un que tu n'es pas disposé à aider#?
+		2	STREAM	SEID_9020_S0010_0120_NIER010_X	0.5	 			0	2	Les rapports chez les êtres humains sont complexes.
+Je sais que c'est difficile à comprendre, mais...
 		2	STREAM	SEID_9020_S0010_0130_BOOKW010_X	0.5	 			0	26	Il n'y a rien que le Grimoire Weiss ne puisse pas comprendre#!
 		2	STREAM	SEID_9020_S0010_0140_NIER010_X	0.5	 			0	2	Oui, oui, je sais...
 1354		2	STREAM	SEID_9250_S0010_0010_BOOKW010_X	0.5	 			0	26	Si je me fie à mon expérience, la jeunesse est synonyme de stupidité#!
-		2	STREAM	SEID_9250_S0010_0020_NIER010_X	0.5	 			0	2	Il veut seulement protéger sa ville. Je crois que c'est une bonne idée.
+		2	STREAM	SEID_9250_S0010_0020_NIER010_X	0.5	 			0	2	Il veut seulement protéger sa ville.
+Je crois que c'est une bonne idée.
 		2	STREAM	SEID_9250_S0010_0030_KAINE010_X	0.5	 			0	28	Ah oui, c'est vraiment une bonne idée...!
-		2	STREAM	SEID_9250_S0010_0040_NIER010_X	0.5	 			0	2	Quoi#? N'étais-tu pas la gardienne de ton village, Kainé#?
-		2	STREAM	SEID_9250_S0010_0050_KAINE010_X	0.5	 			0	28	Ouais, mais... Écoute, ce que je veux dire, c'est que... La ferme.
+		2	STREAM	SEID_9250_S0010_0040_NIER010_X	0.5	 			0	2	Quoi#?
+N'étais-tu pas la gardienne de ton village, Kainé#?
+		2	STREAM	SEID_9250_S0010_0050_KAINE010_X	0.5	 			0	28	Ouais, mais...
+Écoute, ce que je veux dire, c'est que...
+La ferme.
 		2	STREAM	SEID_9250_S0010_0060_BOOKW010_X	0.5	 			0	26	Ta bouche serait-elle trop pleine de sable pour pouvoir répliquer de manière vulgaire#?!
 		2	STREAM	SEID_9250_S0010_0070_KAINE010_X	0.5	 			0	28	Tu veux que je t'arrache les pages, bouquin#?
 1355		4	STREAM	EID_300_rw_0010_BOOKW010_X	0.5	 			0	26	Ne crains-tu pas les Ombres#?
@@ -828,21 +967,26 @@
 1357		1	STREAM	EID_1180_rw_0010_BOOKW010_X	0.5	 			0	26	Cet endroit ne sied pas du tout à quelqu'un de mon envergure.
 		1	STREAM	EID_1180_rw_0020_NIER010_X	0.5	 			0	2	Tu aimes à te plaindre, hein, Weiss#!
 1358		3	STREAM	EID_1450_rw_0010_NIER010_X	0.5				0	2	Je n'en peux plus de ce sable.
-		3	STREAM	EID_1450_rw_0020_BOOKW010_X	0.5				0	26	Pfuit#! Bleuh#! Ma bouche se remplit de sable dès que je l'ouvre#!
+		3	STREAM	EID_1450_rw_0020_BOOKW010_X	0.5				0	26	Pfuit#! Bleuh#!
+Ma bouche se remplit de sable dès que je l'ouvre#!
 		3	STREAM	EID_1450_rw_0030_NIER010_X	0.5				0	2	Weiss, tu n'as même pas de bouche. Ptuit#! Beurk#! 
 		3	STREAM	EID_1450_rw_0040_NIER010_X	0.5				0	2	Comment Fyra arrive-t-elle à supporter tout ce sable#?
 		3	STREAM	EID_1450_rw_0050_BOOKW010_X	0.5				0	26	Son masque est peut-être muni d'un filtre.
 1359		4	STREAM	EID_1450_rw_0060_BOOKW010_X	0.5				0	26	Ce déluge insensé de lois ne semble pas vouloir s'arrêter#!
 		4	STREAM	EID_1450_rw_0070_NIER010_X	0.5				0	2	Tais-toi, Weiss, ou nous allons encore faire une erreur...
 		4	STREAM	EID_1450_rw_0080_BOOKW010_X	0.5				0	26	On ne peut pas nier que le peuple masqué aime ses lois#!
-		4	STREAM	EID_1450_rw_0090_NIER010_X	0.5				0	2	Je commence vraiment à en avoir assez. Celui qui a inventé ce système devait avoir le cerveau ramolli.
+		4	STREAM	EID_1450_rw_0090_NIER010_X	0.5				0	2	Je commence vraiment à en avoir assez.
+Celui qui a inventé ce système devait avoir le cerveau ramolli.
 1360		3	STREAM	EID_1450_rw_0100_BOOKW010_X	0.5	 			0	26	Sans le joug de ces lois, nous sommes libres d'utiliser tous nos pouvoirs#!
 		3	STREAM	EID_1450_rw_0110_NIER010_X	0.5	 			0	2	Moins de réflexion, plus d'action. Ça me plaît#!
 1361		4	STREAM	EID_1500_rw_0010_NIER010_X	0.5				0	2	Cet endroit est bien tranquille.
-		4	STREAM	EID_1500_rw_0020_BOOKW010_X	0.5				0	26	Un tel silence ne me dit rien qui vaille. Nous ne sommes pas au bout de nos peines, j'en suis certain.
+		4	STREAM	EID_1500_rw_0020_BOOKW010_X	0.5				0	26	Un tel silence ne me dit rien qui vaille.
+Nous ne sommes pas au bout de nos peines,
+j'en suis certain.
 		4	STREAM	EID_1500_rw_0030_NIER010_X	0.5				0	2	C'est ce que j'aime chez toi, Weiss#: ton optimisme.
 		4	STREAM	EID_1500_rw_0040_BOOKW010_X	0.5				0	26	Que de sarcasme#!
-1362		4	STREAM	EID_1330_rw_0010_BOOKW010_X	0.5	 			0	26	Pour qui se prend-il#? Comment ose-t-il nous donner des ordres...?
+1362		s4	STREAM	EID_1330_rw_0010_BOOKW010_X	0.5	 			0	26	Pour qui se prend-il#?
+Comment ose-t-il nous donner des ordres...?
 		4	STREAM	EID_1330_rw_0020_NIER010_X	0.5	 			0	2	Il n'y a pas de mal à donner un coup de main aux gens de temps en temps.
 		4	STREAM	EID_1330_rw_0030_BOOKW010_X	0.5	 			0	26	Pfft#! C'est ce genre d'attitude qui fait de toi une victime aussi facile#!
 		4	STREAM	EID_1330_rw_0040_NIER010_X	0.5	 			0	2	Encore à te plaindre comme un vieux grincheux, Weiss#?
@@ -856,7 +1000,8 @@
 		1	STREAM	EID_1900_rw_0080_BOOKW010_X	0.5	 			0	26	Je suis prêt à parier qu'elles apparaissent lorsque le soleil ne brille pas.
 		1	STREAM	EID_1900_rw_0090_BOOKW010_X	0.5	 			0	26	J'aurais préféré qu'elles restent dans le trou infect qui leur sert de repaire#!
 1365		1	STREAM	EID_1900_rw_0100_NIER010_X	0.5				0	2	Aucune d'entre vous ne sortira vivante d'ici#!
-		1	STREAM	EID_1900_rw_0110_BOOKW010_X	0.5				0	26	Du calme#! Tu ne pourras pas les vaincre aveuglé par la rage#!
+		1	STREAM	EID_1900_rw_0110_BOOKW010_X	0.5				0	26	Du calme#!
+Tu ne pourras pas les vaincre aveuglé par la rage#!
 1366		1	STREAM	EID_1900_rw_0120_BOOKW010_X	0.5				0	26	Pourquoi ces créatures nous laissent-elles les abattre sans même protester#?!
 		1	STREAM	EID_1900_rw_0130_BOOKW010_X	0.5				0	26	Et qu'est-ce qui peut bien les faire apparaître en cet endroit#?
 		1	STREAM	EID_1900_rw_0140_BOOKW010_X	0.5				0	26	Ce n'est pas ce qu'on pourrait appeler une terre fertile...
@@ -874,7 +1019,8 @@
 		4	STREAM	EID_0200_a0055g_14_NIER010_X	0.5				0	2	Ça ne me dit rien qui vaille.
 		4	STREAM	EID_0200_a0055g_15_BOOKW010_X	0.5				0	26	Cette barrière protège contre toute attaque physique ou magique#!
 		4	STREAM	EID_0200_a0055g_16_NIER010_X	0.5				0	2	... Ouaip, mauvaise nouvelle.
-		4	STREAM	EID_0200_a0055g_17_BOOKW010_X	0.5				0	26	Ainsi protégé, l'ennemi ne peut pas bouger. Concentre tes attaques sur l'autre statue#!
+		4	STREAM	EID_0200_a0055g_17_BOOKW010_X	0.5				0	26	Ainsi protégé, l'ennemi ne peut pas bouger.
+Concentre tes attaques sur l'autre statue#!
 1374		3	STREAM	EID_0200_a0055g_18_BOOKW010_X	0.5				0	26	Comment#?!
 1375		3	STREAM	EID_0200_a0055g_19_BOOKW010_X	0.5				0	26	Esquive, espèce d'idiot#!
 1376		3	STREAM	EID_0200_a0055g_20_BOOKW010_X	0.5				0	26	Ne m'as-tu pas entendu#? J'ai dit esquive#!
@@ -883,7 +1029,8 @@
 1378		3	STREAM	EID_0200_a0055g_23_BOOKW010_X	0.5				0	26	La barrière défensive a bougé#!
 1379		3	STREAM	EID_0200_a0055g_24_NIER010_X	0.5				0	2	Ces statues commencent vraiment à m'énerver.
 1380		4	STREAM	EID_0200_a0055g_26_BOOKW010_X	0.5				0	26	Les statues récupèrent de l'énergie si on leur en donne l'occasion.
-1381		3	STREAM	EID_0200_a0055g_27_BOOKW010_X	0.5				0	26	Quelle piètre performance#! À quoi bon t'octroyer des pouvoirs magiques#?!
+1381		3	STREAM	EID_0200_a0055g_27_BOOKW010_X	0.5				0	26	Quelle piètre performance#!
+À quoi bon t'octroyer des pouvoirs magiques#?!
 		3	STREAM	EID_0200_a0055g_28_NIER010_X	0.5				0	2	Boucle-la#!
 1382		4	STREAM	EID_0200_a0055g_29_BOOKW010_X	0.5				0	26	Encore raté#! Oh, ton incompétence est flagrante#!
 		4	STREAM	EID_0200_a0055g_30_NIER010_X	0.5				0	2	Tu devrais venir tenter toi-même ta chance#!
@@ -896,9 +1043,11 @@
 		4	STREAM	EID_0200_a0065g_03_BOOKW010_X	0.5				0	26	C'est une métaphore, espèce d'illettré#!
 1388		3	STREAM	EID_0200_a0075g_01_BOOKW010_X	0.5				0	26	Il n'en reste qu'une#! Reste vigilant#!
 1389		3	STREAM	EID_0200_a0075g_02_NIER010_X	0.5				0	2	Il y en a d'autres#?!
-1390		3	STREAM	EID_0200_a0075g_03_BOOKW010_X	0.5				0	26	Le menu fretin est agaçant. Tu devrais peut-être d'abord t'en occuper.
+1390		3	STREAM	EID_0200_a0075g_03_BOOKW010_X	0.5				0	26	Le menu fretin est agaçant.
+Tu devrais peut-être d'abord t'en occuper.
 1391		3	STREAM	EID_1000_a0035g_01_BOOKW010_X	0.5				0	26	Attaque sans relâche#!
-1392		3	STREAM	EID_1000_a0035g_02_BOOKW010_X	0.5				0	26	Elle ouvre sa garde lorsqu'elle attaque#! Profites-en#!
+1392		3	STREAM	EID_1000_a0035g_02_BOOKW010_X	0.5				0	26	Elle ouvre sa garde lorsqu'elle attaque#!
+Profites-en#!
 1393		3	STREAM	EID_1000_a0035g_03_BOOKW010_X	0.5				0	26	Ne la traite pas à la légère#!
 1394		3	STREAM	EID_1000_a0035g_04_BOOKW010_X	0.5				0	26	Reste vigilant#!
 1395		3	STREAM	EID_1050_a0025g_01_BOOKW010_X	0.5				0	26	C'est assurément un adversaire coriace.
@@ -910,7 +1059,8 @@
 		4	STREAM	EID_1050_a0035g_05_NIER010_X	0.5				0	2	Nous devons d'abord nous occuper du réservoir#!
 1399		2	STREAM	EID_1050_a0035g_06_BOOKW010_X	0.5				0	26	Attaque avant qu'il ne trouve un autre jouet#!
 1400		4	STREAM	EID_1050_a0045g_01_BOOKW010_X	0.5				0	26	Poursuis la bête et donne-lui le coup de grâce#!
-		4	STREAM	EID_1050_a0045g_02_NIER010_X	0.5				0	2	Nous y sommes presque#! Nous n'avons plus qu'à le cerner, Kainé et moi...
+		4	STREAM	EID_1050_a0045g_02_NIER010_X	0.5				0	2	Nous y sommes presque#!
+Nous n'avons plus qu'à le cerner, Kainé et moi...
 1401		3	STREAM	EID_1050_a0045g_03_BOOKW010_X	0.5				0	26	Ce n'est pas le moment d'être un lâche#!
 1402		4	STREAM	EID_1050_a0055g_01_BOOKW010_X	0.5				0	26	Elle se prépare à lancer une dernière attaque désespérée.
 		4	STREAM	EID_1050_a0055g_02_NIER010_X	0.5				0	2	Ça ne me dit rien qui vaille...
@@ -920,7 +1070,8 @@
 1406		4	STREAM	EID_1100_a0078g_01_BOOKW010_X	0.5				0	26	Combien de pages ce satané livre possède-t-il donc#?
 		4	STREAM	EID_1100_a0078g_02_NIER010_X	0.5				0	2	Il ne doit pas lui en rester beaucoup.
 1407		2	STREAM	EID_1100_a0078g_03_NIER010_X	0.5				0	2	Je crois que les sorts ne servent à rien contre lui.
-1408		2	STREAM	EID_1100_a0078g_04_BOOKW010_X	0.5				0	26	Utilise ton arme#! Donne à ce livre une leçon de savoir-vivre#!
+1408		2	STREAM	EID_1100_a0078g_04_BOOKW010_X	0.5				0	26	Utilise ton arme#!
+Donne à ce livre une leçon de savoir-vivre#!
 		2	STREAM	EID_1100_a0078g_05_NIER010_X	0.5				0	2	... Minable.
 1409		3	STREAM	EID_1100_a0085g_01_BOOKW010_X	0.5				0	26	Attaque dès qu'il s'arrête#!
 1410		4	STREAM	EID_1100_a0085g_02_NIER010_X	0.5				0	2	Pour un livre, il est plutôt fort.
@@ -936,8 +1087,10 @@
 1419		3	STREAM	EID_1450_a0085g_05_NIER010_X	0.5				0	2	... Qu'est-ce que c'est#?
 1420		3	STREAM	EID_1450_a0085g_06_BOOKW010_X	0.5				0	26	Hum... Ceci devrait être intéressant...
 1421		4	STREAM	EID_1450_a0087g_01_BOOKW010_X	0.5				0	26	Kainé#! Les cubes rayonnants sont notre priorité#!
-		4	STREAM	EID_1450_a0087g_02_KAINE010_X	1				0	28	Je me fous de tes priorités#! Je vais tuer ce truc à ma façon#!
-1422		2	STREAM	EID_1450_a0087g_04_BOOKW010_X	0.5				0	26	Il bouge#! ... Ses attaques ne doivent pas être aléatoires.
+		4	STREAM	EID_1450_a0087g_02_KAINE010_X	1				0	28	Je me fous de tes priorités#!
+Je vais tuer ce truc à ma façon#!
+1422		2	STREAM	EID_1450_a0087g_04_BOOKW010_X	0.5				0	26	Il bouge#!
+... Ses attaques ne doivent pas être aléatoires.
 		2	STREAM	EID_1450_a0087g_05_NIER010_X	0.5				0	2	Je n'ai jamais aimé les énigmes.
 1423		2	STREAM	EID_1450_a0087g_06_BOOKW010_X	0.5				0	26	Dépêche-toi#! Détruis-le lorsqu'il atteint le bout du bras#!
 1424		3	STREAM	EID_2000_a0055g_01_BOOKW010_X	0.5				0	26	Ses bras sont vulnérables lorsqu'elle attaque.
@@ -962,7 +1115,8 @@
 1439		3	STREAM	EID_2000_a0075g_05_BOOKW010_X	0.5				0	26	Grimpe aussi vite que possible#!
 1440		3	STREAM	EID_2000_a0075g_06_KAINE010_X	0.5				0	28	Hé#! Reviens ici#!
 1441		3	STREAM	EID_2000_a0075g_07_NIER010_X	0.5				0	2	Nous devons l'arrêter#!
-1442		3	STREAM	EID_2000_a0075g_08_BOOKW010_X	0.5				0	26	Reviens, imbécile#! Ce n'est pas le moment de fuir#!
+1442		3	STREAM	EID_2000_a0075g_08_BOOKW010_X	0.5				0	26	Reviens, imbécile#!
+Ce n'est pas le moment de fuir#!
 1443		3	STREAM	EID_2000_a0129g_01_BOOKW010_X	0.5				0	26	Commençons par nous débarrasser de ces constantes distractions.
 1444		4	STREAM	EID_2000_a0129g_02_BOOKW010_X	0.5				0	26	Je ne peux pas utiliser mes sorts...
 1445		4	STREAM	EID_2000_a0129g_03_BOOKW010_X	0.5				0	26	Ce tome maudit a volé les vers scellés#!
@@ -1003,14 +1157,16 @@
 1480		1	STREAM	EID_100_rw_0280_VILLNCG_X	0.5				0	71	Allons jouer sur la plaine septentrionale#!
 1481		1	STREAM	EID_0400_rw_0010_VILLNMG_X	0.5				0	8	La nécrose runique a aussi frappé quelqu'un de notre village#?
 1482		1	STREAM	EID_0400_rw_0020_VILLNMG_X	0.5				0	8	Si je peux t'être utile, fais-moi signe, d'accord#?
-1483		1	STREAM	EID_0400_rw_0030_VILLNMW_X	0.5				0	108	Ce n'est pas juste. Elle est si jeune. Elle a encore toute sa vie devant elle...
+1483		1	STREAM	EID_0400_rw_0030_VILLNMW_X	0.5				0	108	Ce n'est pas juste. Elle est si jeune.
+Elle a encore toute sa vie devant elle...
 1484		1	STREAM	EID_0400_rw_0040_VILLNMW_X	0.5				0	108	Est-ce que Yonah va bien#?
 1485		1	STREAM	EID_0400_rw_0050_VILLNOG_X	0.5				0	8	Pauvre petite...
 1486		1	STREAM	EID_0400_rw_0060_VILLNOW_X	0.5				0	108	On dirait que nous ne recevons que de mauvaises nouvelles ces derniers temps#!
 1487		1	STREAM	EID_1000_rw_0010_CLIFFNMG_X	0.5				0	8	Notre village est perdu#!
 1488		1	STREAM	EID_1000_rw_0020_CLIFFNMG_X	0.5				0	8	Vous avez apporté la mort dans notre village#!
 1489		1	STREAM	EID_1000_rw_0030_CLIFFNMW_X	0.5				0	108	Ces... ces Ombres... J'ai tellement peur...
-1490		1	STREAM	EID_1000_rw_0040_CLIFFNMW_X	0.5				0	108	Sortez d'ici#! Vous êtes l'allié des Ombres#! J'en suis certaine#!
+1490		1	STREAM	EID_1000_rw_0040_CLIFFNMW_X	0.5				0	108	Sortez d'ici#! Vous êtes l'allié des Ombres#!
+J'en suis certaine#!
 1491		1	STREAM	EID_1000_rw_0050_CLIFFNYG_X	0.5				0	8	Allez-vous-en#! Nous ne sortirons pas#!
 1492		1	STREAM	EID_1000_rw_0060_CLIFFNYG_X	0.5				0	8	Pourquoi suis-je né dans un endroit pareil...?
 1493		1	STREAM	EID_1000_rw_0070_CLIFFNYW_X	0.5				0	108	Je ne sortirai jamais#! Jamais#!
@@ -1036,8 +1192,10 @@
 1513		1	STREAM	EID_1300_rw_0060_SEAMW_X	0.5				0	119	Approchez, approchez#! Nous avons reçu toutes sortes de nouvelles marchandises aujourd'hui#!
 1514		1	STREAM	EID_1300_rw_0070_SEAMW_X	0.5				0	119	La mer est calme aujourd'hui, c'est le meilleur moment pour pêcher.
 1515		1	STREAM	EID_1300_rw_0080_SEAMW_X	0.5				0	119	Un livre qui parle#! Eh bien, dites donc#!
-1516		1	STREAM	EID_1300_rw_0090_SEAYG_X	0.5				0	19	Ma femme m'a préparé un déjeuner délicieux, mais je l'ai oublié sur le comptoir de la cuisine.
-1517		1	STREAM	EID_1300_rw_0100_SEAYG_X	0.5				0	19	Alors, comment va la pêche#? ... Oh, vous n'êtes pas un pêcheur, hein#?
+1516		1	STREAM	EID_1300_rw_0090_SEAYG_X	0.5				0	19	Ma femme m'a préparé un déjeuner délicieux,
+mais je l'ai oublié sur le comptoir de la cuisine.
+1517		1	STREAM	EID_1300_rw_0100_SEAYG_X	0.5				0	19	Alors, comment va la pêche#?
+... Oh, vous n'êtes pas un pêcheur, hein#?
 1518		1	STREAM	EID_1300_rw_0110_SEAYG_X	0.5				0	19	Bon, à plus#!
 1519		1	STREAM	EID_1300_rw_0120_SEAYG_X	0.5				0	19	Écoute, c'est beaucoup trop cher#!
 1520		1	STREAM	EID_1300_rw_0130_SEAYW_X	0.5				0	119	Vous rencontrerez beaucoup de bons à rien dans la taverne.
@@ -1048,20 +1206,26 @@
 1525		1	STREAM	EID_1300_rw_0180_SEAOG_X	0.5				0	19	Le meilleur endroit pour pêcher, c'est près de la troisième pile du pont, alors...
 1526		1	STREAM	EID_1300_rw_0190_SEAOG_X	0.5				0	19	Alors#? Comment va la pêche#?
 1527		1	STREAM	EID_1300_rw_0200_SEAOG_X	0.5				0	19	Comment va Yonah#?
-1528		1	STREAM	EID_1300_rw_0210_SEAOW_X	0.5				0	119	Manger du poisson est bon pour la santé#! ...#Mais il ne faut tout de même pas exagérer#! Ha, ha#!
+1528		1	STREAM	EID_1300_rw_0210_SEAOW_X	0.5				0	119	Manger du poisson est bon pour la santé#!
+...#Mais il ne faut tout de même pas exagérer#! Ha, ha#!
 1529		1	STREAM	EID_1300_rw_0220_SEAOW_X	0.5				0	119	Bonjour, jeune homme. Quelle belle journée#!
-1530		1	STREAM	EID_1300_rw_0230_SEAOW_X	0.5				0	119	Un étranger#? Nous n'avons pas beaucoup de visiteurs ces temps-ci...
-1531		1	STREAM	EID_1300_rw_0240_SEAOW_X	0.5				0	119	Les phoques sont les gardiens de notre village. Nous devons les traiter avec respect.
+1530		1	STREAM	EID_1300_rw_0230_SEAOW_X	0.5				0	119	Un étranger#?
+Nous n'avons pas beaucoup de visiteurs ces temps-ci...
+1531		1	STREAM	EID_1300_rw_0240_SEAOW_X	0.5				0	119	Les phoques sont les gardiens de notre village.
+Nous devons les traiter avec respect.
 1532		1	STREAM	EID_1300_rw_0250_SEACG_X	0.5				0	71	Ah#! Des inconnus#!
 1533		1	STREAM	EID_1320_rw_0010_SEAMG_X	0.5				0	73	La vieille femme du phare est une vraie casse-pieds.
 1534		1	STREAM	EID_1320_rw_0020_SEAMW_X	0.5				0	119	Ça ne restera pas un secret bien longtemps.
-1535		1	STREAM	EID_1320_rw_0030_SEAYG_X	0.5				0	19	Oh#? La vieille femme du phare#? Il n'y a pas de mégère plus batailleuse#!
+1535		1	STREAM	EID_1320_rw_0030_SEAYG_X	0.5				0	19	Oh#? La vieille femme du phare#?
+Il n'y a pas de mégère plus batailleuse#!
 1536		1	STREAM	EID_1320_rw_0040_SEAYG_X	0.5				0	19	Soyez prudent quand vous rendez visite à la vieille femme du phare, vous m'entendez#?
-1537		1	STREAM	EID_1320_rw_0050_SEAYW_X	0.5				0	119	Oh#! Pourquoi les hommes doivent-ils tous être si... Euh... Oubliez ça#!
+1537		1	STREAM	EID_1320_rw_0050_SEAYW_X	0.5				0	119	Oh#! Pourquoi les hommes doivent-ils tous être si...
+Euh... Oubliez ça#!
 1538		1	STREAM	EID_1410_rw_0010_MASKMG_Y	0.5				0	46	(Les lois de Façade doivent à tout prix être obéies.)
 1539		1	STREAM	EID_1410_rw_0020_MASKMG_Y	0.5				0	46	(Oh#! Fyra#! Il fait bon te revoir#!)
 1540		1	STREAM	EID_1410_rw_0030_MASKMG_Y	0.5				0	46	(Nous offrons un grand choix de marchandises de qualité.)
-1541		1	STREAM	EID_1410_rw_0040_MASKYG_Y	0.5				0	46	(Je me souviens du temps où je vendais toutes sortes de produits exotiques#!) (Et maintenant, regardez...)
+1541		1	STREAM	EID_1410_rw_0040_MASKYG_Y	0.5				0	46	(Je me souviens du temps où je vendais toutes sortes de produits exotiques#!)
+(Et maintenant, regardez...)
 1542		1	STREAM	EID_1410_rw_0050_MASKYG_Y	0.5				0	46	(L'ancien roi était juste et bon.)
 1543		1	STREAM	EID_1410_rw_0060_MASKYW_Y	0.5				0	146	(Je n'ai pas mangé de légumes depuis si longtemps...)
 1544		1	STREAM	EID_1410_rw_0070_MASKYW_Y	0.5				0	146	(Il y a si longtemps que nous avons eu d'étrangers dans la ville#!)
@@ -1069,19 +1233,23 @@
 1546		1	STREAM	EID_1410_rw_0090_MASKOG_Y	0.5				0	46	(Je vous souhaite une journée respectueuse des lois.)
 1547		1	STREAM	EID_1480_rw_0010_MASKMG_Y	0.5				0	46	(Le prince est devenu un excellent roi.)
 1548		1	STREAM	EID_1480_rw_0020_MASKMG_Y	0.5				0	46	(Il est roi désormais et pas que de nom#!)
-1549		1	STREAM	EID_1480_rw_0030_MASKYG_Y	0.5				0	46	(Cet avorton est devenu roi...) (Pouvez-vous seulement vous l'imaginer#?)
+1549		1	STREAM	EID_1480_rw_0030_MASKYG_Y	0.5				0	46	(Cet avorton est devenu roi...)
+(Pouvez-vous seulement vous l'imaginer#?)
 1550		1	STREAM	EID_1480_rw_0040_MASKYW_Y	0.5				0	146	(J'ai toujours su que notre roi triompherait.)
 1551		1	STREAM	EID_1480_rw_0050_MASKOG_Y	0.5				0	46	(Je suis convaincu que notre feu roi peut désormais reposer en paix sous le sable.)
 1552		2	STREAM	EID_2000_rw_0010_VILLNMG_X	0.5				0	8	Réfugiez-vous à l'intérieur#! Vite#!
 1553		2	STREAM	EID_2000_rw_0020_VILLNMG_X	0.5				0	8	Des Ombres#! Il y a des Ombres dans le village#!
-1554		2	STREAM	EID_2000_rw_0030_VILLNMG_X	0.5				0	8	Ciel, où est passée ma femme#?! Tu dois m'aider à la trouver#!
-1555		4	STREAM	EID_2000_rw_0040_NIER010_X	0.5				0	2	Bon sang#! Qu'est-ce que des Ombres peuvent bien faire ici#?
+1554		2	STREAM	EID_2000_rw_0030_VILLNMG_X	0.5				0	8	Ciel, où est passée ma femme#?!
+Tu dois m'aider à la trouver#!
+1555		4	STREAM	EID_2000_rw_0040_NIER010_X	0.5				0	2	Bon sang#!
+Qu'est-ce que des Ombres peuvent bien faire ici#?
 		4	STREAM	EID_2000_rw_0050_BOOKW010_X	0.5				0	26	Débarrasse-toi des plus petites aussi vite que possible#!
 1556		2	STREAM	EID_2000_rw_0060_VILLNMW_X	0.5				0	108	Aaaah#!
 1557		2	STREAM	EID_2000_rw_0070_VILLNMW_X	0.5				0	108	N'approchez pas#!
 1558		2	STREAM	EID_2000_rw_0080_VILLNMW_X	0.5				0	108	Ma jambe#! Elle a saisi ma jambe#!
 1559		2	STREAM	EID_2000_rw_0090_VILLNMW_X	0.5				0	108	Ferme la porte#! Dépêche-toi#!
-1560		2	STREAM	EID_2000_rw_0100_VILLNYG_X	0.5				0	8	Rassemblez tout le monde dans la bibliothèque#! C'est le bâtiment le plus sûr du village#!
+1560		2	STREAM	EID_2000_rw_0100_VILLNYG_X	0.5				0	8	Rassemblez tout le monde dans la bibliothèque#!
+C'est le bâtiment le plus sûr du village#!
 1561		2	STREAM	EID_2000_rw_0110_VILLNYG_X	0.5				0	8	Pourquoi ces créatures nous attaquent-elles#?!
 1562		2	STREAM	EID_2000_rw_0120_VILLNYG_X	0.5				0	8	Fuyez#! Sortez d'ici#!
 1563		2	STREAM	EID_2000_rw_0130_VILLNYG_X	0.5				0	8	J'ai besoin d'eau immédiatement#!
@@ -1094,41 +1262,54 @@
 1570		2	STREAM	EID_2000_rw_0200_VILLNOW_X	0.5				0	108	Rassemblez les enfants à l'intérieur#! Vite#!
 1571	1572	4	STREAM	EID_2000_rw_0210_NIER010_X	0.5				0	2	... Qu'est-ce que ça peut bien être#?
 1572		4	STREAM	EID_2000_rw_0220_BOOKW010_X	0.5				0	26	Serait-ce une autre Ombre#?
-1573	1574	3	STREAM	EID_2000_rw_0230_BOOKW010_X	0.5				0	26	Une Ombre qui peut se régénérer#? Comment saurons-nous si nous lui infligeons ou non des dégâts#?
+1573	1574	3	STREAM	EID_2000_rw_0230_BOOKW010_X	0.5				0	26	Une Ombre qui peut se régénérer#?
+Comment saurons-nous si nous lui infligeons ou non des dégâts#?
 1574		3	STREAM	EID_2000_rw_0240_NIER010_X	0.5				0	2	Nous allons devoir l'attaquer jusqu'à ce qu'elle ne bouge plus#!
 1575	1576	4	STREAM	EID_2000_rw_0250_BOOKW010_X	0.5				0	26	Voilà qui est inquiétant#!
 1576		4	STREAM	EID_2000_rw_0260_NIER010_X	0.5				0	2	Nous ne pouvons pas les laisser pénétrer dans la bibliothèque, quoi qu'il arrive#!
 1577		3	STREAM	EID_1900_rw_0150_NIER010_X	0.5				0	2	Je crois que c'est un sanglier.
 		3	STREAM	EID_1900_rw_0160_BOOKW010_X	0.5				0	26	Possèdes-tu la dextérité nécessaire pour le chasser#?
 		3	STREAM	EID_1900_rw_0170_NIER010_X	0.5				0	2	Peut-être, mais ce sont des créatures plutôt colériques.
-1578		1	STREAM	EID_1900_rw_0180_NIER010_X	0.5				0	2	Ah#! Comment un simple sanglier peut-il être si fort#?! Ça n'a aucun sens#!
+1578		1	STREAM	EID_1900_rw_0180_NIER010_X	0.5				0	2	Ah#! Comment un simple sanglier peut-il être si fort#?!
+Ça n'a aucun sens#!
 1579		3	STREAM	EID_1900_rw_0190_NIER010_X	0.5				0	2	Il est si rapide#!
-		3	STREAM	EID_1900_rw_0200_BOOKW010_X	0.5				0	26	Ne sois pas distrait#! Profite de ce moment de répit pour te préparer à te défendre.
+		3	STREAM	EID_1900_rw_0200_BOOKW010_X	0.5				0	26	Ne sois pas distrait#!
+Profite de ce moment de répit pour te préparer à te défendre.
 		3	STREAM	EID_1900_rw_0210_NIER010_X	0.5				0	2	Tu me connais, je déteste avoir à me défendre.
-		3	STREAM	EID_1900_rw_0220_BOOKW010_X	0.5				0	26	Oh, alors je t'en prie, fuis#! Fuis en gémissant dans la nuit#!
+		3	STREAM	EID_1900_rw_0220_BOOKW010_X	0.5				0	26	Oh, alors je t'en prie, fuis#!
+Fuis en gémissant dans la nuit#!
 1580		3	STREAM	EID_1900_rw_0230_NIER010_X	0.5				0	2	Qu'est-ce que c'est#?
 		3	STREAM	EID_1900_rw_0240_BOOKW010_X	0.5				0	26	C'est un scorpion.
-		3	STREAM	EID_1900_rw_0250_BOOKW010_X	0.5				0	26	Embranchement#: Arthropoda#; sous-embranchement#: Chelicerata#; ordre#: Scorpiones. Ils ont plusieurs caractéristiques en commun avec les autres arachnides.
+		3	STREAM	EID_1900_rw_0250_BOOKW010_X	0.5				0	26	Embranchement#: Arthropoda#;
+sous-embranchement#: Chelicerata#;
+ordre#: Scorpiones.
+Ils ont plusieurs caractéristiques en commun avec les autres arachnides.
 		3	STREAM	EID_1900_rw_0260_NIER010_X	0.5				0	2	Eh bien. Voilà qui explique tout.
 		3	STREAM	EID_1900_rw_0270_BOOKW010_X	0.5				0	26	C'est un ennemi. Élimine-le.
 		3	STREAM	EID_1900_rw_0280_NIER010_X	0.5				0	2	Ça, je comprends#!
-1581		4	STREAM	SEID_9020_S0010_0010_BOOKW010_X	0.5				0	26	Quelle vive affection#! Cet homme a manifestement été envoûté par sa bien-aimée.
+1581		4	STREAM	SEID_9020_S0010_0010_BOOKW010_X	0.5				0	26	Quelle vive affection#!
+Cet homme a manifestement été envoûté par sa bien-aimée.
 		4	STREAM	SEID_9020_S0010_0020_NIER010_X	0.5				0	2	À mon avis, je crois qu'elle se joue de lui.
 		4	STREAM	SEID_9020_S0010_0030_BOOKW010_X	0.5				0	26	Hum...? Que veux-tu dire par là#?
 		4	STREAM	SEID_9020_S0010_0040_NIER010_X	0.5				0	2	Ha, c'est peut-être une de ces choses qu'un grimoire magique ne peut comprendre.
-		4	STREAM	SEID_9020_S0010_0050_BOOKW010_X	0.5				0	26	Absurde#! Rien n'est au-delà de mes connaissances#!
+		4	STREAM	SEID_9020_S0010_0050_BOOKW010_X	0.5				0	26	Absurde#!
+Rien n'est au-delà de mes connaissances#!
 		4	STREAM	SEID_9020_S0010_0060_NIER010_X	0.5				0	2	Pfft. Ça doit être avantageux.
 1582		4	STREAM	SEID_9020_S0010_0070_BOOKW010_X	0.5				0	26	Crois-tu qu'il soit possible que cet homme se fasse duper par sa bien-aimée#?
 		4	STREAM	SEID_9020_S0010_0080_NIER010_X	0.5				0	2	Oui, c'est probable.
 		4	STREAM	SEID_9020_S0010_0090_BOOKW010_X	0.5				0	26	Alors, allons l'en informer immédiatement.
 		4	STREAM	SEID_9020_S0010_0100_NIER010_X	0.5				0	2	... Ce n'est pas une bonne idée.
-		4	STREAM	SEID_9020_S0010_0110_BOOKW010_X	0.5				0	26	Et pourquoi pas#?! Avons-nous enfin découvert quelqu'un que tu n'es pas disposé à aider#?
-		4	STREAM	SEID_9020_S0010_0120_NIER010_X	0.5				0	2	Les rapports chez les êtres humains sont complexes. Je sais que c'est difficile à comprendre, mais...
+		4	STREAM	SEID_9020_S0010_0110_BOOKW010_X	0.5				0	26	Et pourquoi pas#?!
+Avons-nous enfin découvert quelqu'un que tu n'es pas disposé à aider#?
+		4	STREAM	SEID_9020_S0010_0120_NIER010_X	0.5				0	2	Les rapports chez les êtres humains sont complexes.
+Je sais que c'est difficile à comprendre, mais...
 		4	STREAM	SEID_9020_S0010_0130_BOOKW010_X	0.5				0	26	Il n'y a rien que le Grimoire Weiss ne puisse pas comprendre#!
 		4	STREAM	SEID_9020_S0010_0140_NIER010_X	0.5				0	2	Oui, oui, je sais...
-1583		4	STREAM	SEID_9030_S0010_0010_NIER010_X	0.5				0	2	Eh bien, nous l'avons trouvé... Mais on dirait que nous sommes arrivés trop tard.
+1583		4	STREAM	SEID_9030_S0010_0010_NIER010_X	0.5				0	2	Eh bien, nous l'avons trouvé...
+Mais on dirait que nous sommes arrivés trop tard.
 		4	STREAM	SEID_9030_S0010_0020_NIER010_X	0.5				0	2	Le vieillard aura du mal à l'accepter.
-		4	STREAM	SEID_9030_S0010_0030_BOOKW010_X	0.5				0	26	Nul ne peut échapper à son funeste destin, qu'il soit un homme ou un chien.
+		4	STREAM	SEID_9030_S0010_0030_BOOKW010_X	0.5				0	26	Nul ne peut échapper à son funeste destin,
+qu'il soit un homme ou un chien.
 		4	STREAM	SEID_9030_S0010_0040_NIER010_X	0.5				0	2	Et toi aussi, Weiss#?
 		4	STREAM	SEID_9030_S0010_0050_BOOKW010_X	0.5				0	26	Hum... À vrai dire, je n'avais jamais considéré la question.
 		4	STREAM	SEID_9030_S0010_0060_BOOKW010_X	0.5				0	26	Je suppose qu'un jour je pourrais tout simplement... disparaître.
@@ -1136,12 +1317,15 @@
 		4	STREAM	SEID_9030_S0010_0080_BOOKW010_X	0.5				0	26	Hum... Dis...
 		4	STREAM	SEID_9030_S0010_0090_NIER010_X	0.5				0	2	Qu'y a-t-il#?
 		4	STREAM	SEID_9030_S0010_0100_BOOKW010_X	0.5				0	26	Écoute, s'il advient que je passe dans l'autre monde...
-		4	STREAM	SEID_9030_S0010_0110_NIER010_X	1				0	2	Oh, ne sois pas si morbide, Weiss#! ... De toute façon, tu ne peux pas mourir. Tu es fait de papier.
+		4	STREAM	SEID_9030_S0010_0110_NIER010_X	1				0	2	Oh, ne sois pas si morbide, Weiss#!
+... De toute façon, tu ne peux pas mourir.
+Tu es fait de papier.
 		4	STREAM	SEID_9030_S0010_0120_BOOKW010_X	0.5				0	26	Ah...! Je n'y avais jamais songé.
 1584		4	STREAM	SEID_9050_S0010_0010_BOOKW010_X	0.5				0		
 		4	STREAM	SEID_9050_S0010_0020_NIER010_X	0.5				0	2	Qu'y a-t-il#?
 		4	STREAM	SEID_9050_S0010_0030_BOOKW010_X	0.5				0	26	Comment un fils peut-il tant affliger ses parents#?
-		4	STREAM	SEID_9050_S0010_0040_BOOKW010_X	0.5				0	26	Il semble complètement aveugle à tout le souci qu'il leur cause#! C'est déplorable#!
+		4	STREAM	SEID_9050_S0010_0040_BOOKW010_X	0.5				0	26	Il semble complètement aveugle à tout le souci qu'il leur cause#!
+C'est déplorable#!
 		4	STREAM	SEID_9050_S0010_0050_NIER010_X	0.5				0	2	J'adore quand tu te comportes comme un vieux grognon, Weiss.
 		4	STREAM	SEID_9050_S0010_0060_BOOKW010_X	0.5				0	26	Je me comporte peut-être de cette manière parce que j'existe depuis des temps immémoriaux#!
 		4	STREAM	SEID_9050_S0010_0070_NIER010_X	0.5				0	2	Quel âge as-tu, au fait#?
@@ -1151,26 +1335,32 @@
 1585		4	STREAM	SEID_9080_S0010_0010_BOOKW010_X	0.5				0	26	Cultiver des larmes lunaires doit demander beaucoup d'effort.
 		4	STREAM	SEID_9080_S0010_0020_NIER020_X	0.5				0	2	Il veut vraiment convaincre sa bien-aimée d'aller le rejoindre.
 		4	STREAM	RA_SEID_1050_S0070_a0010_010_030	3				0		
-		4	STREAM	SEID_9080_S0010_0030_BOOKW010_X	0.5				0	26	Cela semble être le cas. Toutefois, qui sait si elle l'a attendu#?
+		4	STREAM	SEID_9080_S0010_0030_BOOKW010_X	0.5				0	26	Cela semble être le cas.
+Toutefois, qui sait si elle l'a attendu#?
 		4	STREAM	SEID_9080_S0010_0040_NIER020_X	0.5				0	2	Que veux-tu dire par là#?
 		4	STREAM	SEID_9080_S0010_0050_BOOKW010_X	0.5				0	26	Elle voulait vivre avec lui, n'est-ce pas#?
-		4	STREAM	SEID_9080_S0010_0060_NIER020_X	0.5				0	2	Euh, oui, mais c'était impossible. C'est pourquoi il l'a laissée au village.
+		4	STREAM	SEID_9080_S0010_0060_NIER020_X	0.5				0	2	Euh, oui, mais c'était impossible.
+C'est pourquoi il l'a laissée au village.
 		4	STREAM	SEID_9080_S0010_0070_BOOKW010_X	0.5				0	26	Cela aurait été difficile, oui, mais sans doute préférable à une vie en solitaire.
 		4	STREAM	SEID_9080_S0010_0080_BOOKW010_X	0.5				0	26	Pourquoi ne se sont-ils pas rendu compte à quel point la distance et le temps les sépareraient#?
-		4	STREAM	SEID_9080_S0010_0090_NIER020_X	0.5				0	2	Ça n'a plus d'importance. Ils peuvent être ensemble, désormais.
+		4	STREAM	SEID_9080_S0010_0090_NIER020_X	0.5				0	2	Ça n'a plus d'importance.
+Ils peuvent être ensemble, désormais.
 		4	STREAM	SEID_9080_S0010_0100_BOOKW010_X	0.5				0	26	... En effet.
 1586		4	STREAM	SEID_9080_S0010_0110_NIER020_X	0.5				0	2	Elle n'habite plus à cet endroit.
 		4	STREAM	SEID_9080_S0010_0120_BOOKW010_X	0.5				0	26	Non.
 		4	STREAM	SEID_9080_S0010_0130_NIER020_X	0.5				0	2	Je suppose que tu avais raison, Weiss.
 		4	STREAM	SEID_9080_S0010_0140_BOOKW010_X	0.5				0	26	Il m'est difficile de déterminer qui a eu raison dans cette situation.
 		4	STREAM	SEID_9080_S0010_0150_BOOKW010_X	0.5				0	26	Nous ferions mieux d'aller retrouver le marchand de fleurs.
-1587		4	STREAM	SEID_9100_S0010_0010_BOOKW010_X	0.5				0	26	Un breuvage dans lequel flotte une queue de lézard... Cela me semble impressionnant#!
+1587		4	STREAM	SEID_9100_S0010_0010_BOOKW010_X	0.5				0	26	Un breuvage dans lequel flotte une queue de lézard...
+Cela me semble impressionnant#!
 		4	STREAM	SEID_9100_S0010_0020_NIER010_X	0.5				0	2	Elle n'en a peut-être pas l'air, mais après quelques verres, Popola est la femme la plus forte au monde.
 		4	STREAM	SEID_9100_S0010_0030_BOOKW010_X	0.5				0	26	Tu plaisantes#!
-		4	STREAM	SEID_9100_S0010_0040_NIER010_X	0.5				0	2	Non. Un jour, elle était tellement ivre qu'elle a presque détruit la taverne. Elle a même démoli un mur.
+		4	STREAM	SEID_9100_S0010_0040_NIER010_X	0.5				0	2	Non. Un jour, elle était tellement ivre qu'elle a presque détruit la taverne.
+Elle a même démoli un mur.
 		4	STREAM	SEID_9100_S0010_0050_BOOKW010_X	0.5				0	26	Est-ce que l'alcool a la même influence sur Devola#?
 		4	STREAM	SEID_9100_S0010_0060_NIER010_X	0.5				0	2	En fait, Devola ne boit pas d'alcool.
-		4	STREAM	SEID_9100_S0010_0070_NIER010_X	0.5				0	2	Quand elle en boit ne serait-ce qu'une goutte, elle devient... plutôt affectueuse.
+		4	STREAM	SEID_9100_S0010_0070_NIER010_X	0.5				0	2	Quand elle en boit ne serait-ce qu'une goutte,
+elle devient... plutôt affectueuse.
 		4	STREAM	SEID_9100_S0010_0080_BOOKW010_X	0.5				0	26	Devola#?! Vraiment#?!
 		4	STREAM	SEID_9100_S0010_0090_NIER010_X	0.5				0	2	... Ouaip.
 		4	STREAM	SEID_9100_S0010_0100_BOOKW010_X	0.5				0	26	L'alcool est une substance bien redoutable.
@@ -1178,10 +1368,12 @@
 		2	STREAM	SEID_9120_S0010_0020_NIER010_X	0.5				0	2	Qu'y a-t-il#?
 		2	STREAM	SEID_9120_S0010_0030_BOOKW010_X	0.5				0	26	Que faisons-nous ici#?
 		2	STREAM	SEID_9120_S0010_0040_NIER010_X	0.5				0	2	Nous mettons de l'ordre dans ces marchandises.
-		2	STREAM	SEID_9120_S0010_0050_BOOKW010_X	0.5				0	26	Laisse-moi reformuler ma question. Tu fais tout cela pour l'apprenti marchand, n'est-ce pas#?
+		2	STREAM	SEID_9120_S0010_0050_BOOKW010_X	0.5				0	26	Laisse-moi reformuler ma question.
+Tu fais tout cela pour l'apprenti marchand, n'est-ce pas#?
 		2	STREAM	SEID_9120_S0010_0060_NIER010_X	0.5				0	2	Oui.
 		2	STREAM	SEID_9120_S0010_0070_BOOKW010_X	0.5				0	26	Alors, ne serait-il pas plus approprié qu'il s'occupe lui-même de ses effets personnels#? 
-		2	STREAM	SEID_9120_S0010_0080_NIER010_X	0.5				0	2	Il est dans le pétrin, Weiss. Nous lui donnons un coup de main, voilà tout.
+		2	STREAM	SEID_9120_S0010_0080_NIER010_X	0.5				0	2	Il est dans le pétrin, Weiss.
+Nous lui donnons un coup de main, voilà tout.
 		2	STREAM	SEID_9120_S0010_0090_BOOKW010_X	0.5				0	26	J'attends avec grande impatience le jour où quelqu'un fera preuve de tant de générosité envers nous.
 1589		4	STREAM	SEID_9120_S0010_0100_BOOKW010_X	0.5				0	26	Quelle perte de temps#!
 		4	STREAM	SEID_9120_S0010_0110_NIER010_X	0.5				0	2	Qui aurait cru qu'il aurait le mal de mer#?
@@ -1191,17 +1383,23 @@
 		4	STREAM	SEID_9230_S0010_0020_NIER010_X	0.5				0	2	Elle a toujours été comme ça.
 		4	STREAM	SEID_9230_S0010_0030_NIER010_X	0.5				0	2	Si c'est ce qu'elle désire, c'est ce qu'elle recevra.
 		4	STREAM	SEID_9230_S0010_0040_BOOKW010_X	0.5				0	26	En tant que frère, tu dois relever plusieurs défis uniques.
-		4	STREAM	SEID_9230_S0010_0050_NIER010_X	0.5				0	2	L'important est qu'elle me sourie. C'est tout ce qui compte.
+		4	STREAM	SEID_9230_S0010_0050_NIER010_X	0.5				0	2	L'important est qu'elle me sourie.
+C'est tout ce qui compte.
 1591		4	STREAM	SEID_9250_S0010_0010_BOOKW010_X	0.5				0	26	Si je me fie à mon expérience, la jeunesse est synonyme de stupidité#!
-		4	STREAM	SEID_9250_S0010_0020_NIER010_X	0.5				0	2	Il veut seulement protéger sa ville. Je crois que c'est une bonne idée.
+		4	STREAM	SEID_9250_S0010_0020_NIER010_X	0.5				0	2	Il veut seulement protéger sa ville.
+Je crois que c'est une bonne idée.
 		4	STREAM	SEID_9250_S0010_0030_KAINE010_X	0.5				0	28	Ah oui, c'est vraiment une bonne idée...!
-		4	STREAM	SEID_9250_S0010_0040_NIER010_X	0.5				0	2	Quoi#? N'étais-tu pas la gardienne de ton village, Kainé#?
-		4	STREAM	SEID_9250_S0010_0050_KAINE010_X	0.5				0	28	Ouais, mais... Écoute, ce que je veux dire, c'est que... La ferme.
+		4	STREAM	SEID_9250_S0010_0040_NIER010_X	0.5				0	2	Quoi#?
+N'étais-tu pas la gardienne de ton village, Kainé#?
+		4	STREAM	SEID_9250_S0010_0050_KAINE010_X	0.5				0	28	Ouais, mais...
+Écoute, ce que je veux dire, c'est que...
+La ferme.
 		4	STREAM	SEID_9250_S0010_0060_BOOKW010_X	0.5				0	26	Ta bouche serait-elle trop pleine de sable pour pouvoir répliquer de manière vulgaire#?!
 		4	STREAM	SEID_9250_S0010_0070_KAINE010_X	0.5				0	28	Tu veux que je t'arrache les pages, bouquin#?
 1592		4	STREAM	SEID_9250_S0010_0080_BOOKW010_X	0.5				0	26	Il n'y a pas de corps nulle part.
 		4	STREAM	SEID_9260_S0010_0010_NIER010_X	0.5				0	2	Que se passe-t-il#?
-		4	STREAM	SEID_9260_S0010_0020_BOOKW010_X	0.5				0	26	Le courant a dû l'emporter. ... Ou peut-être les loups.
+		4	STREAM	SEID_9260_S0010_0020_BOOKW010_X	0.5				0	26	Le courant a dû l'emporter.
+... Ou peut-être les loups.
 		4	STREAM	SEID_9260_S0010_0030_NIER010_X	0.5				0	2	Je suppose que c'est possible.
 		4	STREAM	SEID_9260_S0010_0040_BOOKW010_X	0.5				0	26	Le jeune homme se trompe peut-être depuis le début...
 1593		4	STREAM	SEID_9260_S0010_0060_NIER010_X	0.5				0	2	Pourquoi l'a-t-elle ignoré ainsi#?
@@ -1209,8 +1407,10 @@
 		4	STREAM	SEID_9260_S0010_0080_BOOKW010_X	0.5				0	26	Il est possible que nous n'en sachions pas assez pour comprendre leur raisonnement.
 		4	STREAM	SEID_9260_S0010_0090_BOOKW010_X	0.5				0	26	Le grand amour est souvent parsemé de malentendus.
 		4	STREAM	SEID_9260_S0010_0100_KAINE010_X	0.5				0	28	Peu importe. Tout ça est stupide.
-1594		4	STREAM	SEID_0300_S0010_0010_BOOKW010_X	0.5				0	26	La chasse aux moutons#? Il n'y a vraiment pas de tâche trop insignifiante à tes yeux#!
-		4	STREAM	SEID_0300_S0010_0020_NIER010_X	0.5				0	2	C'est beaucoup plus difficile que ça en a l'air, Weiss. ... Ils sont rapides.
+1594		4	STREAM	SEID_0300_S0010_0010_BOOKW010_X	0.5				0	26	La chasse aux moutons#?
+Il n'y a vraiment pas de tâche trop insignifiante à tes yeux#!
+		4	STREAM	SEID_0300_S0010_0020_NIER010_X	0.5				0	2	C'est beaucoup plus difficile que ça en a l'air, Weiss.
+... Ils sont rapides.
 		4	STREAM	SEID_0300_S0010_0030_BOOKW010_X	0.5				0	26	Alors, frappe-les de tes sorts#!
 		4	STREAM	SEID_0300_S0010_0040_NIER010_X	0.5				0	2	Oh, bon sang#!
 		4	STREAM	SEID_0300_S0010_0050_BOOKW010_X	0.5				0	26	Qu'y a-t-il#?! As-tu repéré des Ombres#?!
@@ -1220,14 +1420,16 @@
 		4	STREAM	SEID_0300_S0010_0090_BOOKW010_X	0.5				0	26	Essaie de ne pas hurler comme un fou furieux chaque fois que tu te rends compte de quelque chose d'évident, d'accord#?
 1595		4	STREAM	SEID_0300_S0020_0010_BOOKW010_X	0.5				0	26	On te demande souvent de te charger d'emplettes ridicules#?
 		4	STREAM	SEID_0300_S0020_0020_NIER010_X	0.5				0	2	Elles ne sont pas ridicules.
-		4	STREAM	SEID_0300_S0020_0030_NIER010_X	0.5				0	2	Je suis un frère qui habite un monde mourant. J'accepte tout le boulot qu'on m'offre.
+		4	STREAM	SEID_0300_S0020_0030_NIER010_X	0.5				0	2	Je suis un frère qui habite un monde mourant.
+J'accepte tout le boulot qu'on m'offre.
 		4	STREAM	SEID_0300_S0020_0040_NIER010_X	0.5				0	2	Nous avons tous la vie dure, alors je n'ai pas le droit de me plaindre.
 		4	STREAM	SEID_0300_S0020_0050_NIER010_X	0.5				0	2	Ces tâches me permettent de gagner ma vie honnêtement et je leur en suis reconnaissant.
 		4	STREAM	SEID_0300_S0020_0060_BOOKW010_X	0.5				0	26	Je vois. Eh bien, continue#!
 		4	STREAM	SEID_0300_S0020_0070_NIER010_X	0.5				0	2	Entendu.
 1596		4	STREAM	SEID_0300_S0030_0010_NIER010_X	0.5				0	2	Dis...
 		4	STREAM	SEID_0300_S0030_0020_BOOKW010_X	0.5				0	26	Qu'y a-t-il#?
-		4	STREAM	SEID_0300_S0030_0030_NIER010_X	0.5				0	2	N'es-tu pas omnipotent#? Ne pourrais-tu pas... lancer un sort et tout ranger d'un seul coup#?
+		4	STREAM	SEID_0300_S0030_0030_NIER010_X	0.5				0	2	N'es-tu pas omnipotent#?
+Ne pourrais-tu pas... lancer un sort et tout ranger d'un seul coup#?
 		4	STREAM	SEID_0300_S0030_0040_BOOKW010_X	0.5				0	26	Le pouvoir infini du Grimoire Weiss ne doit pas être utilisé pour accomplir des tâches aussi ingrates#!
 		4	STREAM	SEID_0300_S0030_0050_NIER010_X	0.5				0	2	Je n'en demande pourtant pas beaucoup.
 		4	STREAM	SEID_0300_S0030_0060_BOOKW010_X	0.5				0	26	Tu es celui qui prétend se complaire à exécuter un travail honnête et consciencieux#!
@@ -1256,17 +1458,20 @@
 1600		4	STREAM	SEID_1000_S0010_0010_BOOKW010_X	0.5				0	26	Bleuh... Tu ne peux pas le nier, cette fois tu as accepté une tâche plutôt éprouvante.
 		4	STREAM	SEID_1000_S0010_0020_NIER010_X	0.5				0	2	Oh, arrête de te plaindre.
 		4	STREAM	SEID_1000_S0010_0030_BOOKW010_X	0.5				0	26	Je présume que cet œuf pourrait nous rapporter des profits considérables si nous le vendions au plus offrant.
-		4	STREAM	SEID_1000_S0010_0040_NIER010_X	0.5				0	2	Nous ne pouvons pas le faire. La vieille femme a besoin de son remède.
+		4	STREAM	SEID_1000_S0010_0040_NIER010_X	0.5				0	2	Nous ne pouvons pas le faire.
+La vieille femme a besoin de son remède.
 		4	STREAM	SEID_1000_S0010_0050_BOOKW010_X	0.5				0	26	Nous devrions peut-être penser d'abord à notre situation financière et non aux besoins d'une vieille femme, hum#?
 		4	STREAM	SEID_1000_S0010_0060_NIER010_X	0.5				0	2	Je t'ai pourtant dit d'arrêter de te plaindre.
 1601		4	STREAM	SEID_1000_S0020_0010_BOOKW010_X	0.5				0	26	Ah... 
 		4	STREAM	SEID_1000_S0020_0020_NIER010_X	0.5				0	2	Ah, mince#!
 		4	STREAM	SEID_1000_S0020_0030_BOOKW010_X	0.5				0	26	Ce bruit n'était guère encourageant...
 		4	STREAM	SEID_1000_S0020_0040_NIER010_X	0.5				0	2	Je crois qu'il y a quelque chose de cassé.
-		4	STREAM	SEID_1000_S0020_0050_BOOKW010_X	0.5				0	26	Eh bien, il ne servirait à rien d'aller plus loin. Nous devrions plutôt retourner nous excuser.
+		4	STREAM	SEID_1000_S0020_0050_BOOKW010_X	0.5				0	26	Eh bien, il ne servirait à rien d'aller plus loin.
+Nous devrions plutôt retourner nous excuser.
 		4	STREAM	SEID_1000_S0020_0060_NIER010_X	0.5				0	2	... Oui, tu as raison.
 1602		4	STREAM	SEID_1320_S0010_0080_BOOKW010_X	0.5				0	26	Oh, non. Pas encore une livraison#!
-		4	STREAM	SEID_1320_S0010_0090_NIER010_X	0.5				0	2	Tout ira bien. Nous n'avons qu'à aller lentement et prendre notre temps.
+		4	STREAM	SEID_1320_S0010_0090_NIER010_X	0.5				0	2	Tout ira bien.
+Nous n'avons qu'à aller lentement et prendre notre temps.
 		4	STREAM	SEID_1320_S0010_0100_BOOKW010_X	0.5			<CB=SEID_1320_S0010_a0020g_01>	0	26	Je possède des talents extraordinaires, mais ce sont deux choses que je suis incapable de maîtriser.
 1603		4	STREAM	SEID_1320_S0010_0110_NIER010_X	0.5				0	2	Je ne vais sûrement pas laisser Kainé s'en charger.
 		4	STREAM	SEID_1320_S0010_0120_BOOKW010_X	0.5				0	26	Tu as raison. Je suis certain que le langage vulgaire de cette dévergondée réduirait notre précieux colis en miettes.
@@ -1274,12 +1479,16 @@
 1604		4	STREAM	SEID_1320_S0020_0010_BOOKW010_X	0.5				0	26	... Quoi, toujours pas de prise#?!
 		4	STREAM	SEID_1320_S0020_0020_NIER010_X	0.5				0	2	Chut#! Tu vas les effrayer#!
 		4	STREAM	SEID_1320_S0020_0030_BOOKW010_X	0.5				0	26	Oh. Je... je vois.
-1605		4	STREAM	SEID_1320_S0040_0010_BOOKW010_X	0.5				0	26	Pour avoir du succès à la pêche, il faut de la patience, de la concentration, de la volonté, de l'ambition...
+1605		4	STREAM	SEID_1320_S0040_0010_BOOKW010_X	0.5				0	26	Pour avoir du succès à la pêche, il faut de la patience,
+de la concentration, de la volonté, de l'ambition...
 		4	STREAM	SEID_1320_S0040_0020_NIER010_X	0.5				0	2	Chut#! Tu vas les effrayer#!
-		4	STREAM	SEID_1320_S0040_0030_BOOKW010_X	0.5				0	26	Oh. ... D'accord.
-1606		4	STREAM	SEID_1320_S0140_0010_BOOKW010_X	0.5				0	26	Oh, ho#! Cette fois, je ne ferai aucun bruit#! Les poissons ne se douteront jamais que...
+		4	STREAM	SEID_1320_S0040_0030_BOOKW010_X	0.5				0	26	Oh.
+... D'accord.
+1606		4	STREAM	SEID_1320_S0140_0010_BOOKW010_X	0.5				0	26	Oh, ho#! Cette fois, je ne ferai aucun bruit#!
+Les poissons ne se douteront jamais que...
 		4	STREAM	SEID_1320_S0140_0020_NIER010_X	0.5				0	2	Chut#! Tu vas les effrayer#!
-		4	STREAM	SEID_1320_S0140_0030_BOOKW010_X	0.5				0	26	Oh. ... D'accord.
+		4	STREAM	SEID_1320_S0140_0030_BOOKW010_X	0.5				0	26	Oh.
+... D'accord.
 1607		4	STREAM	SEID_1320_S0150_0010_BOOKW010_X	3				0	26	...
 		4	STREAM	SEID_1320_S0150_0020_NIER010_X	0.5				0	2	Tu es plutôt silencieux, Weiss.
 		4	STREAM	SEID_1320_S0150_0030_BOOKW010_X	0.5				0	26	J'effraierais les poissons, sinon, n'est-ce pas#?
@@ -1311,15 +1520,20 @@
 		4	STREAM	SEID_1410_S0030_0060_BOOKW010_X	0.5				0	26	Tu n'as pas oublié le message, n'est-ce pas#?
 		4	STREAM	SEID_1410_S0030_0070_NIER010_X	0.5				0	2	... Non.
 1613		4	STREAM	SEID_1410_S0070_0010_BOOKW010_X	0.5				0	26	Ces lois sont complètement absurdes#!
-		4	STREAM	SEID_1410_S0070_0020_BOOKW010_X	0.5				0	26	Nous ne pouvons même pas dire à cette personne ce que nous voulons acheter#! Je n'ai jamais rien entendu d'aussi ridicule#!
+		4	STREAM	SEID_1410_S0070_0020_BOOKW010_X	0.5				0	26	Nous ne pouvons même pas dire à cette personne ce que nous voulons acheter#!
+Je n'ai jamais rien entendu d'aussi ridicule#!
 		4	STREAM	SEID_1410_S0070_0030_NIER010_X	0.5				0	2	Ah, ce n'est pas grave.
-		4	STREAM	SEID_1410_S0070_0040_BOOKW010_X	0.5				0	26	Oh, allons#! La situation doit te contrarier un peu#!
-		4	STREAM	SEID_1410_S0070_0050_NIER010_X	1				0	2	Oui, mais je suis certain que cette loi existe pour une bonne raison... Une raison importante que nous ne connaissons simplement pas encore.
-		4	STREAM	SEID_1410_S0070_0060_BOOKW010_X	0.5				0	26	Tu sembles faire preuve d'une largeur d'esprit inhabituelle. ... Tu n'es pas malade, au moins#?
+		4	STREAM	SEID_1410_S0070_0040_BOOKW010_X	0.5				0	26	Oh, allons#!
+La situation doit te contrarier un peu#!
+		4	STREAM	SEID_1410_S0070_0050_NIER010_X	1				0	2	Oui, mais je suis certain que cette loi existe pour une bonne raison...
+Une raison importante que nous ne connaissons simplement pas encore.
+		4	STREAM	SEID_1410_S0070_0060_BOOKW010_X	0.5				0	26	Tu sembles faire preuve d'une largeur d'esprit inhabituelle.
+... Tu n'es pas malade, au moins#?
 		4	STREAM	SEID_1410_S0070_0070_NIER010_X	0.5				0	2	Tu m'as presque fait un compliment#!
 1614		4	STREAM	SEID_1450_S0070_0010_NIER010_X	0.5				0	2	Croit-il vraiment qu'elle lui pardonnera s'il lui donne un manteau de fourrure#?
 		4	STREAM	SEID_1450_S0070_0020_BOOKW010_X	0.5				0	26	En effet, cela semble plutôt matérialiste.
-		4	STREAM	SEID_1450_S0070_0030_KAINE010_X	0.5				0	28	Vous rigolez#? Si quelqu'un me donnait un cadeau, je serais aussi heureuse qu'un cochon qui se roule dans la fange#!
+		4	STREAM	SEID_1450_S0070_0030_KAINE010_X	0.5				0	28	Vous rigolez#?
+Si quelqu'un me donnait un cadeau, je serais aussi heureuse qu'un cochon qui se roule dans la fange#!
 		4	STREAM	SEID_1450_S0070_0040_BOOKW010_X	0.5				0	26	Le monde serait beaucoup plus simple s'il n'était peuplé que de gens comme Kainé.
 		4	STREAM	SEID_1450_S0070_0050_KAINE010_X	0.5				0	28	Je vais prétendre que c'est un compliment.
 1615		4	STREAM	EID_0050_a0015g_0030_NIER010_X	3			<CB=EID_0050_a0042g_02_Start>	0		
@@ -1337,12 +1551,14 @@
 		4	STREAM	EID_2000_a0090g_0030_SNOW010_X	0.5	 			0	35	Je ne me souviens pas... pourquoi je suis venu ici...
 		4	STREAM	EID_2000_a0090g_0040_KAINE010_X	0.5	 			0	28	Sors d'ici, Émile !
 		4	STREAM	EID_2000_a0090g_0050_SNOW010_X	1	 			0	35	Non ! Je refuse d'abandonner ces gens !
-		4	STREAM	EID_2000_a0090g_0060_SNOW010_X	0.5	 			0	35	Tu m'as dit l'autre fois que mes yeux serviraient à quelque chose et que je ne devais pas en avoir honte !
+		4	STREAM	EID_2000_a0090g_0060_SNOW010_X	0.5	 			0	35	Tu m'as dit l'autre fois que mes yeux serviraient à quelque
+chose et que je ne devais pas en avoir honte !
 		4	STREAM	EID_2000_a0090g_0070_SNOW010_X	0.5	 			0	35	Que même une vie comme la mienne a un but !
 		4	STREAM	EID_2000_a0090g_0080_SNOW010_X	0.5	 			0	35	Je ne resterai pas derrière à rien faire alors que vous combattez !
 1623		4	STREAM	EID_2000_a0090g_0090_NIER010_X	0.5	 			0	2	Émile...
 		4	STREAM	EID_2000_a0090g_0100_KAINE010_X	0.5	 			0	28	Tu ferais mieux de ne pas mourir.
-		4	STREAM	EID_2000_a0090g_0110_SNOW010_X	1	 			0	35	Entendu, Kainé ! Occupons-nous de ce « ragot de merde » !
+		4	STREAM	EID_2000_a0090g_0110_SNOW010_X	1	 			0	35	Entendu, Kainé !
+Occupons-nous de ce « ragot de merde » !
 		4	STREAM	EID_2000_a0090g_0120_KAINE010_X	0.5	 			0	28	Ça le fait !
 1624		3	STREAM	EID_2000_a0090g_0130_SNOW010_X	0.5	 			0	35	Nous ne pouvons pas laisser passer d'autres Ombres !
 1625	1112	3	STREAM	EID_1050_a0004g_0105_VILLNYG_X	0.5	 			0	9	Aaah ! Des Ombres ! Laissez-moi tranquille !
