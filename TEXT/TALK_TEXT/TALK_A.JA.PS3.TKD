@@ -23,7 +23,7 @@
 		0	1	0	EID_0100_a0020_00301_NIER030_Y					0	1004	-1	0	2	Moi aussi.
 		0	1	0	EID_0100_a0020_00302_NIER030_Y					0	1004	-1	0	2	Je suis si désemparé... Je ne peux pas faire grand-chose pour elle à part m'assurer qu'elle mange assez.
 		0	1	0	EID_0100_a0020_00303_NIER030_Y					0	1004	-1	0	2	La plupart du temps, j'ai l'impression de ne servir à rien.
-		0	1	0	EID_0100_a0020_00304_POPOL010_Y					0	-1	1004	0	24	Oh, ne dis pas des choses pareilles#! Elle ne pourrait pas avoir un frère plus attentif que toi.
+		0	1	0	EID_0100_a0020_00304_POPOL010_Y					0	-1	1004	0	24	Oh, ne dis pas des choses pareilles#! Elle ne pourrait pas avoir un grand frère plus attentif que toi.
 1015	1016	0	1	0	EID_0100_a0020_0040_POPOL010_Y					0	-1	1004	0	24	Au fait, j'ai une faveur à te demander.
 1016	1017	0	1	0	SEID_100_S0010_0041_Y					0	-1	1004	0	24	L'apothicaire du marché aimerait que tu ailles chasser des moutons sur la plaine septentrionale.
 1017	1018	0	1	0	SEID_100_S0010_0042_Y					0	1004	-1	0	2	D'accord, je m'en occupe.
@@ -212,7 +212,7 @@ Viens, Yonah ! Nous devons partir !
 1061		0	1	0	EID_0300_a0010_0060_BOOKW010_Y					-1	0	0	0	26	Viens. Il vaut mieux la laisser se reposer.
 1062		0	1	0	EID_0300_a0015g_0010_NIER030_Y					-1	0	-1	0	2	Ah, bon sang !
 		0	1	0	EID_0300_a0015g_0020_NIER030_Y					-1	0	-1	0	2	Pourquoi Yonah ? Pourquoi pas moi ?
-		0	1	0	EID_0300_a0015g_0030_NIER030_Y					-1	0	-1	0	2	Pourquoi ma sœur unique...?!
+		0	1	0	EID_0300_a0015g_0030_NIER030_Y					-1	0	-1	0	2	Pourquoi ma unique sœur...?!
 		0	1	0	EID_0300_a0015g_0071_BOOKW010_Y					-1	0	0	0	26	Je l'aiderais volontiers si j'en avais le pouvoir.
 1063		0	1	0	EID_0300_a0015g_0060_NIER030_Y					-1	0	0	0	2	Non. Je ne vais pas la quitter maintenant.
 1064		0	1	0	EID_0300_a0015g_0065_NIER030_Y					-1	0	0	0	2	Je n'ai pas envie de parler.
