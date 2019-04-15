@@ -1,5 +1,5 @@
-1		0	1	0	SEID_9900_S0080_9010_Y					-1	0	0	0		Le puits de sable nº#1 est activé.
-2		0	1	0	SEID_9900_S0080_9020_Y					-1	0	0	0		Vous devez activer un autre puits avant de pouvoir l'utiliser.
+1		0	1	0	SEID_9900_S0080_9010_X					-1	0	0	0		Le puits de sable nº#1 est activé.
+2		0	1	0	SEID_9900_S0080_9020_X					-1	0	0	0		Vous devez activer un autre puits avant de pouvoir l'utiliser.
 3		0	1	0						-1	0	0	0		
 4		0	1	0						-1	0	0	0		
 5		0	1	0						-1	0	0	0		
@@ -14,8 +14,8 @@
 12		2	1	0				<FLAG=B,1432,TRUE>
 <CB=Desert_Warp_04>		-1	0	0	0		
 13		2	1	0						-1	0	0	0		
-14		0	1	0	SEID_9900_S0080_9100_Y					-1	0	0	0		Le puits de sable nº#2 est activé.
-15		0	1	0	SEID_9900_S0080_9110_Y					-1	0	0	0		Vous devez activer un autre puits avant de pouvoir l'utiliser.
+14		0	1	0	SEID_9900_S0080_9100_X					-1	0	0	0		Le puits de sable nº#2 est activé.
+15		0	1	0	SEID_9900_S0080_9110_X					-1	0	0	0		Vous devez activer un autre puits avant de pouvoir l'utiliser.
 16		0	1	0						-1	0	0	0		
 17		0	1	0						-1	0	0	0		
 18		0	1	0						-1	0	0	0		
@@ -30,8 +30,8 @@
 25		2	1	0				<FLAG=B,1433,TRUE>
 <CB=Desert_Warp_04>		-1	0	0	0		
 26		2	1	0						-1	0	0	0		
-27		0	1	0	SEID_9900_S0080_9190_Y					-1	0	0	0		Le puits de sable nº#3 est activé.
-28		0	1	0	SEID_9900_S0080_9200_Y					-1	0	0	0		Vous devez activer un autre puits avant de pouvoir l'utiliser.
+27		0	1	0	SEID_9900_S0080_9190_X					-1	0	0	0		Le puits de sable nº#3 est activé.
+28		0	1	0	SEID_9900_S0080_9200_X					-1	0	0	0		Vous devez activer un autre puits avant de pouvoir l'utiliser.
 29		0	1	0						-1	0	0	0		
 30		0	1	0						-1	0	0	0		
 31		0	1	0						-1	0	0	0		
@@ -46,8 +46,8 @@
 38		2	1	0				<FLAG=B,1434,TRUE>
 <CB=Desert_Warp_04>		-1	0	0	0		
 39		2	1	0						-1	0	0	0		
-40		0	1	0	SEID_9900_S0080_9280_Y					-1	0	0	0		Le puits de sable nº#3 est activé.
-41		0	1	0	SEID_9900_S0080_9290_Y					-1	0	0	0		Vous devez activer un autre puits avant de pouvoir l'utiliser.
+40		0	1	0	SEID_9900_S0080_9280_X					-1	0	0	0		Le puits de sable nº#3 est activé.
+41		0	1	0	SEID_9900_S0080_9290_X					-1	0	0	0		Vous devez activer un autre puits avant de pouvoir l'utiliser.
 42		0	1	0						-1	0	0	0		
 43		0	1	0						-1	0	0	0		
 44		0	1	0						-1	0	0	0		
@@ -67,36 +67,36 @@
 55		0	1	0						-1	0	0	0	28	
 56		0	1	0						-1	0	0	0	28	
 57		0	1	0						-1	0	0	0	28	
-58		0	1	0	EID_1410_a0050g_0010_NIER030_Y					-1	0	0	0	2	Qu'est-ce que c'est, un puits#?
-59		0	1	0	EID_1410_a0050g_0020_BOOKW010_Y					-1	0	0	0	26	Il semble tari.
-60		0	1	0	SEID_9900_S0090_9130_Y					-1	0	0	0	2	Ce n'est pas le moment d'errer sans but.
-61		0	1	0						-1	0	0	0	2	Je n'ai pas besoin de sortir du village.
-62		0	1	0						-1	0	0	0	2	Elle ne pourrait pas avoir quitté le village...
-63		0	1	0						-1	0	0	0	2	Je crois que Popola a dit d'aller vers l'est...
-64		0	1	0						-1	0	0	0	2	Je devrais fouiller la ville.
-65		0	1	0						-1	0	0	0	2	Je dois interroger les villageois et obtenir plus d'informations.
-66		0	1	0						-1	0	0	0	2	Je dois d'abord me débarrasser des Ombres.
-67		0	1	0						-1	0	0	0	2	Je ne peux pas encore y entrer.
-68		0	1	0						-1	0	0	0	2	Cet endroit fourmille d'Ombres. Il doit y avoir un vers scellé dans les environs.
-69		0	1	0	EID_0250_a0010g_0010_BOOKW010_Y					-1	0	0	0	26	Je ne crois pas que tu puisses pénétrer de nouveau en cet endroit.
-70		0	1	0	EID_0100_a0016g_0010_NIER030_Y					-1	0	0	0	2	Je dois aller à la bibliothèque. Popola m'attend.
-71		0	1	0	EID_0300_a0015g_0060_NIER030_Y					-1	0	0	0	2	Non. Je ne vais pas la quitter maintenant.
-72		0	1	0	EID_0300_a0025g_0090_NIER030_Y					-1	0	0	0	2	Nous devrions aller parler à Popola.
-73		0	1	0	EID_1410_a0030g_0007_MASKMG_Y					-1	0	0	0	2	Nous devrions nous rendre à Façade.
-74		0	1	0	EID_3000_a0015g_0010_BOOKW010_Y					-1	0	0	0	26	Assez plaisanté !
-		0	1	0	EID_3000_a0015g_0020_BOOKW010_Y					-1	0	0	0	26	Ces gens ont besoin de ton aide !
-75		0	1	0	EID_0100_a0016g_0010_NIER030_Y					-1	0	0	0	2	Je dois aller à la bibliothèque. Popola m'attend.
-76		0	1	0	SEID_100_S0010_00441_Y					-1	0	0	0	2	Bien. Il ne me reste plus qu'à apporter la viande à l'apothicaire.
-77		0	1	0	SEID_9900_S0090_9120_Y	2				-1	0	0	0	2	La tempête m'empêche d'aller plus loin.
-78		0	1	0	EID_4000_a0010g_0017_NIER030_Y					-1	0	0	0	2	Popola a dit que nous pourrions trouver un fragment de la clef dans la montagne des robots.
-		0	1	0	EID_4000_a0010g_0018_BOOKW010_Y					-1	0	0	0	26	Nous découvrirons sans doute un indice à l'armurerie des frères.
-79		0	1	0	EID_4000_a0010g_0019_NIER030_Y					-1	0	0	0	2	Popola a dit que nous pourrions trouver quelque chose dans la forêt des légendes.
-		0	1	0	EID_4000_a0010g_0020_BOOKW010_Y					-1	0	0	0	26	J'espère que tu excuseras mon manque d'enthousiasme.
-80		0	1	0	EID_4000_a0010g_0021_NIER030_Y					-1	0	0	0	2	Allons voir si nous avons reçu une lettre du gamin de la montagne des robots.
-81		0	1	0	EID_4000_a0010g_0022_NIER030_Y					-1	0	0	0	2	Popola a peut-être plus d'informations. Allons la voir.
-		0	1	0	EID_4000_a0010g_0023_BOOKW010_Y					-1	0	0	0	26	Bien.
-82		0	1	0	EID_4230_a0095g_0009_BOOKW010_Y					-1	0	0	0	26	Es-tu prêt à combattre#?
-		0	1	0	EID_4230_a0095g_0010_NIER030_Y					-1	0	0	0	2	Oui, nous devons venger Fyra.
+58		0	1	0	EID_1410_a0050g_0010_NIER010_X					-1	0	0	0	2	Qu'est-ce que c'est, un puits#?
+59		0	1	0	EID_1410_a0050g_0020_BOOKW010_X					-1	0	0	0	26	Il semble tari.
+60		0	1	0	SEID_9900_S0090_9130_X					-1	0	0	0	2	Ce n'est pas le moment d'errer sans but.
+61		0	1	0	SEID_9900_S0090_9140_X					-1	0	0	0	2	Je n'ai pas besoin de sortir du village.
+62		0	1	0	SEID_9900_S0090_9150_X					-1	0	0	0	2	Elle ne pourrait pas avoir quitté le village...
+63		0	1	0	SEID_9900_S0090_9160_X					-1	0	0	0	2	Je crois que Popola a dit d'aller vers l'est...
+64		0	1	0	SEID_9900_S0090_9170_X					-1	0	0	0	2	Je devrais fouiller la ville.
+65		0	1	0	SEID_9900_S0090_9180_X					-1	0	0	0	2	Je dois interroger les villageois et obtenir plus d'informations.
+66		0	1	0	SEID_9900_S0090_9190_X					-1	0	0	0	2	Je dois d'abord me débarrasser des Ombres.
+67		0	1	0	SEID_9900_S0090_9200_X					-1	0	0	0	2	Je ne peux pas encore y entrer.
+68		0	1	0	SEID_9900_S0090_9210_X					-1	0	0	0	2	Cet endroit fourmille d'Ombres. Il doit y avoir un vers scellé dans les environs.
+69		0	1	0	EID_0250_a0010g_0010_BOOKW010_X					-1	0	0	0	26	Je ne crois pas que tu puisses pénétrer de nouveau en cet endroit.
+70		0	1	0	EID_0100_a0016g_0010_NIER010_X					-1	0	0	0	2	Je dois aller à la bibliothèque. Popola m'attend.
+71		0	1	0	EID_0300_a0015g_0060_NIER010_X					-1	0	0	0	2	Non. Je ne vais pas la quitter maintenant.
+72		0	1	0	EID_0300_a0025g_0090_NIER010_X					-1	0	0	0	2	Nous devrions aller parler à Popola.
+73		0	1	0	EID_1410_a0030g_0007_NIER010_X					-1	0	0	0	2	Nous devrions nous rendre à Façade.
+74		0	1	0	EID_3000_a0015g_0010_BOOKW010_X					-1	0	0	0	26	Assez plaisanté !
+		0	1	0	EID_3000_a0015g_0020_BOOKW010_X					-1	0	0	0	26	Ces gens ont besoin de ton aide !
+75		0	1	0	EID_0100_a0016g_0010_NIER010_X					-1	0	0	0	2	Je dois aller à la bibliothèque. Popola m'attend.
+76		0	1	0	SEID_100_S0010_00441_X					-1	0	0	0	2	Bien. Il ne me reste plus qu'à apporter la viande à l'apothicaire.
+77		0	1	0	SEID_9900_S0090_9120_X	2				-1	0	0	0	2	La tempête m'empêche d'aller plus loin.
+78		0	1	0	EID_4000_a0010g_0017_NIER020_X					-1	0	0	0	2	Popola a dit que nous pourrions trouver un fragment de la clef dans la montagne des robots.
+		0	1	0	EID_4000_a0010g_0018_BOOKW010_X					-1	0	0	0	26	Nous découvrirons sans doute un indice à l'armurerie des frères.
+79		0	1	0	EID_4000_a0010g_0019_NIER020_X					-1	0	0	0	2	Popola a dit que nous pourrions trouver quelque chose dans la forêt des légendes.
+		0	1	0	EID_4000_a0010g_0020_BOOKW010_X					-1	0	0	0	26	J'espère que tu excuseras mon manque d'enthousiasme.
+80		0	1	0	EID_4000_a0010g_0021_NIER020_X					-1	0	0	0	2	Allons voir si nous avons reçu une lettre du gamin de la montagne des robots.
+81		0	1	0	EID_4000_a0010g_0022_NIER020_X					-1	0	0	0	2	Popola a peut-être plus d'informations. Allons la voir.
+		0	1	0	EID_4000_a0010g_0023_BOOKW010_X					-1	0	0	0	26	Bien.
+82		0	1	0	EID_4230_a0095g_0009_BOOKW010_X					-1	0	0	0	26	Es-tu prêt à combattre#?
+		0	1	0	EID_4230_a0095g_0010_NIER020_X					-1	0	0	0	2	Oui, nous devons venger Fyra.
 83		0	1	0						0	-1	1039	0	8	
 84		0	1	0						0	-1	1039	0	8	
 85		0	1	0						0	-1	1040	0	8	
@@ -107,22 +107,22 @@
 90		0	1	0						0	-1	1050	0	8	
 91		0	1	0						0	-1	1061	0	8	
 92		0	1	0						0	-1	1061	0	8	
-93		0	1	0	SEID_9900_S0110_9020_Y					0	-1	1011	0	38	Je peux améliorer vos armes quand vous voulez#!
+93		0	1	0	SEID_9900_S0110_9020_X					0	-1	1011	0	38	Je peux améliorer vos armes quand vous voulez#!
 <LIST=94>Forge</LIST>
 <LIST=95>Magasin</LIST>
 <LIST=96>Annuler</LIST>
 94		2	1	0					<CB=A_MOUNT_FIELD_01_Shop_Synthesis>	-1	0	0	0		
 95		2	1	0					<CB=A_MOUNT_FIELD_01_Shop_Buy>	-1	0	0	0		
 96		2	1	0					<CB=A_MOUNT_FIELD_01_Shop_Return>	-1	0	0	0		
-97		0	1	0	EID_1270_a0100_0033_BROTHO010_Y					0	-1	1011	0	38	À bientôt#!
-98		0	1	0	SEID_9900_S0110_9030_Y					0	-1	1008	0	36	En quoi puis-je vous être utile#?
+97		0	1	0	EID_1270_a0100_0033_BROTHO010_X					0	-1	1011	0	38	À bientôt#!
+98		0	1	0	SEID_9900_S0110_9030_X					0	-1	1008	0	36	En quoi puis-je vous être utile#?
 <LIST=99>Forge</LIST>
 <LIST=100>Magasin</LIST>
 <LIST=101>Annuler</LIST>
 99		2	1	0					<CB=B_MOUNT_FIELD_01_Shop_Synthesis>	-1	0	0	0		
 100		2	1	0					<CB=B_MOUNT_FIELD_01_Shop_Buy>	-1	0	0	0		
 101		2	1	0					<CB=B_MOUNT_FIELD_01_Shop_Return>	-1	0	0	0		
-102		0	1	0	EID_1270_a0100_0033_BROTHO010_Y					0	-1	1008	0	36	À bientôt#!
+102		0	1	0	EID_1270_a0100_0033_BROTHO010_X					0	-1	1008	0	36	À bientôt#!
 103		0	1	0						-1	0	0	0		
 104		2	1	0				<CB=GM_Elevator_01_01,0>		-1	0	0	0		
 105		2	1	0				<CB=GM_Elevator_01_01,1>		-1	0	0	0		
@@ -230,45 +230,45 @@
 207		2	1	0	C_STONE_TEMPLE_STAY			<CB=SELECT_STAY_01>		-1	0	0	0		
 208		0	1	0	C_EID_4430_a0020g_080_010					0	-1	0	0	8	
 209		0	1	0						0	-1	0	0	8	
-210		0	1	0	EID_4430_a0010_00816_CLIFFNYG_Y					0	-1	0	0	8	Bonjour. En quoi puis-je vous être utile#?
+210		0	1	0	EID_4430_a0010_00816_CLIFFNYG_X					0	-1	0	0	8	Bonjour. En quoi puis-je vous être utile#?
 211		0	1	0						0	-1	0	0	8	
 212		0	1	0						-1	0	0	0	2	
 213		0	1	0						-1	0	0	0	26	
-214		0	1	0	EID_3100_a0015g_0065_NIER030_Y					-1	0	0	0	2	Nous devons aller dans la cour.
-215		0	1	0	EID_1350_a0020_0010_BOOKW010_Y					-1	0	0	0	26	Nous devrions peut-être aller rendre visite à la vieille dame du phare.
+214		0	1	0	EID_3100_a0015g_0065_NIER020_X					-1	0	0	0	2	Nous devons aller dans la cour.
+215		0	1	0	EID_1350_a0020_0010_BOOKW010_X					-1	0	0	0	26	Nous devrions peut-être aller rendre visite à la vieille dame du phare.
 J'ai quelques doutes...
 216		0	1	0						-1	0	0	0	2	
-217		0	1	0	EID_1050_a0010g_00100_BOOKW010_Y					-1	0	0	0	26	Ce n'est pas le moment d'écrire des lettres.
-218		0	1	0	SEID_9900_S0400_0010_Y					-1	0	0	0	2	La porte est verrouillée...
-219		0	1	0	SEID_9900_S0410_0010_Y					-1	0	0	0	26	À quoi sert cette pièce#?
-		0	1	0	SEID_9900_S0410_0020_Y					-1	0	0	0	2	Hum... Je crois que Popola y range habituellement ses objets favoris.
-220		0	1	0	SEID_9900_S0420_0010_Y					-1	0	0	0	2	Mais c'est...
-		0	1	0	SEID_9900_S0420_0020_Y					-1	0	0	0	26	Cela ressemble à la statue que nous avons combattue dans le temple oublié.
-221		0	1	0	SEID_9900_S0430_0010_Y					-1	0	0	0	2	C'est l'Ombre géante de l'Aire qui ressemblait à un lézard.
-		0	1	0	SEID_9900_S0430_0020_Y					-1	0	0	0	2	Je n'arrive pas à croire qu'un artiste ait été inspiré par une créature aussi dégoûtante... et encore moins que quelqu'un voudrait exhiber son œuvre#!
-222		0	1	0	SEID_9900_S0440_0010_Y					-1	0	0	0	2	Une branche sculptée...?
-		0	1	0	SEID_9900_S0440_0020_Y					-1	0	0	0	26	C'est la seule chose sensée dans cette pièce.
-223		0	1	0	SEID_9900_S0450_0010_Y					-1	0	0	0	2	Serait-ce l'énorme machine de la montagne des robots#?
-		0	1	0	SEID_9900_S0450_0020_Y					-1	0	0	0	26	Ce n'est pas vraiment ce qu'on pourrait appeler un objet décoratif...
-224		0	1	0	SEID_9900_S0460_0010_Y					-1	0	0	0	2	Nous avons vu des boîtes semblables dans le temple stérile.
-		0	1	0	SEID_9900_S0460_0020_Y					-1	0	0	0	26	Il s'agit peut-être d'un cadeau du roi de Façade.
-225		0	1	0	SEID_9900_S0470_0010_Y					-1	0	0	0	2	Tiens, cette figurine te ressemble, Weiss#!
-		0	1	0	SEID_9900_S0470_0020_Y					-1	0	0	0	26	Pfft#! Je ne suis pas aussi poussiéreux#!
-226		0	1	0	SEID_9900_S0480_0010_Y					-1	0	0	0	2	C'est l'autre statue du temple oublié. Que fait-elle ici#?
-		0	1	0	SEID_9900_S0480_0020_Y					-1	0	0	0	26	Qui sait#?
-227		0	1	0	SEID_9900_S0490_0010_Y					-1	0	0	0	2	C'est une figurine d'un garçon.
-		0	1	0	SEID_9900_S0490_0020_Y					-1	0	0	0	26	Popola a des goûts vraiment bizarres...
-228		0	1	0	SEID_9900_S0500_0010_Y					-1	0	0	0	2	C'est...
-		0	1	0	SEID_9900_S0500_0020_Y					-1	0	0	0	26	La sphère qui est apparue dans le village de l'Aire.
-		0	1	0	SEID_9900_S0500_0030_Y					-1	0	0	0	2	Que peut-elle bien faire ici...?
-229		0	1	0	SEID_9900_S0510_0010_Y					-1	0	0	0	2	Un bibelot en forme de loup#?
-		0	1	0	SEID_9900_S0510_0020_Y					-1	0	0	0	26	Quel chef-d'œuvre...!
-230		0	1	0	SEID_9900_S0520_0010_Y					-1	0	0	0	2	Oh, une statuette de la sœur d'Émile...
-		0	1	0	SEID_9900_S0520_0020_Y					-1	0	0	0	26	Elle lui ressemble comme deux gouttes d'eau#!
-231		0	1	0	SEID_9900_S0530_0010_Y					-1	0	0	0	2	Oh, le robot qui a voulu protéger la petite Ombre...
-		0	1	0	SEID_9900_S0530_0020_Y					-1	0	0	0	26	Il nous a donné du fil à retordre, mais je dois avouer que dans cette pièce, il n'a pas l'air si dangereux.
-232		0	1	0	SEID_9900_S0540_0010_Y					-1	0	0	0	26	Pourquoi Popola collectionne-t-elle des modèles réduits de monstres que nous avons combattus#?
-		0	1	0	SEID_9900_S0540_0020_Y					-1	0	0	0	2	Je n'en ai aucune idée.
-		0	1	0	SEID_9900_S0540_0030_Y					-1	0	0	0	2	Du moment que ce ne sont pas les vrais monstres, peu m'importe.
-233		0	1	0	EID_1200_a0020g_0064_BOOKW010_Y					-1	0	0	0	26	On dirait que la porte est verrouillée...
-234		0	1	0	NID_0020_a0010_0910_Y					-1	0	0	0	120	Bienvenue#! Je n'ai rien à vous offrir aujourd'hui, mais revenez bientôt#!
+217		0	1	0	EID_1050_a0010g_00100_BOOKW010_X					-1	0	0	0	26	Ce n'est pas le moment d'écrire des lettres.
+218		0	1	0	SEID_9900_S0400_0010_X					-1	0	0	0	2	La porte est verrouillée...
+219		0	1	0	SEID_9900_S0410_0010_X					-1	0	0	0	26	À quoi sert cette pièce#?
+		0	1	0	SEID_9900_S0410_0020_X					-1	0	0	0	2	Hum... Je crois que Popola y range habituellement ses objets favoris.
+220		0	1	0	SEID_9900_S0420_0010_X					-1	0	0	0	2	Mais c'est...
+		0	1	0	SEID_9900_S0420_0020_X					-1	0	0	0	26	Cela ressemble à la statue que nous avons combattue dans le temple oublié.
+221		0	1	0	SEID_9900_S0430_0010_X					-1	0	0	0	2	C'est l'Ombre géante de l'Aire qui ressemblait à un lézard.
+		0	1	0	SEID_9900_S0430_0020_X					-1	0	0	0	2	Je n'arrive pas à croire qu'un artiste ait été inspiré par une créature aussi dégoûtante... et encore moins que quelqu'un voudrait exhiber son œuvre#!
+222		0	1	0	SEID_9900_S0440_0010_X					-1	0	0	0	2	Une branche sculptée...?
+		0	1	0	SEID_9900_S0440_0020_X					-1	0	0	0	26	C'est la seule chose sensée dans cette pièce.
+223		0	1	0	SEID_9900_S0450_0010_X					-1	0	0	0	2	Serait-ce l'énorme machine de la montagne des robots#?
+		0	1	0	SEID_9900_S0450_0020_X					-1	0	0	0	26	Ce n'est pas vraiment ce qu'on pourrait appeler un objet décoratif...
+224		0	1	0	SEID_9900_S0460_0010_X					-1	0	0	0	2	Nous avons vu des boîtes semblables dans le temple stérile.
+		0	1	0	SEID_9900_S0460_0020_X					-1	0	0	0	26	Il s'agit peut-être d'un cadeau du roi de Façade.
+225		0	1	0	SEID_9900_S0470_0010_X					-1	0	0	0	2	Tiens, cette figurine te ressemble, Weiss#!
+		0	1	0	SEID_9900_S0470_0020_X					-1	0	0	0	26	Pfft#! Je ne suis pas aussi poussiéreux#!
+226		0	1	0	SEID_9900_S0480_0010_X					-1	0	0	0	2	C'est l'autre statue du temple oublié. Que fait-elle ici#?
+		0	1	0	SEID_9900_S0480_0020_X					-1	0	0	0	26	Qui sait#?
+227		0	1	0	SEID_9900_S0490_0010_X					-1	0	0	0	2	C'est une figurine d'un garçon.
+		0	1	0	SEID_9900_S0490_0020_X					-1	0	0	0	26	Popola a des goûts vraiment bizarres...
+228		0	1	0	SEID_9900_S0500_0010_X					-1	0	0	0	2	C'est...
+		0	1	0	SEID_9900_S0500_0020_X					-1	0	0	0	26	La sphère qui est apparue dans le village de l'Aire.
+		0	1	0	SEID_9900_S0500_0030_X					-1	0	0	0	2	Que peut-elle bien faire ici...?
+229		0	1	0	SEID_9900_S0510_0010_X					-1	0	0	0	2	Un bibelot en forme de loup#?
+		0	1	0	SEID_9900_S0510_0020_X					-1	0	0	0	26	Quel chef-d'œuvre...!
+230		0	1	0	SEID_9900_S0520_0010_X					-1	0	0	0	2	Oh, une statuette de la sœur d'Émile...
+		0	1	0	SEID_9900_S0520_0020_X					-1	0	0	0	26	Elle lui ressemble comme deux gouttes d'eau#!
+231		0	1	0	SEID_9900_S0530_0010_X					-1	0	0	0	2	Oh, le robot qui a voulu protéger la petite Ombre...
+		0	1	0	SEID_9900_S0530_0020_X					-1	0	0	0	26	Il nous a donné du fil à retordre, mais je dois avouer que dans cette pièce, il n'a pas l'air si dangereux.
+232		0	1	0	SEID_9900_S0540_0010_X					-1	0	0	0	26	Pourquoi Popola collectionne-t-elle des modèles réduits de monstres que nous avons combattus#?
+		0	1	0	SEID_9900_S0540_0020_X					-1	0	0	0	2	Je n'en ai aucune idée.
+		0	1	0	SEID_9900_S0540_0030_X					-1	0	0	0	2	Du moment que ce ne sont pas les vrais monstres, peu m'importe.
+233		0	1	0	EID_1200_a0020g_0064_BOOKW010_X					-1	0	0	0	26	On dirait que la porte est verrouillée...
+234		0	1	0	EID_all_greeting01_VILLNOW_X_1					-1	0	0	0	120	Bienvenue#! Je n'ai rien à vous offrir aujourd'hui, mais revenez bientôt#!
