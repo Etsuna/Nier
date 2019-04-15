@@ -1,408 +1,408 @@
-1000		0	2	0	EID_1500_a0020g_0060_Y					-1	0	0	0	127	Méfiez-vous...
-		0	1	0	EID_1500_a0020g_0070_Y					-1	0	0	0	127	Méfiez-vous... des mots...
-		0	1	0	EID_1500_a0020g_0080_Y					-1	0	0	0	2	Les mots#? Que voulez-vous dire#?
-		0	1	0	EID_1500_a0020g_0090_Y					-1	0	0	0	127	Les mots... contagieux...
-		0	1	0	EID_1500_a0020g_0100_Y					-1	0	0	0	127	Ceux... qui rêvent...
-		0	1	0	EID_1500_a0020g_0110_Y				<CB=LIB_SET_CLOSE_2D_GAUGE>
+1000		0	2	0	EID_1500_a0020g_0060_X					-1	0	0	0	127	Méfiez-vous...
+		0	1	0	EID_1500_a0020g_0070_X					-1	0	0	0	127	Méfiez-vous... des mots...
+		0	1	0	EID_1500_a0020g_0080_X					-1	0	0	0	2	Les mots#? Que voulez-vous dire#?
+		0	1	0	EID_1500_a0020g_0090_X					-1	0	0	0	127	Les mots... contagieux...
+		0	1	0	EID_1500_a0020g_0100_X					-1	0	0	0	127	Ceux... qui rêvent...
+		0	1	0	EID_1500_a0020g_0110_X				<CB=LIB_SET_CLOSE_2D_GAUGE>
 <CB=CHANGE_WINDOW_SIZE,1,1362,1017>	-1	0	0	0	2	Ceux qui rêvent#?
-1001		0	1	0	EID_all_greeting02_NIER030_Y					-1	0	-1	0	2	Salut.
-		0	1	0	EID_1500_a0020g_0020_Y				<CB=EID_1500_a0020g_0020_End>	-1	0	0	0	74	...
-1002		0	1	0	EID_1500_a0020g_0020_Y				<CB=EID_1500_a0020g_0020_02_End>	-1	0	0	0	74	...
-1003		0	1	0	EID_all_greeting01_NIER030_Y					-1	0	-1	0	2	Euh, bonjour#?
-		0	1	0	EID_1500_a0020g_0040_Y					-1	0	0	0	8	...
-		0	1	0	EID_1500_a0020g_0050_Y				<CB=EID_1500_a0020g_0030_End>	-1	0	0	0	26	... Très jovial et bavard, comme nous l'a dit Popola.
-1004		0	1	0	EID_1500_a0020g_0040_Y				<CB=EID_1500_a0020g_0030_02_End>	-1	0	0	0	8	...
-1005		0	1	0	EID_1500_a0107_0010_Y			<CB=SET_ACTOR_PAUSE_ON,1362>		0	-1	1362	0	127	Oh, mille mercis#!
-		0	1	0	EID_1500_a0107_0020_Y					0	-1	1362	0	127	Je peux enfin retourner à ma vie normale#!
-		0	1	0	EID_1500_a0107_0030_Y					-1	0	0	0	26	C'est une des maladies les plus étranges que j'aie jamais rencontrées.
-		0	1	0	EID_1500_a0107_0040_Y				<CB=EID_1500_a0020g_0010_End>	0	-1	1362	0	127	Oui, et je dois à tout prix aider les autres villageois.
-1006		0	2	0	EID_1599_a0108_0010_Y					-1	0	0	0	74	...
-		0	1	0	EID_1599_a0108_0020_Y					-1	0	-1	0	2	Il est sans doute sous l'emprise du songe mortel, lui aussi.
-		0	1	0	EID_1599_a0108_0030_Y				<CB=C_FOREST_FIELD_DREAM_CB_Start,0>	-1	0	0	0	26	Cela semble en effet être le cas.
-1007		0	1	0	EID_1599_a0108_0040_Y			<CB=EID_1500_a0108_0010_SN>		-1	0	-1	0	2	Ne me dis pas que je dois y retourner#! Je n'ai aucun talent pour ces manœuvres psychologiques. Je préfère régler mes problèmes en donnant des baffes.
-		0	1	0	EID_1599_a0108_0050_Y					-1	0	0	0	26	Arrête de te plaindre et concentre-toi sur ta mission#!
-		0	1	0	EID_1599_a0108_0060_Y				<CB=LIB_SET_CLOSE_2D_GAUGE>
+1001		0	1	0	EID_all_greeting02_NIER010_X_2					-1	0	-1	0	2	Salut.
+		0	1	0	EID_1500_a0020g_0020_X				<CB=EID_1500_a0020g_0020_End>	-1	0	0	0	74	......
+1002		0	1	0	EID_1500_a0020g_0020_X				<CB=EID_1500_a0020g_0020_02_End>	-1	0	0	0	74	......
+1003		0	1	0	EID_all_worry02_NIER010_X_1					-1	0	-1	0	2	Euh, bonjour#?
+		0	1	0	EID_1500_a0020g_0040_X					-1	0	0	0	8	......
+		0	1	0	EID_1500_a0020g_0050_X				<CB=EID_1500_a0020g_0030_End>	-1	0	0	0	26	... Très jovial et bavard, comme nous l'a dit Popola.
+1004		0	1	0	EID_1500_a0020g_0040_X				<CB=EID_1500_a0020g_0030_02_End>	-1	0	0	0	8	......
+1005		0	1	0	EID_1500_a0107_0010_X			<CB=SET_ACTOR_PAUSE_ON,1362>		0	-1	1362	0	127	Oh, mille mercis#!
+		0	1	0	EID_1500_a0107_0020_X					0	-1	1362	0	127	Je peux enfin retourner à ma vie normale#!
+		0	1	0	EID_1500_a0107_0030_X					-1	0	0	0	26	C'est une des maladies les plus étranges que j'aie jamais rencontrées.
+		0	1	0	EID_1500_a0107_0040_X				<CB=EID_1500_a0020g_0010_End>	0	-1	1362	0	127	Oui, et je dois à tout prix aider les autres villageois.
+1006		0	2	0	EID_1599_a0108_0010_X					-1	0	0	0	74	......
+		0	1	0	EID_1599_a0108_0020_X					-1	0	-1	0	2	Il est sans doute sous l'emprise du songe mortel, lui aussi.
+		0	1	0	EID_1599_a0108_0030_X				<CB=C_FOREST_FIELD_DREAM_CB_Start,0>	-1	0	0	0	26	Cela semble en effet être le cas.
+1007		0	1	0	EID_1599_a0108_0040_X			<CB=EID_1500_a0108_0010_SN>		-1	0	-1	0	2	Ne me dis pas que je dois y retourner#! Je n'ai aucun talent pour ces manœuvres psychologiques. Je préfère régler mes problèmes en donnant des baffes.
+		0	1	0	EID_1599_a0108_0050_X					-1	0	0	0	26	Arrête de te plaindre et concentre-toi sur ta mission#!
+		0	1	0	EID_1599_a0108_0060_X				<CB=LIB_SET_CLOSE_2D_GAUGE>
 <CB=BG_AND_ENV_FADE_OUT>
 <CB=CHANGE_WINDOW_SIZE,9,1363,1075>	-1	0	-1	0	2	D'accord, d'accord...
-1008		0	1	0	EID_1500_a0112_0010_Y			<CB=SET_ACTOR_PAUSE_ON,1363>		-1	0	0	0	2	...
-		0	1	0	EID_1500_a0112_0020_Y					-1	0	0	0	26	...
-		0	1	0	EID_1500_a0112_0030_Y					-1	0	0	0	2	... Tu as quelque chose à dire#?
-		0	1	0	EID_1500_a0112_0040_Y					-1	0	0	0	26	La prochaine fois, je me passerais bien d'un labyrinthe#!
-		0	1	0	EID_1500_a0112_0050_Y				<CB=EID_1500_a0108_0010_End>	-1	0	0	0	2	À qui le dis-tu#!
-1009		0	2	0	EID_1500_a0114_0010_Y				<CB=C_FOREST_FIELD_DREAM_CB_Start,1>	-1	0	0	0	26	Une autre victime#! Tout ça est vraiment éprouvant...
-1010		0	1	0	EID_1500_a0114_0020_Y					-1	0	0	0	2	Tu me surprends, Weiss. Tu es pourtant un livre. Ces énigmes et jeux de mots devraient être ton rayon.
-		0	1	0	EID_1500_a0114_0030_Y				<CB=LIB_SET_CLOSE_2D_GAUGE>
+1008		0	1	0	EID_1500_a0112_0010_X			<CB=SET_ACTOR_PAUSE_ON,1363>		-1	0	0	0	2	......
+		0	1	0	EID_1500_a0112_0020_X					-1	0	0	0	26	......
+		0	1	0	EID_1500_a0112_0030_X					-1	0	0	0	2	... Tu as quelque chose à dire#?
+		0	1	0	EID_1500_a0112_0040_X					-1	0	0	0	26	La prochaine fois, je me passerais bien d'un labyrinthe#!
+		0	1	0	EID_1500_a0112_0050_X				<CB=EID_1500_a0108_0010_End>	-1	0	0	0	2	À qui le dis-tu#!
+1009		0	2	0	EID_1500_a0114_0010_X				<CB=C_FOREST_FIELD_DREAM_CB_Start,1>	-1	0	0	0	26	Une autre victime#! Tout ça est vraiment éprouvant...
+1010		0	1	0	EID_1500_a0114_0020_X					-1	0	0	0	2	Tu me surprends, Weiss. Tu es pourtant un livre. Ces énigmes et jeux de mots devraient être ton rayon.
+		0	1	0	EID_1500_a0114_0030_X				<CB=LIB_SET_CLOSE_2D_GAUGE>
 <CB=BG_AND_ENV_FADE_OUT>
-<CB=CHANGE_WINDOW_SIZE,9,1364,1109>	-1	0	0	0	26	Hum, oui. Bien sûr.
-... Eh bien, assez bavardé#! Continuons#!
-1011		0	1	0	EID_1500_a0122_0010_Y			<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0	26	...
-		0	1	0	EID_1500_a0122_0020_Y					-1	0	0	0	2	Alors, je l'avoue, ce rêve était horrible.
-		0	1	0	EID_1500_a0122_0030_Y					-1	0	0	0	26	Je suis certain de connaître également cet endroit...
-		0	1	0	EID_1500_a0122_0040_Y				<CB=EID_1500_a0118_0010_End>	-1	0	0	0	2	Oh, arrête. Je connais assez de gens qui ont des pressentiments sans que tu t'y mettes toi aussi.
-1012		0	1	0	EID_1500_a1025_0010_Y			<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0	26	...
-		0	1	0	EID_1500_a1025_0020_Y					-1	0	0	0	2	...
-		0	1	0	EID_1500_a1025_0030_Y					-1	0	0	0	26	...
-		0	1	0	EID_1500_a1025_0040_Y					-1	0	0	0	2	...
-		0	1	0	EID_1500_a1025_0050_Y					-1	0	0	0	26	Eh bien, ce n'était pas la bonne réponse.
-		0	1	0	EID_1500_a1025_0060_Y					-1	0	0	0	2	En effet.
-		0	1	0	EID_1500_a1025_0070_Y					-1	0	0	0	26	Tu devrais faire plus attention la prochaine fois.
-		0	1	0	EID_1500_a1025_0080_Y				<CB=EID_1500_a0118_0010_Bad>	-1	0	0	0	2	Je n'ai jamais eu de pire mission à accomplir.
-1013		0	1	0	EID_1500_a0200_0010_Y					-1	0	0	0	2	Bien. Tous les villageois devraient être réveillés, non#?
-		0	1	0	EID_1500_a0200_0020_Y					-1	0	0	0	26	Si la théorie du maire était exacte.
-		0	1	0	EID_1500_a0200_0030_Y					-1	0	0	0	26	J'espère ne jamais avoir à résoudre une autre énigme de ma vie#!
-		0	1	0	EID_1500_a0200_0035_Y					-1	0	0	0	2	Moi non plus.
-... Eh bien, allons parler au maire.
-1014		0	2	0	EID_all_greeting01_VILLNOG_Y					0	-1	1362	0	127	Oh, merci#! Merci beaucoup#!
-		0	1	0	EID_4500_a0400_0065				<CB=EID_1500_a0200_020_Start>	0	-1	1362	0	127	Tenez, c'est pour vous.
-1015		0	1	0	EID_4500_a0400_0070					0	1362	-1	0	2	Par tous les...! Vraiment#?!
-		0	1	0	EID_4500_a0400_0080					0	-1	1362	0	127	Bien sûr#!
-		0	1	0	EID_4500_a0400_0090					0	-1	1362	0	127	Il semblerait que ce soit une arme d'illustre origine, mais nous n'en avons pas vraiment besoin.
-		0	1	0	EID_4500_a0400_0100					0	1362	-1	0	2	J'en ferai bon usage.
-		0	1	0	EID_4500_a0400_0110				<CB=EID_1500_a0200_020_End>	0	-1	1362	0	127	Merci encore pour toute l'aide que vous nous avez accordée#!
-1016		0	1	0	EID_all_worry02_BOOKW010_Y					-1	0	0	0	26	Je ne pourrais tout simplement pas supporter une autre de ces conversations infernales. Nous avons mieux à faire.
+<CB=CHANGE_WINDOW_SIZE,9,1364,1109>	-1	0	0	0	26	Hum, oui. Bien sûr... Eh bien, assez bavardé#! Continuons#!
+1011		0	1	0	EID_1500_a0122_0010_X			<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0	26	......
+		0	1	0	EID_1500_a0122_0020_X					-1	0	0	0	2	Alors, je l'avoue, ce rêve était horrible.
+		0	1	0	EID_1500_a0122_0030_X					-1	0	0	0	26	Je suis certain de connaître également cet endroit...
+		0	1	0	EID_1500_a0122_0040_X				<CB=EID_1500_a0118_0010_End>	-1	0	0	0	2	Oh, arrête. Je connais assez de gens qui ont des pressentiments sans que tu t'y mettes toi aussi.
+1012		0	1	0	EID_1500_a1025_0010_X			<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0	26	......
+		0	1	0	EID_1500_a1025_0020_X					-1	0	0	0	2	......
+		0	1	0	EID_1500_a1025_0030_X					-1	0	0	0	26	............
+		0	1	0	EID_1500_a1025_0040_X					-1	0	0	0	2	............
+		0	1	0	EID_1500_a1025_0050_X					-1	0	0	0	26	Eh bien, ce n'était pas la bonne réponse.
+		0	1	0	EID_1500_a1025_0060_X					-1	0	0	0	2	En effet.
+		0	1	0	EID_1500_a1025_0070_X					-1	0	0	0	26	Tu devrais faire plus attention la prochaine fois.
+		0	1	0	EID_1500_a1025_0080_X				<CB=EID_1500_a0118_0010_Bad>	-1	0	0	0	2	Je n'ai jamais eu de pire mission à accomplir.
+1013		0	1	0	EID_1500_a0200_0010_X					-1	0	0	0	2	Bien. Tous les villageois devraient être réveillés, non#?
+		0	1	0	EID_1500_a0200_0020_X					-1	0	0	0	26	Si la théorie du maire était exacte.
+		0	1	0	EID_1500_a0200_0030_X					-1	0	0	0	26	J'espère ne jamais avoir à résoudre une autre énigme de ma vie#!
+		0	1	0	EID_1500_a0200_0035_X					-1	0	0	0	2	Moi non plus... Eh bien, allons parler au maire.
+1014		0	2	0	EID_all_greeting01_VILLNOG_X_1					0	-1	1362	0	127	Oh, merci#! Merci beaucoup#!
+		0	1	0	EID_4500_a0400_0065_X				<CB=EID_1500_a0200_020_Start>	0	-1	1362	0	127	Tenez, c'est pour vous.
+1015		0	1	0	EID_4500_a0400_0070_X					0	1362	-1	0	2	Par tous les...! Vraiment#?!
+		0	1	0	EID_4500_a0400_0080_X					0	-1	1362	0	127	Bien sûr#!
+		0	1	0	EID_4500_a0400_0090_X					0	-1	1362	0	127	Il semblerait que ce soit une arme d'illustre origine, mais nous n'en avons pas vraiment besoin.
+		0	1	0	EID_4500_a0400_0100_X					0	1362	-1	0	2	J'en ferai bon usage.
+		0	1	0	EID_4500_a0400_0110_X				<CB=EID_1500_a0200_020_End>	0	-1	1362	0	127	Merci encore pour toute l'aide que vous nous avez accordée#!
+1016		0	1	0	EID_4500_a0400_0050_X					-1	0	0	0	26	Je ne pourrais tout simplement pas supporter une autre de ces conversations infernales. Nous avons mieux à faire.
 1017	1018	1	1	0	NV_ID_1344			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		Weiss#: Un instant... Une étrange sensation inconnue envahit mon esprit.
-		1	1	0	NV_ID_1346					-1	0	0	0		    Le visage de Weiss prit un air interrogateur.
+		1	1	0	NV_ID_1346					-1	0	0	0		Le visage de Weiss prit un air interrogateur.
 		1	1	0	NV_ID_1348					-1	0	0	0		Weiss#: Mon visage n'est pas interrogateur#!
 1018	1019	1	1	0	NV_ID_1350					-1	0	0	0		<NIER>#: Que se passe-t-il donc#?!
-		1	1	0	NV_ID_1352					-1	0	0	0		    L'homme devant eux tressaillit et ouvrit les yeux.
+		1	1	0	NV_ID_1352					-1	0	0	0		L'homme devant eux tressaillit et ouvrit les yeux.
 		1	1	0	NV_ID_1354					-1	0	0	0		Weiss#: Nous devrions peut-être le demander à cet homme.
 1019	1020	1	1	0	NV_ID_1355					-1	0	0	0		Homme#: Qui... qui êtes-vous#?
 		1	1	0	NV_ID_1357					-1	0	0	0		<NIER>#: Je m'appelle <NIER>. Voici Weiss. Nous avons entendu dire qu'un incident était survenu dans ce village, alors nous sommes venus offrir notre aide.
-		1	1	0	NV_ID_1359					-1	0	0	0		    L'homme fixa <NIER> et Weiss du regard.
+		1	1	0	NV_ID_1359					-1	0	0	0		L'homme fixa <NIER> et Weiss du regard.
 1020	1021	1	1	0	NV_ID_1361					-1	0	0	0		Homme#: Si vous pouvez me parler...
 		1	1	0	NV_ID_1362					-1	0	0	0		... c'est que vous êtes dans mon rêve.
 		1	1	0	NV_ID_1363					-1	0	0	0		<NIER>#: Pardon#?
-1021		1	1	0	NV_ID_1366					-1	0	0	0		    L'homme leur expliqua la situation.
+1021		1	1	0	NV_ID_1366					-1	0	0	0		L'homme leur expliqua la situation.
 		1	1	0	NV_ID_1367				<CB=CHANGE_WINDOW_SIZE,2,1362,1022>	-1	0	0	0		Homme#: Je suis le maire de ce village. Il y a quelques semaines, certains ont contracté une maladie mystérieuse provenant de la forêt des légendes, le songe mortel. Ceux qui l'attrapent sombrent dans un sommeil éternel et deviennent prisonniers de leurs rêves. J'ai découvert que le songe mortel se propageait par les mots, mais la maladie m'a emporté avant que je ne puisse en apprendre davantage...
-1022	1023	1	1	0	NV_ID_0002			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		    Weiss regarda fixement le maire, les lèvres pincées.
-		1	1	0	NV_ID_0003					-1	0	0	0		— Un instant, s'écria-t-il, vous voulez dire que nous avons été absorbés dans votre rêve#?
-		1	1	0	NV_ID_0004					-1	0	0	0		— Euh, eh bien... oui, répondit le maire. Je crois que c'est le cas.
-		1	1	0	NV_ID_0005					-1	0	0	0		— Oh, non#! s'exclama <NIER>. Ça veut dire que nous avons attrapé la maladie du songe mortel#?
-		1	1	0	NV_ID_0006					-1	0	0	0		    Avant même que le maire puisse confirmer les soupçons de <NIER>, Weiss explosa de colère.
-1023	1024	1	1	0	NV_ID_0007					-1	0	0	0		— Ridicule#! Impossible#! Quelle que soit votre prémisse, votre conclusion se doit d'être fausse#! Je ne me rappelle même pas m'être endormi#!
-		1	1	0	NV_ID_0008					-1	0	0	0		    Le maire essaya de continuer sans se laisser décontenancer par les récriminations de Weiss.
-		1	1	0	NV_ID_0009					-1	0	0	0		— C'est ainsi que le songe mortel attaque ses victimes, répliqua-t-il, balayant du revers de la main les objections du livre volant.<PAGE>
-		1	1	0	NV_ID_0010					-1	0	0	0		— Mes remarques ne seront pas «#balayées du revers de la main#»#! Vous feriez bien de ne pas oublier que nous savons tout ce que la narration relate dans ce monde#!
-		1	1	0	NV_ID_0011				<CB=BG_AND_ENV_FADE_OUT>	-1	0	0	0		    Le maire grimaça, un peu embarrassé, puis changea rapidement de sujet en leur demandant à qui ils avaient parlé depuis leur arrivée au village et de quoi ils avaient discuté.
-1024	1025	1	1	0	NV_ID_0012					-1	0	0	0		— Quelque chose a dû vous faire pénétrer dans mon rêve, affirma le maire. Ce pourrait être une conversation que vous avez eue, ou un mot en particulier#!
-		1	1	0	NV_ID_0013					-1	0	0	0		    <NIER> et Weiss se creusèrent la tête, mais ils n'arrivèrent pas à trouver une réponse évidente. Il y avait trop de bavardage ennuyeux, trop de conversations banales, trop de mots insignifiants à considérer.
-		1	1	0	NV_ID_0014					-1	0	0	0		— Le Grimoire Weiss ne tient jamais de conversation banale#!<PAGE>
-		1	1	0	NV_ID_0015					-1	0	0	0		    Même la simple suggestion que Weiss pouvait ne pas choisir ses mots avec soin sembla le piquer au vif.
-1025		1	1	0	NV_ID_0016					-1	0	0	0		— Cela ne «#semble#» pas me piquer au vif, espèce de narrateur présomptueux#! Cela me blesse profondément#!
-		1	1	0	NV_ID_0017					-1	0	0	0		    Irrité, Weiss roula des yeux implorants vers le ciel, espérant peut-être y trouver une réponse.
-		1	1	0	NV_ID_0018					-1	0	0	0		— Je ne faisais certainement pas une chose pareille#!
-Ah, ça suffit#!
-		1	1	0	NV_ID_0019				<CB=CHANGE_WINDOW_SIZE,9,1362,1026>	-1	0	0	0		    La colère engendrée par les paroles mordantes du grimoire se propagea à <NIER>, comme par contagion.
-1026	1027	1	1	0	NV_ID_0020			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		— Attendez#! s'exclama soudainement <NIER>. Par contagion#?
-		1	1	0	NV_ID_0021					-1	0	0	0		— Oui, je crois que c'est ce que le narrateur affirme, répondit Weiss. Qu'en est-il#?
-		1	1	0	NV_ID_0022					-1	0	0	0		— Eh bien, cet homme nous a dit de nous méfier des mots contagieux, non#?
-		1	1	0	NV_ID_0023					-1	0	0	0		    Intéressé, le maire se pencha vers l'avant pour mieux écouter <NIER> et bouscula Weiss.<PAGE>
-		1	1	0	NV_ID_0024					-1	0	0	0		— Il a dû vous dire quelque chose, non#? demanda le maire. Une phrase spécifique#? Que vous a-t-il dit précisément#?
-		1	1	0	NV_ID_0025					-1	0	0	0		— Il parlait de rêves ou de quelque chose qui rêve... Oh, qu'est-ce que c'était, déjà#?
-		1	1	0	NV_ID_0026					-1	0	0	0		— Un mouton#?! s'écria soudainement Weiss, lâchant le premier mot qui lui était venu à l'esprit.
-1027	1028	1	1	0	NV_ID_0027					-1	0	0	0		    Ils le regardèrent fixement pendant un moment, puis secouèrent la tête. <STOP>Après quelques minutes de réflexion, le visage de <NIER> s'éclaira.
-		1	1	0	NV_ID_0028					-1	0	0	0		— Je me souviens#! dit-il. «#Ceux qui rêvent.#» C'est ce qu'il a dit, j'en suis certain.
-		1	1	0	NV_ID_0029					-1	0	0	0		    Le maire sortit alors une liasse de papiers de sa poche. Il feuilleta les pages quelques fois, puis hocha finalement la tête en direction de <NIER>.
-		1	1	0	NV_ID_0030					-1	0	0	0		— Cela semble plausible, déclara-t-il. 
-    Une feuille s'échappa de la liasse et voleta jusqu'au sol.<PAGE>— Mes notes font aussi mention de quelque chose à ce propos. Je parie que ce sont les derniers mots que vous avez entendus avant de vous endormir.
-1028	1029	1	1	0	NV_ID_0031					-1	0	0	0		    Le maire secoua la tête et traça des lignes sur une feuille de papier à l'aide d'un bout de crayon usé.
-		1	1	0	NV_ID_0032					-1	0	0	0		— J'étudie depuis un mois la maladie que l'on appelle le «#songe mortel#», expliqua-t-il. Je suis le maire, après tout. C'est à moi de protéger les habitants de mon village. Cependant, je ne m'attendais pas à ce que des étrangers puissent pénétrer dans nos rêves. Je devrais probablement le noter quelque part...<PAGE>
-		1	1	0	NV_ID_0033					-1	0	0	0		    Weiss répliqua immédiatement#:
-		1	1	0	NV_ID_0034					-1	0	0	0		— J'applaudis à votre volonté de faire des recherches sur cette maladie dans vos rêves, mais vous devriez peut-être vous appliquer à vous échapper de cet endroit au lieu d'essayer de le comprendre#!
-1029	1030	1	1	0	NV_ID_0035					-1	0	0	0		    Le maire mit tant de pression sur son crayon que sa mine se cassa.
-		1	1	0	NV_ID_0036					-1	0	0	0		— J'ai essayé de m'enfuir. Dès que je me suis rendu compte que j'étais prisonnier de mon propre rêve, j'ai tenté de trouver une sortie... Je ne crois pas qu'elle existe. C'est pourtant mon rêve, n'est-ce pas#? S'il y avait une sortie, je le saurais sûrement.
-1030	1031	1	1	0	NV_ID_0037					-1	0	0	0		    Il s'arrêta un instant, regardant dans le vague.
-		1	1	0	NV_ID_0038					-1	0	0	0		— Mon village était magnifique, continua-t-il, ne s'adressant à personne en particulier. Et il était peuplé des gens les plus aimables qui soient. <STOP>Mais lorsque la maladie a frappé, tout a changé... C'est comme si elle avait absorbé toute la joie qui illuminait nos vies. <STOP>Je veux retrouver ce que nous avons perdu. Je veux être libre... et je continuerai jusqu'à ce que je réussisse.
-1031	1032	1	1	0	NV_ID_0039					-1	0	0	0		    <NIER> hocha la tête.
-		1	1	0	NV_ID_0040					-1	0	0	0		— Hein#? Un instant#! Je n'ai pas hoché la tête. Pourquoi est-ce que...?!
-		1	1	0	NV_ID_0041					-1	0	0	0		— Écoutez, si nous pouvons vous prêter main-forte, lui assura <NIER>, nous le ferons.
-		1	1	0	NV_ID_0042					-1	0	0	0		— Hé, oh#! Je n'ai pas dit tout ça#!
-		1	1	0	NV_ID_0043					-1	0	0	0		— Silence#! s'écria Weiss.
-1032	1033	1	1	0	NV_ID_0044					-1	0	0	0		    Le grimoire regarda <NIER> et le maire tour à tour, son visage se remplissant peu à peu d'assurance.
-		1	1	0	NV_ID_0045					-1	0	0	0		— Le visage du Grimoire Weiss est toujours plein d'assurance, qu'on se le dise#! Monsieur le maire, vous nous avez dit que rien n'existe dans votre rêve sans que vous n'en soyez conscient. Cependant, notre arrivée vous a surpris, n'est-ce pas#?
-1033	1034	1	1	0	NV_ID_0046					-1	0	0	0		    Le maire leva la tête et son visage s'éclaira d'un sourire lorsqu'il se rendit compte des implications de cette déclaration.
-		1	1	0	NV_ID_0047					-1	0	0	0		— Ciel#! s'exclama-t-il, vous avez raison#! Vous avez parfaitement raison#! Je ne m'attendais pas du tout à vous rencontrer#!
-		1	1	0	NV_ID_0048					-1	0	0	0		— L'imagination humaine est sans limites et les rêves l'alimentent, dit Weiss. Si vous pouvez imaginer une sortie, c'est qu'elle existe. Nous irons à sa recherche... avec votre permission, bien sûr#!<PAGE>
-		1	1	0	NV_ID_0049					-1	0	0	0		— Je ne sais comment vous remercier, répondit le maire.
-1034	1035	1	1	0	NV_ID_0050					-1	0	0	0		— Aucune récompense n'est nécessaire. Nous sommes aussi impatients de sortir de cet endroit que vous l'êtes.
-		1	1	0	NV_ID_0051					-1	0	0	0		    Le maire eut soudainement l'impression qu'il pouvait de nouveau respirer. Il avait presque oublié comment le faire.
-		1	1	0	NV_ID_0052			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		— Bonne chance#! cria-t-il à <NIER> et Weiss qui s'éloignaient déjà. Je compte sur vous#!
-		1	1	0	NV_ID_0053					-1	0	0	0		    Alors que <NIER> disparaissait dans la forêt brumeuse, le maire fut frappé d'une impression de déjà-vu.
-1035	1036	1	1	0	NV_ID_0054					-1	0	0	0		    <FONT=ITALIC>J'ai déjà rencontré cet homme quelque part</FONT>, se dit-il.
-<FONT=ITALIC>Mais où...?</FONT>
-1036	1037	1	1	0	NV_ID_0058			<CB=BGM_EID_1500_a0020g_0010_01>		-1	0	0	0		    L'humeur de <NIER> s'assombrissait au fur et à mesure qu'il parcourait la forêt. <STOP>Quelques heures plus tôt, il s'émerveillait de la beauté de cet endroit et était convaincu qu'il pourrait trouver la sortie en moins de deux et rentrer au village à temps pour le dîner. Ce n'était plus le cas.
-1037	1038	1	1	0	NV_ID_0059					-1	0	0	0		    Plus il avançait, plus la forêt l'entourait étroitement. La brume l'empêchait de voir au-delà d'un mètre devant lui et les pierres glissantes recouvertes de mousse semblaient déterminées à lui fouler une cheville, sinon deux. <STOP>Il dut plus d'une fois s'agripper à l'écorce rugueuse d'un arbre pour ne pas tomber et il laissait désormais des traces ensanglantées sur tout ce qu'il touchait.<PAGE>
-		1	1	0	NV_ID_0060					-1	0	0	0		    En outre, Weiss s'avérait être un très mauvais compagnon de route. Jamais ralenti par le terrain accidenté ou l'effort de marcher, il passait son temps à demander à <NIER> d'avancer plus rapidement.
-		1	1	0	NV_ID_0061					-1	0	0	0		    Après une des tirades du grimoire au sujet d'une tortue sans pattes qui pourrait se frayer un chemin plus facilement, <NIER> finit par en avoir assez.<STOP>
-— Va te faire voir, Weiss#! s'exclama-t-il. Je m'arrête. Je dois me reposer un peu, sinon je vais m'effondrer.
-1038	1039	1	1	0	NV_ID_0062					-1	0	0	0		    Adossé contre un arbre, <NIER> essaya de s'étirer et de dissiper les points dans son dos.<STOP>
-— Cette forêt est-elle donc sans fin#? grommela-t-il.
-		1	1	0	NV_ID_0063					-1	0	0	0		    Dès qu'il prononça ces paroles, un essaim d'insectes s'éleva autour de lui, provoquant une effroyable cacophonie. <STOP>Son manque de respect semblait les avoir enragés. Leurs bourdonnements, sifflements et vrombissements stridents menaçaient de lui déchirer les tympans.
-1039	1040	1	1	0	NV_ID_0064					-1	0	0	0		    <NIER> protégea ses oreilles de ses mains et hurla#:
-— Weiss#! Que se passe-t-il#?
-		1	1	0	NV_ID_0065			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		    <NIER> voyait bien les lèvres de Weiss bouger, mais il lui était impossible d'entendre sa voix à travers le vacarme. Les insectes hurlaient et le vent mugissait dans les arbres. Puis soudain, alors que la tête de <NIER> semblait vouloir exploser, le chahut s'atténua.<PAGE>    <NIER> enleva sa main de son oreille gauche avec précaution et écouta les voix des créatures de la forêt.
-1040	1041	1	1	0	NV_ID_0066					-1	0	0	0		    <FONT=ITALIC>Zri#! Zri#! Zri#! Zri#!</FONT>
-		1	1	0	NV_ID_0067					-1	0	0	0		    <FONT=ITALIC>Chac-ac-ac-ac#! Chac-ac-ac-ac#! Chac-ac-ac-ac#!</FONT>
-		1	1	0	NV_ID_0068					-1	0	0	0		    <FONT=ITALIC>Chik-chik-chi#! Chik-chik-chi#! Chik-chik-chi#!</FONT>
-		1	1	0	NV_ID_0069					-1	0	0	0		    <FONT=ITALIC>Wou-wou-woum#! Wou-wou-woum#!</FONT>
-		1	1	0	NV_ID_0070					-1	0	0	0		    <FONT=ITALIC>Shic shic siiiik#! Shic shic#! Shic shic siiiik#!</FONT><PAGE>
-		1	1	0	NV_ID_0071					-1	0	0	0		    Lorsque le tumulte s'assourdit de nouveau, <NIER> crut déceler une certaine structure dans le désordre bruyant.
-    <FONT=ITALIC>Ce n'est pas aléatoire</FONT>, se dit-il.
-    <FONT=ITALIC>Ce n'est pas qu'un bruit blanc. Il y a des sons distincts...</FONT>
-		1	1	0	NV_ID_0072			<CB=BGM_EID_1500_a0020g_0010_02>		-1	0	0	0		    Les insectes ne criaient pas sans raison, ils posaient une question.
-1041	1042	1	1	0	NV_ID_0075					-1	0	0	0		    <FONT=ITALIC>Plus j'ai de gardiens, moins je suis gardé.
-    Moins j'ai de gardiens, plus je suis gardé.
-    Qui suis-je#?</FONT>
-		1	1	0	NV_ID_0077					-1	0	0	0		— Par mon vélin#! Serait-ce une énigme#? demanda Weiss.
-		1	1	0	NV_ID_0078					-1	0	0	0		— Probablement. Ce genre de choses se produit souvent dans les rêves, non#? Elle nous permettra peut-être de trouver la sortie.
-		1	1	0	NV_ID_0079					-1	0	0	0		— Alors je te laisse y répondre#!
-1042		1	1	0	NV_ID_0080					-1	0	0	0		    <FONT=ITALIC>Plus j'ai de gardiens, moins je suis gardé.
-    Moins j'ai de gardiens, plus je suis gardé.
-    Qui suis-je#?</FONT>
-		1	1	0						-1	0	0	0		<LIST=1045>«#La réponse est... un secret.#»</LIST>
+1022	1023	1	1	0	NV_ID_0002			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		Weiss regarda fixement le maire, les lèvres pincées.
+		1	1	0	NV_ID_0003					-1	0	0	0		Un instant, s'écria-t-il, vous voulez dire que nous avons été absorbés dans votre rêve#?
+		1	1	0	NV_ID_0004					-1	0	0	0		Euh, eh bien... oui, répondit le maire. Je crois que c'est le cas.
+		1	1	0	NV_ID_0005					-1	0	0	0		Oh, non#! s'exclama <NIER>. Ça veut dire que nous avons attrapé la maladie du songe mortel#?
+		1	1	0	NV_ID_0006					-1	0	0	0		Avant même que le maire puisse confirmer les soupçons de <NIER>, Weiss explosa de colère.
+1023	1024	1	1	0	NV_ID_0007					-1	0	0	0		Ridicule#! Impossible#! Quelle que soit votre prémisse, votre conclusion se doit d'être fausse#! Je ne me rappelle même pas m'être endormi#!
+		1	1	0	NV_ID_0008					-1	0	0	0		Le maire essaya de continuer sans se laisser décontenancer par les récriminations de Weiss.
+		1	1	0	NV_ID_0009					-1	0	0	0		C'est ainsi que le songe mortel attaque ses victimes, répliqua-t-il, balayant du revers de la main les objections du livre volant.
+		1	1	0	NV_ID_0010					-1	0	0	0		Mes remarques ne seront pas «#balayées du revers de la main#»#! Vous feriez bien de ne pas oublier que nous savons tout ce que la narration relate dans ce monde#!<PAGE>
+		1	1	0	NV_ID_0011				<CB=BG_AND_ENV_FADE_OUT>	-1	0	0	0		Le maire grimaça, un peu embarrassé, puis changea rapidement de sujet en leur demandant à qui ils avaient parlé depuis leur arrivée au village et de quoi ils avaient discuté.
+1024	1025	1	1	0	NV_ID_0012					-1	0	0	0		Quelque chose a dû vous faire pénétrer dans mon rêve, affirma le maire. Ce pourrait être une conversation que vous avez eue, ou un mot en particulier#!
+		1	1	0	NV_ID_0013					-1	0	0	0		<NIER> et Weiss se creusèrent la tête, mais ils n'arrivèrent pas à trouver une réponse évidente. Il y avait trop de bavardage ennuyeux, trop de conversations banales, trop de mots insignifiants à considérer.<PAGE>
+		1	1	0	NV_ID_0014					-1	0	0	0		Le Grimoire Weiss ne tient jamais de conversation banale#!
+		1	1	0	NV_ID_0015					-1	0	0	0		Même la simple suggestion que Weiss pouvait ne pas choisir ses mots avec soin sembla le piquer au vif.
+1025		1	1	0	NV_ID_0016					-1	0	0	0		Cela ne «#semble#» pas me piquer au vif, espèce de narrateur présomptueux#! Cela me blesse profondément#!
+		1	1	0	NV_ID_0017					-1	0	0	0		Irrité, Weiss roula des yeux implorants vers le ciel, espérant peut-être y trouver une réponse.
+		1	1	0	NV_ID_0018					-1	0	0	0		Je ne faisais certainement pas une chose pareille#! Ah, ça suffit#!
+		1	1	0	NV_ID_0019				<CB=CHANGE_WINDOW_SIZE,9,1362,1026>	-1	0	0	0		La colère engendrée par les paroles mordantes du grimoire se propagea à <NIER>, comme par contagion.
+1026	1027	1	1	0	NV_ID_0020			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		Attendez#! s'exclama soudainement <NIER>. Par contagion#?
+		1	1	0	NV_ID_0021					-1	0	0	0		Oui, je crois que c'est ce que le narrateur affirme, répondit Weiss. Qu'en est-il#?
+		1	1	0	NV_ID_0022					-1	0	0	0		Eh bien, cet homme nous a dit de nous méfier des mots contagieux, non#?
+		1	1	0	NV_ID_0023					-1	0	0	0		Intéressé, le maire se pencha vers l'avant
+pour mieux écouter <NIER> et bouscula Weiss.
+		1	1	0	NV_ID_0024					-1	0	0	0		Il a dû vous dire quelque chose, non#? demanda le maire. Une phrase spécifique#?
+Que vous a-t-il dit précisément#?<PAGE>
+		1	1	0	NV_ID_0025					-1	0	0	0		Il parlait de rêves ou de quelque chose qui rêve…
+Oh, qu'est-ce que c'était, déjà#?
+		1	1	0	NV_ID_0026					-1	0	0	0		Un mouton#?! s'écria soudainement Weiss, lâchant le premier mot qui lui était venu à l'esprit.
+1027	1028	1	1	0	NV_ID_0027					-1	0	0	0		Ils le regardèrent fixement pendant un moment, puis secouèrent la tête. <STOP>Après quelques minutes de réflexion, le visage de <NIER> s'éclaira.
+		1	1	0	NV_ID_0028					-1	0	0	0		Je me souviens#! dit-il. «#Ceux qui rêvent.#» C'est ce qu'il a dit, j'en suis certain.
+		1	1	0	NV_ID_0029					-1	0	0	0		Le maire sortit alors une liasse de papiers de sa poche. Il feuilleta les pages quelques fois, puis hocha finalement la tête en direction de <NIER>.<PAGE>
+		1	1	0	NV_ID_0030					-1	0	0	0		Cela semble plausible, déclara-t-il. Une feuille s'échappa de la liasse et voleta jusqu'au sol.— Mes notes font aussi mention de quelque chose à ce propos. Je parie que ce sont les derniers mots que vous avez entendus avant de vous endormir.
+1028	1029	1	1	0	NV_ID_0031					-1	0	0	0		Le maire secoua la tête et traça des lignes sur une feuille de papier à l'aide d'un bout de crayon usé.<PAGE>
+		1	1	0	NV_ID_0032					-1	0	0	0		J'étudie depuis un mois la maladie que l'on appelle le «#songe mortel#», expliqua-t-il. Je suis le maire, après tout. C'est à moi de protéger les habitants de mon village. Cependant, je ne m'attendais pas à ce que des étrangers puissent pénétrer dans nos rêves. Je devrais probablement le noter quelque part...<PAGE>
+		1	1	0	NV_ID_0033					-1	0	0	0		Weiss répliqua immédiatement#:
+		1	1	0	NV_ID_0034					-1	0	0	0		J'applaudis à votre volonté de faire des recherches sur cette maladie dans vos rêves, mais vous devriez peut-être vous appliquer à vous échapper de cet endroit
+au lieu d'essayer de le comprendre#!
+1029	1030	1	1	0	NV_ID_0035					-1	0	0	0		Le maire mit tant de pression sur son crayon que sa mine se cassa.<PAGE>
+		1	1	0	NV_ID_0036					-1	0	0	0		J'ai essayé de m'enfuir. Dès que je me suis rendu compte que j'étais prisonnier de mon propre rêve, j'ai tenté de trouver une sortie... Je ne crois pas qu'elle existe. C'est pourtant mon rêve, n'est-ce pas#? S'il y avait une sortie, je le saurais sûrement.
+1030	1031	1	1	0	NV_ID_0037					-1	0	0	0		Il s'arrêta un instant, regardant dans le vague.<PAGE>
+		1	1	0	NV_ID_0038					-1	0	0	0		Mon village était magnifique, continua-t-il, ne s'adressant à personne en particulier. Et il était peuplé des gens les plus aimables qui soient. <STOP>Mais lorsque la maladie a frappé, tout a changé... C'est comme si elle avait absorbé toute la joie qui illuminait nos vies. <STOP>Je veux retrouver ce que nous avons perdu. Je veux être libre... et je continuerai jusqu'à ce que je réussisse.
+1031	1032	1	1	0	NV_ID_0039					-1	0	0	0		<NIER> hocha la tête.
+		1	1	0	NV_ID_0040					-1	0	0	0		Hein#? Un instant#! Je n'ai pas hoché la tête. Pourquoi est-ce que...?!
+		1	1	0	NV_ID_0041					-1	0	0	0		Écoutez, si nous pouvons vous prêter main-forte, lui assura <NIER>, nous le ferons.
+		1	1	0	NV_ID_0042					-1	0	0	0		Hé, oh#! Je n'ai pas dit tout ça#!<PAGE>
+		1	1	0	NV_ID_0043					-1	0	0	0		Silence#! s'écria Weiss.
+1032	1033	1	1	0	NV_ID_0044					-1	0	0	0		Le grimoire regarda <NIER> et le maire tour à tour, son visage se remplissant peu à peu d'assurance.
+		1	1	0	NV_ID_0045					-1	0	0	0		Le visage du Grimoire Weiss est toujours plein d'assurance, qu'on se le dise#! Monsieur le maire, vous nous avez dit que rien n'existe dans votre rêve sans que vous n'en soyez conscient. Cependant, notre arrivée vous a surpris, n'est-ce pas#?<PAGE>
+1033	1034	1	1	0	NV_ID_0046					-1	0	0	0		Le maire leva la tête et son visage s'éclaira d'un sourire lorsqu'il se rendit compte des implications de cette déclaration.
+		1	1	0	NV_ID_0047					-1	0	0	0		Ciel#! s'exclama-t-il, vous avez raison#! Vous avez parfaitement raison#! Je ne m'attendais pas du tout à vous rencontrer#!
+		1	1	0	NV_ID_0048					-1	0	0	0		L'imagination humaine est sans limites et les rêves l'alimentent, dit Weiss. Si vous pouvez imaginer une sortie, c'est qu'elle existe. Nous irons à sa recherche... avec votre permission, bien sûr#!
+		1	1	0	NV_ID_0049					-1	0	0	0		Je ne sais comment vous remercier, répondit le maire.
+1034	1035	1	1	0	NV_ID_0050					-1	0	0	0		Aucune récompense n'est nécessaire. Nous sommes aussi impatients de sortir de cet endroit que vous l'êtes.
+		1	1	0	NV_ID_0051					-1	0	0	0		Le maire eut soudainement l'impression qu'il pouvait de nouveau respirer. Il avait presque oublié comment le faire.
+		1	1	0	NV_ID_0052			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		Bonne chance#! cria-t-il à <NIER> et Weiss qui s'éloignaient déjà. Je compte sur vous#!<PAGE>
+		1	1	0	NV_ID_0053					-1	0	0	0		Alors que <NIER> disparaissait dans la forêt brumeuse, le maire fut frappé d'une impression de déjà-vu.
+1035	1036	1	1	0	NV_ID_0054					-1	0	0	0		<FONT=ITALIC>J'ai déjà rencontré cet homme quelque part</FONT>, se dit-il. <FONT=ITALIC>Mais où...?</FONT>
+1036	1037	1	1	0	NV_ID_0058			<CB=BGM_EID_1500_a0020g_0010_01>		-1	0	0	0		L'humeur de <NIER> s'assombrissait au fur et à mesure qu'il parcourait la forêt. <STOP>Quelques heures plus tôt, il s'émerveillait de la beauté de cet endroit et était convaincu qu'il pourrait trouver la sortie en moins de deux et rentrer au village à temps pour le dîner. Ce n'était plus le cas.
+1037	1038	1	1	0	NV_ID_0059					-1	0	0	0		Plus il avançait, plus la forêt l'entourait étroitement. La brume l'empêchait de voir au-delà d'un mètre devant lui et les pierres glissantes recouvertes de mousse semblaient déterminées à lui fouler une cheville, sinon deux. <STOP>Il dut plus d'une fois s'agripper à l'écorce rugueuse d'un arbre pour ne pas tomber et il laissait désormais des traces ensanglantées sur tout ce qu'il touchait.<PAGE>
+		1	1	0	NV_ID_0060					-1	0	0	0		En outre, Weiss s'avérait être un très mauvais compagnon de route. Jamais ralenti par le terrain accidenté ou l'effort de marcher, il passait son temps à demander à <NIER> d'avancer plus rapidement.<PAGE>
+		1	1	0	NV_ID_0061					-1	0	0	0		Après une des tirades du grimoire au sujet d'une tortue sans pattes qui pourrait se frayer un chemin plus facilement, <NIER> finit par en avoir assez.
+<STOP>Va te faire voir, Weiss#! s'exclama-t-il. Je m'arrête. Je dois me reposer un peu, sinon je vais m'effondrer.
+1038	1039	1	1	0	NV_ID_0062					-1	0	0	0		Adossé contre un arbre, <NIER> essaya de s'étirer et de dissiper les points dans son dos.<STOP>Cette forêt est-elle donc sans fin#? grommela-t-il.<PAGE>
+		1	1	0	NV_ID_0063					-1	0	0	0		Dès qu'il prononça ces paroles, un essaim d'insectes s'éleva autour de lui, provoquant une effroyable cacophonie. <STOP>Son manque de respect semblait les avoir enragés. Leurs bourdonnements, sifflements et vrombissements stridents menaçaient de lui déchirer les tympans.
+1039	1040	1	1	0	NV_ID_0064					-1	0	0	0		<NIER> protégea ses oreilles de ses mains et hurla#: Weiss#! Que se passe-t-il#?
+		1	1	0	NV_ID_0065			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		<NIER> voyait bien les lèvres de Weiss bouger, mais il lui était impossible d'entendre sa voix à travers le vacarme. Les insectes hurlaient et le vent mugissait dans les arbres. Puis soudain, alors que la tête de <NIER> semblait vouloir exploser, le chahut s'atténua.<NIER> enleva sa main de son oreille gauche avec précaution et écouta les voix des créatures de la forêt.
+1040	1041	1	1	0	NV_ID_0066					-1	0	0	0		<FONT=ITALIC>Zri#! Zri#! Zri#! Zri#!</FONT>
+		1	1	0	NV_ID_0067					-1	0	0	0		<FONT=ITALIC>Chac-ac-ac-ac#! Chac-ac-ac-ac#! Chac-ac-ac-ac#!</FONT>
+		1	1	0	NV_ID_0068					-1	0	0	0		<FONT=ITALIC>Chik-chik-chi#! Chik-chik-chi#! Chik-chik-chi#!</FONT>
+		1	1	0	NV_ID_0069					-1	0	0	0		<FONT=ITALIC>Wou-wou-woum#! Wou-wou-woum#!</FONT>
+		1	1	0	NV_ID_0070					-1	0	0	0		<FONT=ITALIC>Shic shic siiiik#! Shic shic#! Shic shic siiiik#!</FONT><PAGE>
+		1	1	0	NV_ID_0071					-1	0	0	0		Lorsque le tumulte s'assourdit de nouveau, <NIER> crut déceler une certaine structure dans le désordre bruyant. <FONT=ITALIC>Ce n'est pas aléatoire</FONT>, se dit-il. <FONT=ITALIC>Ce n'est pas qu'un bruit blanc. Il y a des sons distincts...</FONT>
+		1	1	0	NV_ID_0072			<CB=BGM_EID_1500_a0020g_0010_02>		-1	0	0	0		Les insectes ne criaient pas sans raison, ils posaient une question.
+1041	1042	1	1	0	NV_ID_0075					-1	0	0	0		<FONT=ITALIC>Plus j'ai de gardiens, moins je suis gardé.
+Moins j'ai de gardiens, plus je suis gardé. Qui suis-je#?</FONT>
+		1	1	0	NV_ID_0077					-1	0	0	0		Par mon vélin#! Serait-ce une énigme#? demanda Weiss.
+		1	1	0	NV_ID_0078					-1	0	0	0		Probablement. Ce genre de choses se produit souvent dans les rêves, non#? Elle nous permettra peut-être de trouver la sortie.
+		1	1	0	NV_ID_0079					-1	0	0	0		Alors je te laisse y répondre#!
+1042		1	1	0	NV_ID_0080					-1	0	0	0		<FONT=ITALIC>Plus j'ai de gardiens, moins je suis gardé.
+Moins j'ai de gardiens, plus je suis gardé. Qui suis-je#?</FONT>
+
+		1	1	0	NV_ID_0081
+NV_ID_0082
+NV_ID_0083					-1	0	0	0		<LIST=1045>«#La réponse est... un secret.#»</LIST>
 <LIST=1043>«#La réponse est... un prisonnier.#»</LIST>
 <LIST=1044>«#Comment pourrais-je connaître la réponse#?!#»</LIST>
-1043	1041	1	1	0	NV_ID_0087					-1	0	0	0		— Il ne faut jamais relâcher sa vigilance lorsqu'on a la garde d'un détenu.
+1043	1041	1	1	0	NV_ID_0087					-1	0	0	0		Il ne faut jamais relâcher sa vigilance lorsqu'on a la garde d'un détenu.
 		1	1	0	NV_ID_0088					-1	0	0	0		C'est un prisonnier#!
-		1	1	0	NV_ID_0089					-1	0	0	0		    Weiss ouvrit la bouche, mais avant qu'il ne puisse protester, leur vision se troubla et le monde disparut.
-		1	1	0	NV_ID_0091					-1	0	0	0		    <FONT=ITALIC>Rine rine oua#! Rine rine oua#!</FONT>
-		1	1	0	NV_ID_0092					-1	0	0	0		    <FONT=ITALIC>Chik chik ki#! Chik chik ki#!</FONT><PAGE>
-		1	1	0	NV_ID_0093					-1	0	0	0		    Lorsque <NIER> reprit connaissance, les insectes l'entourèrent encore une fois.
-		1	1	0	NV_ID_0094					-1	0	0	0		    Leurs cris formèrent des mots... Des mots qu'il avait déjà entendus quelque part.
-1044	1041	1	1	0	NV_ID_0099					-1	0	0	0		— Comment pourrais-je connaître la réponse#?!
-		1	1	0	NV_ID_0100					-1	0	0	0		    Weiss ouvrit la bouche, mais avant qu'il ne puisse protester, leur vision se troubla et le monde disparut.
-		1	1	0	NV_ID_0102					-1	0	0	0		    <FONT=ITALIC>Rine rine oua#! Rine rine oua#!</FONT>
-		1	1	0	NV_ID_0103					-1	0	0	0		    <FONT=ITALIC>Chik chik ki#! Chik chik ki#!</FONT><PAGE>
-		1	1	0	NV_ID_0104					-1	0	0	0		    Lorsque <NIER> reprit connaissance, les insectes l'entourèrent encore une fois.
-		1	1	0	NV_ID_0105					-1	0	0	0		    Leurs cris formèrent des mots... Des mots qu'il avait déjà entendus quelque part.
-1045	1046	1	1	0	NV_ID_0110					-1	0	0	0		    En son for intérieur, <NIER> était furieux que Weiss ait refusé de l'aider. Il soupira et répondit#:
-		1	1	0	NV_ID_0111					-1	0	0	0		— C'est un secret... non#?
-1046	1047	1	1	0	NV_ID_0115			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		    Le bourdonnement des insectes s'arrêta aussi soudainement qu'il avait commencé. Les broussailles s'écartèrent telles des vagues déferlantes et révélèrent un nouveau sentier.
-		1	1	0	NV_ID_0116					-1	0	0	0		— Ils ont créé un chemin pour nous#! jubila Weiss.
-		1	1	0	NV_ID_0117					-1	0	0	0		    Heureux d'avoir répondu correctement, <NIER> continua avec une vitalité accrue.
-1047	1048	1	1	0	NV_ID_0119			<CB=BGM_EID_1500_a0020g_0010_01>		-1	0	0	0		    Après avoir dû parcourir les broussailles épaisses, <NIER> savoura le répit inespéré que lui accordait ce sentier facile. De plus, il se sentait encouragé#: tant qu'ils suivaient un sentier, ils n'erraient pas sans but.
-		1	1	0	NV_ID_0120					-1	0	0	0		— Je suppose que la forêt nous a acceptés, dit <NIER> après quelque temps. Qu'en penses-tu#?
-		1	1	0	NV_ID_0121					-1	0	0	0		    Weiss fit face à son compagnon.<PAGE>
-		1	1	0	NV_ID_0122					-1	0	0	0		— Ne traite pas cette forêt comme un vulgaire animal de compagnie que tu pourrais apprivoiser#! Qui sait où mène ce sentier#?
-1048	1049	1	1	0	NV_ID_0123					-1	0	0	0		    À l'instant même où Weiss prononça ces paroles, ils atteignirent une source limpide et jaillissante. Souriant, <NIER> ramassa un caillou et le fit ricocher sur l'eau.
-		1	1	0	NV_ID_0124					-1	0	0	0		— Ciel...! s'exclama Weiss.<PAGE>
-		1	1	0	NV_ID_0125					-1	0	0	0		    Sa surprise était bien normale#: une note cristalline résonna chaque fois que le caillou toucha la surface de l'eau. Lorsque ce dernier sombra enfin au fond de la source, les ondes qu'il avait créées se rassemblèrent et formèrent des mots.
-1049	1050	1	1	0	NV_ID_0128			<CB=BGM_EID_1500_a0020g_0010_02>		-1	0	0	0		    <FONT=ITALIC>Je sais pénétrer les fenêtres sans les briser,
-    mais je disparais à la tombée de la nuit.
-    Qui suis-je#?</FONT>
-		1	1	0	NV_ID_0130					-1	0	0	0		— C'est enfantin#! déclara Weiss. Allez, réponds#!
-		1	1	0	NV_ID_0131					-1	0	0	0		    <NIER> serra les dents, mais se retint de frapper son compagnon.
-    <FONT=ITALIC>Après tout, il a raison. Cette énigme est facile.</FONT>
-1050		1	1	0	NV_ID_0132					-1	0	0	0		    <FONT=ITALIC>Je sais pénétrer les fenêtres sans les briser,
-    mais je disparais à la tombée de la nuit.
-    Qui suis-je#?</FONT>
-		1	1	0						-1	0	0	0		<LIST=1051>«#C'est un oiseau#!#»</LIST>
+		1	1	0	NV_ID_0089					-1	0	0	0		Weiss ouvrit la bouche, mais avant qu'il ne puisse protester, leur vision se troubla et le monde disparut.<PAGE>
+		1	1	0	NV_ID_0091					-1	0	0	0		<FONT=ITALIC>Rine rine oua#! Rine rine oua#!</FONT>
+		1	1	0	NV_ID_0092					-1	0	0	0		<FONT=ITALIC>Chik chik ki#! Chik chik ki#!</FONT>
+		1	1	0	NV_ID_0093					-1	0	0	0		Lorsque <NIER> reprit connaissance, les insectes l'entourèrent encore une fois.
+		1	1	0	NV_ID_0094					-1	0	0	0		Leurs cris formèrent des mots... Des mots qu'il avait déjà entendus quelque part.
+1044	1041	1	1	0	NV_ID_0099					-1	0	0	0		Comment pourrais-je connaître la réponse#?!
+		1	1	0	NV_ID_0100					-1	0	0	0		Weiss ouvrit la bouche, mais avant qu'il ne puisse protester, leur vision se troubla et le monde disparut.<PAGE>
+		1	1	0	NV_ID_0102					-1	0	0	0		<FONT=ITALIC>Rine rine oua#! Rine rine oua#!</FONT>
+		1	1	0	NV_ID_0103					-1	0	0	0		<FONT=ITALIC>Chik chik ki#! Chik chik ki#!</FONT>
+		1	1	0	NV_ID_0104					-1	0	0	0		Lorsque <NIER> reprit connaissance, les insectes l'entourèrent encore une fois.
+		1	1	0	NV_ID_0105					-1	0	0	0		Leurs cris formèrent des mots... Des mots qu'il avait déjà entendus quelque part.
+1045	1046	1	1	0	NV_ID_0110					-1	0	0	0		En son for intérieur, <NIER> était furieux que Weiss ait refusé de l'aider. Il soupira et répondit#:
+		1	1	0	NV_ID_0111					-1	0	0	0		C'est un secret... non#?
+1046	1047	1	1	0	NV_ID_0115			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		Le bourdonnement des insectes s'arrêta aussi soudainement qu'il avait commencé. Les broussailles s'écartèrent telles des vagues déferlantes et révélèrent un nouveau sentier.
+		1	1	0	NV_ID_0116					-1	0	0	0		Ils ont créé un chemin pour nous#! jubila Weiss.
+		1	1	0	NV_ID_0117					-1	0	0	0		Heureux d'avoir répondu correctement, <NIER> continua avec une vitalité accrue.
+1047	1048	1	1	0	NV_ID_0119			<CB=BGM_EID_1500_a0020g_0010_01>		-1	0	0	0		Après avoir dû parcourir les broussailles épaisses, <NIER> savoura le répit inespéré que lui accordait ce sentier facile. De plus, il se sentait encouragé#: tant qu'ils suivaient un sentier, ils n'erraient pas sans but.
+		1	1	0	NV_ID_0120					-1	0	0	0		Je suppose que la forêt nous a acceptés, dit <NIER> après quelque temps. Qu'en penses-tu#?
+		1	1	0	NV_ID_0121					-1	0	0	0		Weiss fit face à son compagnon.
+		1	1	0	NV_ID_0122					-1	0	0	0		Ne traite pas cette forêt comme un vulgaire animal de compagnie que tu pourrais apprivoiser#! Qui sait où mène ce sentier#?
+1048	1049	1	1	0	NV_ID_0123					-1	0	0	0		À l'instant même où Weiss prononça ces paroles, ils atteignirent une source limpide et jaillissante. Souriant, <NIER> ramassa un caillou et le fit ricocher sur l'eau.
+		1	1	0	NV_ID_0124					-1	0	0	0		Ciel...! s'exclama Weiss.
+		1	1	0	NV_ID_0125					-1	0	0	0		Sa surprise était bien normale#: une note cristalline résonna chaque fois que le caillou toucha la surface de l'eau. Lorsque ce dernier sombra enfin au fond de la source, les ondes qu'il avait créées se rassemblèrent et formèrent des mots.
+1049	1050	1	1	0	NV_ID_0128			<CB=BGM_EID_1500_a0020g_0010_02>		-1	0	0	0		<FONT=ITALIC>Je sais pénétrer les fenêtres sans les briser,
+mais je disparais à la tombée de la nuit. Qui suis-je#?</FONT>
+		1	1	0	NV_ID_0130					-1	0	0	0		C'est enfantin#! déclara Weiss. Allez, réponds#!
+		1	1	0	NV_ID_0131					-1	0	0	0		<NIER> serra les dents, mais se retint de frapper son compagnon. <FONT=ITALIC>Après tout, il a raison. Cette énigme est facile.</FONT>
+1050		1	1	0	NV_ID_0132					-1	0	0	0		<FONT=ITALIC>Je sais pénétrer les fenêtres sans les briser,
+mais je disparais à la tombée de la nuit. Qui suis-je#?</FONT>
+
+		1	1	0	NV_ID_0133
+NV_ID_0134
+NV_ID_0135					-1	0	0	0		<LIST=1051>«#C'est un oiseau#!#»</LIST>
 <LIST=1052>«#C'est une lettre#!#»</LIST>
 <LIST=1053>«#C'est un rayon de soleil#!#»</LIST>
-1051	1049	1	1	0	NV_ID_0138					-1	0	0	0		— C'est un oiseau#!
-		1	1	0	NV_ID_0140					-1	0	0	0		    Weiss gémit lamentablement et s'effondra sur le sol.
-		1	1	0	NV_ID_0141					-1	0	0	0		— Tu ne peux tout de même pas être aussi stupide#!
-		1	1	0	NV_ID_0142					-1	0	0	0		— Tu as raison, ça n'a pas de sens, répondit <NIER>.
-1052	1049	1	1	0	NV_ID_0146					-1	0	0	0		— C'est une lettre#!
-		1	1	0	NV_ID_0148					-1	0	0	0		— Ah oui, j'ai toujours détesté ces lettres qui s'échappent au milieu de la nuit#!
-		1	1	0	NV_ID_0149					-1	0	0	0		— Hum. Ça n'a pas de sens, n'est-ce pas#?
-		1	1	0	NV_ID_0151					-1	0	0	0		    Weiss se détourna et battit tristement sa couverture.
-		1	1	0	NV_ID_0152					-1	0	0	0		— J'aurais peut-être dû répondre moi-même, après tout.
-1053	1054	1	1	0	NV_ID_0157					-1	0	0	0		— C'est un rayon de soleil#!
-		1	1	0	NV_ID_0159			<CB=BGM_EID_1500_a0020g_0010_01>		-1	0	0	0		    Soudain, un jet d'eau jaillit avec force de la source. La lumière du soleil, tamisée par le feuillage des arbres de la forêt, s'irisa au contact des gouttelettes d'eau et forma un arc-en-ciel étincelant qui semblait toucher l'horizon.
-		1	1	0	NV_ID_0160					-1	0	0	0		— Je n'ai jamais rien vu de tel, murmura Weiss.
-		1	1	0	NV_ID_0161					-1	0	0	0		Je me suis peut-être mépris sur les intentions de cet endroit...
-		1	1	0	NV_ID_0162					-1	0	0	0		— Regarde#! s'écria <NIER>, troublant les rêveries Weiss. On dirait qu'il y a une maison là-bas.<PAGE>
-		1	1	0	NV_ID_0163					-1	0	0	0		    Weiss regarda dans la direction que pointait <NIER> et aperçut une chaumière nichée parmi les arbres.
-1054	1055	1	1	0	NV_ID_0164					-1	0	0	0		— Tu ne trouves pas ça bizarre, Weiss#? Qui pourrait bien construire une maison dans un endroit pareil#?
-		1	1	0	NV_ID_0165					-1	0	0	0		    <NIER> s'approcha et saisit le heurtoir. Après avoir martelé la porte furieusement pendant une minute, celle-ci s'entrebâilla et un petit homme jeta un coup d'œil à l'extérieur. Une longue cape noire recouvrait complètement son corps et son visage était flou, comme s'il était obscurci par un rideau de fumée.<PAGE>
-		1	1	0	NV_ID_0166					-1	0	0	0		— Euh, commença <NIER>.
-    Avant qu'il ne puisse continuer, l'inconnu l'interrompit d'un geste de la main.
-1055	1056	1	1	0	NV_ID_0169			<CB=BGM_EID_1500_a0020g_0010_03>		-1	0	0	0		    <FONT=ITALIC>J'ai quatre pattes le matin, deux le midi et trois le soir.
-    Qui suis-je#?</FONT>
-		1	1	0	NV_ID_0171					-1	0	0	0		    <NIER> essaya de demander à l'homme qui il était et ce qu'il faisait là, mais celui-ci ne fit que répéter sa question.
-		1	1	0	NV_ID_0172					-1	0	0	0		— Si nous voulons lui poser des questions, il semble que nous devrons d'abord répondre à la sienne, dit Weiss.
-		1	1	0	NV_ID_0173					-1	0	0	0		— Tu as sans doute raison, répondit <NIER>. Au moins, elle n'est pas difficile.
-1056		1	1	0	NV_ID_0174					-1	0	0	0		    <FONT=ITALIC>J'ai quatre pattes le matin, deux le midi et trois le soir.
-    Qui suis-je#?</FONT>
-		1	1	0						-1	0	0	0		<LIST=1059>«#C'est l'Homme.#»</LIST>
+1051	1049	1	1	0	NV_ID_0138					-1	0	0	0		C'est un oiseau#!
+		1	1	0	NV_ID_0140					-1	0	0	0		Weiss gémit lamentablement et s'effondra sur le sol.
+		1	1	0	NV_ID_0141					-1	0	0	0		Tu ne peux tout de même pas être aussi stupide#!
+		1	1	0	NV_ID_0142					-1	0	0	0		Tu as raison, ça n'a pas de sens, répondit <NIER>.
+1052	1049	1	1	0	NV_ID_0146					-1	0	0	0		C'est une lettre#!
+		1	1	0	NV_ID_0148					-1	0	0	0		Ah oui, j'ai toujours détesté ces lettres qui s'échappent au milieu de la nuit#!
+		1	1	0	NV_ID_0149					-1	0	0	0		Hum. Ça n'a pas de sens, n'est-ce pas#?
+		1	1	0	NV_ID_0151					-1	0	0	0		Weiss se détourna et battit tristement sa couverture.
+		1	1	0	NV_ID_0152					-1	0	0	0		J'aurais peut-être dû répondre moi-même, après tout.
+1053	1054	1	1	0	NV_ID_0157					-1	0	0	0		C'est un rayon de soleil#!
+		1	1	0	NV_ID_0159			<CB=BGM_EID_1500_a0020g_0010_01>		-1	0	0	0		Soudain, un jet d'eau jaillit avec force de la source. La lumière du soleil, tamisée par le feuillage des arbres de la forêt, s'irisa au contact des gouttelettes d'eau et forma un arc-en-ciel étincelant qui semblait toucher l'horizon.
+		1	1	0	NV_ID_0160					-1	0	0	0		Je n'ai jamais rien vu de tel, murmura Weiss.
+		1	1	0	NV_ID_0161					-1	0	0	0		Je me suis peut-être mépris sur les intentions de cet endroit...<PAGE>
+		1	1	0	NV_ID_0162					-1	0	0	0		Regarde#! s'écria <NIER>, troublant les rêveries Weiss. On dirait qu'il y a une maison là-bas.
+		1	1	0	NV_ID_0163					-1	0	0	0		Weiss regarda dans la direction que pointait <NIER> et aperçut une chaumière nichée parmi les arbres.
+1054	1055	1	1	0	NV_ID_0164					-1	0	0	0		Tu ne trouves pas ça bizarre, Weiss#? Qui pourrait bien construire une maison dans un endroit pareil#?
+		1	1	0	NV_ID_0165					-1	0	0	0		<NIER> s'approcha et saisit le heurtoir. Après avoir martelé la porte furieusement pendant une minute, celle-ci s'entrebâilla et un petit homme jeta un coup d'œil à l'extérieur. Une longue cape noire recouvrait complètement son corps et son visage était flou, comme s'il était obscurci par un rideau de fumée.<PAGE>
+		1	1	0	NV_ID_0166					-1	0	0	0		Euh, commença <NIER>. Avant qu'il ne puisse continuer, l'inconnu l'interrompit d'un geste de la main.
+1055	1056	1	1	0	NV_ID_0169			<CB=BGM_EID_1500_a0020g_0010_03>		-1	0	0	0		<FONT=ITALIC>J'ai quatre pattes le matin, deux le midi et trois le soir. Qui suis-je#?</FONT>
+		1	1	0	NV_ID_0171					-1	0	0	0		<NIER> essaya de demander à l'homme qui il était et ce qu'il faisait là, mais celui-ci ne fit que répéter sa question.
+		1	1	0	NV_ID_0172					-1	0	0	0		Si nous voulons lui poser des questions, il semble que nous devrons d'abord répondre à la sienne, dit Weiss.
+		1	1	0	NV_ID_0173					-1	0	0	0		Tu as sans doute raison, répondit <NIER>. Au moins, elle n'est pas difficile.
+1056		1	1	0	NV_ID_0174					-1	0	0	0		<FONT=ITALIC>J'ai quatre pattes le matin, deux le midi et trois le soir. Qui suis-je#?</FONT>
+
+		1	1	0	NV_ID_0175
+NV_ID_0176
+NV_ID_0177					-1	0	0	0		<LIST=1059>«#C'est l'Homme.#»</LIST>
 <LIST=1057>«#C'est un démon.#»</LIST>
 <LIST=1058>«#C'est un ange.#»</LIST>
-1057	1056	1	1	0	NV_ID_0180					-1	0	0	0		— C'est un démon.
-		1	1	0	NV_ID_0182					-1	0	0	0		    Dès qu'il prononça ces paroles, un tourbillon suffocant enveloppa la forêt. Les feuilles des arbres se desséchèrent et s'envolèrent#; les branches se courbèrent et se rompirent sous la force du vent#; l'herbe verdoyante et luxuriante jaunit en un instant, puis fut réduite en poussière.
-		1	1	0	NV_ID_0183					-1	0	0	0		    Un énorme démon apparut soudainement devant <NIER>, rugissant de fureur.
-		1	1	0	NV_ID_0185					-1	0	0	0		— Ce n'est pas la bonne réponse#! Réessayez#!
-1058	1056	1	1	0	NV_ID_0189					-1	0	0	0		— C'est un ange.
-		1	1	0	NV_ID_0191					-1	0	0	0		    Dès qu'il prononça ces paroles, <NIER> fut recouvert d'une pluie de plumes immaculées.
-		1	1	0	NV_ID_0192					-1	0	0	0		    Un doux frisson parcourut son corps à la vue de la créature d'une beauté immatérielle qui se manifesta devant lui.
-		1	1	0	NV_ID_0193					-1	0	0	0		    <NIER> ne put retenir ses larmes en entendant sa voix sublime.
-		1	1	0	NV_ID_0195					-1	0	0	0		— Ce n'est pas la bonne réponse. Je vous en prie, faites un autre choix.
-1059	1060	1	1	0	NV_ID_0200					-1	0	0	0		— C'est l'Homme.
-1060	1061	1	1	0	NV_ID_0204			<CB=BGM_EID_1500_a0020g_0010_01>		-1	0	0	0		    La fumée se dissipa.
-		1	1	0	NV_ID_0205					-1	0	0	0		— C'est la bonne réponse, répondit l'inconnu.
-		1	1	0	NV_ID_0206					-1	0	0	0		    Il enleva sa cape et révéla alors son identité.
-		1	1	0	NV_ID_0208					-1	0	0	0		— Le maire#?! s'écria <NIER>.
-		1	1	0	NV_ID_0210					-1	0	0	0		    Le petit homme secoua lentement la tête.
-1061	1062	1	1	0	NV_ID_0211					-1	0	0	0		— Je ne suis pas celui que vous croyez. Écoutez-moi bien#: je vous ai rencontré il y a très longtemps, mais vous n'étiez pas vraiment vous.
-		1	1	0	NV_ID_0212					-1	0	0	0		— Vous m'avez... Un instant, vous m'avez rencontré#? Je suis désolé, mais je ne saisis pas un mot de ce que vous racontez.
-		1	1	0	NV_ID_0213					-1	0	0	0		— Un jour, vous comprendrez. Pour l'instant, je vous félicite de vous être libéré de l'emprise du songe mortel. Allez rejoindre l'homme à l'orée de la forêt.
-1062	1063	1	1	0	NV_ID_0214					-1	0	0	0		    Cela dit, il fit demi-tour et claqua la porte derrière lui. Une brume opaque se leva du sol et enveloppa la demeure. Lorsqu'elle s'évapora, la chaumière avait disparu.
-1063	1064	1	1	0	NV_ID_0216					-1	0	0	0		    <NIER> et Weiss trouvèrent le maire adossé sur un arbre à l'orée de la forêt. Dès qu'il les aperçut, celui-ci bondit vers eux.
-		1	1	0	NV_ID_0217					-1	0	0	0		— Saperlipopette#! s'écria-t-il. Vous êtes de retour#! Vous êtes vraiment revenus#!
-		1	1	0	NV_ID_0218					-1	0	0	0		    Il serra vigoureusement la main gauche de <NIER> dans la sienne au point de l'arracher, puis attrapa la couverture de Weiss de sa main droite et le fit virevolter dans les airs.<PAGE>
-		1	1	0	NV_ID_0219					-1	0	0	0		— Aah#! Arrêtez de me secouer ainsi#! Nous ne vous avons toujours pas dit si nous avions réussi#!
-		1	1	0	NV_ID_0220					-1	0	0	0		    Le maire sourit de toutes ses dents et secoua la tête.
-1064	1065	1	1	0	NV_ID_0221					-1	0	0	0		— Je suis simplement heureux que vous soyez en vie#! Je croyais ne plus jamais vous revoir#!
-		1	1	0	NV_ID_0222					-1	0	0	0		    <NIER> libéra sa main de la poigne enthousiaste du maire et lui sourit aussi.
-		1	1	0	NV_ID_0223					-1	0	0	0		— Nous avons brisé l'emprise du songe mortel, déclara-t-il. Du moins, je crois.
-		1	1	0	NV_ID_0224					-1	0	0	0		    <NIER> raconta leurs aventures au maire qui rayonnait de joie.
-		1	1	0	NV_ID_0226					-1	0	0	0		    Quand il eut terminé son récit, ils s'étendirent sur le sol et s'endormirent.
-1065	1066	1	1	0	NV_ID_0228					-1	0	0	0		— Un instant#! s'écria <NIER>.
-1066	1067	1	1	0	NV_ID_0229					-1	0	0	0		— Ça n'a aucun sens#! continua-t-il. Je ne vois pas pourquoi nous pourrions nous étendre et tout simplement nous endormir#! Je commence à en avoir assez de cette histoire.
-		1	1	0	NV_ID_0230					-1	0	0	0		— Cesse de te plaindre et endors-toi, bougre d'imbécile#! répliqua Weiss. Tu devrais pourtant savoir qu'il est inutile d'aller à l'encontre des règles de cet endroit.
-		1	1	0	NV_ID_0231					-1	0	0	0		    <NIER> et le maire s'allongèrent docilement sur l'herbe touffue.
-1067	1068	1	1	0	NV_ID_0232					-1	0	0	0		— L'aurais-tu oublié#? continua Weiss. Ce sont les mots qui dirigent le songe mortel et qui nous permettent de nous déplacer d'un endroit à l'autre. Peu importe si la situation nous semble ridicule, les mots sont souverains. Par conséquent, s'ils nous disent de nous abandonner au sommeil, qu'il en soit ainsi. Nous ferons alors progresser l'histoire.
-1068		1	1	0	NV_ID_0233					-1	0	0	0		    Peu après, leurs paupières devinrent lourdes et leur respiration ralentit.
-		1	1	0	NV_ID_0234					-1	0	0	0		— C'est la première fois que... que j'ai sommeil... depuis mon arrivée, marmonna le maire.
-		1	1	0	NV_ID_0235					-1	0	0	0		    Il s'interrompit en bâillant bruyamment, puis sombra dans le néant.
+1057	1056	1	1	0	NV_ID_0180					-1	0	0	0		C'est un démon.
+		1	1	0	NV_ID_0182					-1	0	0	0		Dès qu'il prononça ces paroles, un tourbillon suffocant enveloppa la forêt. Les feuilles des arbres se desséchèrent et s'envolèrent#; les branches se courbèrent et se rompirent sous la force du vent#; l'herbe verdoyante et luxuriante jaunit en un instant, puis fut réduite en poussière.
+		1	1	0	NV_ID_0183					-1	0	0	0		Un énorme démon apparut soudainement devant <NIER>, rugissant de fureur.
+		1	1	0	NV_ID_0185					-1	0	0	0		Ce n'est pas la bonne réponse#! Réessayez#!
+1058	1056	1	1	0	NV_ID_0189					-1	0	0	0		C'est un ange.
+		1	1	0	NV_ID_0191					-1	0	0	0		Dès qu'il prononça ces paroles, <NIER> fut recouvert d'une pluie de plumes immaculées.
+		1	1	0	NV_ID_0192					-1	0	0	0		Un doux frisson parcourut son corps à la vue de la créature d'une beauté immatérielle qui se manifesta devant lui.
+		1	1	0	NV_ID_0193					-1	0	0	0		<NIER> ne put retenir ses larmes en entendant sa voix sublime.
+		1	1	0	NV_ID_0195					-1	0	0	0		Ce n'est pas la bonne réponse. Je vous en prie, faites un autre choix.
+1059	1060	1	1	0	NV_ID_0200					-1	0	0	0		C'est l'Homme.
+1060	1061	1	1	0	NV_ID_0204			<CB=BGM_EID_1500_a0020g_0010_01>		-1	0	0	0		La fumée se dissipa.
+		1	1	0	NV_ID_0205					-1	0	0	0		C'est la bonne réponse, répondit l'inconnu.
+		1	1	0	NV_ID_0206					-1	0	0	0		Il enleva sa cape et révéla alors son identité.
+		1	1	0	NV_ID_0208					-1	0	0	0		Le maire#?! s'écria <NIER>.
+		1	1	0	NV_ID_0210					-1	0	0	0		Le petit homme secoua lentement la tête.
+1061	1062	1	1	0	NV_ID_0211					-1	0	0	0		Je ne suis pas celui que vous croyez. Écoutez-moi bien#: je vous ai rencontré il y a très longtemps, mais vous n'étiez pas vraiment vous.
+		1	1	0	NV_ID_0212					-1	0	0	0		Vous m'avez... Un instant, vous m'avez rencontré#? Je suis désolé, mais je ne saisis pas un mot de ce que vous racontez.
+		1	1	0	NV_ID_0213					-1	0	0	0		Un jour, vous comprendrez. Pour l'instant, je vous félicite de vous être libéré de l'emprise du songe mortel. Allez rejoindre l'homme à l'orée de la forêt.
+1062	1063	1	1	0	NV_ID_0214					-1	0	0	0		Cela dit, il fit demi-tour et claqua la porte derrière lui. Une brume opaque se leva du sol et enveloppa la demeure. Lorsqu'elle s'évapora, la chaumière avait disparu.
+1063	1064	1	1	0	NV_ID_0216					-1	0	0	0		<NIER> et Weiss trouvèrent le maire adossé sur un arbre à l'orée de la forêt. Dès qu'il les aperçut, celui-ci bondit vers eux.
+		1	1	0	NV_ID_0217					-1	0	0	0		Saperlipopette#! s'écria-t-il. Vous êtes de retour#! Vous êtes vraiment revenus#!
+		1	1	0	NV_ID_0218					-1	0	0	0		Il serra vigoureusement la main gauche de <NIER> dans la sienne au point de l'arracher, puis attrapa la couverture de Weiss de sa main droite et le fit virevolter dans les airs.<PAGE>
+		1	1	0	NV_ID_0219					-1	0	0	0		Aah#! Arrêtez de me secouer ainsi#! Nous ne vous avons toujours pas dit si nous avions réussi#!
+		1	1	0	NV_ID_0220					-1	0	0	0		Le maire sourit de toutes ses dents et secoua la tête.
+1064	1065	1	1	0	NV_ID_0221					-1	0	0	0		Je suis simplement heureux que vous soyez en vie#! Je croyais ne plus jamais vous revoir#!
+		1	1	0	NV_ID_0222					-1	0	0	0		<NIER> libéra sa main de la poigne enthousiaste du maire et lui sourit aussi.
+		1	1	0	NV_ID_0223					-1	0	0	0		Nous avons brisé l'emprise du songe mortel, déclara-t-il. Du moins, je crois.<PAGE>
+		1	1	0	NV_ID_0224					-1	0	0	0		<NIER> raconta leurs aventures au maire qui rayonnait de joie.
+		1	1	0	NV_ID_0226					-1	0	0	0		Quand il eut terminé son récit, ils s'étendirent sur le sol et s'endormirent.
+1065	1066	1	1	0	NV_ID_0228					-1	0	0	0		Un instant#! s'écria <NIER>.
+1066	1067	1	1	0	NV_ID_0229					-1	0	0	0		Ça n'a aucun sens#! continua-t-il. Je ne vois pas pourquoi nous pourrions nous étendre et tout simplement nous endormir#! Je commence à en avoir assez de cette histoire.
+		1	1	0	NV_ID_0230					-1	0	0	0		Cesse de te plaindre et endors-toi, bougre d'imbécile#! répliqua Weiss. Tu devrais pourtant savoir qu'il est inutile d'aller à l'encontre des règles de cet endroit.
+		1	1	0	NV_ID_0231					-1	0	0	0		<NIER> et le maire s'allongèrent docilement sur l'herbe touffue.
+1067	1068	1	1	0	NV_ID_0232					-1	0	0	0		L'aurais-tu oublié#? continua Weiss. Ce sont les mots qui dirigent le songe mortel et qui nous permettent de nous déplacer d'un endroit à l'autre. Peu importe si la situation nous semble ridicule, les mots sont souverains. Par conséquent, s'ils nous disent de nous abandonner au sommeil, qu'il en soit ainsi. Nous ferons alors progresser l'histoire.
+1068		1	1	0	NV_ID_0233					-1	0	0	0		Peu après, leurs paupières devinrent lourdes et leur respiration ralentit.
+		1	1	0	NV_ID_0234					-1	0	0	0		C'est la première fois que... que j'ai sommeil... depuis mon arrivée, marmonna le maire.
+		1	1	0	NV_ID_0235					-1	0	0	0		Il s'interrompit en bâillant bruyamment, puis sombra dans le néant.<PAGE>
 		1	1	0	NV_ID_0237				<CB=BG_AND_ENV_FADE_IN>
-<CB=CHANGE_WINDOW_SIZE,2,1362,1069>	-1	0	0	0		    Ils dormirent une heure ou un an, personne ne le saura jamais. À leur réveil, le monde avait quelque chose de plus réel. La brume paraissait plus épaisse, les feuilles plus vertes...<PAGE>    Ils étaient certains qu'ils n'étaient plus dans un rêve.
-1069	1070	1	1	0	NV_ID_0238			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		    <NIER> secoua doucement l'épaule du maire.
-— Bonne nouvelle#! lui dit-il. Nous avons réussi.
-		1	1	0	NV_ID_0239					-1	0	0	0		— Oh ! s'exclama le maire stupéfait. C'est vrai. Je suis chez moi. Vous ne savez pas ce que ça représente pour moi#! Le songe mortel se propageait dans le village et je voulais... Eh bien, je croyais pouvoir l'arrêter, mais je suppose que j'ai échoué. Je l'ai l'attrapé moi aussi et je me suis retrouvé prisonnier de mes propres rêves.
-		1	1	0	NV_ID_0240					-1	0	0	0		    Le maire essaya de se lever, mais il s'effondra sur le sol.<PAGE>
-		1	1	0	NV_ID_0241					-1	0	0	0		    Il regarda ses jambes comme s'il n'arrivait pas à se souvenir comment s'en servir, puis jeta un coup d'œil à <NIER> en haussant les épaules.
-1070	1071	1	1	0	NV_ID_0242					-1	0	0	0		    Sans dire un mot, le guerrier se pencha et l'aida à se mettre debout.
-		1	1	0	NV_ID_0243					-1	0	0	0		— Je devrai me réhabituer au monde réel, balbutia le maire en souriant.
-		1	1	0	NV_ID_0244					-1	0	0	0		— Vous y arriverez bientôt, j'en suis certain, affirma Weiss. Pour l'instant, vous devriez rentrer vous reposer.<PAGE>
-		1	1	0	NV_ID_0245					-1	0	0	0		— Non, répondit le maire, toujours chancelant. Je ne peux pas.
-1071	1072	1	1	0	NV_ID_0246					-1	0	0	0		    Son visage prit un air résolu.
-— Des villageois sont toujours prisonniers du songe mortel. Je dois leur porter secours.
-		1	1	0	NV_ID_0247					-1	0	0	0		    Le maire tituba jusqu'à l'arbre divin situé au centre du village, puis inclina sa tête pour prier.
-		1	1	0	NV_ID_0248					-1	0	0	0		— Cet arbre est sacré, expliqua-t-il quand il eut terminé sa prière. Il est le gardien de l'histoire de notre village... et de ses souvenirs.<PAGE>
-		1	1	0	NV_ID_0249					-1	0	0	0		— Toutes ses superstitions ne nous rendront pas la tâche facile, grommela Weiss. Nous ne devrions pas mettre tous nos espoirs en une divinité.
-1072	1073	1	1	0	NV_ID_0250					-1	0	0	0		    Le maire secoua la tête.
-— Pas en une divinité, en un mot. La légende raconte que notre arbre recèle un mot magique puissant#: un vers scellé.
-		1	1	0	NV_ID_0251					-1	0	0	0		    <NIER> et Weiss ne purent maîtriser leur surprise. Ils avaient trouvé ce qu'ils cherchaient dans un endroit inattendu.
-		1	1	0	NV_ID_0252					-1	0	0	0		— Eh bien#! s'écria Weiss, quelle veine#!<PAGE>
-		1	1	0	NV_ID_0254					-1	0	0	0		    En disant au revoir au maire, <NIER> mentionna la conversation déconcertante qu'il avait eue avec l'homme étrange qui leur avait posé la troisième énigme.
-1073	1074	1	1	0	NV_ID_0255					-1	0	0	0		— Je vous ai déjà rencontré, mais vous n'étiez pas vraiment vous#? répéta le maire. Mais qu'est-ce que ça peut bien vouloir dire...?
-		1	1	0	NV_ID_0256					-1	0	0	0		    Perdu dans ses pensées, il demeura le regard dans le vague pendant un long moment.<PAGE>
-		1	1	0	NV_ID_0257					-1	0	0	0		— Vous savez, dit-il doucement, ça vous semblera probablement bizarre, mais j'ai eu l'impression de vous avoir déjà rencontré ailleurs, moi aussi.
-		1	1	0	NV_ID_0258					-1	0	0	0		    <NIER> essaya sans succès de rester impassible, mais le maire ne parut pas le remarquer.
-		1	1	0	NV_ID_0259					-1	0	0	0		— Le déjà-vu, c'est ça#? Eh bien, je suppose que ce n'était qu'une illusion créée par le songe mortel. Ça ne veut probablement rien dire.
-1074		1	1	0	NV_ID_0260					-1	0	0	0		    <NIER> hocha la tête en souriant, mais ses pensées se bousculaient dans sa tête.
-    <FONT=ITALIC>Ce que raconte le maire n'a aucun sens. Si seulement je pouvais comprendre ce qui se passe ici...!</FONT>
+<CB=CHANGE_WINDOW_SIZE,2,1362,1069>	-1	0	0	0		Ils dormirent une heure ou un an, personne ne le saura jamais. À leur réveil, le monde avait quelque chose de plus réel. La brume paraissait plus épaisse, les feuilles plus vertes...Ils étaient certains qu'ils n'étaient plus dans un rêve.
+1069	1070	1	1	0	NV_ID_0238			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		<NIER> secoua doucement l'épaule du maire. Bonne nouvelle#! lui dit-il. Nous avons réussi.
+		1	1	0	NV_ID_0239					-1	0	0	0		Oh ! s'exclama le maire stupéfait. C'est vrai. Je suis chez moi.
+		1	1	0	NV_ID_0240					-1	0	0	0		Vous ne savez pas ce que ça représente pour moi#!<PAGE>
+		1	1	0	NV_ID_0241					-1	0	0	0		Le songe mortel se propageait dans le village et je voulais... Eh bien, je croyais pouvoir l'arrêter, mais je suppose que j'ai échoué. Je l'ai l'attrapé moi aussi et je me suis retrouvé prisonnier de mes propres rêves.
+1070	1071	1	1	0	NV_ID_0242					-1	0	0	0		Le maire essaya de se lever, mais il s'effondra sur le sol. Il regarda ses jambes comme s'il n'arrivait pas à se souvenir comment s'en servir, puis jeta un coup d'œil à <NIER> en haussant les épaules. Sans dire un mot, le guerrier se pencha et l'aida à se mettre debout.
+		1	1	0	NV_ID_0243					-1	0	0	0		Je devrai me réhabituer au monde réel, balbutia le maire en souriant.<PAGE>
+		1	1	0	NV_ID_0244					-1	0	0	0		Vous y arriverez bientôt, j'en suis certain, affirma Weiss. Pour l'instant, vous devriez rentrer vous reposer.
+		1	1	0	NV_ID_0245					-1	0	0	0		Non, répondit le maire, toujours chancelant. Je ne peux pas. Son visage prit un air résolu.
+1071	1072	1	1	0	NV_ID_0246					-1	0	0	0		Des villageois sont toujours prisonniers du songe mortel. Je dois leur porter secours.
+		1	1	0	NV_ID_0247					-1	0	0	0		Le maire tituba jusqu'à l'arbre divin situé au centre du village, puis inclina sa tête pour prier.
+		1	1	0	NV_ID_0248					-1	0	0	0		Cet arbre est sacré, expliqua-t-il quand il eut terminé sa prière. Il est le gardien de l'histoire de notre village... et de ses souvenirs.
+		1	1	0	NV_ID_0249					-1	0	0	0		Toutes ses superstitions ne nous rendront pas la tâche facile, grommela Weiss. Nous ne devrions pas mettre tous nos espoirs en une divinité.
+1072	1073	1	1	0	NV_ID_0250					-1	0	0	0		Le maire secoua la tête. Pas en une divinité, en un mot. La légende raconte que notre arbre recèle un mot magique puissant#: un vers scellé.
+		1	1	0	NV_ID_0251					-1	0	0	0		<NIER> et Weiss ne purent maîtriser leur surprise. Ils avaient trouvé ce qu'ils cherchaient
+dans un endroit inattendu.<PAGE>
+		1	1	0	NV_ID_0252					-1	0	0	0		Eh bien#! s'écria Weiss, quelle veine#!
+		1	1	0	NV_ID_0254					-1	0	0	0		En disant au revoir au maire, <NIER> mentionna la conversation déconcertante qu'il avait eue avec l'homme étrange qui leur avait posé la troisième énigme.
+1073	1074	1	1	0	NV_ID_0255					-1	0	0	0		Je vous ai déjà rencontré, mais vous n'étiez pas vraiment vous#? répéta le maire. Mais qu'est-ce que ça peut bien vouloir dire...?
+		1	1	0	NV_ID_0256					-1	0	0	0		Perdu dans ses pensées, il demeura le regard dans le vague pendant un long moment.
+		1	1	0	NV_ID_0257					-1	0	0	0		Vous savez, dit-il doucement, ça vous semblera probablement bizarre,
+mais j'ai eu l'impression de vous avoir déjà rencontré ailleurs, moi aussi.
+		1	1	0	NV_ID_0258					-1	0	0	0		<NIER> essaya sans succès de rester impassible, mais le maire ne parut pas le remarquer.
+		1	1	0	NV_ID_0259					-1	0	0	0		Le déjà-vu, c'est ça#? Eh bien, je suppose que ce n'était qu'une illusion créée par le songe mortel. Ça ne veut probablement rien dire.
+1074		1	1	0	NV_ID_0260					-1	0	0	0		<NIER> hocha la tête en souriant, mais ses pensées se bousculaient dans sa tête.<FONT=ITALIC>Ce que raconte le maire n'a aucun sens. Si seulement je pouvais comprendre ce qui se passe ici...!</FONT>
 		1	1	0	NV_ID_0261				<CB=BGM_C_FOREST_FIELD_01>
 <CB=LIB_SET_OPEN_2D_GAUGE_FAST>
-<CB=CHANGE_WINDOW_SIZE,0,1362,1005>	-1	0	0	0		    Cette énigme s'avéra être la plus difficile qui soit.
+<CB=CHANGE_WINDOW_SIZE,0,1362,1005>	-1	0	0	0		Cette énigme s'avéra être la plus difficile qui soit.
 1075	1076	1	1	0	NV_ID_0264			<CB=BGM_EID_1500_a0108_01>
-<CB=SET_ACTOR_PAUSE_ON,1363>		-1	0	0	0		    Je respirai l'air saturé de mort, résistant à l'envie de rire, car je savais qu'il ressemblerait trop au rire d'un fou. 
-    <FONT=ITALIC>Combien de temps ai-je passé dans cet enfer carcéral#?</FONT><STOP>
-    Ma prison, ma cage, était nichée sous un escalier quelque part dans les catacombes longtemps oubliées d'un immense château aux corridors sans fin. Un hymne funèbre interminable venait de l'extérieur.<STOP> L'obscurité était absolue, l'air lourd et stagnant. Je priais constamment que la mort m'emporte, mais elle refusait de me délivrer de mes souffrances.<PAGE>    Le temps passait, une éternité s'écoulant dans chaque seconde.
-		1	1	0	NV_ID_0266					-1	0	0	0		    Quelqu'un frappa à la porte de ma prison.
-1076	1077	1	1	0	NV_ID_0267					-1	0	0	0		— Hé#! Il y a quelqu'un#? demanda une voix inconnue.
-		1	1	0	NV_ID_0268					-1	0	0	0		    <FONT=ITALIC>Mon sauveur#!</FONT><STOP>
-    Je grattai frénétiquement la porte, enfonçant de longues échardes sous mes ongles sanglants. Je criai, je ris, je pleurai... 
-    <FONT=ITALIC>J'ai dû imaginer cette voix dans mon délire#! Elle ne peut pas être réelle#!</FONT>
-		1	1	0	NV_ID_0269					-1	0	0	0		— À l'aide#! criai-je. Au nom du ciel, je vous en supplie, aidez-moi#!<PAGE>
-		1	1	0	NV_ID_0270					-1	0	0	0		    J'entendis avec incrédulité le bruit du verrou qui tomba sur le sol avec fracas.<STOP> La porte grinçante s'ouvrit lentement.<STOP> J'eus à peine le temps d'apercevoir un homme aux cheveux d'argent et un livre flottant avant que la lumière inonde ma cellule. Mes yeux, habitués à l'obscurité, brûlèrent de douleur et je dus me détourner.
-		1	1	0	NV_ID_0271					-1	0	0	0		— Qui êtes-vous#? demandai-je, protégeant mon visage de mes mains tremblantes. Comment avez-vous trouvé cet endroit#?<PAGE>
-		1	1	0	NV_ID_0272					-1	0	0	0		— Je suis le Grimoire Weiss, et voici <NIER>. Nous vous cherchons depuis des lustres.<STOP> Venez, levez-vous. Nous nous échapperons ensemble de ce cauchemar.
-1077	1078	1	1	0	NV_ID_0273					-1	0	0	0		    L'homme appelé <NIER> me tendit la main et me tira de ma cellule.<STOP> Bien que ma vue ait du mal à s'ajuster à l'éclat brutal de la lumière, mon ouïe, aussi aiguisée que jamais, reconnut le bruit saccadé de la pluie battante.<PAGE>
-		1	1	0	NV_ID_0274					-1	0	0	0		— Je ne pensais jamais pouvoir entendre la pluie de nouveau, murmurai-je.
-		1	1	0	NV_ID_0275					-1	0	0	0		— J'aurais préféré qu'elle ne soit pas aussi diluvienne, répondit Weiss. Regardez le sol.
-		1	1	0	NV_ID_0276					-1	0	0	0		    Je m'efforçai d'ouvrir mes paupières et vis que de l'eau ruisselait par terre et clapotait autour de mes chevilles.
-		1	1	0	NV_ID_0277					-1	0	0	0		— Les catacombes vont-elles être inondées#?
-1078		1	1	1	NV_ID_0278					-1	0	0	0		— Oui, l'eau continue de monter chaque moment que nous restons ici. Si nous n'arrivons pas à nous échapper de ce château, nous serons noyés.<STOP> Nous savons que vous n'avez pas beaucoup de force, mais vous êtes notre seul espoir.
-		1	1	0	NV_ID_0279					-1	0	0	0		    Le temps, cet ami oublié, s'écoulait de nouveau. Je hochai la tête et jurai de sauver ceux qui m'avaient porté secours, quoi qu'il arrive.
+<CB=SET_ACTOR_PAUSE_ON,1363>		-1	0	0	0		Je respirai l'air saturé de mort, résistant à l'envie de rire, car je savais qu'il ressemblerait trop au rire d'un fou.<FONT=ITALIC>Combien de temps ai-je passé dans cet enfer carcéral#?</FONT>
+<STOP>Ma prison, ma cage, était nichée sous un escalier quelque part dans les catacombes longtemps oubliées d'un immense château aux corridors sans fin. Un hymne funèbre interminable venait de l'extérieur.<STOP> L'obscurité était absolue, l'air lourd et stagnant. Je priais constamment que la mort m'emporte, mais elle refusait de me délivrer de mes souffrances.<PAGE>Le temps passait, une éternité s'écoulant dans chaque seconde.
+		1	1	0	NV_ID_0266					-1	0	0	0		Quelqu'un frappa à la porte de ma prison.
+1076	1077	1	1	0	NV_ID_0267					-1	0	0	0		Hé#! Il y a quelqu'un#? demanda une voix inconnue.
+		1	1	0	NV_ID_0268					-1	0	0	0		<FONT=ITALIC>Mon sauveur#!</FONT><STOP>Je grattai frénétiquement la porte, enfonçant de longues échardes sous mes ongles sanglants. Je criai, je ris, je pleurai... <FONT=ITALIC>J'ai dû imaginer cette voix dans mon délire#! Elle ne peut pas être réelle#!</FONT>
+		1	1	0	NV_ID_0269					-1	0	0	0		À l'aide#! criai-je. Au nom du ciel, je vous en supplie, aidez-moi#!<PAGE>
+		1	1	0	NV_ID_0270					-1	0	0	0		J'entendis avec incrédulité le bruit du verrou qui tomba sur le sol avec fracas.<STOP> La porte grinçante s'ouvrit lentement.<STOP> J'eus à peine le temps d'apercevoir un homme aux cheveux d'argent et un livre flottant avant que la lumière inonde ma cellule. Mes yeux, habitués à l'obscurité, brûlèrent de douleur et je dus me détourner.<PAGE>
+		1	1	0	NV_ID_0271					-1	0	0	0		Qui êtes-vous#? demandai-je, protégeant mon visage de mes mains tremblantes. Comment avez-vous trouvé cet endroit#?
+		1	1	0	NV_ID_0272					-1	0	0	0		Je suis le Grimoire Weiss, et voici <NIER>. Nous vous cherchons depuis des lustres.<STOP> Venez, levez-vous. Nous nous échapperons ensemble de ce cauchemar.
+1077	1078	1	1	0	NV_ID_0273					-1	0	0	0		L'homme appelé <NIER> me tendit la main et me tira de ma cellule.<STOP> Bien que ma vue ait du mal à s'ajuster à l'éclat brutal de la lumière, mon ouïe, aussi aiguisée que jamais, reconnut le bruit saccadé de la pluie battante.
+		1	1	0	NV_ID_0274					-1	0	0	0		Je ne pensais jamais pouvoir entendre la pluie de nouveau, murmurai-je.
+		1	1	0	NV_ID_0275					-1	0	0	0		J'aurais préféré qu'elle ne soit pas aussi diluvienne, répondit Weiss. Regardez le sol.<PAGE>
+		1	1	0	NV_ID_0276					-1	0	0	0		Je m'efforçai d'ouvrir mes paupières et vis que de l'eau ruisselait par terre et clapotait autour de mes chevilles.
+		1	1	0	NV_ID_0277					-1	0	0	0		Les catacombes vont-elles être inondées#?
+1078		1	1	1	NV_ID_0278					-1	0	0	0		Oui, l'eau continue de monter chaque moment que nous restons ici. Si nous n'arrivons pas à nous échapper de ce château, nous serons noyés.<STOP> Nous savons que vous n'avez pas beaucoup de force, mais vous êtes notre seul espoir.
+		1	1	0	NV_ID_0279					-1	0	0	0		Le temps, cet ami oublié, s'écoulait de nouveau. Je hochai la tête et jurai de sauver ceux qui m'avaient porté secours, quoi qu'il arrive.<PAGE>
 		1	1	0	NV_ID_0281			<CB=BGM_EID_1500_a0108_02>	<CB=Labyrinth_Init>
-<CB=Labyrinth_Event>	-1	0	0	0		    Les catacombes du château étaient un gigantesque labyrinthe constitué d'innombrables détours.
-1079	1080	1	1	0	NV_ID_0293					-1	0	0	0		    Au bout du couloir...
-		1	1	0	NV_ID_0295					-1	0	0	0		    J'aperçus une rangée de vingt magnifiques lits à baldaquin alignés sur un tapis de velours et tous recouverts d'une épaisse couche de poussière.
-		1	1	0	NV_ID_0296					-1	0	0	0		    En cherchant la sortie, je découvris une masse informe grise pressée contre un mur. À travers le délire de la fièvre, je crus apercevoir les contours d'une porte derrière elle.<STOP> Je tentai de toucher du doigt un bout de la masse, mais celle-ci se transforma aussitôt en poussière et fut emportée par le vent.<PAGE>    Peu à peu, je finis par comprendre et je tombai à genoux, mon visage inondé de larmes.
-		1	1	0	NV_ID_0297					-1	0	0	0		    Des cadavres... Il s'agissait d'une montagne de cadavres carbonisés qui s'effritaient au moindre toucher.
-1080	1104	1	1	0	NV_ID_0298					-1	0	0	0		    Je regardai tour à tour les lits et cette montagne.<STOP> Je me rendis compte avec horreur que quelqu'un avait empilé des corps et les avait brûlés.<STOP> Il était impossible de savoir s'ils étaient toujours en vie lorsque les flammes les avaient consumés, et je ne pus pas y réfléchir plus longtemps sans perdre la raison.
-		1	1	0	NV_ID_0299					-1	0	0	0		    Un son s'échappa de mes lèvres, un cri ou peut-être un éclat de rire dément, j'étais incapable de le distinguer, puis, à mon grand soulagement, mon esprit s'engourdit.<PAGE>    Peu de temps après, je me rendis compte que j'ouvrais une porte, laissant derrière moi cette salle affreuse.
-1081	1082	1	1	0	NV_ID_0302					-1	0	0	0		    Au bout du couloir...
-		1	1	0	NV_ID_0304					-1	0	0	0		    Des tonneaux massifs, sans doute remplis de vin, étaient alignés dans une salle sombre.
-		1	1	0	NV_ID_0305					-1	0	0	0		    Une soif brûlante me dévora soudain. Je n'arrivais pas à me souvenir de ma dernière gorgée d'eau.
-1082	1083	1	1	0	NV_ID_0306					-1	0	0	0		    Je titubai vers le tonneau le plus près et essayai d'en retirer le bouchon.<STOP> 
-    <FONT=ITALIC>Je n'en prendrai que quelques gorgées</FONT>, me dis-je. 
-    <FONT=ITALIC>De toute façon, l'inondation va bientôt ruiner les fûts.</FONT><STOP> 
-    Je parvins enfin à arracher le bouchon récalcitrant et un liquide rougeâtre et visqueux jaillit de la bonde.
-		1	1	0	NV_ID_0307			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		    <FONT=ITALIC>Ce n'est pas du vin#: c'est du sang encore chaud des veines d'un animal... ou d'un humain.</FONT><PAGE>
-		1	1	0	NV_ID_0308					-1	0	0	0		    Le liquide immonde vint rapidement tiédir le torrent montant de l'inondation qui atteignait désormais mes cuisses.
-		1	1	0	NV_ID_0309					-1	0	0	0		    <FONT=ITALIC>Par tous les dieux#! Les autres tonneaux seraient-ils aussi remplis de sang#?</FONT>
-1083	1100	1	1	0	NV_ID_0310					-1	0	0	0		    Je n'eus pas le courage de confirmer mes doutes. J'essayai de fuir, mais mes jambes affaiblies me trahirent. Je trébuchai et plongeai dans le flot rougeâtre. Mon dégoût se transforma vite en terreur.
-		1	1	0	NV_ID_0311					-1	0	0	0		    L'odeur fétide de la mort m'enveloppa et sembla vouloir me suffoquer.
-    <FONT=ITALIC>Je dois m'échapper de cet enfer...!</FONT>
-		1	1	0	NV_ID_0312			<CB=BGM_EID_1500_a0108_03>		-1	0	0	0		    À quatre pattes, comme un animal, j'étouffai mes cris, de crainte d'avaler l'eau sanglante, et j'avançai péniblement jusqu'à la sortie.
-1084	1085	1	1	0	NV_ID_0315					-1	0	0	0		    Au bout du couloir...
-1085	1086	1	1	0	NV_ID_0317					-1	0	0	0		    Je me retrouvai dans une grande salle où le silence n'était brisé que par le crépitement de la pluie. Mes pieds s'enfonçaient dans le tapis rouge imbibé d'eau.<STOP> Au centre de la salle, j'aperçus une table somptueusement servie.<STOP> Mes yeux s'adaptant peu à peu, je remarquai que des invités étaient assis autour d'elle. Un mouvement m'incita à m'approcher de la chaise située au bout de la table, mais la vérité me fit reculer aussitôt avec répugnance. <STOP>L'hôte de ce festin, ainsi que tous ses invités, étaient des cadavres.<PAGE>    Le mouvement qui m'avait attiré était celui de la multitude d'insectes grouillants qui se gorgeaient de leurs dépouilles.
-1086	1087	1	1	0	NV_ID_0318					-1	0	0	0		    Ce festin splendide n'était plus qu'un requiem pour les damnés.
-		1	1	0	NV_ID_0319					-1	0	0	0		    Je fermai les yeux un instant pour me calmer, puis je m'éloignai lentement de la table.<STOP> Voulant éviter la vue des cadavres, mon regard s'attarda sur les chaises sur lesquelles ils étaient assis.<STOP> Malheureusement, elles se révélèrent être encore plus horribles que le reste.
-		1	1	0	NV_ID_0320					-1	0	0	0		    Chacune d'elles était recouverte de fines pointes acérées#: le siège, le dossier et même les bras.
-<PAGE>    <FONT=ITALIC>Cela explique la couleur du tapis... J'espère qu'ils étaient déjà morts au début du repas...!</FONT>
-1087	1102	1	1	0	NV_ID_0321					-1	0	0	0		    <FONT=ITALIC>Sinon, il serait facile de s'imaginer leurs cris d'agonie...</FONT>
-		1	1	0	NV_ID_0322					-1	0	0	0		    J'essayai de me convaincre qu'ils avaient tous subi cette torture pour avoir commis quelque crime terrible.<STOP> À vrai dire, je me doutais plutôt qu'ils n'avaient commis aucun crime.
-		1	1	0	NV_ID_0323					-1	0	0	0		    Ces infortunés ne verraient pas de lendemains... Ce festin avaient été leur dernier repas.
-1088	1089	1	1	0	NV_ID_0326					-1	0	0	0		    Au bout du couloir...
-		1	1	0	NV_ID_0328					-1	0	0	0		    Avoir à opposer la force de l'eau qui m'arrivait à la taille m'épuisait autant physiquement que mentalement. 
-    <FONT=ITALIC>J'espère que c'est la sortie...</FONT>
-		1	1	0	NV_ID_0329					-1	0	0	0		    Bientôt, je ne pus plus supporter la vue de l'eau et je levai les yeux vers le plafond jauni.<STOP> À ma grande surprise, une série de peintures y étaient accrochées.<STOP> Chacune d'elles représentait une personne dans la fleur de l'âge somptueusement vêtue.<PAGE>    Le style de leurs vêtements me parut étrange et m'amena à croire que ces gens avaient vécu il y a de cela très longtemps.
-1089	1090	1	1	0	NV_ID_0330					-1	0	0	0		    Un des sujets portait une tenue qui attira mon attention. <STOP>C'était une légère tunique de tissu vaporeux décorée de fleurs et d'oiseaux retenue par une magnifique ceinture de cuir ouvré. Même selon la mode d'aujourd'hui, cet ensemble était superbe.
-		1	1	0	NV_ID_0331					-1	0	0	0		    J'eus soudainement l'envie de toucher le portrait.<STOP> Pourtant, lorsque j'approchai ma main de la peinture, une sensation des plus désagréables m'envahit.<STOP> Observant attentivement l'image, je la vis se tordre et prendre la forme d'une autre main. <PAGE>    Quelqu'un derrière la peinture me désignait du doigt#! 
-1090	1091	1	1	0	NV_ID_0332					-1	0	0	0		    Était-ce un autre prisonnier#? Une autre personne captive de cet endroit pour l'éternité#?<STOP> Je devais m'en assurer, alors je saisis le portrait et le jetai dans l'eau.<STOP> Derrière, je découvris une cavité dans le mur qui abritait un corps. Prisonnier ou non, je ne pouvais plus lui prêter main-forte. Le pauvre avait rendu l'âme il y a belle lurette.
-		1	1	0	NV_ID_0333					-1	0	0	0		    Des lambeaux de tissus gisaient autour du squelette. Même s'il ne restait pas grand-chose de l'original, je pus reconnaître le motif délicat des vêtements du portrait.
-1091	1103	1	1	0	NV_ID_0334					-1	0	0	0		    Chaque portrait que j'avais admiré cachait donc la dépouille de l'original.
-		1	1	0	NV_ID_0335					-1	0	0	0		    <FONT=ITALIC>Assez#!</FONT>
-    Je continuai tant bien que mal d'avancer en détournant mes yeux.
-1092		1	1	0	NV_ID_0338					-1	0	0	0		    L'eau m'arrivait désormais au menton et allait bientôt recouvrir ma bouche et mon nez.
-		1	1	0	NV_ID_0339					-1	0	0	0		— Imbé...! cria <NIER>.
-    Il voulut sûrement continuer, mais le reste de ses insultes fut interrompu par le torrent qui montait toujours.
-		1	1	0	NV_ID_0340					-1	0	0	0		    Le Grimoire Weiss, imbibé d'eau et tout abîmé, flottait à la surface.<STOP> Il était déjà trop tard.
-		1	1	0	NV_ID_0342					-1	0	0	0		    <FONT=ITALIC>Ce n'est pas ainsi...</FONT> <WAIT=0.5><FONT=ITALIC>q</FONT><WAIT=0.033><FONT=ITALIC>u</FONT><WAIT=0.033><FONT=ITALIC>e</FONT><WAIT=0.033> <FONT=ITALIC>c</FONT><WAIT=0.033><FONT=ITALIC>e</FONT><WAIT=0.033><FONT=ITALIC>l</FONT><WAIT=0.033><FONT=ITALIC>a</FONT><WAIT=0.033> <FONT=ITALIC>d</FONT><WAIT=0.033><FONT=ITALIC>e</FONT><WAIT=0.033><FONT=ITALIC>v</FONT><WAIT=0.033><FONT=ITALIC>a</FONT><WAIT=0.033><FONT=ITALIC>i</FONT><WAIT=0.033><FONT=ITALIC>t</FONT><WAIT=0.033> <FONT=ITALIC>s</FONT><WAIT=0.033><FONT=ITALIC>e</FONT><WAIT=0.033> <FONT=ITALIC>t</FONT><WAIT=0.033><FONT=ITALIC>e</FONT><WAIT=0.033><FONT=ITALIC>r</FONT><WAIT=0.033><FONT=ITALIC>m</FONT><WAIT=0.033><FONT=ITALIC>i</FONT><WAIT=0.033><FONT=ITALIC>n</FONT><WAIT=0.033><FONT=ITALIC>e</FONT><WAIT=0.033><FONT=ITALIC>r</FONT><WAIT=0.033><FONT=ITALIC>.</FONT><WAIT=0.033><FONT=ITALIC>.</FONT><WAIT=0.033><FONT=ITALIC>.</FONT>
-1093	1094	1	1	0	NV_ID_0346			<CB=NPC_PARTS_INVISIBLE>		-1	0	0	0		    Contre toute attente, nous atteignîmes la sortie.
-		1	1	0	NV_ID_0347					-1	0	0	0		— Nous devons défoncer la porte#! s'écria un de mes compagnons.
-    Je fis de mon mieux.
-		1	1	0	NV_ID_0348					-1	0	0	0		    <FONT=ITALIC>Un, deux, trois#!</FONT>
-    Nous nous écrasâmes tous ensemble contre la porte robuste. La troisième fois, celle-ci céda et nous nous retrouvâmes étalés par terre devant le château.
-		1	1	0	NV_ID_0349					-1	0	0	0		    La tempête se dissipa.<PAGE>    Les nuages étaient toujours sombres et menaçants, mais, à l'ouest, un mince rayon de soleil essayait de les percer.
-1094	1095	1	1	0	NV_ID_0350					-1	0	0	0		— Comment pourrais-je vous remercier#? m'écriai-je, les joues inondées de larmes. Je n'aurais jamais survécu sans votre aide.
-    Je baissai les yeux et remarquai brusquement que ma robe était en lambeaux. Embarrassée, j'essayai de couvrir ma peau nue.
-		1	1	0	NV_ID_0351					-1	0	0	0		— Votre robe#? demanda Weiss. Vous êtes donc une femme#?
-		1	1	0	NV_ID_0352					-1	0	0	0		— Euh, oui... <STOP>Je suppose qu'il vous était impossible de le savoir puisque je n'existe que par les mots.<PAGE>
-		1	1	0	NV_ID_0353					-1	0	0	0		    Je vis que <NIER> était un peu déçu que l'état de ma robe n'ait pas été décrit en détail, mais il arriva pourtant à le dissimuler. D'un hochement de tête, nous décidâmes de nous réveiller.
-1095	1096	1	1	0	NV_ID_0355					-1	0	0	0		    Mais derrière nous, quelque chose d'autre s'éveillait.
-		1	1	0	NV_ID_0357					-1	0	0	0		    Une épaisse fumée noire enveloppa le château abandonné, un dernier linceul pour les innombrables âmes damnées qui y résidaient.
-1096		1	1	0	NV_ID_0358					-1	0	0	0		    Après quelques instants, toutes les fenêtres se fracassèrent bruyamment. Un courant d'air frais souffla à travers les corridors et dispersa la fumée pour toujours.<STOP> Nous observâmes, intimidés, de sombres spectres s'agiter devant les fenêtres en miettes.
+<CB=Labyrinth_Event>	-1	0	0	0		Les catacombes du château étaient un gigantesque labyrinthe constitué d'innombrables détours.
+1079	1080	1	1	0	NV_ID_0293					-1	0	0	0		Au bout du couloir...
+		1	1	0	NV_ID_0295					-1	0	0	0		J'aperçus une rangée de vingt magnifiques lits à baldaquin alignés sur un tapis de velours et tous recouverts d'une épaisse couche de poussière.<PAGE>
+		1	1	0	NV_ID_0296					-1	0	0	0		En cherchant la sortie, je découvris une masse informe grise pressée contre un mur. À travers le délire de la fièvre, je crus apercevoir les contours d'une porte derrière elle.<STOP> Je tentai de toucher du doigt un bout de la masse, mais celle-ci se transforma aussitôt en poussière et fut emportée par le vent. Peu à peu, je finis par comprendre et je tombai à genoux, mon visage inondé de larmes.
+		1	1	0	NV_ID_0297					-1	0	0	0		Des cadavres... Il s'agissait d'une montagne de cadavres carbonisés qui s'effritaient au moindre toucher.
+1080	1104	1	1	0	NV_ID_0298					-1	0	0	0		Je regardai tour à tour les lits et cette montagne.<STOP> Je me rendis compte avec horreur que quelqu'un avait empilé des corps et les avait brûlés.<STOP> Il était impossible de savoir s'ils étaient toujours en vie lorsque les flammes les avaient consumés, et je ne pus pas y réfléchir plus longtemps sans perdre la raison.
+		1	1	0	NV_ID_0299					-1	0	0	0		Un son s'échappa de mes lèvres, un cri ou peut-être un éclat de rire dément, j'étais incapable de le distinguer, puis, à mon grand soulagement, mon esprit s'engourdit. Peu de temps après, je me rendis compte que j'ouvrais une porte, laissant derrière moi cette salle affreuse.
+1081	1082	1	1	0	NV_ID_0302					-1	0	0	0		Au bout du couloir...
+		1	1	0	NV_ID_0304					-1	0	0	0		Des tonneaux massifs, sans doute remplis de vin, étaient alignés dans une salle sombre.
+		1	1	0	NV_ID_0305					-1	0	0	0		Une soif brûlante me dévora soudain. Je n'arrivais pas à me souvenir de ma dernière gorgée d'eau.
+1082	1083	1	1	0	NV_ID_0306					-1	0	0	0		Je titubai vers le tonneau le plus près et essayai d'en retirer le bouchon.<STOP> <FONT=ITALIC>Je n'en prendrai que quelques gorgées</FONT>, me dis-je. <FONT=ITALIC>De toute façon, l'inondation va bientôt ruiner les fûts.</FONT><STOP> Je parvins enfin à arracher le bouchon récalcitrant et un liquide rougeâtre et visqueux jaillit de la bonde.
+		1	1	0	NV_ID_0307			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		<FONT=ITALIC>Ce n'est pas du vin#: c'est du sang encore chaud des veines d'un animal... ou d'un humain.</FONT>
+		1	1	0	NV_ID_0308					-1	0	0	0		Le liquide immonde vint rapidement tiédir le torrent montant de l'inondation qui atteignait désormais mes cuisses.<PAGE>
+		1	1	0	NV_ID_0309					-1	0	0	0		<FONT=ITALIC>Par tous les dieux#! Les autres tonneaux seraient-ils aussi remplis de sang#?</FONT>
+1083	1100	1	1	0	NV_ID_0310					-1	0	0	0		Je n'eus pas le courage de confirmer mes doutes. J'essayai de fuir, mais mes jambes affaiblies me trahirent. Je trébuchai et plongeai dans le flot rougeâtre. Mon dégoût se transforma vite en terreur.
+		1	1	0	NV_ID_0311					-1	0	0	0		L'odeur fétide de la mort m'enveloppa et sembla vouloir me suffoquer.<FONT=ITALIC>Je dois m'échapper de cet enfer...!</FONT>
+		1	1	0	NV_ID_0312			<CB=BGM_EID_1500_a0108_03>		-1	0	0	0		À quatre pattes, comme un animal, j'étouffai mes cris, de crainte d'avaler l'eau sanglante, et j'avançai péniblement jusqu'à la sortie.
+1084	1085	1	1	0	NV_ID_0315					-1	0	0	0		Au bout du couloir...
+1085	1086	1	1	0	NV_ID_0317					-1	0	0	0		Je me retrouvai dans une grande salle où le silence n'était brisé que par le crépitement de la pluie. Mes pieds s'enfonçaient dans le tapis rouge imbibé d'eau.<STOP> Au centre de la salle, j'aperçus une table somptueusement servie.<STOP> Mes yeux s'adaptant peu à peu, je remarquai que des invités étaient assis autour d'elle.
+
+
+<PAGE>Un mouvement m'incita à m'approcher de la chaise située au bout de la table, mais la vérité me fit reculer aussitôt avec répugnance. <STOP>L'hôte de ce festin, ainsi que tous ses invités, étaient des cadavres.Le mouvement qui m'avait attiré était celui de la multitude d'insectes grouillants qui se gorgeaient de leurs dépouilles.
+1086	1087	1	1	0	NV_ID_0318					-1	0	0	0		Ce festin splendide n'était plus qu'un requiem pour les damnés.<PAGE>
+		1	1	0	NV_ID_0319					-1	0	0	0		Je fermai les yeux un instant pour me calmer, puis je m'éloignai lentement de la table.<STOP> Voulant éviter la vue des cadavres, mon regard s'attarda sur les chaises sur lesquelles ils étaient assis.<STOP> Malheureusement, elles se révélèrent être encore plus horribles que le reste.
+		1	1	0	NV_ID_0320					-1	0	0	0		Chacune d'elles était recouverte de fines pointes acérées#: le siège, le dossier et même les bras.<FONT=ITALIC>Cela explique la couleur du tapis... J'espère qu'ils étaient déjà morts au début du repas...!</FONT>
+1087	1102	1	1	0	NV_ID_0321					-1	0	0	0		<FONT=ITALIC>Sinon, il serait facile de s'imaginer leurs cris d'agonie...</FONT>
+		1	1	0	NV_ID_0322					-1	0	0	0		J'essayai de me convaincre qu'ils avaient tous subi cette torture pour avoir commis quelque crime terrible.<STOP> À vrai dire, je me doutais plutôt qu'ils n'avaient commis aucun crime.
+		1	1	0	NV_ID_0323					-1	0	0	0		Ces infortunés ne verraient pas de lendemains... Ce festin avaient été leur dernier repas.
+1088	1089	1	1	0	NV_ID_0326					-1	0	0	0		Au bout du couloir...
+		1	1	0	NV_ID_0328					-1	0	0	0		Avoir à opposer la force de l'eau qui m'arrivait à la taille m'épuisait autant physiquement que mentalement.<FONT=ITALIC>J'espère que c'est la sortie...</FONT><PAGE>
+		1	1	0	NV_ID_0329					-1	0	0	0		Bientôt, je ne pus plus supporter la vue de l'eau et je levai les yeux vers le plafond jauni.<STOP> À ma grande surprise, une série de peintures y étaient accrochées.<STOP> Chacune d'elles représentait une personne dans la fleur de l'âge somptueusement vêtue. Le style de leurs vêtements me parut étrange et m'amena à croire que ces gens avaient vécu il y a de cela très longtemps.
+1089	1090	1	1	0	NV_ID_0330					-1	0	0	0		Un des sujets portait une tenue qui attira mon attention. <STOP>C'était une légère tunique de tissu vaporeux décorée de fleurs et d'oiseaux retenue par une magnifique ceinture de cuir ouvré. Même selon la mode d'aujourd'hui, cet ensemble était superbe.<PAGE>
+		1	1	0	NV_ID_0331					-1	0	0	0		J'eus soudainement l'envie de toucher le portrait.<STOP> Pourtant, lorsque j'approchai ma main de la peinture, une sensation des plus désagréables m'envahit.<STOP> Observant attentivement l'image, je la vis se tordre et prendre la forme d'une autre main. Quelqu'un derrière la peinture me désignait du doigt#! 
+1090	1091	1	1	0	NV_ID_0332					-1	0	0	0		Était-ce un autre prisonnier#? Une autre personne captive de cet endroit pour l'éternité#?<STOP> Je devais m'en assurer, alors je saisis le portrait et le jetai dans l'eau.<STOP> Derrière, je découvris une cavité dans le mur qui abritait un corps. Prisonnier ou non, je ne pouvais plus lui prêter main-forte. Le pauvre avait rendu l'âme il y a belle lurette.
+		1	1	0	NV_ID_0333					-1	0	0	0		Des lambeaux de tissus gisaient autour du squelette. Même s'il ne restait pas grand-chose de l'original, je pus reconnaître le motif délicat des vêtements du portrait.
+1091	1103	1	1	0	NV_ID_0334					-1	0	0	0		Chaque portrait que j'avais admiré cachait donc la dépouille de l'original.
+		1	1	0	NV_ID_0335					-1	0	0	0		<FONT=ITALIC>Assez#!</FONT> Je continuai tant bien que mal d'avancer en détournant mes yeux.
+1092		1	1	0	NV_ID_0338					-1	0	0	0		L'eau m'arrivait désormais au menton et allait bientôt recouvrir ma bouche et mon nez.
+		1	1	0	NV_ID_0339					-1	0	0	0		Imbé...! cria <NIER>. Il voulut sûrement continuer, mais le reste de ses insultes fut interrompu par le torrent qui montait toujours.
+		1	1	0	NV_ID_0340					-1	0	0	0		Le Grimoire Weiss, imbibé d'eau et tout abîmé, flottait à la surface.<STOP> Il était déjà trop tard.
+		1	1	0	NV_ID_0342					-1	0	0	0		<FONT=ITALIC>Ce n'est pas ainsi...</FONT> <WAIT=0.5><FONT=ITALIC>q</FONT><WAIT=0.033><FONT=ITALIC>u</FONT><WAIT=0.033><FONT=ITALIC>e</FONT><WAIT=0.033> <FONT=ITALIC>c</FONT><WAIT=0.033><FONT=ITALIC>e</FONT><WAIT=0.033><FONT=ITALIC>l</FONT><WAIT=0.033><FONT=ITALIC>a</FONT><WAIT=0.033> <FONT=ITALIC>d</FONT><WAIT=0.033><FONT=ITALIC>e</FONT><WAIT=0.033><FONT=ITALIC>v</FONT><WAIT=0.033><FONT=ITALIC>a</FONT><WAIT=0.033><FONT=ITALIC>i</FONT><WAIT=0.033><FONT=ITALIC>t</FONT><WAIT=0.033> <FONT=ITALIC>s</FONT><WAIT=0.033><FONT=ITALIC>e</FONT><WAIT=0.033> <FONT=ITALIC>t</FONT><WAIT=0.033><FONT=ITALIC>e</FONT><WAIT=0.033><FONT=ITALIC>r</FONT><WAIT=0.033><FONT=ITALIC>m</FONT><WAIT=0.033><FONT=ITALIC>i</FONT><WAIT=0.033><FONT=ITALIC>n</FONT><WAIT=0.033><FONT=ITALIC>e</FONT><WAIT=0.033><FONT=ITALIC>r</FONT><WAIT=0.033><FONT=ITALIC>.</FONT><WAIT=0.033><FONT=ITALIC>.</FONT><WAIT=0.033><FONT=ITALIC>.</FONT>
+1093	1094	1	1	0	NV_ID_0346			<CB=NPC_PARTS_INVISIBLE>		-1	0	0	0		Contre toute attente, nous atteignîmes la sortie.
+		1	1	0	NV_ID_0347					-1	0	0	0		Nous devons défoncer la porte#! s'écria un de mes compagnons. Je fis de mon mieux. <FONT=ITALIC>Un, deux, trois#!</FONT>
+		1	1	0	NV_ID_0348					-1	0	0	0		Nous nous écrasâmes tous ensemble contre la porte robuste. La troisième fois, celle-ci céda et nous nous retrouvâmes étalés par terre devant le château.
+		1	1	0	NV_ID_0349					-1	0	0	0		La tempête se dissipa. Les nuages étaient toujours sombres et menaçants, mais, à l'ouest, un mince rayon de soleil essayait de les percer.
+1094	1095	1	1	0	NV_ID_0350					-1	0	0	0		Comment pourrais-je vous remercier#? m'écriai-je, les joues inondées de larmes. Je n'aurais jamais survécu sans votre aide.
+Je baissai les yeux et remarquai brusquement que ma robe était en lambeaux. Embarrassée, j'essayai de couvrir ma peau nue.
+		1	1	0	NV_ID_0351					-1	0	0	0		Votre robe#? demanda Weiss. Vous êtes donc une femme#?
+		1	1	0	NV_ID_0352					-1	0	0	0		Euh, oui... <STOP>Je suppose qu'il vous était impossible de le savoir puisque je n'existe que par les mots.<PAGE>
+		1	1	0	NV_ID_0353					-1	0	0	0		Je vis que <NIER> était un peu déçu que l'état de ma robe n'ait pas été décrit en détail, mais il arriva pourtant à le dissimuler. D'un hochement de tête, nous décidâmes de nous réveiller.
+1095	1096	1	1	0	NV_ID_0355					-1	0	0	0		Mais derrière nous, quelque chose d'autre s'éveillait.
+		1	1	0	NV_ID_0357					-1	0	0	0		Une épaisse fumée noire enveloppa le château abandonné, un dernier linceul pour les innombrables âmes damnées qui y résidaient.
+1096		1	1	0	NV_ID_0358					-1	0	0	0		Après quelques instants, toutes les fenêtres se fracassèrent bruyamment. Un courant d'air frais souffla à travers les corridors et dispersa la fumée pour toujours.<STOP> Nous observâmes, intimidés, de sombres spectres s'agiter devant les fenêtres en miettes.
 		1	1	0	NV_ID_0359				<CB=BG_AND_ENV_FADE_IN>
 <CB=BGM_C_FOREST_FIELD_01>
 <CB=LIB_SET_OPEN_2D_GAUGE_FAST>
-<CB=CHANGE_WINDOW_SIZE,0,1363,1008>	-1	0	0	0		    Les cadavres du château s'étaient réveillés et étaient revenus à la vie... en tant qu'Ombres.
-1097		1	1	1						-1	0	0	0		    Je jetai un coup d'œil aux sombres couloirs...
+<CB=CHANGE_WINDOW_SIZE,0,1363,1008>	-1	0	0	0		Les cadavres du château s'étaient réveillés et étaient revenus à la vie... en tant qu'Ombres.
+1097		1	1	1	NV_ID_0284
+NV_ID_0286
+NV_ID_0287
+NV_ID_0288
+NV_ID_0289					-1	0	0	0		Je jetai un coup d'œil aux sombres couloirs...
 <LIST=1105>... et je continuai vers l'est.</LIST>
 <LIST=1106>... et je continuai vers le sud.</LIST>
 <LIST=1107>... et je continuai vers l'ouest.</LIST>
 <LIST=1108>... et je continuai vers le nord.</LIST>
-1098		1	1	1						-1	0	0	0		    Je jetai un coup d'œil aux sombres couloirs...
+1098		1	1	1	NV_ID_0284
+NV_ID_0289					-1	0	0	0		Je jetai un coup d'œil aux sombres couloirs...
 <LIST=1108>... et je continuai vers le nord.</LIST>
-1099		1	1	1						-1	0	0	0		    Je jetai un coup d'œil aux sombres couloirs...
+1099		1	1	1	NV_ID_0284
+NV_ID_0286
+NV_ID_0288					-1	0	0	0		Je jetai un coup d'œil aux sombres couloirs...
 <LIST=1105>... et je continuai vers l'est.</LIST>
 <LIST=1108>... et je continuai vers l'ouest.</LIST>
-1100		1	1	1						-1	0	0	0		    Je jetai un coup d'œil aux sombres couloirs...
+1100		1	1	1	NV_ID_0284
+NV_ID_0286					-1	0	0	0		Je jetai un coup d'œil aux sombres couloirs...
 <LIST=1105>... et je continuai vers l'est.</LIST>
-1101		1	1	1						-1	0	0	0		    Je jetai un coup d'œil aux sombres couloirs...
+1101		1	1	1	NV_ID_0284
+NV_ID_0286
+NV_ID_0287
+NV_ID_0288					-1	0	0	0		Je jetai un coup d'œil aux sombres couloirs...
 <LIST=1105>... et je continuai vers l'est.</LIST>
 <LIST=1106>... et je continuai vers le sud.</LIST>
 <LIST=1107>... et je continuai vers l'ouest.</LIST>
-1102		1	1	1						-1	0	0	0		    Je jetai un coup d'œil aux sombres couloirs...
+1102		1	1	1	NV_ID_0284
+NV_ID_0288
+NV_ID_0289					-1	0	0	0		Je jetai un coup d'œil aux sombres couloirs...
 <LIST=1107>... et je continuai vers l'ouest.</LIST>
 <LIST=1108>... et je continuai vers le nord.</LIST>
-1103		1	1	1						-1	0	0	0		    Je jetai un coup d'œil aux sombres couloirs...
+1103		1	1	1	NV_ID_0284
+NV_ID_0287					-1	0	0	0		Je jetai un coup d'œil aux sombres couloirs...
 <LIST=1106>... et je continuai vers le sud.</LIST>
-1104		1	1	1						-1	0	0	0		    Je jetai un coup d'œil aux sombres couloirs...
+1104		1	1	1	NV_ID_0284
+NV_ID_0286
+NV_ID_0287					-1	0	0	0		Je jetai un coup d'œil aux sombres couloirs...
 <LIST=1105>... et je continuai vers l'est.</LIST>
 <LIST=1106>... et je continuai vers le sud.</LIST>
 1105		2	1	1	E_DESTINATION				<CB=Labyrinth_Divergence,1>	-1	0	0	0		
@@ -410,156 +410,151 @@ Ah, ça suffit#!
 1107		2	1	1	W_DESTINATION				<CB=Labyrinth_Divergence,3>	-1	0	0	0		
 1108		2	1	1	N_DESTINATION				<CB=Labyrinth_Divergence,4>	-1	0	0	0		
 1109	1110	1	1	0	NV_ID_0362			<CB=BGM_EID_1500_a0118_01>
-<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0		    Plusieurs statues massives se dressaient à l'horizon, leur sommet semblant toucher la voûte du ciel.<STOP> Weiss et <NIER> n'avaient jamais vu rien de tel et ils écarquillèrent les yeux pour ne rien perdre du spectacle.
-		1	1	0	NV_ID_0363					-1	0	0	0		— Dis, Weiss. Ces choses ne rapetissent pas même si nous continuons de nous en approcher.<STOP> Je ne comprends pas... Sont-elles vraiment si immenses#?
-		1	1	0	NV_ID_0364					-1	0	0	0		    Weiss y réfléchit alors que le soleil dardait sur eux ses rayons toujours brûlants.
-1110	1111	1	1	0	NV_ID_0365					-1	0	0	0		— Il s'agit peut-être d'un mirage, supposa-t-il.
+<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0		Plusieurs statues massives se dressaient à l'horizon, leur sommet semblant toucher la voûte du ciel.<STOP> Weiss et <NIER> n'avaient jamais vu rien de tel et ils écarquillèrent les yeux pour ne rien perdre du spectacle.
+		1	1	0	NV_ID_0363					-1	0	0	0		Dis, Weiss. Ces choses ne rapetissent pas même si nous continuons de nous en approcher.<STOP> Je ne comprends pas... Sont-elles vraiment si immenses#?
+		1	1	0	NV_ID_0364					-1	0	0	0		Weiss y réfléchit alors que le soleil dardait sur eux ses rayons toujours brûlants.
+1110	1111	1	1	0	NV_ID_0365					-1	0	0	0		Il s'agit peut-être d'un mirage, supposa-t-il.
 		1	1	0	NV_ID_0366					-1	0	0	0		Cette chaleur est étouffante. Il ne serait pas impossible d'en apercevoir un.
-		1	1	0	NV_ID_0367					-1	0	0	0		    <NIER> hocha la tête et essuya la sueur de son front d'une main couverte de sable. Il n'avait jamais eu aussi soif.
-1111	1112	1	1	0	NV_ID_0370					-1	0	0	0		    Ils suivaient une route ancienne, noire et crevassée. Des touffes d'herbe poussaient ici et là à travers sa surface rocailleuse, comme par défi à ceux qui avaient osé la construire.
-		1	1	0	NV_ID_0371					-1	0	0	0		    Étourdi par la chaleur réfléchie par la route, <NIER> tomba à genoux et frappa violemment le sol de son poing.
-		1	1	0	NV_ID_0372					-1	0	0	0		— Je n'en peux plus#! s'écria-t-il. Est-ce censé être une blague#?! Eh bien, elle n'est pas drôle#!
-		1	1	0	NV_ID_0373					-1	0	0	0		    Il commençait déjà à se plaindre.
-1112	1113	1	1	0	NV_ID_0374					-1	0	0	0		    Weiss essaya de ne pas rouler les yeux.
-— Une blague#? répondit-il. Non, ce n'est pas une blague. Cette route mène à la cité des Arts. Qui sait#? Elle pourrait être elle aussi une œuvre magistrale.
-		1	1	0	NV_ID_0375					-1	0	0	0		— C'est de la foutaise et tu le sais très bien#!
-		1	1	0	NV_ID_0376					-1	0	0	0		— C'est fort possible, mais tu supporteras sans doute mieux d'avancer si tu considères la situation ainsi.
-		1	1	0	NV_ID_0377					-1	0	0	0		    <NIER> jeta un coup d'œil au sourire narquois de Weiss et jura intérieurement. Il se remit à marcher.
-1113	1114	1	1	0	NV_ID_0380					-1	0	0	0		    Au fil des heures, les pieds de <NIER> devinrent de plus en plus douloureux. <STOP>Une soif brûlante le dévorait. <STOP>Il avançait les yeux fixés sur sa route, se doutant que l'éclat aveuglant du soleil l'empêchait de pouvoir se fier à ses propres sens.
-		1	1	0	NV_ID_0381					-1	0	0	0		— Nous nous approchons, affirma Weiss, tentant de remonter le moral de son compagnon. Oui, j'en suis certain.<PAGE>
-		1	1	0	NV_ID_0382					-1	0	0	0		    Encouragé, <NIER> leva les yeux et s'arrêta net au milieu de la route.<STOP> Bouche bée et les yeux grands ouverts, il pointa au loin.
-		1	1	0	NV_ID_0383					-1	0	0	0		— De l'eau#! s'écria-t-il. C'est de l'eau#!
-		1	1	0	NV_ID_0384					-1	0	0	0		— De l'eau#? répéta Weiss. Ridicule. Je ne vois pas d'eau.
-		1	1	0	NV_ID_0385					-1	0	0	0		— Mais elle est pourtant juste là#! Comment ne peux-tu pas l'apercevoir#?! Regarde, le soleil s'y réfléchit#!
-1114	1115	1	1	0	NV_ID_0386					-1	0	0	0		    <NIER> bondit sans attendre la réplique de Weiss.
-		1	1	0	NV_ID_0387					-1	0	0	0		— Mais qu'est-ce que...?
-		1	1	0	NV_ID_0388					-1	0	0	0		    Il n'y avait pas d'eau. Il n'y avait que du sable à perte de vue. <STOP><NIER> ferma les yeux et soupira. Weiss le rattrapa en riant doucement.
-		1	1	0	NV_ID_0389					-1	0	0	0		— Je crois que c'est un mirage, expliqua-t-il. Plusieurs voyageurs en ont fait l'expérience en traversant un désert.
-		1	1	0	NV_ID_0390					-1	0	0	0		    <NIER> secoua la tête, hébété. Soudain, il pointa au loin, ses yeux de nouveau écarquillés.<PAGE>
-		1	1	0	NV_ID_0391					-1	0	0	0		— Attends, la voilà#! Je l'avais manquée de peu#! Regarde, elle est juste là#!
-		1	1	0	NV_ID_0392					-1	0	0	0		    <NIER> s'élança une fois de plus et Weiss n'eut d'autre choix que de le suivre.
-1115	1116	1	1	0	NV_ID_0393					-1	0	0	0		    Après avoir couru pendant quelques minutes, <NIER> s'arrêta.
-		1	1	0	NV_ID_0394					-1	0	0	0		— J'aurais juré qu'elle était par ici...
-		1	1	0	NV_ID_0395					-1	0	0	0		    Désorienté, il se frotta vivement les yeux. <STOP>Lorsqu'il ouvrit les paupières, il aperçut une étendue d'eau limpide et miroitante au-delà de la prochaine dune. <STOP>Il poussa un cri et s'y précipita aussitôt.
-		1	1	0	NV_ID_0396					-1	0	0	0		    Il continua ainsi pendant presque une heure. Exaspéré, Weiss rejoignit <NIER> et frappa son visage de sa couverture.<PAGE>
-		1	1	0	NV_ID_0397					-1	0	0	0		— Ça suffit, bougre d'idiot#! Arrête#!<STOP><FONT=ITALIC> Il </FONT><WAIT=0.5><FONT=ITALIC>n'y </FONT><WAIT=0.5><FONT=ITALIC>a </FONT><WAIT=0.5><FONT=ITALIC>pas </FONT><WAIT=0.5><FONT=ITALIC>d'eau#!</FONT>
-		1	1	0	NV_ID_0398					-1	0	0	0		    Le visage de <NIER> s'assombrit.
-— Il n'y en a vraiment pas, hein...?
-1116	1117	1	1	0	NV_ID_0399					-1	0	0	0		— Pas une goutte#! Et j'espère que tu m'écouteras la prochaine fois que je l'affirmerai#!<STOP>
-    Weiss reprit son souffle puis continua plus doucement#:
-— Cependant, ta chasse folle aura été fructueuse malgré tout#: on dirait que nous avons atteint la cité des Arts.
-		1	1	0	NV_ID_0400					-1	0	0	0		    <NIER> leva les yeux. Des rangées de statues d'une taille incroyable se dressaient devant lui.<STOP> Leur périple était terminé.<PAGE>
-		1	1	0	NV_ID_0401					-1	0	0	0		— Elles sont énormes#! s'écria <NIER>, oubliant d'un coup la chaleur et la douleur qui l'accablaient depuis des heures. Je n'ai jamais rien vu d'aussi gigantesque#!
+		1	1	0	NV_ID_0367					-1	0	0	0		<NIER> hocha la tête et essuya la sueur de son front d'une main couverte de sable. Il n'avait jamais eu aussi soif.
+1111	1112	1	1	0	NV_ID_0370					-1	0	0	0		Ils suivaient une route ancienne, noire et crevassée. Des touffes d'herbe poussaient ici et là à travers sa surface rocailleuse, comme par défi à ceux qui avaient osé la construire.
+		1	1	0	NV_ID_0371					-1	0	0	0		Étourdi par la chaleur réfléchie par la route, <NIER> tomba à genoux et frappa violemment le sol de son poing.<PAGE>
+		1	1	0	NV_ID_0372					-1	0	0	0		Je n'en peux plus#! s'écria-t-il. Est-ce censé être une blague#?! Eh bien, elle n'est pas drôle#!
+		1	1	0	NV_ID_0373					-1	0	0	0		Il commençait déjà à se plaindre.
+1112	1113	1	1	0	NV_ID_0374					-1	0	0	0		Weiss essaya de ne pas rouler les yeux. Une blague#? répondit-il. Non, ce n'est pas une blague. Cette route mène à la cité des Arts. Qui sait#? Elle pourrait être elle aussi une œuvre magistrale.
+		1	1	0	NV_ID_0375					-1	0	0	0		C'est de la foutaise et tu le sais très bien#!
+		1	1	0	NV_ID_0376					-1	0	0	0		C'est fort possible, mais tu supporteras sans doute mieux d'avancer si tu considères la situation ainsi.
+		1	1	0	NV_ID_0377					-1	0	0	0		<NIER> jeta un coup d'œil au sourire narquois de Weiss et jura intérieurement. Il se remit à marcher.
+1113	1114	1	1	0	NV_ID_0380					-1	0	0	0		Au fil des heures, les pieds de <NIER> devinrent de plus en plus douloureux. <STOP>Une soif brûlante le dévorait. <STOP>Il avançait les yeux fixés sur sa route, se doutant que l'éclat aveuglant du soleil l'empêchait de pouvoir se fier à ses propres sens.
+		1	1	0	NV_ID_0381					-1	0	0	0		Nous nous approchons, affirma Weiss, tentant de remonter le moral de son compagnon. Oui, j'en suis certain.<PAGE>
+		1	1	0	NV_ID_0382					-1	0	0	0		Encouragé, <NIER> leva les yeux et s'arrêta net au milieu de la route.<STOP> Bouche bée et les yeux grands ouverts, il pointa au loin.
+		1	1	0	NV_ID_0383					-1	0	0	0		De l'eau#! s'écria-t-il. C'est de l'eau#!
+		1	1	0	NV_ID_0384					-1	0	0	0		De l'eau#? répéta Weiss. Ridicule. Je ne vois pas d'eau.
+		1	1	0	NV_ID_0385					-1	0	0	0		Mais elle est pourtant juste là#! Comment ne peux-tu pas l'apercevoir#?! Regarde, le soleil s'y réfléchit#!
+1114	1115	1	1	0	NV_ID_0386					-1	0	0	0		<NIER> bondit sans attendre la réplique de Weiss.
+		1	1	0	NV_ID_0387					-1	0	0	0		Mais qu'est-ce que...?
+		1	1	0	NV_ID_0388					-1	0	0	0		Il n'y avait pas d'eau. Il n'y avait que du sable à perte de vue. <STOP><NIER> ferma les yeux et soupira. Weiss le rattrapa en riant doucement.
+		1	1	0	NV_ID_0389					-1	0	0	0		Je crois que c'est un mirage, expliqua-t-il. Plusieurs voyageurs en ont fait l'expérience en traversant un désert.<PAGE>
+		1	1	0	NV_ID_0390					-1	0	0	0		<NIER> secoua la tête, hébété. Soudain, il pointa au loin, ses yeux de nouveau écarquillés.
+		1	1	0	NV_ID_0391					-1	0	0	0		Attends, la voilà#! Je l'avais manquée de peu#! Regarde, elle est juste là#!
+		1	1	0	NV_ID_0392					-1	0	0	0		<NIER> s'élança une fois de plus et Weiss n'eut d'autre choix que de le suivre.
+1115	1116	1	1	0	NV_ID_0393					-1	0	0	0		Après avoir couru pendant quelques minutes, <NIER> s'arrêta.
+		1	1	0	NV_ID_0394					-1	0	0	0		J'aurais juré qu'elle était par ici...
+		1	1	0	NV_ID_0395					-1	0	0	0		Désorienté, il se frotta vivement les yeux. <STOP>Lorsqu'il ouvrit les paupières, il aperçut une étendue d'eau limpide et miroitante au-delà de la prochaine dune. <STOP>Il poussa un cri et s'y précipita aussitôt.<PAGE>
+		1	1	0	NV_ID_0396					-1	0	0	0		Il continua ainsi pendant presque une heure. Exaspéré, Weiss rejoignit <NIER> et frappa son visage de sa couverture.
+		1	1	0	NV_ID_0397					-1	0	0	0		Ça suffit, bougre d'idiot#! Arrête#!<STOP><FONT=ITALIC> Il </FONT><WAIT=0.5><FONT=ITALIC>n'y </FONT><WAIT=0.5><FONT=ITALIC>a </FONT><WAIT=0.5><FONT=ITALIC>pas </FONT><WAIT=0.5><FONT=ITALIC>d'eau#!</FONT>
+		1	1	0	NV_ID_0398					-1	0	0	0		Le visage de <NIER> s'assombrit.
+1116	1117	1	1	0	NV_ID_0399					-1	0	0	0		Il n'y en a vraiment pas, hein...? Pas une goutte#! Et j'espère que tu m'écouteras la prochaine fois que je l'affirmerai#!<STOP>Weiss reprit son souffle puis continua plus doucement#: Cependant, ta chasse folle aura été fructueuse malgré tout#: on dirait que nous avons atteint la cité des Arts.<PAGE>
+		1	1	0	NV_ID_0400					-1	0	0	0		<NIER> leva les yeux. Des rangées de statues d'une taille incroyable se dressaient devant lui.<STOP> Leur périple était terminé.
+		1	1	0	NV_ID_0401					-1	0	0	0		Elles sont énormes#! s'écria <NIER>, oubliant d'un coup la chaleur et la douleur qui l'accablaient depuis des heures. Je n'ai jamais rien vu d'aussi gigantesque#!<PAGE>
+1117	1118	1	1	0	NV_ID_0404					-1	0	0	0		Chaque sculpture avait à peu près la même forme, celle d'un prisme rectangulaire droit s'élevant haut dans le ciel. Toutefois, elles étaient toutes décorées différemment. <STOP>Certaines étaient recouvertes de larges carreaux de vitre réfléchissant la lumière comme un miroir, alors que d'autres n'étaient formées que d'une charpente d'acier. <STOP>Quelques unes étaient surmontées d'une longue aiguille, tandis que d'autres étaient coiffées d'une pyramide.<PAGE>
+		1	1	0	NV_ID_0405					-1	0	0	0		Quelle sorte de cité est-ce donc#? demanda <NIER>. Où sont ses habitants#? Où sont leurs maisons#?
+		1	1	0	NV_ID_0406					-1	0	0	0		Ces terres sont peut-être dédiées à l'exposition d'œuvres d'art.
+		1	1	0	NV_ID_0407					-1	0	0	0		Ils continuèrent à discuter en parcourant la cité.
+1118	1119	1	1	0	NV_ID_0408					-1	0	0	0		Partout on pouvait admirer des chefs-d'œuvre. D'immenses boîtes de métal munies de roues siégeaient silencieusement sur des poutres d'acier#; d'exquises lanternes sculptées serties de trois sphères, une rouge, une orange et une verte, étaient suspendues au coin de chaque rue. <STOP>Au-delà des sculptures géantes, ils en découvrirent de plus petites recouvertes de verre, de briques et de matériaux inconnus. Le nombre de couleurs utilisées était tout simplement ahurissant.<PAGE>
+		1	1	0	NV_ID_0409					-1	0	0	0		Incapables de discerner le thème ou le but de ces œuvres abstraites, <NIER> et Weiss finirent par se taire.
+1119	1120	1	1	0	NV_ID_0412					-1	0	0	0		À l'autre extrémité de la cité, ils découvrirent trois sculptures de forme humaine. <NIER> soupira de soulagement en les apercevant#:
+		1	1	0	NV_ID_0413					-1	0	0	0		Enfin#! Je commençais à en avoir assez de l'art moderne.
+		1	1	0	NV_ID_0414					-1	0	0	0		Les trois statues étaient identiques, mais un mot différent était gravé sur le bras droit de chacune d'elle#: Alpha, Bêta et Gamma.
+1120	1121	1	1	0	NV_ID_0417			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		<NIER> s'approcha de la première et tendit la main pour la toucher quand soudain un oiseau vint se poser sur l'épaule de la statue. Ses légers gazouillements se transformèrent en paroles#:
+		1	1	0	NV_ID_0419					-1	0	0	0		Une seule d'entre elles est humaine. Les autres sont des faux.
+		1	1	0	NV_ID_0420					-1	0	0	0		La vraie dit toujours la vérité.
+		1	1	0	NV_ID_0421					-1	0	0	0		Les autres ne savent que mentir.
+1121	1122	1	1	0	NV_ID_0423					-1	0	0	0		L'oiseau prit son envol. Aussitôt, les trois statues frémirent. La pierre se transforma en chair et elles respirèrent goulûment leur premier souffle.
+		1	1	0	NV_ID_0424			<CB=BGM_EID_1500_a0118_02>		-1	0	0	0		Regarde#! s'écria <NIER>. Elles sont vivantes#!
+		1	1	0	NV_ID_0425					-1	0	0	0		Le trio s'inclina respectueusement devant <NIER>.
+1122	1123	1	1	0	NV_ID_0427					-1	0	0	0		Je vous en prie#! s'exclama Alpha. Aidez-moi à sortir de ce cauchemar#! Je suis humain#!
+		1	1	0	NV_ID_0428					-1	0	0	0		Tu mens#! répliqua Bêta. Il se retourna vers <NIER> et leva les bras au ciel en supplication. Alpha n'est qu'une copie, c'est moi qui suis humain#!
+		1	1	0	NV_ID_0429					-1	0	0	0		Balivernes#! rétorqua Gamma. Bêta n'est pas humain#! Tout le monde sait que je suis le seul humain de nous trois.
+		1	1	0	NV_ID_0431					-1	0	0	0		Ayant avancé leurs arguments, ils redevinrent des statues de pierre et le silence s'abattit sur la cité.<PAGE>
+		1	1	0	NV_ID_0432					-1	0	0	0		Si l'on tient compte leurs énoncés, un seul d'eux peut être humain, déclara Weiss.
+		1	1	0	NV_ID_0433					-1	0	0	0		<NIER> fronça les sourcils et réfléchit longuement avant de se prononcer.
+1123		1	1	0	NV_ID_0434					-1	0	0	0		Une seule d'entre elles est humaine. Les autres sont des faux.
+La vraie dit toujours la vérité.
+Les autres ne savent que mentir.
 
-1117	1118	1	1	0	NV_ID_0404					-1	0	0	0		    Chaque sculpture avait à peu près la même forme, celle d'un prisme rectangulaire droit s'élevant haut dans le ciel. Toutefois, elles étaient toutes décorées différemment. <STOP>Certaines étaient recouvertes de larges carreaux de vitre réfléchissant la lumière comme un miroir, alors que d'autres n'étaient formées que d'une charpente d'acier. <STOP>Quelques unes étaient surmontées d'une longue aiguille, tandis que d'autres étaient coiffées d'une pyramide.<PAGE>
-		1	1	0	NV_ID_0405					-1	0	0	0		— Quelle sorte de cité est-ce donc#? demanda <NIER>. Où sont ses habitants#? Où sont leurs maisons#?
-		1	1	0	NV_ID_0406					-1	0	0	0		— Ces terres sont peut-être dédiées à l'exposition d'œuvres d'art.
-		1	1	0	NV_ID_0407					-1	0	0	0		    Ils continuèrent à discuter en parcourant la cité.
-1118	1119	1	1	0	NV_ID_0408					-1	0	0	0		    Partout on pouvait admirer des chefs-d'œuvre. D'immenses boîtes de métal munies de roues siégeaient silencieusement sur des poutres d'acier#; d'exquises lanternes sculptées serties de trois sphères, une rouge, une orange et une verte, étaient suspendues au coin de chaque rue. <STOP>Au-delà des sculptures géantes, ils en découvrirent de plus petites recouvertes de verre, de briques et de matériaux inconnus. Le nombre de couleurs utilisées était tout simplement ahurissant.<PAGE>
-		1	1	0	NV_ID_0409					-1	0	0	0		    Incapables de discerner le thème ou le but de ces œuvres abstraites, <NIER> et Weiss finirent par se taire.
-1119	1120	1	1	0	NV_ID_0412					-1	0	0	0		    À l'autre extrémité de la cité, ils découvrirent trois sculptures de forme humaine. <NIER> soupira de soulagement en les apercevant#:
-		1	1	0	NV_ID_0413					-1	0	0	0		— Enfin#! Je commençais à en avoir assez de l'art moderne.
-		1	1	0	NV_ID_0414					-1	0	0	0		    Les trois statues étaient identiques, mais un mot différent était gravé sur le bras droit de chacune d'elle#: Alpha, Bêta et Gamma.
-1120	1121	1	1	0	NV_ID_0417			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		    <NIER> s'approcha de la première et tendit la main pour la toucher quand soudain un oiseau vint se poser sur l'épaule de la statue. Ses légers gazouillements se transformèrent en paroles#:
-		1	1	0	NV_ID_0419					-1	0	0	0		— Une seule d'entre elles est humaine. Les autres sont des faux. La vraie dit toujours la vérité. Les autres ne savent que mentir.
-		1	1	0	NV_ID_0420					-1	0	0	0		    L'oiseau prit son envol.
-		1	1	0	NV_ID_0421					-1	0	0	0		    Aussitôt, les trois statues frémirent. 
-1121	1122	1	1	0	NV_ID_0423					-1	0	0	0		    La pierre se transforma en chair et elles respirèrent goulûment leur premier souffle.
-		1	1	0	NV_ID_0424			<CB=BGM_EID_1500_a0118_02>		-1	0	0	0		— Regarde#! s'écria <NIER>. Elles sont vivantes#!
-		1	1	0	NV_ID_0425					-1	0	0	0		    Le trio s'inclina respectueusement devant <NIER>.
-1122	1123	1	1	0	NV_ID_0427					-1	0	0	0		— Je vous en prie#! s'exclama Alpha. Aidez-moi à sortir de ce cauchemar#! Je suis humain#!
-		1	1	0	NV_ID_0428					-1	0	0	0		— Tu mens#! répliqua Bêta.
-    Il se retourna vers <NIER> et leva les bras au ciel en supplication.
-— Alpha n'est qu'une copie, c'est moi qui suis humain#!
-		1	1	0	NV_ID_0429					-1	0	0	0		— Balivernes#! rétorqua Gamma. Bêta n'est pas humain#! Tout le monde sait que je suis le seul humain de nous trois.
-		1	1	0	NV_ID_0431					-1	0	0	0		    Ayant avancé leurs arguments, ils redevinrent des statues de pierre et le silence s'abattit sur la cité.<PAGE>
-		1	1	0	NV_ID_0432					-1	0	0	0		— Si l'on tient compte leurs énoncés, un seul d'eux peut être humain, déclara Weiss.
-		1	1	0	NV_ID_0433					-1	0	0	0		    <NIER> fronça les sourcils et réfléchit longuement avant de se prononcer.
-1123		1	1	0	NV_ID_0434					-1	0	0	0		— Une seule d'entre elles est humaine. Les autres sont des faux. La vraie dit toujours la vérité. Les autres ne savent que mentir.
 		1	1	0						-1	0	0	0		<LIST=1124>«#Alpha est humain.#»</LIST>
 <LIST=1127>«#Bêta est humain.#»</LIST>
 <LIST=1125>«#Gamma est humain.#»</LIST>
 <LIST=1126>«#Je n'y comprends rien#!#»</LIST>
-1124		1	1	0	NV_ID_0441					-1	0	0	0		— Alpha est humain.
-		1	1	0	NV_ID_0443					-1	0	0	0		    Les yeux des statues étincelèrent sinistrement.
+1124		1	1	0	NV_ID_0441					-1	0	0	0		Alpha est humain.
+		1	1	0	NV_ID_0443					-1	0	0	0		Les yeux des statues étincelèrent sinistrement.
 		1	1	0	NV_ID_0444				<CB=BG_AND_ENV_FADE_IN>
 <CB=BGM_C_FOREST_FIELD_01>
 <CB=LIB_SET_OPEN_2D_GAUGE_FAST>
-<CB=CHANGE_WINDOW_SIZE,0,1364,1012>	-1	0	0	0		    Leur éclat s'intensifia de plus en plus. <NIER> et Weiss durent détourner les yeux.
-1125		1	1	0	NV_ID_0447					-1	0	0	0		— Gamma est humain.
-		1	1	0	NV_ID_0449					-1	0	0	0		    Les yeux des statues étincelèrent sinistrement.
+<CB=CHANGE_WINDOW_SIZE,0,1364,1012>	-1	0	0	0		Leur éclat s'intensifia de plus en plus. <NIER> et Weiss durent détourner les yeux.
+1125		1	1	0	NV_ID_0447					-1	0	0	0		Gamma est humain.
+		1	1	0	NV_ID_0449					-1	0	0	0		Les yeux des statues étincelèrent sinistrement.
 		1	1	0	NV_ID_0450				<CB=BG_AND_ENV_FADE_IN>
 <CB=BGM_C_FOREST_FIELD_01>
 <CB=LIB_SET_OPEN_2D_GAUGE_FAST>
-<CB=CHANGE_WINDOW_SIZE,0,1364,1012>	-1	0	0	0		    Leur éclat s'intensifia de plus en plus. <NIER> et Weiss durent détourner les yeux.
-1126	1119	1	1	0	NV_ID_0453					-1	0	0	0		— Je n'y comprends rien#!
-		1	1	0	NV_ID_0455					-1	0	0	0		    <NIER> regarda longuement les statues et essaya d'éclairer son esprit...
-1127	1128	1	1	0	NV_ID_0460					-1	0	0	0		— Bêta est humain.
-		1	1	0	NV_ID_0461					-1	0	0	0		    <NIER> fut soulagé de voir Weiss acquiescer.
-		1	1	0	NV_ID_0462					-1	0	0	0		— Si Alpha dit la vérité, commença Weiss d'un ton doctoral, Bêta et Gamma ne sont pas humains et doivent mentir. Toutefois, Gamma dit que Bêta n'est pas humain, ce qui, dans ce cas, serait la vérité. Donc, Alpha ne peut pas être humain.
+<CB=CHANGE_WINDOW_SIZE,0,1364,1012>	-1	0	0	0		Leur éclat s'intensifia de plus en plus. <NIER> et Weiss durent détourner les yeux.
+1126	1119	1	1	0	NV_ID_0453					-1	0	0	0		Je n'y comprends rien#!
+		1	1	0	NV_ID_0455					-1	0	0	0		<NIER> regarda longuement les statues et essaya d'éclairer son esprit...
+1127	1128	1	1	0	NV_ID_0460					-1	0	0	0		Bêta est humain.
+		1	1	0	NV_ID_0461					-1	0	0	0		<NIER> fut soulagé de voir Weiss acquiescer.
+		1	1	0	NV_ID_0462					-1	0	0	0		Si Alpha dit la vérité, commença Weiss d'un ton doctoral, Bêta et Gamma ne sont pas humains et doivent mentir. Toutefois, Gamma dit que Bêta n'est pas humain, ce qui, dans ce cas, serait la vérité. Donc, Alpha ne peut pas être humain.
 1128	1129	1	1	0	NV_ID_0463					-1	0	0	0		Présumons maintenant que Gamma dit la vérité. Ceci signifierait qu'Alpha et Bêta sont des menteurs. Cependant, Bêta affirme qu'Alpha est un menteur, ce qui serait, selon cette hypothèse, aussi la vérité, et donc impossible.
 		1	1	0	NV_ID_0464					-1	0	0	0		Finalement, supposons que Bêta dit la vérité. Alpha et Gamma sont des menteurs et tout s'explique. Bêta est donc humain.
-1129	1130	1	1	0	NV_ID_0466					-1	0	0	0		    Dès que Weiss termina son explication, Alpha et Gamma furent réduits en poussière et Bêta revint à la vie.
-		1	1	0	NV_ID_0467					-1	0	0	0		— Félicitations, mon ami, dit Weiss d'une voix enjouée. Le moment est venu de vous réveiller.
-		1	1	0	NV_ID_0468					-1	0	0	0		— Merci de m'avoir porté secours#! s'écria le villageois.
-		1	1	0	NV_ID_0469					-1	0	0	0		    Il se prosterna aux pieds de <NIER>, mais celui-ci, embarrassé, l'aida à se relever.
-1130	1131	1	1	0	NV_ID_0470					-1	0	0	0		— Pourquoi rêvez-vous d'un endroit pareil#? demanda Weiss. L'avez-vous déjà visité#?
-		1	1	0	NV_ID_0471					-1	0	0	0		    Le villageois examina les œuvres d'art et les sculptures étranges qui parsemaient le paysage, puis secoua la tête.
-		1	1	0	NV_ID_0472					-1	0	0	0		— Non... Je ne crois pas. Je veux dire, c'est impossible, non#? Je n'aurais jamais pu visiter un tel endroit... mais il m'est tout de même familier.
-		1	1	0	NV_ID_0473					-1	0	0	0		— Un sentiment de déjà-vu, grommela <NIER>. Comme le maire.
+1129	1130	1	1	0	NV_ID_0466					-1	0	0	0		Dès que Weiss termina son explication, Alpha et Gamma furent réduits en poussière et Bêta revint à la vie.
+		1	1	0	NV_ID_0467					-1	0	0	0		Félicitations, mon ami, dit Weiss d'une voix enjouée. Le moment est venu de vous réveiller.
+		1	1	0	NV_ID_0468					-1	0	0	0		Merci de m'avoir porté secours#! s'écria le villageois.
+		1	1	0	NV_ID_0469					-1	0	0	0		Il se prosterna aux pieds de <NIER>, mais celui-ci, embarrassé, l'aida à se relever.
+1130	1131	1	1	0	NV_ID_0470					-1	0	0	0		Pourquoi rêvez-vous d'un endroit pareil#? demanda Weiss. L'avez-vous déjà visité#?
+		1	1	0	NV_ID_0471					-1	0	0	0		Le villageois examina les œuvres d'art et les sculptures étranges qui parsemaient le paysage, puis secoua la tête.
+		1	1	0	NV_ID_0472					-1	0	0	0		Non... Je ne crois pas. Je veux dire, c'est impossible, non#? Je n'aurais jamais pu visiter un tel endroit... mais il m'est tout de même familier.
+		1	1	0	NV_ID_0473					-1	0	0	0		Un sentiment de déjà-vu, grommela <NIER>. Comme le maire.
 1131		1	1	0	NV_ID_0474				<CB=BG_AND_ENV_FADE_IN>
 <CB=BGM_C_FOREST_FIELD_01>
 <CB=LIB_SET_OPEN_2D_GAUGE_FAST>
-<CB=CHANGE_WINDOW_SIZE,0,1364,1011>	-1	0	0	0		    Le malaise qu'avait éprouvé <NIER> dans le rêve du maire revint de plus belle.
-1132		0	1	0	EID_all_worry02_BOOKW010_Y			<CB=SET_ACTOR_PAUSE_ON,1362>	<CB=SNID_1580_a0010_01_Select>	-1	0	0	0	26	Je ne pourrais tout simplement pas supporter une autre de ces conversations infernales. Nous avons mieux à faire.
-1133	1134	1	1	0	NV_ID_0477			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		— Ah, vous êtes de retour#! <STOP>Vous savez, j'essaie de trouver une façon de vous remercier de m'avoir sauvé et je crois que j'ai finalement trouvé la solution...! <STOP>Nous allons ériger une statue en votre honneur#! Elle fera 10 mètres de haut et sera d'or massif. <STOP>Oh, et je sais que vous n'avez pas de cheval, mais je crois que nous en rajouterons un pour vous donner un air plus... héroïque.
-		1	1	0	NV_ID_0478					-1	0	0	0		    Quoi#? Vous ne voulez pas de statue...? <STOP>Oh. Je pensais vraiment que ça vous plairait.<PAGE>
-		1	1	0	NV_ID_0479					-1	0	0	0		    Merci quand même pour toute votre aide. Grâce à vous, la paix règne de nouveau dans notre village.
-1134	1135	1	1	0	NV_ID_0481					-1	0	0	0		    Au fait, j'y ai longuement réfléchi et je crois que nous devrions de nouveau célébrer la fête annuelle du village. <STOP>L'ancien maire trouvait que c'était une coutume démodée alors il l'a abolie. <STOP>Mais je compte la renouveler#! Je suis le maire, après tout#!<STOP>
-... Euh, vous croyez que ce serait abuser de mon pouvoir#?
-1135	1136	1	1	0	NV_ID_0482					-1	0	0	0		    Comment#? Vous voulez plus de détails sur notre fête annuelle#?<STOP> Eh bien, on l'appelle le festin de trois jours, car tout le monde s'assoit autour d'une longue table et mange pendant trois jours d'affilée, sans se reposer#! <STOP>Elle a habituellement lieu dans la saison des brumes, alors il est difficile de voir ce qu'il y a dans notre assiette. <STOP>Certains plats sont délicieux, mais d'autres sont... très relevés...! Je n'en dirai pas plus. C'est fou ce qu'on arrive à avaler quand on n'a pas dormi depuis deux jours.<PAGE>
-		1	1	0	NV_ID_0483					-1	0	0	0		    Cette année, vous serez notre invité d'honneur...<STOP> Hein#? Vous ne pouvez pas y assister#? <STOP>Vous devez repeindre tous les murs de votre maison cette semaine-là#? <STOP>Oh... Dommage. Un aventurier comme vous n'a probablement pas le temps de le faire à un autre moment.
-1136		1	1	0	NV_ID_0485					-1	0	0	0		    À vrai dire, je crois que nous devrions organiser plus d'activités de ce genre pour tisser des relations plus étroites dans le village. Cela nous permettrait de mieux connaître nos voisins et de promouvoir l'unité en temps de crise.
-		1	1	0	NV_ID_0487					-1	0	0	0		    Weiss toussa bruyamment.
-		1	1	0	NV_ID_0488					-1	0	0	0		— Combien de temps devrons-nous endurer son insupportable verbiage#? chuchota-t-il à <NIER>.
-		1	1	0	NV_ID_0489					-1	0	0	0		— Ah, laisse-le parler. Il vient tout juste de se réveiller. Ses idées se bousculent probablement dans sa tête.<PAGE>
-		1	1	0	NV_ID_0490					-1	0	0	0		    Weiss soupira.
-		1	1	0	NV_ID_0491				<CB=SNID_1580_a0010_01_End>	-1	0	0	0		— C'est sans doute ce que voulait dire Popola par «#jovial et bavard#»...
-1137		0	1	0	EID_all_worry02_BOOKW010_Y			<CB=SET_ACTOR_PAUSE_ON,1363>	<CB=SNID_1580_a0010_02_Select>	-1	0	0	0	26	Je ne pourrais tout simplement pas supporter une autre de ces conversations infernales. Nous avons mieux à faire.
-1138	1139	1	1	0	NV_ID_0494			<CB=SET_ACTOR_PAUSE_ON,1363>		-1	0	0	0		— Oh, vous voilà#! Euh, pouvez-vous m'accorder un instant#?
-		1	1	0	NV_ID_0495					-1	0	0	0		    Voici mes voisins. Je leur racontais justement le rêve que j'avais eu.<STOP> Vous savez, celui dont vous m'avez sauvée#?
-1139	1140	1	1	0	NV_ID_0496					-1	0	0	0		    Ils refusent de me croire#! Ils disent que j'ai tout inventé. <STOP>Qui pourrait inventer une chose pareille#?! Je me souviens de l'obscurité, j'entends encore résonner les cris de terreur... <STOP>Vous devez à tout prix confirmer mes dires. Ils pensent que je suis folle#! Je veux qu'ils comprennent.
-1140	1141	1	1	0	NV_ID_0498					-1	0	0	0		    Dites-leur comment vous m'avez tirée de ma cellule et qu'il y avait de l'eau partout et qu'elle montait à vue d'œil#! <STOP>J'ai d'abord cru que vous m'aviez sauvée pour ensuite me noyer, vous savez... Je ne voudrais pas mourir noyée. Certains disent que c'est une façon paisible de mourir, mais je ne suis pas de cet avis.
-		1	1	0	NV_ID_0500					-1	0	0	0		    Oh, et n'oubliez pas de leur parler des cadavres#! <STOP>Oh, il y avait tant de cadavres...!
-1141	1142	1	1	0	NV_ID_0501					-1	0	0	0		    Il y avait aussi cette salle avec les lits et les corps brûlés, comme du charbon. <STOP>Je m'imagine sans cesse les flammes ardentes et la chaleur suffocante qu'ils ont dû endurer, mais ensuite je ne veux plus y penser, alors je me souviens du vin. <STOP>Seulement, ce n'était pas du vin, c'était du sang, du sang frais. <STOP>Parfois je crois que je peux toujours sentir son odeur fade. Lorsque je mange de la tarte, par exemple. L'odeur du sang mêlé à l'eau montante envahit mes narines et je ne sens rien d'autre. <STOP>J'ai du mal à avaler ma nourriture, depuis...<PAGE>    Quand j'aperçois une table, je ne peux m'empêcher de me souvenir de ce festin, des invités et du tapis écarlate... <STOP>C'est étrange. <STOP>Je crois que le pire était ces peintures. Je me demande si leurs sujets savaient qu'ils étaient condamnés. Comment ont-ils pu rester immobiles alors que la mort approchait à chaque coup de pinceau#? <STOP>Je pense beaucoup à ce genre de choses ces temps-ci. <STOP>À vrai dire, il m'est difficile de penser à quoi que ce soit d'autre.<PAGE>    Je ne dors pas beaucoup. Je n'arrive pas à dormir. Je vois tant d'images affreuses quand je ferme les yeux... Bon, pourriez-vous parler à mes voisins et... <STOP>Oh#? Où sont-ils passés#?
-1142		1	1	0	NV_ID_0503					-1	0	0	0		— Ils sont partis il y a un bon moment, répondit <NIER> doucement.
-		1	1	0	NV_ID_0504					-1	0	0	0		— Ils trouvent sans doute votre rêve un peu... choquant, continua Weiss. Pourquoi ne discutez-vous pas de choses différentes avec eux#? Comme du temps qu'il fait, ou d'autres sujets moins terrifiants#?
-		1	1	0	NV_ID_0505				<CB=SNID_1580_a0010_02_End>	-1	0	0	0		    La villageoise sourit faiblement à <NIER>, mais son visage pâlit peu après. Alors qu'ils s'éloignaient lentement d'elle, de grosses larmes roulèrent sur ses joues blêmes.
-1143		0	1	0	EID_all_worry02_BOOKW010_Y			<CB=SET_ACTOR_PAUSE_ON,1364>	<CB=SNID_1580_a0010_03_Select>	-1	0	0	0	26	Je ne pourrais tout simplement pas supporter une autre de ces conversations infernales. Nous avons mieux à faire.
-1144	1145	1	1	0	NV_ID_0508			<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0		— Oh, c'est vous, l'homme qui m'a sauvé de cette cité bizarre#! <STOP>Je suis content de vous revoir. Vous êtes mon héros, vous savez. <STOP>Oh, ne soyez pas si timide, vous en êtes bien digne#! Le maire a même dit que nous érigerions une statue en votre honneur#!
-1145	1146	1	1	0	NV_ID_0509					-1	0	0	0		    On dit que vous êtes un aventurier. J'approuve#! <STOP>Voyager est la clef du bonheur#! Parcourir le monde, rencontrer des gens de partout... Ça change vraiment votre façon de voir les choses. Je suis convaincu que notre monde devra bientôt changer. <STOP>Hum...? Qui, moi#? Non, je n'ai jamais voyagé. À vrai dire, je n'ai jamais quitté ce village. Mais j'aimerais le faire un jour.
-1146	1147	1	1	0	NV_ID_0510					-1	0	0	0		    Je crois que notre monde se meurt. Je suis sérieux#! Réfléchissez un peu. <STOP>Avec les Ombres, la nécrose runique et d'autres maladies comme le songe mortel... C'est comme si on voulait nous prévenir que la fin approche.
-		1	1	0	NV_ID_0511					-1	0	0	0		    En fait, j'en suis certain que c'est un avertissement. Nous devons nous amender avant qu'il ne soit trop tard#!
-1147	1148	1	1	0	NV_ID_0512					-1	0	0	0		    J'aimerais bien changer le monde, mais je ne suis qu'un simple fermier. Je ne suis pas comme vous qui combattez sur la ligne front, armé de votre épée et de vos sorts de magie#! <STOP>Hé, j'ai une idée#! Je pourrais me joindre à vous et nous pourrions changer le monde ensemble#! <STOP>Avec votre expérience et mon... euh... enthousiasme, je crois que nous pourrions vraiment faire une différence.
-1148	1149	1	1	0	NV_ID_0513					-1	0	0	0		    Ce monde a besoin d'un meneur, de quelqu'un qui saurait unir le peuple pour une cause commune. <STOP>Il devrait être ferme et déterminé, car personne ne supporte les débats interminables. <STOP>Il devrait aussi être intelligent et savoir comment servir nos intérêts, même à long terme. <STOP>Vous seriez parfait#! Qu'en dites-vous#?
-1149	1150	1	1	0	NV_ID_0514					-1	0	0	0		    Quoi#? Vous pensez que <FONT=ITALIC>je</FONT> serais un meilleur candidat#? <STOP>Oh, non#! Je ne suis pas... Je veux dire, c'est gentil, mais non merci. Je n'aime pas me faire remarquer. <STOP>Je préférerais rester dans les coulisses et être un conseiller ou un confident... Une éminence grise, quoi#! <STOP>Je serais doué, vous savez.
-1150		1	1	0	NV_ID_0516					-1	0	0	0		    <NIER> et Weiss partirent avant que le villageois ne puisse leur donner une brochure intitulée «#Dix façons faciles de sauver le monde#».
-		1	1	0	NV_ID_0517					-1	0	0	0		    Tout en s'éloignant, Weiss réfléchit à voix haute#:
-		1	1	0	NV_ID_0518				<CB=SNID_1580_a0010_03_End>	-1	0	0	0		— Je suppose qu'il est ce que l'on appelle un stratège en chambre.
-1151		0	1	0				<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		<LIST=1152>Lui parler.</LIST>
+<CB=CHANGE_WINDOW_SIZE,0,1364,1011>	-1	0	0	0		Le malaise qu'avait éprouvé <NIER> dans le rêve du maire revint de plus belle.
+1132		0	1	0	EID_4500_a0400_0050_X			<CB=SET_ACTOR_PAUSE_ON,1362>	<CB=SNID_1580_a0010_01_Select>	-1	0	0	0	26	Je ne pourrais tout simplement pas supporter une autre de ces conversations infernales. Nous avons mieux à faire.
+1133	1134	1	1	0	NV_ID_0477			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		Ah, vous êtes de retour#! <STOP>Vous savez, j'essaie de trouver une façon de vous remercier de m'avoir sauvé et je crois que j'ai finalement trouvé la solution...! <STOP>Nous allons ériger une statue en votre honneur#! Elle fera 10 mètres de haut et sera d'or massif. <STOP>Oh, et je sais que vous n'avez pas de cheval, mais je crois que nous en rajouterons un pour vous donner un air plus... héroïque.<PAGE>
+		1	1	0	NV_ID_0478					-1	0	0	0		Quoi#? Vous ne voulez pas de statue...? <STOP>Oh. Je pensais vraiment que ça vous plairait.
+		1	1	0	NV_ID_0479					-1	0	0	0		Merci quand même pour toute votre aide. Grâce à vous, la paix règne de nouveau dans notre village.<PAGE>
+1134	1135	1	1	0	NV_ID_0481					-1	0	0	0		Au fait, j'y ai longuement réfléchi et je crois que nous devrions de nouveau célébrer la fête annuelle du village. <STOP>L'ancien maire trouvait que c'était une coutume démodée alors il l'a abolie. <STOP>Mais je compte la renouveler#! Je suis le maire, après tout#!<STOP>... Euh, vous croyez que ce serait abuser de mon pouvoir#?<PAGE>
+1135	1136	1	1	0	NV_ID_0482					-1	0	0	0		Comment#? Vous voulez plus de détails sur notre fête annuelle#?<STOP> Eh bien, on l'appelle le festin de trois jours, car tout le monde s'assoit autour d'une longue table et mange pendant trois jours d'affilée, sans se reposer#! <STOP>Elle a habituellement lieu dans la saison des brumes, alors il est difficile de voir ce qu'il y a dans notre assiette. <STOP>Certains plats sont délicieux, mais d'autres sont... très relevés...! Je n'en dirai pas plus. C'est fou ce qu'on arrive à avaler quand on n'a pas dormi depuis deux jours.<PAGE>
+		1	1	0	NV_ID_0483					-1	0	0	0		Cette année, vous serez notre invité d'honneur...<STOP> Hein#? Vous ne pouvez pas y assister#? <STOP>Vous devez repeindre tous les murs de votre maison cette semaine-là#? <STOP>Oh... Dommage. Un aventurier comme vous n'a probablement pas le temps de le faire à un autre moment.
+1136		1	1	0	NV_ID_0485					-1	0	0	0		À vrai dire, je crois que nous devrions organiser plus d'activités de ce genre pour tisser des relations plus étroites dans le village. Cela nous permettrait de mieux connaître nos voisins et de promouvoir l'unité en temps de crise.<PAGE>
+		1	1	0	NV_ID_0487					-1	0	0	0		Weiss toussa bruyamment.
+		1	1	0	NV_ID_0488					-1	0	0	0		Combien de temps devrons-nous endurer son insupportable verbiage#? chuchota-t-il à <NIER>.
+		1	1	0	NV_ID_0489					-1	0	0	0		Ah, laisse-le parler. Il vient tout juste de se réveiller. Ses idées se bousculent probablement dans sa tête.
+		1	1	0	NV_ID_0490					-1	0	0	0		Weiss soupira.
+		1	1	0	NV_ID_0491				<CB=SNID_1580_a0010_01_End>	-1	0	0	0		C'est sans doute ce que voulait dire Popola par «#jovial et bavard#»...
+1137		0	1	0	EID_4500_a0400_0050_X			<CB=SET_ACTOR_PAUSE_ON,1363>	<CB=SNID_1580_a0010_02_Select>	-1	0	0	0	26	Je ne pourrais tout simplement pas supporter une autre de ces conversations infernales. Nous avons mieux à faire.
+1138	1139	1	1	0	NV_ID_0494			<CB=SET_ACTOR_PAUSE_ON,1363>		-1	0	0	0		Oh, vous voilà#! Euh, pouvez-vous m'accorder un instant#?
+		1	1	0	NV_ID_0495					-1	0	0	0		Voici mes voisins. Je leur racontais justement le rêve que j'avais eu.<STOP> Vous savez, celui dont vous m'avez sauvée#?
+1139	1140	1	1	0	NV_ID_0496					-1	0	0	0		Ils refusent de me croire#! Ils disent que j'ai tout inventé. <STOP>Qui pourrait inventer une chose pareille#?! Je me souviens de l'obscurité, j'entends encore résonner les cris de terreur... <STOP>Vous devez à tout prix confirmer mes dires. Ils pensent que je suis folle#! Je veux qu'ils comprennent.
+1140	1141	1	1	0	NV_ID_0498					-1	0	0	0		Dites-leur comment vous m'avez tirée de ma cellule et qu'il y avait de l'eau partout et qu'elle montait à vue d'œil#! <STOP>J'ai d'abord cru que vous m'aviez sauvée pour ensuite me noyer, vous savez... Je ne voudrais pas mourir noyée. Certains disent que c'est une façon paisible de mourir, mais je ne suis pas de cet avis.
+		1	1	0	NV_ID_0500					-1	0	0	0		Oh, et n'oubliez pas de leur parler des cadavres#! <STOP>Oh, il y avait tant de cadavres...!
+1141	1142	1	1	0	NV_ID_0501					-1	0	0	0		Il y avait aussi cette salle avec les lits et les corps brûlés, comme du charbon. <STOP>Je m'imagine sans cesse les flammes ardentes et la chaleur suffocante qu'ils ont dû endurer, mais ensuite je ne veux plus y penser, alors je me souviens du vin. <STOP>Seulement, ce n'était pas du vin, c'était du sang, du sang frais. <STOP>Parfois je crois que je peux toujours sentir son odeur fade. Lorsque je mange de la tarte, par exemple. L'odeur du sang mêlé à l'eau montante envahit mes narines et je ne sens rien d'autre. <STOP>J'ai du mal à avaler ma nourriture, depuis...<PAGE>Quand j'aperçois une table, je ne peux m'empêcher de me souvenir de ce festin, des invités et du tapis écarlate... <STOP>C'est étrange. <STOP>Je crois que le pire était ces peintures. Je me demande si leurs sujets savaient qu'ils étaient condamnés. Comment ont-ils pu rester immobiles alors que la mort approchait à chaque coup de pinceau#? <STOP>Je pense beaucoup à ce genre de choses ces temps-ci. <STOP>À vrai dire, il m'est difficile de penser à quoi que ce soit d'autre.<PAGE>Je ne dors pas beaucoup. Je n'arrive pas à dormir. Je vois tant d'images affreuses quand je ferme les yeux... Bon, pourriez-vous parler à mes voisins et... <STOP>Oh#? Où sont-ils passés#?
+1142		1	1	0	NV_ID_0503					-1	0	0	0		Ils sont partis il y a un bon moment, répondit <NIER> doucement.
+		1	1	0	NV_ID_0504					-1	0	0	0		Ils trouvent sans doute votre rêve un peu... choquant, continua Weiss. Pourquoi ne discutez-vous pas de choses différentes avec eux#? Comme du temps qu'il fait, ou d'autres sujets moins terrifiants#?
+		1	1	0	NV_ID_0505				<CB=SNID_1580_a0010_02_End>	-1	0	0	0		La villageoise sourit faiblement à <NIER>, mais son visage pâlit peu après. Alors qu'ils s'éloignaient lentement d'elle, de grosses larmes roulèrent sur ses joues blêmes.
+1143		0	1	0	EID_4500_a0400_0050_X			<CB=SET_ACTOR_PAUSE_ON,1364>	<CB=SNID_1580_a0010_03_Select>	-1	0	0	0	26	Je ne pourrais tout simplement pas supporter une autre de ces conversations infernales. Nous avons mieux à faire.
+1144	1145	1	1	0	NV_ID_0508			<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0		Oh, c'est vous, l'homme qui m'a sauvé de cette cité bizarre#! <STOP>Je suis content de vous revoir. Vous êtes mon héros, vous savez. <STOP>Oh, ne soyez pas si timide, vous en êtes bien digne#! Le maire a même dit que nous érigerions une statue en votre honneur#!
+1145	1146	1	1	0	NV_ID_0509					-1	0	0	0		On dit que vous êtes un aventurier. J'approuve#! <STOP>Voyager est la clef du bonheur#! Parcourir le monde, rencontrer des gens de partout... Ça change vraiment votre façon de voir les choses. Je suis convaincu que notre monde devra bientôt changer. <STOP>Hum...? Qui, moi#? Non, je n'ai jamais voyagé. À vrai dire, je n'ai jamais quitté ce village. Mais j'aimerais le faire un jour.
+1146	1147	1	1	0	NV_ID_0510					-1	0	0	0		Je crois que notre monde se meurt. Je suis sérieux#! Réfléchissez un peu. <STOP>Avec les Ombres, la nécrose runique et d'autres maladies comme le songe mortel... C'est comme si on voulait nous prévenir que la fin approche.
+		1	1	0	NV_ID_0511					-1	0	0	0		En fait, j'en suis certain que c'est un avertissement. Nous devons nous amender avant qu'il ne soit trop tard#!
+1147	1148	1	1	0	NV_ID_0512					-1	0	0	0		J'aimerais bien changer le monde, mais je ne suis qu'un simple fermier. Je ne suis pas comme vous qui combattez sur la ligne front, armé de votre épée et de vos sorts de magie#! <STOP>Hé, j'ai une idée#! Je pourrais me joindre à vous et nous pourrions changer le monde ensemble#! <STOP>Avec votre expérience et mon... euh... enthousiasme, je crois que nous pourrions vraiment faire une différence.
+1148	1149	1	1	0	NV_ID_0513					-1	0	0	0		Ce monde a besoin d'un meneur, de quelqu'un qui saurait unir le peuple pour une cause commune. <STOP>Il devrait être ferme et déterminé, car personne ne supporte les débats interminables. <STOP>Il devrait aussi être intelligent et savoir comment servir nos intérêts, même à long terme. <STOP>Vous seriez parfait#! Qu'en dites-vous#?
+1149	1150	1	1	0	NV_ID_0514					-1	0	0	0		Quoi#? Vous pensez que <FONT=ITALIC>je</FONT> serais un meilleur candidat#? <STOP>Oh, non#! Je ne suis pas... Je veux dire, c'est gentil, mais non merci. Je n'aime pas me faire remarquer. <STOP>Je préférerais rester dans les coulisses et être un conseiller ou un confident... Une éminence grise, quoi#! <STOP>Je serais doué, vous savez.
+1150		1	1	0	NV_ID_0516					-1	0	0	0		<NIER> et Weiss partirent avant que le villageois ne puisse leur donner une brochure intitulée «#Dix façons faciles de sauver le monde#».
+		1	1	0	NV_ID_0517					-1	0	0	0		Tout en s'éloignant, Weiss réfléchit à voix haute#:
+		1	1	0	NV_ID_0518				<CB=SNID_1580_a0010_03_End>	-1	0	0	0		Je suppose qu'il est ce que l'on appelle un stratège en chambre.
+1151		0	1	0	EID_4500_a0400_0055_X			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		<LIST=1152>Lui parler.</LIST>
 <LIST=1153>Ne pas lui parler.</LIST>
 1152		2	1	0	SNID_1580_a0010_01_0006_010			<CB=SET_ACTOR_PAUSE_ON,1362>	<CB=SNID_1580_a0010_01_Select01>	-1	0	0	0		
 1153		2	1	0	SNID_1580_a0010_01_0007_010				<CB=SNID_1580_a0010_01_Select02>	-1	0	0	0		
-1154		0	1	0	EID_4500_a0400_0055			<CB=SET_ACTOR_PAUSE_ON,1363>		-1	0	0	0		<LIST=1155>Lui parler.</LIST>
+1154		0	1	0	EID_4500_a0400_0055_X			<CB=SET_ACTOR_PAUSE_ON,1363>		-1	0	0	0		<LIST=1155>Lui parler.</LIST>
 <LIST=1156>Ne pas lui parler.</LIST>
 1155		2	1	0	SNID_1580_a0010_02_0006_010			<CB=SET_ACTOR_PAUSE_ON,1363>	<CB=SNID_1580_a0010_02_Select01>	-1	0	0	0		
 1156		2	1	0	SNID_1580_a0010_02_0007_010				<CB=SNID_1580_a0010_02_Select02>	-1	0	0	0		
-1157		0	1	0	EID_4500_a0400_0055			<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0		<LIST=1158>Lui parler.</LIST>
+1157		0	1	0	EID_4500_a0400_0055_X			<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0		<LIST=1158>Lui parler.</LIST>
 <LIST=1159>Ne pas lui parler.</LIST>
 1158		2	1	0	SNID_1580_a0010_03_0006_010			<CB=SET_ACTOR_PAUSE_ON,1364>	<CB=SNID_1580_a0010_03_Select01>	-1	0	0	0		
 1159		2	1	0	SNID_1580_a0010_03_0007_010				<CB=SNID_1580_a0010_03_Select02>	-1	0	0	0		
 1160	1142	1	1	0	NV_ID_0501_2					-1	0	0	0		
-1161		0	1	0	EID_1500_a0200_0036_Y					-1	0	-1	0	2	Nous avons obtenu ce vers scellé sans avoir à éliminer une Ombre.
-		0	1	0	EID_1500_a0200_0037_Y					-1	0	0	0	26	Oui... À mon avis, ce fut trop facile.
-		0	1	0	EID_1500_a0200_0038_Y					-1	0	0	0	26	C'est comme si quelqu'un avait voulu nous guider jusqu'à ce village...
-		0	1	0	EID_1500_a0200_0039_Y					-1	0	-1	0	2	Ah, tu t'inquiètes pour rien, Weiss.
+1161		0	1	0	EID_1500_a0200_0036_X					-1	0	-1	0	2	Nous avons obtenu ce vers scellé sans avoir à éliminer une Ombre.
+		0	1	0	EID_1500_a0200_0037_X					-1	0	0	0	26	Oui... À mon avis, ce fut trop facile.
+		0	1	0	EID_1500_a0200_0038_X					-1	0	0	0	26	C'est comme si quelqu'un avait voulu nous guider jusqu'à ce village...
+		0	1	0	EID_1500_a0200_0039_X					-1	0	-1	0	2	Ah, tu t'inquiètes pour rien, Weiss.
