@@ -1,5 +1,5 @@
-myfile='c:/Users/Etsuna/Documents/GitHub/Nier/TEXT/TALK_TEXT/TALK_A.JA.PS3.csv'
-fileedit='c:/Users/Etsuna/Documents/GitHub/Nier/TEXT/TALK_TEXT/TALK_A.JA.PS3.TKD'
+myfile='c:/Users/Etsuna/Documents/GitHub/Nier/DUMPCSV/TALK_D.JA.PS3.csv'
+fileedit='c:/Users/Etsuna/Documents/GitHub/Nier/TEXT/TALK_TEXT/TALK_D.JA.PS3.TKD'
 
 while IFS=";" read -r col1 col2 col3 col4
 do

@@ -1,6 +1,16 @@
-myfile='c:/Users/Etsuna/Documents/GitHub/Nier/TEXT/TALK_TEXT/TALK_A.JA.PS3.csv'
-fileedit='c:/Users/Etsuna/Documents/GitHub/Nier/TEXT/TALK_TEXT/TALK_A.JA.PS3.TKD'
-textacheck='c:/Users/Etsuna/Documents/GitHub/Nier/TEXT/TALK_TEXT/correction.txt'
+myfile='c:/Users/Etsuna/Documents/GitHub/Nier/DUMPCSV/TALK_D.JA.PS3.csv'
+fileedit='c:/Users/Etsuna/Documents/GitHub/Nier/TEXT/TALK_TEXT/TALK_D.JA.PS3.TKD'
+textacheck='c:/Users/Etsuna/Documents/GitHub/Nier/DUMPCSV/correction.txt'
+
+if [ ! -f $textacheck ]
+then
+    echo "Fichier non trouvé, Création du fichier"
+    touch $textacheck
+else
+    echo "File déja présent, suppression et création du nouveau fichier"
+    rm -rf $textacheck
+    touch $textacheck
+fi
 
 while IFS=";" read -r col1 col2 col3 col4
 do
