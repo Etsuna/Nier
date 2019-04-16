@@ -23,7 +23,7 @@
 		0	1	0	EID_0100_a0020_00301_NIER010_X					0	1004	-1	0	2	Moi aussi.
 		0	1	0	EID_0100_a0020_00302_NIER010_X					0	1004	-1	0	2	Je suis si désemparé... Je ne peux pas faire grand-chose pour elle à part m'assurer qu'elle mange assez.
 		0	1	0	EID_0100_a0020_00303_NIER010_X					0	1004	-1	0	2	La plupart du temps, j'ai l'impression de ne servir à rien.
-		0	1	0	EID_0100_a0020_00304_POPOL010_X					0	-1	1004	0	24	Oh, ne dis pas des choses pareilles#! Elle ne pourrait pas avoir un père plus attentif que toi.
+		0	1	0	EID_0100_a0020_00304_POPOL010_X					0	-1	1004	0	24	Oh, ne dis pas des choses pareilles#! Elle ne pourrait pas avoir un frère plus attentif que toi.
 1015	1016	0	1	0	EID_0100_a0020_0040_POPOL010_X					0	-1	1004	0	24	Au fait, j'ai une faveur à te demander.
 1016	1017	0	1	0	SEID_100_S0010_0041_X					0	-1	1004	0	24	L'apothicaire du marché aimerait que tu ailles chasser des moutons sur la plaine septentrionale.
 1017	1018	0	1	0	SEID_100_S0010_0042_X					0	1004	-1	0	2	D'accord, je m'en occupe.
