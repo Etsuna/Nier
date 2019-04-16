@@ -339,7 +339,7 @@ Bon, d'accord...
 		0	1	0	EID_1050_a0004g_0042_NIER010_X					0	1361	-1	0	2	Je le suis toujours.
 1100		0	1	0	EID_1200_a0010_0010_BROTHY010_X					-1	0	0	0	36	Jakob ! J'ai faaaaaim !
 1101		0	1	0	EID_1200_a0010_0010_BROTHY010_X			<CB=Young_Brother_Motion_Start>	<CB=Young_Brother_Motion_End>	0	1011	1010	0	36	Jakob ! J'ai faaaaaim !
-		0	3	0	EID_1200_a0010_0020_BROTHO010_X				<CB=EID_1200_a0010_01_End>	0	1010	1011	0	38	Je sais, attends un peu. On a peut-être un vieux quignon de pain quelque part…
+		0	3	0	EID_1200_a0010_0020_BROTHO010_X				<CB=EID_1200_a0010_01_End>	0	1010	1011	0	38	Je sais, attends un peu. On a peut-être un vieux quignon de pain quelque part...
 1102	1103	0	1	0	EID_1200_a0010_0030_NIER010_X					-1	0	0	0	2	Salut.
 		0	3	0	EID_1200_a0010_0040_BROTHO010_X					0	-1	1011	0	38	Oh ! Bienvenue ! Je vous en prie, entrez !
 1103	1104	0	1	0	EID_1200_a0015g_0010_NIER010_X					0	1011	-1	0	2	J'ai entendu dire que tu pouvais améliorer mon arme...
@@ -697,7 +697,7 @@ Soyez... euh, prudent, d'accord#? Cette vieille femme a un sacré caractère...
 		0	1	0	EID_1410_a0065_0020_BOOKW010_X					-1	0	0	0	26	Je suppose qu'une petite promenade à travers la ville s'impose.
 1212		0	1	0	EID_1410_a0065_0030_NIER010_X					-1	0	0	0	2	Je ne comprends pas un mot de ce qu'ils disent.
 		0	1	0	EID_1410_a0065_0040_BOOKW010_X				<CB=Count_Talk_Num>	-1	0	0	0	26	Ils parlent une langue que je n'ai jamais entendue.
-1213		0	1	0	EID_1410_a0065_0050_NIER010_X					-1	0	0	0	2	J'aurais peut-être dû apprendre d'autres langues quand j'étais petit… Tu pourrais parler mille langues différentes,
+1213		0	1	0	EID_1410_a0065_0050_NIER010_X					-1	0	0	0	2	J'aurais peut-être dû apprendre d'autres langues quand j'étais petit... Tu pourrais parler mille langues différentes,
 		0	1	0	EID_1410_a0065_0060_BOOKW010_X				<CB=Count_Talk_Num>	-1	0	0	0	26	 mais toujours échouer si tu ne possèdes pas les connaissances nécessaires pour comprendre la culture d'un autre peuple.
 1214		0	1	0	EID_1410_a0065_0001_KAINE010_X					0	-1	1000	0	28	Le roi habite le grand bâtiment, là-bas. Pour ce qui est du reste, vous devrez vous débrouiller.
 		0	1	0	EID_1410_a0065_0002_NIER010_X					0	1000	-1	0	2	Tu ne viens pas avec nous ?
@@ -909,7 +909,7 @@ ils peuvent la changer en organisant un vote.
 		0	1	0	EID_1450_a0107g_0050_BOOKW010_X					-1	0	0	0	26	Essayez tout de même de ne pas vous faire enlever encore une fois, d'accord ?
 		0	1	0	EID_1450_a0107g_0060_TCK010_X					0	-1	1009	0	45	(Oh, merci#! Je promets que je serai prudent#!)
 1288		0	1	0	EID_1450_a0105_00713_VIER010_X					0	-1	1005	0	42	(Revenez nous rendre visite bientôt, d'accord#?)
-1289		0	1	0	EID_1450_a0110_0010_BOOKW010_X					-1	0	0	0	26	L'avenir de Façade me paraît hasardeux. Même avec les meilleures intentions du monde, le roi est si jeune…
+1289		0	1	0	EID_1450_a0110_0010_BOOKW010_X					-1	0	0	0	26	L'avenir de Façade me paraît hasardeux. Même avec les meilleures intentions du monde, le roi est si jeune...
 		0	1	0	EID_1450_a0110_0020_NIER010_X					-1	0	0	0	2	Le peuple comblera les lacunes de leur roi.
 		0	1	0	EID_1450_a0110_0030_BOOKW010_X					-1	0	0	0	26	Je parie que nous aurons une myriade de nouvelles lois à découvrir lors de notre prochaine visite.
 		0	1	0	EID_1450_a0110_0040_NIER010_X					-1	0	0	0	2	Probablement. Mais leurs lois semblent leur convenir, alors ce n'est pas à nous de prétendre le contraire.
@@ -923,7 +923,7 @@ ils peuvent la changer en organisant un vote.
 		0	1	0	EID_1480_a0010_0030_TCK010_X					-1	0	0	0	45	(Je ne joue pas#! Je le fais tournoyer#! Et c'est du sérieux#!)
 1291	1292	0	1	0	EID_1480_a0010_0040_MASKADV_X					-1	0	1007	0	43	(Votre Majesté, le masque n'est pas fait pour être tournoyé ainsi#!
 Oh, misère...)
-1292		0	1	0	EID_1480_a0010_0050_BOOKW010_X				<CB=EID_1480_a0010_End>	-1	0	0	0	26	Je suppose qu'on ne peut pas s'attendre à ce qu'un homme change du jour au lendemain… #Même un roi.
+1292		0	1	0	EID_1480_a0010_0050_BOOKW010_X				<CB=EID_1480_a0010_End>	-1	0	0	0	26	Je suppose qu'on ne peut pas s'attendre à ce qu'un homme change du jour au lendemain... #Même un roi.
 1293		0	1	0	EID_1480_a0020_0010_TCK010_X					0	-1	1009	0	45	(Quoi#?! Qu'y a-t-il#?!)
 		0	1	0	EID_1480_a0020_0020_NIER010_X					0	1009	-1	0	2	Oh, pardonnez-moi.
 		0	1	0	EID_1480_a0020_0030_VIER010_X					0	-1	1005	0	42	(Ne vous inquiétez pas. Nous ne parlions pas de choses importantes.)
@@ -1897,7 +1897,7 @@ Je veux crier. Je veux démolir les murs invisibles qui m'entourent. Toutefois, 
 		0	1	0	SEID_1450_S0130_0050_X				<CB=SEID_1450_S0130_a0010_End>	0	1168	-1	0	2	Oh, je vois très bien.
 1651		0	2	0	EID_all_speak01_VILLNYG02_X_4					0	-1	1168	0	19	Hé, vous ne devinerez jamais ce qui m'est arrivé#! L'autre jour, je faisais les magasins avec mon amie et...
 		0	1	0	SEID_1450_S0130_0070_X					0	1168	-1	0	2	Celle qui ne veut aller que dans les restaurants chics#?
-		0	1	0	SEID_1450_S0130_0080_X					0	-1	1168	0	19	Oui, c'est ça. Eh bien, j'ai aperçu un bijou magnifique en solde alors je le lui ai offert. Je croyais qu'il lui plairait, mais…
+		0	1	0	SEID_1450_S0130_0080_X					0	-1	1168	0	19	Oui, c'est ça. Eh bien, j'ai aperçu un bijou magnifique en solde alors je le lui ai offert. Je croyais qu'il lui plairait, mais...
 		0	1	0	SEID_1450_S0130_0090_X					0	-1	1168	0	19	Elle n'a pas voulu l'accepter#! Elle a dit que seuls les pauvres portent des bijoux qui étaient en solde#!
 		0	1	0	SEID_1450_S0130_0100_X					0	1168	-1	0	2	Elle a l'air tout à fait charmante.
 		0	1	0	SEID_1450_S0130_0110_X					0	-1	1168	0	19	Oh, elle l'est#! J'aurais pourtant dû savoir que je ne pourrais pas la séduire avec de la pacotille...
@@ -2128,7 +2128,7 @@ Tu devras convaincre les habitants de la laisser partir.
 		0	1	0	EID_1350_a0030_0080_SYD010_X					0	-1	1027	0	41	Je ne vois pas en quoi ça vous concerne.
 1716	1717	0	1	0	EID_1350_a0030_0090_BOOKW010_X					-1	0	0	0	26	Eh bien, discutons alors de ce qui nous concerne...
 		0	1	0	EID_1350_a0030_0100_BOOKW010_X					-1	0	0	0	26	Pourquoi les lettres adressées à la vieille femme sont-elles les seules à porter le cachet de ce bureau de poste#?!
-		0	1	0	EID_1350_a0030_0110_SYD010_X					0	-1	1027	0	41	Euh, hum, c'est parce que… Euh…
+		0	1	0	EID_1350_a0030_0110_SYD010_X					0	-1	1027	0	41	Euh, hum, c'est parce que... Euh...
 		0	1	0	EID_1350_a0030_0120_BOOKW010_X					-1	0	0	0	26	Les autres lettres portent des cachets de partout à travers le monde.
 		0	1	0	EID_1350_a0030_0130_NIER010_X					-1	0	-1	0	2	Où veux-tu en venir, Weiss#?
 		0	1	0	EID_1350_a0030_0140_BOOKW010_X					-1	0	0	0	26	Cette femme ne reçoit pas de lettre de son bien-aimé à l'étranger...
@@ -3100,7 +3100,7 @@ Je crois qu'elle a été attaquée par une Ombre.
 		0	1	0	SEID_1350_S0011_0130_X					0	-1	1004	0	24	Une lettre#? Pour moi#? Qu'est-ce qui peut bien... Oh non.
 		0	1	0	SEID_1350_S0011_0140_X				<CB=SEID_1350_S0011_a0030_End>	0	1004	-1	0	2	Qu'y a-t-il#?
 2326		0	2	0	SEID_1350_S0010_0040_X			<CB=SEID_1350_S0010_a0010_Start>	<CB=LIB_SET_START_SUBQUEST,1659,QUEST_SEID1350_S0010,17,1027,2327>	0	-1	1027	0	41	écoutez, je sais que c'est beaucoup demander, mais j'ai encore besoin de votre aide.
-2327		0	1	0	SEID_1350_S0010_0050_X					0	-1	1027	0	41	J'ai deux autres lettres à distribuer, une pour l'Aire et l'autre pour la montagne des robots.<PAGE>Celui qui se charge habituellement de la distribution du courrier dans les régions éloignées ne reviendra pas à temps, et avec ma jambe, vous savez…
+2327		0	1	0	SEID_1350_S0010_0050_X					0	-1	1027	0	41	J'ai deux autres lettres à distribuer, une pour l'Aire et l'autre pour la montagne des robots.<PAGE>Celui qui se charge habituellement de la distribution du courrier dans les régions éloignées ne reviendra pas à temps, et avec ma jambe, vous savez...
 		0	1	0	SEID_1350_S0010_0060_X					-1	0	0	0	26	Ne dis pas un mot#! Nous avons déjà assez aidé ce fieffé tire-au-flanc#!
 		0	1	0						-1	0	0	0		
 2328		0	1	0	SEID_1350_S0010_0120_X					0	-1	1027	0	41	La lettre est adressée à 【NPC名】.
@@ -3137,7 +3137,7 @@ Je crois qu'elle a été attaquée par une Ombre.
 2357		0	1	0	EID_all_speak01_VILLNYG02_X_4					0	-1	1385	0	19	Il paraît que cette ville est remplie de gens impolis et coléreux. Je suppose qu'il est facile de s'emporter pour un rien quand on a le ventre plein et que le soleil brille.
 2358	2359	0	1	0	EID_0050_a0020_0010_YONAH010_X					0	-1	1018	0	25	Grand frère...?
 2359		0	1	0	EID_0050_a0020_0020_NIER010_X					0	1018	-1	0	25	Ça va, Yonah ?
-		-1	1	0	EID_0050_a0020_0030_YONAH010_X					0	-1	1018	0	5	Désolée, grand frère. Pardon… Je ne ferai plus de bruit, je te le promets.
+		-1	1	0	EID_0050_a0020_0030_YONAH010_X					0	-1	1018	0	5	Désolée, grand frère. Pardon... Je ne ferai plus de bruit, je te le promets.
 2360	2361	0	1	0	EID_0050_a0024_0020_NIER010_X					0	1018	-1	0	25	... Yonah.
 2361		0	1	0	EID_0050_a0024_0030_YONAH010_X					0	-1	1018	0	5	Q-quoi ?
 		-1	1	0	EID_0050_a0024_0040_NIER010_X					0	1018	-1	0	25	Ne touche pas à ce livre. N'y touche jamais. 
@@ -3207,7 +3207,7 @@ Le simple fait de mentionner mon nom met des royaumes à genoux !
 2391		2	1	0	EID_1000_a0015_0100_CLIFFNMG_X				<CB=EID_1000_a0015_check,905,0>	-1	0	0	0	8	Nous n'osons pas défier les Ombres...
 2392		2	1	0	EID_1000_a0015_0090_CLIFFNMG_X				<CB=EID_1000_a0015_check,906,0>	-1	0	0	0	8	Nous devons tuer Kainé !
 2393		2	1	0	EID_1000_a0015_0110_CLIFFNYG_X				<CB=EID_1000_a0015_check,907,0>	-1	0	0	0	8	Cette fille a été souillée par une Ombre, et regardez ce qu'elle est devenue...
-2394		2	1	0	EID_1000_a0015_0120_CLIFFNMG_X				<CB=EID_1000_a0015_check,908,0>	-1	0	0	0	8	J'ai peur... J'ai si peur… Je ne sortirai plus jamais de ma maison.
+2394		2	1	0	EID_1000_a0015_0120_CLIFFNMG_X				<CB=EID_1000_a0015_check,908,0>	-1	0	0	0	8	J'ai peur... J'ai si peur... Je ne sortirai plus jamais de ma maison.
 		2	1	0	EID_1000_a0015_0130_BOOKW010_X					-1	0	0	0	26	Quelle misérable racaille !
 2395		2	1	0	EID_1000_a0015_0080_CLIFFNMG_X				<CB=EID_1000_a0015_check,909,0>	-1	0	0	0	8	Sortez de notre village tout de suite ! Vous n'êtes pas le bienvenu !
 2396		2	1	0	EID_1000_a0015_0100_CLIFFNMG_X				<CB=EID_1000_a0015_check,910,0>	-1	0	0	0	8	Nous n'osons pas défier les Ombres...
@@ -3314,7 +3314,7 @@ Sortez d'ici !
 2448		0	1	0	EID_1100_a0085g_0240_KAINE010_X					-1	0	0	0	28	Maintenant !
 2449		0	1	0	EID_1100_a0120g_0085_SNOW010_X					0	-1	1001	0	35	À bientôt#!
 2450		0	1	0	EID_1100_a0120g_0086_BUTLER_X					0	-1	1028	0	34	Je n'aurai pas de cesse que je trouve un moyen de guérir les yeux de Monsieur émile. Je vous le jure#!
-2451		0	1	0	EID_1100_a0120g_0030_BOOKW010_X					-1	0	0	0	26	Hum…
+2451		0	1	0	EID_1100_a0120g_0030_BOOKW010_X					-1	0	0	0	26	Hum...
  J'ai remarqué que tu as échangé quelques mots avec le petit émile tout à l'heure.
 		0	1	0	EID_1100_a0120g_0040_KAINE010_X					-1	0	0	0	28	......
 		0	1	0	EID_1100_a0120g_0050_BOOKW010_X					-1	0	0	0	26	J'espère qu'il n'y avait rien... d'inapproprié pour un jeune homme de son âge dans votre conversation ? Hummm ?
@@ -3334,7 +3334,7 @@ j'en suis certain !
 		0	1	0	EID_1270_a0020g_0020_NIER010_X					-1	0	0	0	2	Hum...
 		0	1	0	EID_1270_a0020g_0030_BOOKW010_X					-1	0	0	0	26	Ou encore qu'elle a passé toute une semaine à ramasser de la ferraille ?
 		0	1	0	EID_1270_a0020g_0040_NIER010_X					-1	0	0	0	2	Euh...
-		0	1	0	EID_1270_a0020g_0050_BOOKW010_X					-1	0	0	0	26	Ouvre les yeux, bougre d'imbécile ! Cette femme est manifestement…
+		0	1	0	EID_1270_a0020g_0050_BOOKW010_X					-1	0	0	0	26	Ouvre les yeux, bougre d'imbécile ! Cette femme est manifestement...
 		0	1	0	EID_1270_a0020g_0060_NIER010_X					-1	0	0	0	2	Ça suffit, Weiss !
 		0	1	0	EID_1270_a0020g_0070_BOOKW010_X					-1	0	0	0	26	......
 		0	1	0	EID_1270_a0020g_0080_NIER010_X					-1	0	0	0	2	Ces enfants mènent une vie misérable. Ils ont peut-être juste besoin d'un miracle.
@@ -3396,7 +3396,7 @@ en contact avec eux.
 		0	1	0	EID_1410_a0020_0080_KAINE010_X					0	-1	-2	0	28	Oui, et il est beaucoup plus facile d'y entrer que dans ton village... Du moins pour moi.
 		0	1	0	EID_1410_a0020_0090_BOOKW010_X					-1	0	0	0	26	Tu ne compterais pas nous faire part de ton plan, par hasard ? Ou encore nous dire ce que tu sais au sujet de cette ville ?
 		0	1	0	EID_1410_a0020_0100_KAINE010_X					-1	0	-2	0	28	La ferme, bouquin. Tu comprendras bien assez tôt.
-2487		0	1	0	EID_1410_a0020_0110_BOOKW010_X					-1	0	0	0	26	Bou-bouquin ! Comment oses-tu ?! Jamais je n'ai été traité avec aussi peu de décence et…
+2487		0	1	0	EID_1410_a0020_0110_BOOKW010_X					-1	0	0	0	26	Bou-bouquin ! Comment oses-tu ?! Jamais je n'ai été traité avec aussi peu de décence et...
 		0	1	0	EID_1410_a0020_0120_NIER010_X					-1	0	0	0	2	Du calme, Weiss. Voyons voir ce qu'elle a en tête.
 2488		0	1	0	EID_1410_a0030g_0010_NIER010_X					0	-2	-1	0	2	Alors, quelle sorte de ville est Façade ?
 		0	1	0	EID_1410_a0030g_0020_KAINE010_X					0	-1	-2	0	28	C'est une ville étrange. Tenons-nous-en là.
@@ -3433,7 +3433,7 @@ en contact avec eux.
 2500		0	1	0	EID_1410_a5050_0010_NIER010_X					0	1000	-1	0	2	Je crois qu'elle veut que nous revenions lui rendre visite un jour. Qu'en dis-tu, Kainé ?
 		0	1	0	EID_1410_a5050_0020_KAINE010_X					-1	0	1000	0	28	Je dis partons.
 2501		0	1	0	EID_1450_a0020g_0010_NIER010_X					-1	0	0	0	2	On dirait que leurs lois sont soudainement bien encombrantes.
-		0	1	0	EID_1450_a0020g_0020_BOOKW010_X					-1	0	0	0	26	Ils possèdent leurs propres us et coutumes. En tant qu'étrangers, nous ne pouvons pas intervenir…
+		0	1	0	EID_1450_a0020g_0020_BOOKW010_X					-1	0	0	0	26	Ils possèdent leurs propres us et coutumes. En tant qu'étrangers, nous ne pouvons pas intervenir...
 Allez. Nous devrions partir.
 2502		0	1	0	EID_1450_a0030g_0020_NIER010_X					-1	0	0	0	2	Les habitants de la ville devraient arrêter de se disputer et suivre plutôt l'exemple de Fyra.
 		0	1	0	EID_1450_a0030g_0030_BOOKW010_X					-1	0	0	0	26	Elle semble posséder des réserves infinies d'énergie.
@@ -3550,7 +3550,7 @@ Je crois que c'est tout ce qu'il y a à savoir.
 2554		0	1	0	EID_all_greeting03_VILLNYG_X_3					0	-1	1351	0	16	Dans une ville comme la nôtre, nous avons vraiment l'embarras du choix en matière de poissons et de fruits de mer#!
 2555		0	1	0	EID_all_speak01_MASKMW_Y_03					0	-1	1103	0	146	(Il est parfois difficile de respecter la loi...)
 2556		0	1	0	SEID_1450_S0070_0105_X					-1	0	0	0	2	Je crois que j'ai dix peaux de loup.
-2557		0	1	0	EID_all_wonder02_VILLNMW_X_3					0	-1	1037	0	116	Rapportons-les au marchand de curiosités. Quelle mélodie magnifique#! Elle me rappelle ma jeunesse…
+2557		0	1	0	EID_all_wonder02_VILLNMW_X_3					0	-1	1037	0	116	Rapportons-les au marchand de curiosités. Quelle mélodie magnifique#! Elle me rappelle ma jeunesse...
 2558		0	1	0	EID_all_wonder02_VILLNYW02_X_3					0	-1	1080	0	108	Je n'ai jamais entendu cette chanson, mais en l'écoutant, mon cœur se remplit d'une certaine nostalgie...
 2559		0	1	0						-1	0	0	0		
 2560		2	1	0					<CB=SEID_1320_S0210_a0090_SongEnd_Ok>	-1	0	0	0		
