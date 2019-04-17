@@ -1045,7 +1045,7 @@ EID_1100_a0005g_00027_SYS_X					-1	0	0	0		<LIST=2698>Je ne peux rien lui refuser
 		0	1	0	EID_1100_a0005g_00032_NIER010_X				<CB=EID_1100_a0005g_Selsect>	0	1002	-1	0	2	*soupir*
 1322		0	1	0	EID_all_speak01_YONAH010_X_1					0	-1	1002	0	5	Merci, grand frère#!
 1323		0	1	0	EID_1100_a0005g_00034_NIER010_X					-1	0	0	0	2	... Merveilleux. Ma sœur a un petit ami.
-		0	1	0	EID_1100_a0005g_00035_BOOKW010_X					-1	0	0	0	26	Tu devrais user de circonspection. Ce jeune homme pourrait être un jour ton gendre.
+		0	1	0	EID_1100_a0005g_00035_BOOKW010_X					-1	0	0	0	26	Tu devrais user de circonspection. Ce jeune homme pourrait être un jour ton beau-frère.
 		0	1	0	EID_1100_a0005g_00036_NIER010_X					-1	0	0	0	2	Ça suffit, Weiss#!
 1324	1325	0	2	0	EID_1100_a0020_0010_BUTLER_X			<CB=EID_1100_a0020_01_Start>		-1	0	1028	0	34	Nous vous attendions.
 1325		0	1	0	EID_1100_a0020_0020_BUTLER_X				<CB=EID_1100_a0020_01_End>	-1	0	1028	0	34	Veuillez me suivre, s'il vous plaît.
@@ -1229,7 +1229,7 @@ EID_2000_a0141g_0020_X					-1	0	0	0		<LIST=1373>Pétrifier Kainé et sceller l'O
 		1	1	0	NV_ID_1404					-1	0	0	0		Je tente de partir. Cependant, je n'arrive pas à quitter le garçon des yeux. J'examine son visage placide et le lent mouvement de ses lèvres.
 1390	1391	1	1	0	NV_ID_1405					-1	0	0	0		Qu'essaie-t-il de me dire#? 
 ...#Un instant, ce sont deux mots distincts. Je peux presque les comprendre. Le premier commence par «#v#» et le deuxième par «#s#»...
-		1	1	0	NV_ID_1406					-1	0	0	0		J'y suis presque. Les lettres s'alignent les unes après les autres, de plus en plus rapidment...
+		1	1	0	NV_ID_1406					-1	0	0	0		J'y suis presque. Les lettres s'alignent les unes après les autres, de plus en plus rapidement...
 1391	1392	1	1	0	NV_ID_1407					-1	0	0	0		V<WAIT=0.3>-E<WAIT=0.3>-R<WAIT=0.3>-S<WAIT=0.5> S<WAIT=0.3>-C<WAIT=0.3>-E<WAIT=0.3>-L<WAIT=0.3>-L<WAIT=0.3>-é
 		1	1	0	NV_ID_1408					-1	0	0	0		Un vers scellé. Ce que je cherche, ce qui me permettra de sauver ma sœur... Je dévore le garçon du regard, essayant désespérément de déchiffrer le prochain mot.
 		1	1	0	NV_ID_1409					-1	0	0	0		R<WAIT=0.3>-Ê<WAIT=0.3>-V<WAIT=0.3>-E
