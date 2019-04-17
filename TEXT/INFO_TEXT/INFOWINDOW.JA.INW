@@ -24,7 +24,7 @@ Détruisez-la dans le délai accordé.
 2013		1	0	INFO_WINDOW_TUTORIAL_13							0	Sauvegarder	Pour sauvegarder votre partie, examinez une boîte aux lettres.
 2014		1	0	INFO_WINDOW_TUTORIAL_14							0	Quêtes	Des villageois vous demandent parfois d'accomplir des quêtes.
 Pour consulter la liste des quêtes que vous avez acceptées,
-appuyez sur <ICON=13>, sélectionnez «#Grimoire Weiss#»,
+appuyez sur <ICON=13>, sélectionnez «#Grimoire Shiro#»,
 puis choisissez l'onglet «#Quêtes#».
 2015		1	0	INFO_WINDOW_TUTORIAL_15							0	Type d'armes	Il existe trois types d'armes#: les armes à une main,
 les armes à deux mains et les armes d'hast.
@@ -47,7 +47,7 @@ son mouvement pour l'épuiser.
 Si vous arrivez à vider la jauge d'énergie du poisson, vous le remonterez.
 2022		1	0	INFO_WINDOW_TUTORIAL_22							0	Lettres	Pour lire les lettres et autres documents en votre
 possession, appuyez sur <ICON=13> pour ouvrir le menu,
-sélectionnez «#Grimoire Weiss#», choisissez l'onglet
+sélectionnez «#Grimoire Shiro#», choisissez l'onglet
 «#Informations#» et enfin l'option «#Documents#».
 2023		1	0	INFO_WINDOW_TUTORIAL_23							0	Changer d'arme	Appuyez sur <ICON=19> pour vous équiper d'une arme différente.
 2024		1	0	INFO_WINDOW_TUTORIAL_24							0	Déplacer des boîtes	Pour pousser ou tirer une boîte, approchez-vous-en et
@@ -110,7 +110,7 @@ Examinez-la pour ramasser un objet.
 2054		1	0	INFO_WINDOW_TUTORIAL_54							0	Objets cachés	Certains objets requis pour faire progresser l'histoire sont dissimulés. Examinez les lumières scintillantes et fracassez les boîtes aux alentours pour les trouver.
 2055		1	0	INFO_WINDOW_TUTORIAL_55							0	Qualificatifs	Vous obtiendrez parfois des qualificatifs en éliminant des
 ennemis. Sélectionnez l'onglet «#Qualificatifs#» du
-Grimoire Weiss pour associer des qualificatifs à vos
+Grimoire Shiro pour associer des qualificatifs à vos
 armes, vos sorts de magie ou vos techniques.
 Ils possèdent des effets variés#!
 2056		1	0	INFO_WINDOW_TUTORIAL_56							0	Donner des ordres aux alliés	Choisissez l'option «#Ordres#» en appuyant sur <ICON=13>
@@ -645,7 +645,7 @@ Voulez-vous continuer#?
 <ALT=-1,<CB=EID_6000_a0005_End01>>Oui</ALT>
 <ALT=-1,<CB=EID_6000_a0005_End02>>Non</ALT>
 2421		1	0	INFO_3000_a0015g							0		Vous pouvez désormais manier les armes à deux mains et les armes d'hast#!
-2422		1	0	INFO_6000_a0195g							0		Le Grimoire Weiss a perdu tous ses pouvoirs.
+2422		1	0	INFO_6000_a0195g							0		Le Grimoire Shiro a perdu tous ses pouvoirs.
 2423		1	0	INFO_4030_a0050							0		Vous obtenez l'arme à deux mains «#<ITEM>#»#!
 2426		1	0	INFO_C_FOREST_FIELD_DREAM_CB							0	Voulez-vous pénétrer dans son rêve#?	<ALT=-1,<CB=C_FOREST_FIELD_DREAM_CB_End01>>Oui</ALT>
 <ALT=-1,<CB=C_FOREST_FIELD_DREAM_CB_End02>>Non</ALT>
@@ -658,9 +658,9 @@ Voulez-vous continuer#?
 2432		1	0	INFO_4030_a0087							0		Obtenu#: <TEXT>#!
 2433		1	0	INFO_EID_0200_a0037g							0	Voulez-vous demander l'aide du livre mystérieux#?	<ALT=2400>Oui</ALT>
 <ALT=-1,<CB=REPEAT_QUESTION>>Non</ALT>
-2434		1	0	INFO_SEID_1320_S0130_01							0	Voulez-vous demander l'aide du Grimoire Weiss#?	<ALT=-1,<CB=SEID_1320_S0130_Select00_Yes>>Oui</ALT>
+2434		1	0	INFO_SEID_1320_S0130_01							0	Voulez-vous demander l'aide du Grimoire Shiro#?	<ALT=-1,<CB=SEID_1320_S0130_Select00_Yes>>Oui</ALT>
 <ALT=-1,<CB=SEID_1320_S0130_Select00_No>>Non</ALT>
-2435		1	0	INFO_SEID_1320_S0130_02							0	Voulez-vous demander l'aide du Grimoire Weiss#?	<ALT=-1,<CB=SEID_1320_S0130_Select01_Yes>>Oui</ALT>
+2435		1	0	INFO_SEID_1320_S0130_02							0	Voulez-vous demander l'aide du Grimoire Shiro#?	<ALT=-1,<CB=SEID_1320_S0130_Select01_Yes>>Oui</ALT>
 <ALT=-1,<CB=SEID_1320_S0130_Select01_No>>Non</ALT>
 2436		1	0	INFO_EID_1410_a0065							0	Voulez-vous retourner à l'entrée de la ville#?	<ALT=-1,<CB=EID_1410_a0065g_021_Start>>Oui</ALT>
 <ALT=-1,<CB=EID_1410_a0065g_022_Start>>Non</ALT>
@@ -712,9 +712,9 @@ Voulez-vous <FONT=ITALIC>vraiment</FONT> effacer toutes vos sauvegardes#?
 <ALT=-1,<CB=Input_Name_Sequence>>Oui</ALT>
 <ALT=-1,<CB=EID_9100_a0010_01_Start>>Non</ALT>
 2455		1	0	INFO_WINDOW_QUEST_79							0	Qualificatifs	Associez des «#qualificatifs#» à vos armes ou à vos sorts pour leur donner
-des caractéristiques spéciales. Sélectionnez «#Grimoire Weiss#» à partir du
+des caractéristiques spéciales. Sélectionnez «#Grimoire Shiro#» à partir du
 menu principal, puis choisissez l'onglet «#Qualificatifs#».
-2456		1	0	INFO_WINDOW_QUEST_80							0	Grimoire Weiss	Vous pouvez consulter le Grimoire Weiss à partir du menu principal.
+2456		1	0	INFO_WINDOW_QUEST_80							0	Grimoire Shiro	Vous pouvez consulter le Grimoire Shiro à partir du menu principal.
 2457		1	0	INFO_WINDOW_QUEST_81							0	Filer le postier	Suivez le postier tout en essayant de ne pas vous faire repérer.
 2458		1	0	INFO_WINDOW_QUEST_82							0	Suivre Fyra	Suivez Fyra jusqu'au temple stérile. Si vous la perdez de vue, vous devrez recommencer.
 2459		1	0	INFO_WINDOW_QUEST_83							0		La porte est verrouillée.
@@ -734,7 +734,7 @@ menu principal, puis choisissez l'onglet «#Qualificatifs#».
 2470	2471	1	0	INFO_WINDOW_QUEST_94							0		Vous avez obtenu un qualificatif#!
 Les qualificatifs permettent de donner des caractéristiques spéciales
 à vos armes, vos sorts de magie ou vos techniques.
-2471		1	0	INFO_WINDOW_QUEST_95							0		Sélectionnez l'onglet «#Qualificatifs#» du Grimoire Weiss pour associer des
+2471		1	0	INFO_WINDOW_QUEST_95							0		Sélectionnez l'onglet «#Qualificatifs#» du Grimoire Shiro pour associer des
 qualificatifs à vos armes, vos sorts de magie ou vos techniques.
 2472		1	0	INFO_WINDOW_QUEST_96							0		Vous avez appris qui détient des informations sur le poisson-shaman#!
 2473		1	0	INFO_WINDOW_QUEST_97							0		On vous a volé tous vos sorts#!
@@ -747,7 +747,7 @@ qualificatifs à vos armes, vos sorts de magie ou vos techniques.
 2480		1	0	INFO_WINDOW_QUEST_104							0		Vous obtenez le code d'accès du deuxième sous-sol#!
 2481	2482	1	0	INFO_WINDOW_QUEST_105							0		La quête «#Vaisseaux vacants#» est désormais disponible.
 2482		1	0	INFO_WINDOW_QUEST_106							0		Examinez la chandelle au rez-de-chaussée de votre maison
-après avoir obtenu le Grimoire Weiss pour y accéder.
+après avoir obtenu le Grimoire Shiro pour y accéder.
 2483		1	0	INFO_WINDOW_QUEST_107							0		Un songe funeste, un passé lugubre, un destin tragique...
 Voulez-vous pénétrer dans les souvenirs de Kainé#?
 
@@ -782,7 +782,7 @@ Voulez-vous vraiment continuer#?
 2498		1	0	INFO_GAME_GET_GOLD							0		Vous obtenez <NUM>G#!
 2499		1	0	INFO_GAME_GET_ITEM							0		Obtenu#: <ITEM>#!
 2500		1	0	INFO_GAME_GET_WORD							0	Vous obtenez un qualificatif#!	Obtenu#: <TEXT>#!
-2501		1	0	INFO_GAME_GET_TUTORIAL							0	Un guide a été ajouté au Grimoire Weiss#!	Vous obtenez le guide
+2501		1	0	INFO_GAME_GET_TUTORIAL							0	Un guide a été ajouté au Grimoire Shiro#!	Vous obtenez le guide
 «#<INFO_TITLE>#»#!
 2502		1	0	INFO_GAME_PASS_ITEM							0		Vous lui remettez <ITEM>.
 2503		1	0	INFO_WINDOW_GAME_05							0	Inventaire plein	Vous ne pouvez pas en transporter davantage.

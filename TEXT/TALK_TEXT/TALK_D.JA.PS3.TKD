@@ -22,8 +22,8 @@
 		0	1	0	EID_4500_a0400_0130_X					-1	0	0	0	26	......
 		0	1	0	EID_4500_a0400_0140_X					-1	0	0	0	2	......
 		0	1	0	EID_4500_a0400_0150_X					-1	0	0	0	26	Pourquoi ne rencontrons-nous que des entités étranges ces derniers temps#?
-		0	1	0	EID_4500_a0400_0160_X					-1	0	0	0	2	Tu peux bien parler, Weiss#!
-		0	1	0	EID_4500_a0400_0170_X					-1	0	0	0	26	Pfft#! Le Grimoire Weiss ne débiterait jamais de telles sottises#!
+		0	1	0	EID_4500_a0400_0160_X					-1	0	0	0	2	Tu peux bien parler, Shiro#!
+		0	1	0	EID_4500_a0400_0170_X					-1	0	0	0	26	Pfft#! Le Grimoire Shiro ne débiterait jamais de telles sottises#!
 		0	1	0	EID_4500_a0400_0180_X					-1	0	0	0	2	Attends, je crois qu'elle n'a pas fini.
 		0	1	0	EID_4500_a0400_0190_X					-1	0	0	0	25	... L'essence sombre qui gouverne tous les souvenirs.
 		0	1	0	EID_4500_a0400_0200_X					-1	0	0	0	25	... Que les mots se construisent comme vous le désirez.
@@ -106,14 +106,14 @@ la lassitude, la haine, se bousculent dans les profondeurs de son jeune cœur. <
 		1	1	0	NV_ID_1124					-1	0	0	0		Tandis que <NIER> examinait la gemme, perplexe, une voix l'interpella dans son esprit.
 		1	1	0	NV_ID_1125					-1	0	0	0		Cette voix l'implora d'écouter.
 		1	1	0	NV_ID_1126					-1	0	0	0		C'était un ordre. Il devait y obéir.
-		1	1	0	NV_ID_1127					-1	0	0	0		<NIER> et Weiss comprirent brusquement qu'ils<WAIT=0.5> devaient<WAIT=0.5> écouter.<WAIT=0.2>
+		1	1	0	NV_ID_1127					-1	0	0	0		<NIER> et Shiro comprirent brusquement qu'ils<WAIT=0.5> devaient<WAIT=0.5> écouter.<WAIT=0.2>
 Ils.<WAIT=0.3> Devaient.<WAIT=0.3> Écouter.
-		1	1	0	NV_ID_1129			<CB=BGM_EID_4500_a0100_04>		-1	0	0	0		Weiss#: Regarde.
+		1	1	0	NV_ID_1129			<CB=BGM_EID_4500_a0100_04>		-1	0	0	0		Shiro#: Regarde.
 1031	1032	1	1	0	NV_ID_1131					-1	0	0	0		Une petite silhouette noire apparut de sous le plancher.
 		1	1	0	NV_ID_1132					-1	0	0	0		Elle semblait être une Ombre.
 		1	1	0	NV_ID_1133					-1	0	0	0		L'Ombre ramassa des cristaux. Elle en broyait déjà d'autres dans sa gueule, des fragments d'images et de sons s'en échappant en tintant avant de disparaître pour toujours.
 		1	1	0	NV_ID_1134					-1	0	0	0		La créature malmenait les souvenirs et s'amusait avec eux comme s'ils n'étaient que de vulgaires jouets.
-1032	1033	1	1	0	NV_ID_1138					-1	0	0	0		Weiss#: Cette Ombre semble se nourrir de souvenirs.
+1032	1033	1	1	0	NV_ID_1138					-1	0	0	0		Shiro#: Cette Ombre semble se nourrir de souvenirs.
 		1	1	0	NV_ID_1139					-1	0	0	0		<NIER>#: Elle est si minuscule, ça ne vaut presque pas la peine de l'éliminer.
 		1	1	0	NV_ID_1141					-1	0	0	0		L'arbre tendit une branche vers <NIER>.
 		1	1	0	NV_ID_1142					-1	0	0	0		Sans réfléchir, <NIER> éventra l'Ombre de son épée.
@@ -135,9 +135,9 @@ NV_ID_1163					-1	0	0	0		<LIST=1035>Brune</LIST>
 1035		2	1	1					<CB=EID_4500_a0100_A01,0>	-1	0	0	0		
 1036		2	1	1					<CB=EID_4500_a0100_A01,1>	-1	0	0	0		
 1037		2	1	1					<CB=EID_4500_a0100_A01,2>	-1	0	0	0		
-1038	1039	1	1	0	NV_ID_1167			<CB=BGM_EID_4500_a0100_05>		-1	0	0	0		Weiss#: Elle a parlé#! Cette Ombre est intelligente...! C'est un être sensible...!
+1038	1039	1	1	0	NV_ID_1167			<CB=BGM_EID_4500_a0100_05>		-1	0	0	0		Shiro#: Elle a parlé#! Cette Ombre est intelligente...! C'est un être sensible...!
 		1	1	0	NV_ID_1168					-1	0	0	0		<NIER>#: Je m'en fiche.
-		1	1	0	NV_ID_1170					-1	0	0	0		Il balaya d'un geste les soucis de Weiss et trancha le bras droit de l'Ombre de son épée.
+		1	1	0	NV_ID_1170					-1	0	0	0		Il balaya d'un geste les soucis de Shiro et trancha le bras droit de l'Ombre de son épée.
 		1	1	0	NV_ID_1171					-1	0	0	0		L'Ombre tendit son autre bras vers <NIER>. <FONT=ITALIC>Je dois le toucher. Je dois entrer en contact avec lui.</FONT>
 1039	1040	1	1	0	NV_ID_1172					-1	0	0	0		Dès que ses vrilles effleurèrent <NIER>, l'arbre éprouva une sensation de brulûre. Une pulsation incandescente parcourut ses branches et tout son être. C'étaient des émotions, des émotions d'une intensité telle que l'arbre n'en avait pas ressenti depuis des siècles...
 		1	1	0	NV_ID_1173					-1	0	0	0		Surpris, l'arbre poussa un cri de joie.
@@ -159,10 +159,10 @@ NV_ID_1187					-1	0	0	0		<LIST=1042>Sa fille et vingt-trois compagnons.</LIST>
 1044		2	1	1					<CB=EID_4500_a0100_A02,2>	-1	0	0	0		
 1045	1046	1	1	0	NV_ID_1191					-1	0	0	0		<NIER> : J'en ai assez de ces questions. Je vais éliminer cette Ombre une bonne fois pour toutes#!
 		1	1	0	NV_ID_1193			<CB=BGM_EID_4500_a0100_06>		-1	0	0	0		Un objet arrondi et brillant tomba de l'estomac de l'Ombre avec fracas.
-		1	1	0	NV_ID_1194					-1	0	0	0		Weiss#: Le fragment#! Récupère le fragment#!
+		1	1	0	NV_ID_1194					-1	0	0	0		Shiro#: Le fragment#! Récupère le fragment#!
 		1	1	0	NV_ID_1195					-1	0	0	0		L'épée de l'homme ralentit.
 		1	1	0	NV_ID_1196					-1	0	0	0		Le temps se dilata autour d'eux, s'étirant, s'engourdissant... Le temps est indispensable. Le prochain mot doit être entendu.
-1046	1047	1	1	0	NV_ID_1197					-1	0	0	0		Les mots explosèrent. Il devint diffi<WAIT=0.3>  cile de compren<WAIT=0.2>  dre leur si<WAIT=0.3>  gnifica<WAIT=0.3>  tion.<WAIT=0.3> Le bas<WAIT=0.2>  sin de la mé<WAIT=0.2>  moire se craque<WAIT=0.3>  la et des té<WAIT=0.3>  nèbres profon<WAIT=0.3>  des s'infil<WAIT=0.3>  trèrent dans le mur. Weiss#: Ce mon<WAIT=0.2>  de est en train de s'ef<WAIT=0.3>  fondrer#! <NIER>#: Com<WAIT=0.3>  ment un mon<WAIT=0.3>  de consti<WAIT=0.2>  tué que de mots...
+1046	1047	1	1	0	NV_ID_1197					-1	0	0	0		Les mots explosèrent. Il devint diffi<WAIT=0.3>  cile de compren<WAIT=0.2>  dre leur si<WAIT=0.3>  gnifica<WAIT=0.3>  tion.<WAIT=0.3> Le bas<WAIT=0.2>  sin de la mé<WAIT=0.2>  moire se craque<WAIT=0.3>  la et des té<WAIT=0.3>  nèbres profon<WAIT=0.3>  des s'infil<WAIT=0.3>  trèrent dans le mur. Shiro#: Ce mon<WAIT=0.2>  de est en train de s'ef<WAIT=0.3>  fondrer#! <NIER>#: Com<WAIT=0.3>  ment un mon<WAIT=0.3>  de consti<WAIT=0.2>  tué que de mots...
 1047		1	1	0	NV_ID_1199					-1	0	0	0		Je... <WAIT=0.2>demande... cho<WAIT=0.2>  se la plus impor<WAIT=0.3>  tante au mon<WAIT=0.2>  de...
 		1	1	0	NV_ID_1201
 NV_ID_1202
@@ -217,9 +217,9 @@ L'identité de l'arbre se désagrégea.<PAGE>
 		1	1	0	NV_ID_1247					-1	0	0	0		... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 		1	1	0	NV_ID_1248					-1	0	0	0		... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 		1	1	0	NV_ID_1249					-1	0	0	0		... ... ... ... ... ... et on n'en entendit plus jamais parler.
-1053		1	1	0	NV_ID_1251					-1	0	0	0		Weiss#: Quelle histoire fascinante#!
+1053		1	1	0	NV_ID_1251					-1	0	0	0		Shiro#: Quelle histoire fascinante#!
 		1	1	0	NV_ID_1252					-1	0	0	0		<NIER>#: Vraiment#?
-		1	1	0	NV_ID_1253				<CB=EID_4500_a0020_01_End>	-1	0	0	0		Weiss#: Bien sûr que non.
+		1	1	0	NV_ID_1253				<CB=EID_4500_a0020_01_End>	-1	0	0	0		Shiro#: Bien sûr que non.
 1054	1055	1	1	0	NV_ID_1259					-1	0	0	0		C'était ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
 		1	1	0	NV_ID_1260					-1	0	0	0		... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 		1	1	0	NV_ID_1261					-1	0	0	0		... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
@@ -257,8 +257,8 @@ L'identité de l'arbre se désagrégea.<PAGE>
 		1	1	0	NV_ID_1293					-1	0	0	0		... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 		1	1	0	NV_ID_1294					-1	0	0	0		... ... ... ... ... ... ... ... ... ... ... ... ... ... ...#! Qui l'eût cru#!
 1058		1	1	0	NV_ID_1296					-1	0	0	0		<NIER>#: Euh, oui... Quelle histoire extraordinaire...!
-		1	1	0	NV_ID_1297					-1	0	0	0		Weiss#: Tu m'impressionnes#! La majorité de ce récit était cachée, mais tu sembles pourtant l'avoir compris.
-		1	1	0	NV_ID_1298				<CB=EID_4500_a0020_02_End>	-1	0	0	0		<NIER>#: Ne fais pas l'idiot, Weiss. Je n'ai rien compris du tout.
+		1	1	0	NV_ID_1297					-1	0	0	0		Shiro#: Tu m'impressionnes#! La majorité de ce récit était cachée, mais tu sembles pourtant l'avoir compris.
+		1	1	0	NV_ID_1298				<CB=EID_4500_a0020_02_End>	-1	0	0	0		<NIER>#: Ne fais pas l'idiot, Shiro. Je n'ai rien compris du tout.
 1059	1060	-1	1	0	NV_ID_1304					-1	0	0	0		Ce jour-là, ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
 		-1	1	0	NV_ID_1305					-1	0	0	0		... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 		-1	1	0	NV_ID_1306					-1	0	0	0		... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
@@ -294,9 +294,9 @@ L'identité de l'arbre se désagrégea.<PAGE>
 		-1	1	0	NV_ID_1336					-1	0	0	0		... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 		-1	1	0	NV_ID_1337					-1	0	0	0		... ... ... ... ... ... ... ... ... ... ... ... jusqu'à la fin des temps.
 		-1	1	0	NV_ID_1339					-1	0	0	0		<NIER>#: ...
-		-1	1	0	NV_ID_1340					-1	0	0	0		Weiss#: ...
+		-1	1	0	NV_ID_1340					-1	0	0	0		Shiro#: ...
 		-1	1	0	NV_ID_1341					-1	0	0	0		<NIER>#: Eh bien, euh... Au moins, elle n'a pas omis de détails.
-		-1	1	0	NV_ID_1342				<CB=EID_4500_a0020_03_End>	-1	0	0	0		Weiss#: En effet.
+		-1	1	0	NV_ID_1342				<CB=EID_4500_a0020_03_End>	-1	0	0	0		Shiro#: En effet.
 1063		0	2	0	EID_all_greeting03_NIER020_X_2					0	1335	-1	0	2	J'ai entendu dire que vous aviez du travail pour moi. Qu'y a-t-il#?
 		0	1	0	SEID_5000_S0020_0020_X					0	-1	1335	0	21	J'ai eu une idée géniale la semaine dernière#! Je me suis rendu compte que je pourrais faire une fortune en prédisant l'avenir des gens. J'accueillerai bientôt ma première vic... euh, mon premier client#!
 		0	1	0	SEID_5000_S0020_0030_X					0	1335	-1	0	2	Vous voulez être diseuse de bonne aventure#?
@@ -356,7 +356,7 @@ L'identité de l'arbre se désagrégea.<PAGE>
 		0	1	0	SEID_3200_S0010_0350_X					-1	0	0	0	26	Aurais-tu perdu la tête#? Ces baies sont manifestement vénéneuses#! Même une traînée comme toi ne pourrait...
 		0	1	0	SEID_3200_S0010_0360_X					0	-1	1000	0	28	Putain, elles sont délicieuses#! Vous en avez d'autres#?
 		0	1	0	SEID_3200_S0010_0370_X			<CB=Nier_Nod>	<CB=Nier_Dead>	-1	0	0	0	2	Vraiment#? Eh bien, dans ce cas, je suppose que je devrais y goûter moi aussi...
-1085		0	1	0	SEID_3200_S0010_0380_X					0	1000	-1	0	2	Aah... Oooooh...<PAGE>Je crois que Weiss avait raison... J'ai l'impression d'avoir avalé des dizaines de dagues...
+1085		0	1	0	SEID_3200_S0010_0380_X					0	1000	-1	0	2	Aah... Oooooh...<PAGE>Je crois que Shiro avait raison... J'ai l'impression d'avoir avalé des dizaines de dagues...
 		0	1	0	SEID_3200_S0010_0390_X			<CB=Nier_Looking_Villager>
 <CB=Look_at_Villager>		0	-1	1332	0	8	Oh, qu'est-ce qui ne va pas#? Vous avez l'air...<PAGE>Oh non#! Non#! Ne me dites pas que vous avez mangé une de ces baies#?!
 		0	1	0	SEID_3200_S0010_0400_X					0	-1	1332	0	8	Elles sont mortelles#! De grâce#! Avalez vite ce contrepoison avant qu'il ne soit trop tard#!

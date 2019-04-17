@@ -200,7 +200,7 @@ Au moins, tu ne mourras jamais de faim avec tous ces poissons#!
 1832900	Le vieux pêcheur de Littoral a encore besoin de ton aide.
 Je suis contente de voir que tu t'intéresses tant au bien-être d'une personne âgée.
 1833000	Eh oui#! Encore le vieux pêcheur de Littoral...
-Sois prudent en pêchant#!<PAGE>Il ne faudrait pas que tu hameçonnes le pauvre Weiss par erreur#!
+Sois prudent en pêchant#!<PAGE>Il ne faudrait pas que tu hameçonnes le pauvre Shiro par erreur#!
 1833100	Quelle surprise#! Le vieux pêcheur de Littoral a besoin de toi...
 Bla, bla, bla, la routine habituelle, quoi#!
 1833200	Le vieux pêcheur de Littoral a dit que ta prochaine tâche pourrait te coûter la vie#!
@@ -1263,7 +1263,7 @@ J'attends ta réponse.
 
 C'est moi, Émile#!
 Je suis désolé d'avoir attendu si longtemps pour t'écrire.
-Comment va Weiss#? Vous entendez-vous toujours bien#?
+Comment va Shiro#? Vous entendez-vous toujours bien#?
 Est-ce qu'il utilise encore des mots compliqués pour déconcerter les
 gens#?
 J'ai trouvé des documents qui pourraient nous aider à dissiper la
@@ -1334,10 +1334,10 @@ Sujet#: rechutes à la hausse (noté et discuté)
 Sujet#: accélération du programme de restauration (approuvé)
 Rapport#: discussion de l'utilisation de «#Noir#» pour le programme de
 restauration humaine
-Rapport#: préparations au lancement du système de décodage «#Weiss#»
+Rapport#: préparations au lancement du système de décodage «#Shiro#»
 (voir programme mentionné ci-dessus)
 Rapport#: liste des codes de libération et d'orientation de <NIER>
-accompagnant le lancement de «#Weiss#»
+accompagnant le lancement de «#Shiro#»
 
 Observateur nº#021 Nom de code#: Popola 
 Observateur nº#022 Nom de code#: Devola
@@ -2292,7 +2292,7 @@ sauvegarde.
 6800300	Le gardien de pierre
 6800400	Le fidèle cerbère
 7000000	Une maladie de mauvais augure
-7000100	Le Grimoire Weiss
+7000100	Le Grimoire Shiro
 7000200	La nécrose runique
 7000300	Kainé entre en scène
 7000400	La bataille de l'Aire
@@ -2655,7 +2655,7 @@ sauvegarde.
 9030300	Guerriers du masque
 9040000	Appeler
 10000000	Compétences
-10000100	Grimoire Weiss
+10000100	Grimoire Shiro
 10000200	Ordres
 10000300	Fermer
 10000400	Enlever
@@ -2664,7 +2664,7 @@ sauvegarde.
 10000700	Objets
 10000800	Armes
 10010000	Compétences
-10010100	Grimoire Weiss
+10010100	Grimoire Shiro
 10010200	Ordres
 10010300	Fermer
 10010400	Javelot noir
@@ -3184,7 +3184,7 @@ sortie du village#!
 12011000	Yonah s'est aventurée dans le temple oublié. Retrouvez-la avant qu'il ne lui
 arrive quelque chose.
 12012000	Yonah doit se trouver quelque part dans le temple oublié...
-12013000	Pendant la bataille, le Grimoire Weiss, un livre doué de parole, est apparu.
+12013000	Pendant la bataille, le Grimoire Shiro, un livre doué de parole, est apparu.
 12014000	Vous avez réussi à sauver Yonah, mais des symboles obscurs sont apparus sur
 son corps.
 12021000	Yonah a la nécrose runique. Si vous n'arrivez pas à la guérir...

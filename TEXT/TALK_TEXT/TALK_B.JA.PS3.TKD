@@ -349,7 +349,7 @@ Personne ne pourra m'arrêter ! Ha ha ha ! Ha ha ha ha ha !
 1126		0	1	0	EID_4100_a0075g_0080_GRETEL010_Y			<CB=GRETEL_MOTION_SITANGRY>		-1	0	0	0	59	N'approchez pas#! Sales créatures déficientes#!
 		0	1	0	EID_4100_a0085g_0070_GRETEL010_Y				<CB=Talking_End>	-1	0	0	0	59	Je ne suis pas comme vous#! Je suis différente#!
 1127		0	1	0	EID_4100_a0095g_0030_GRETEL010_Y					-1	0	0	0	59	Encore vous#? Fichez-moi la paix.
-		0	1	0	EID_4100_a0095g_0020_GRETEL010_Y					-1	0	0	0	59	Le Grimoire Weiss a disparu.
+		0	1	0	EID_4100_a0095g_0020_GRETEL010_Y					-1	0	0	0	59	Le Grimoire Shiro a disparu.
 		0	1	0	EID_4100_a0075g_0080_GRETEL010_Y					-1	0	0	0	59	Hansel n'est plus.
 		0	1	0	EID_4100_a0085g_0070_GRETEL010_Y					-1	0	0	0	59	Je n'ai plus de raison d'exister.
 		0	1	0	EID_4100_a0095g_0030_GRETEL010_Y					-1	0	0	0	59	Ma vie est finie. Laissez-moi seule.
@@ -454,7 +454,7 @@ Saviez-vous que ma fiancée a menacé de ne pas se présenter à la cérémonie 
 1155		0	1	0	EID_4230_a0045g_0010_BOOKW010_X					-1	0	0	0	26	Je n'arrive pas à comprendre pourquoi ils ont une loi régissant la température de l'eau d'un bain et l'heure à laquelle il convient de se laver#!
 		0	1	0	EID_4230_a0045g_0020_NIER020_X					-1	0	0	0	2	Tu devrais plutôt t'estimer heureux qu'ils n'ont pas de loi au sujet des livres volants.
 1156		0	1	0	EID_4230_a0045g_0002_BOOKW010_X					-1	0	0	0	26	Ridicule#! Comment peuvent-ils forcer les gens à s'immerger dans un bain tiède#!
-1157		0	1	0	EID_4230_a0045g_0003_NIER020_X					-1	0	0	0	2	Nous sommes leurs invités, Weiss. Nous ne pouvons pas assister à la cérémonie dans nos vêtements souillés.
+1157		0	1	0	EID_4230_a0045g_0003_NIER020_X					-1	0	0	0	2	Nous sommes leurs invités, Shiro. Nous ne pouvons pas assister à la cérémonie dans nos vêtements souillés.
 1158		0	2	0	EID_4230_a0045g_0030_NIER020_X					0	1000	-1	0	2	Kainé#?
 		0	1	0	EID_4230_a0045g_0040_BOOKW010_X					-1	0	0	0	26	Qu'y a-t-il#?
 		0	1	0	EID_4230_a0045g_0050_KAINE010_X					0	-1	1000	0	28	...#Je suis pas à l'aise ici. Un mariage est une occasion heureuse, tu sais#? Est-ce que je devrais vraiment y assister#?
@@ -465,7 +465,7 @@ Saviez-vous que ma fiancée a menacé de ne pas se présenter à la cérémonie 
 		0	1	0	EID_4230_a0045g_0100_KAINE010_X					1	-1	1000	0	28	Je suppose que tu as raison.
 		0	1	0	EID_4230_a0045g_0110_BOOKW010_X					-1	0	0	0	26	Te procureras-tu au moins une autre tenue pour l'occasion#?
 Quelque chose d'aguichant dans des tons pastel, par exemple#?
-		0	1	0	EID_4230_a0045g_0120_KAINE010_X					1	-1	1000	0	28	C'est ça, rigole bien, Weiss#!
+		0	1	0	EID_4230_a0045g_0120_KAINE010_X					1	-1	1000	0	28	C'est ça, rigole bien, Shiro#!
 1159		0	1	0	EID_all_disdain01_KAINE010_X_2					0	-1	1000	0	28	On verra bien qui rira le dernier quand je te jetterai dans un feu de joie#!
 1160		0	2	0	EID_4230_a0045g_0140_SNOW020_X					0	-1	-3	0	35	Oh... 
 		0	1	0	EID_4230_a0045g_0150_NIER020_X					0	-3	-1	0	2	Tu n'arrives pas à dormir#?
@@ -593,7 +593,7 @@ vous devez régner en lui faisant honneur.
 		0	1	0	EID_4280_a0010g_00308_POPOL010_X					0	-1	1004	0	24	J'ai demandé l'aide de tous les dirigeants de la région.
 		0	1	0	EID_4280_a0010g_00309_NIER020_X					1	1004	-1	0	2	Ah bon#?
 		0	1	0	EID_4280_a0010g_00310_BOOKW010_X					-1	0	0	0	26	Hum... Cela me semble être une remarquable coïncidence.
-		0	1	0	EID_4280_a0010g_00311_POPOL010_X					1	-1	1004	0	24	Le Grimoire Weiss a raison.
+		0	1	0	EID_4280_a0010g_00311_POPOL010_X					1	-1	1004	0	24	Le Grimoire Shiro a raison.
 		0	1	0	EID_4280_a0010g_00312_NIER020_X					1	1004	-1	0	2	Comment#? Oh, allez#! Quel est le problème#?
 		0	1	0	EID_4280_a0010g_003125_POPOL010_X					1	-1	1004	0	24	......
 		0	1	0	EID_4280_a0010g_00313_BOOKW010_X					-1	0	0	0	26	L'Aire s'est isolée du reste du monde pendant des années.
@@ -748,10 +748,10 @@ Et elle sera plus charmante et plus jolie que jamais à son retour#!
 		0	1	0	EID_6000_a0112_0060_POPOL010_X					0	-1	1346	0	24	L'humanité, à deux doigts de l'extinction, élabora le projet Gestalt,
 son ancre de salut.
 		0	1	0	EID_6000_a0112_0070_BOOKW010_X					-1	0	0	0	26	Ges... talt...?
-		0	1	0	EID_6000_a0112_0080_POPOL010_X					0	-1	1346	0	24	Tu ne te souviens toujours pas, Grimoire Weiss ?
+		0	1	0	EID_6000_a0112_0080_POPOL010_X					0	-1	1346	0	24	Tu ne te souviens toujours pas, Grimoire Shiro ?
 		0	1	0	EID_6000_a0112_0090_DEBOL010_X					0	-1	1345	0	23	Alors, nous allons te rafraîchir la mémoire !
 1259	1260	0	1	0	EID_6000_a0112_0100_BOOKW010_X					-1	0	0	0	26	Aaah...
-		0	1	0	EID_6000_a0112_0110_NIER020_X					-1	0	0	0	2	Weiss !
+		0	1	0	EID_6000_a0112_0110_NIER020_X					-1	0	0	0	2	Shiro !
 		0	1	0	EID_6000_a0112_0120_BOOKW010_X					-1	0	0	0	26	Aaah... mon esprit... Aaaaaaaah !
 1260	1261	0	1	0	EID_6000_a0112_0130_BOOKW010_X					-1	0	0	0	26	Je... je me souviens...
 		0	1	0	EID_6000_a0112_0140_BOOKW010_X					-1	0	0	0	26	Devola... Popola... Vous n'êtes pas humaines. En fait... Oh non.
@@ -773,7 +773,7 @@ Son propriétaire légitime l'attend depuis très, très longtemps.
 1262		0	1	0	EID_7000_a0010_0010_NIER020_X					-1	0	0	0	2	Yonah ? Ça va ?
 1263	1264	0	1	0	EID_7000_a0010_0020_NIER020_X					-1	0	0	0	2	Non...!
 1264		0	1	0	EID_7000_a0010_0030_BOOKW010_X				<CB=EID_7000_a0010_02_02>	-1	0	0	0	26	Oh, voyons ! Elle n'a rien.
-1265	1266	0	1	0	EID_7000_a0010_0040_NIER020_X					-1	0	0	0	2	Weiss ?!
+1265	1266	0	1	0	EID_7000_a0010_0040_NIER020_X					-1	0	0	0	2	Shiro ?!
 1266	1267	0	1	0	EID_7000_a0010_0050_NIER020_X					-1	0	0	0	2	Où es-tu ? Je ne te vois pas !
 		0	1	0	EID_7000_a0010_0060_BOOKW010_X					-1	0	0	0	26	J'ai perdu ma forme physique, voilà tout !
 		0	1	0	EID_7000_a0010_0070_BOOKW010_X					-1	0	0	0	26	Ma voix s'éteindra sans doute aussi bientôt, alors écoute-moi bien !
@@ -1670,7 +1670,7 @@ ses éclats résonnant à l'infini.
 		0	1	0	SEID_300_S0070_0050_X					-1	1213	-1	0	2	Je vois. Vous voulez que j'y aille à votre place#?
 		0	1	0	SEID_300_S0070_0060_X				<CB=LIB_SET_START_SUBQUEST,1843,58,2,1213,1567>	-1	-1	1213	0	8	J'ai besoin de beaucoup de matériaux, alors tu devras détruire plusieurs robots. Ça ne te dérange pas, hein#?
 1567		0	1	0	SEID_300_S0070_0070_X					-1	0	0	0	26	Comptez-vous nous offrir une récompense appropriée au moins#?
-		0	1	0	SEID_300_S0070_0080_X					-1	1213	-1	0	2	Ne sois pas si avide, Weiss.
+		0	1	0	SEID_300_S0070_0080_X					-1	1213	-1	0	2	Ne sois pas si avide, Shiro.
 		0	1	0	SEID_300_S0070_0090_X					-1	-1	1213	0	8	Je ne sais pas trop ce que tu considères comme étant approprié, mais je ferai de mon mieux.
 		0	1	0	EID_all_greeting01_VILLNMG02_X_2					-1	-1	1213	0	8	J'ai besoin d'un morceau d'alliage à mémoire de forme, dix morceaux d'alliage de titane et dix moteurs défectueux. Tu as bien noté#?
 		0	1	0	SEID_300_S0070_0110_X				<CB=LIB_SET_END_SUBQUEST>	-1	1213	-1	0	2	Entendu, je reviendrai vous voir lorsque j'aurai tout trouvé.
@@ -1686,7 +1686,7 @@ ses éclats résonnant à l'infini.
 		0	1	0	SEID_1200_S0010_0020_X					-1	1388	-1	0	2	Peut-être, qu'y a-t-il#?
 		0	1	0	SEID_1200_S0010_0030_X					-1	-1	1388	0	108	La roue du moulin à eau ne tiendra pas longtemps. J'aimerais bien la réparer, mais le mécanisme est compliqué...
 		0	1	0	SEID_1200_S0010_0040_X					-1	0	0	0	26	Hum, oui, elle est plutôt ancienne. La consolider maintenant, avant qu'il ne soit trop tard, est en effet une sage décision.
-		0	1	0	SEID_1200_S0010_0050_X					-1	1388	-1	0	2	Saurais-tu comment le faire, Weiss#? Je ne m'y connais pas trop en mécanique.
+		0	1	0	SEID_1200_S0010_0050_X					-1	1388	-1	0	2	Saurais-tu comment le faire, Shiro#? Je ne m'y connais pas trop en mécanique.
 		0	1	0	SEID_1200_S0010_0060_X				<CB=LIB_SET_START_SUBQUEST,1847,59,2,1388,1572>	-1	0	0	0	26	Remplacer l'axe et les aubes devrait suffire pour le moment. Si je ne m'abuse, le magasin de curiosités de Façade devrait avoir le nécessaire.
 1572		0	1	0	SEID_1200_S0010_0070_X					-1	1388	-1	0	2	Eh bien, si quelqu'un peut se charger des réparations, j'irai chercher les pièces.
 		0	1	0	SEID_1200_S0010_0080_X				<CB=LIB_SET_END_SUBQUEST>	-1	-1	1388	0	108	Oh, je te remercie#! Je trouverai quelqu'un, ne t'en fais pas#!
@@ -1879,7 +1879,7 @@ ses éclats résonnant à l'infini.
 		0	3	0	SEID_4100_S0010_0550_X					0	-1	1197	0	14	Aah#!
 		0	1	0	SEID_4100_S0010_0560_X					-1	0	0	0	26	Bien qu'il me soit difficile de croire que vous puissiez inspirer une telle dévotion, elle se fait beaucoup de souci à votre sujet#!<PAGE>Chaque fois que vous la quittez pour assouvir la sordide avarice qui vous aveugle, son âme se déchire#!
 		0	1	0	SEID_4100_S0010_0570_X					-1	0	0	0	26	Voulez-vous vraiment lui faire endurer tant d'angoisse#?! Sacrifieriez-vous votre bien-aimée afin de poursuivre votre quête de richesses illusoires#?!
-		0	1	0	SEID_4100_S0010_0580_X					0	0	-1	0	2	Je crois que ça suffit, Weiss...
+		0	1	0	SEID_4100_S0010_0580_X					0	0	-1	0	2	Je crois que ça suffit, Shiro...
 		0	1	0	SEID_4100_S0010_0590_X					0	1197	-1	0	2	Écoutez, votre femme s'inquiète pour vous. Elle veut que vous restiez à la maison.<PAGE>Elle a même offert de vendre sa barrette de jade pour essayer de vous convaincre que nous avions trouvé un trésor.
 		0	1	0	SEID_4100_S0010_0600_X					0	1197	-1	0	2	Vous possédez déjà un trésor inestimable. Vous devriez peut-être l'apprécier à sa juste valeur.
 		0	3	0	SEID_4100_S0010_0610_X					0	1198	1197	0	14	Je... je ne savais pas qu'elle s'inquiétait autant#! Je vous le jure#!<PAGE>Oh, ma chérie, je suis tellement désolé#! Je ne suis qu'un imbécile#!
@@ -1891,7 +1891,7 @@ ses éclats résonnant à l'infini.
 		0	1	0	SEID_4100_S0010_06402_X					-1	0	0	0	26	Et pourtant, je suis certain qu'elle ne nous mènera, elle aussi, qu'à de la pacotille#!<PAGE>Allons. Nous n'avons pas de temps à perdre avec de telles balivernes#!
 		0	1	0	SEID_4100_S0010_06403_X					-1	0	0	0	2	Tu as sans doute raison, mais ne veux-tu pas y jeter un coup d'œil#? N'es-tu pas curieux#?
 		0	1	0	SEID_4100_S0010_06404_X					-1	0	0	0	26	Le fait que cette carte attise ta curiosité dépasse mon entendement.
-		0	1	0	SEID_4100_S0010_06405_X					-1	0	0	0	2	C'est ce qu'on appelle l'excitation de la poursuite, Weiss#!<PAGE>Allons demander à Popola de nous donner un coup de main.
+		0	1	0	SEID_4100_S0010_06405_X					-1	0	0	0	2	C'est ce qu'on appelle l'excitation de la poursuite, Shiro#!<PAGE>Allons demander à Popola de nous donner un coup de main.
 1637		0	2	0	EID_all_add01_NIER020_X					0	1004	-1	0	2	Salut, j'ai une autre carte à déchiffrer.
 		0	1	0	SEID_4100_S0010_06414_X					0	-1	1004	0	24	Montre-la-moi.
 		0	1	0	SEID_4100_S0010_06415_X					0	1004	-1	0	2	Tiens.
@@ -3137,7 +3137,7 @@ Ah, bienvenue, bienvenue#! Comment allez-vous#?
 je pourrai guérir mes yeux.
 		0	1	0	EID_3100_a0015g_0020_BOOKW010_X					-1	0	0	0	26	Cela nous permettrait aussi de libérer Kainé
 de sa prison de pierre.
-		0	1	0	EID_3100_a0015g_0030_SNOW010_X					-1	0	0	0	35	Ouah, Weiss ! Je ne savais pas que tu te faisais du souci pour elle.
+		0	1	0	EID_3100_a0015g_0030_SNOW010_X					-1	0	0	0	35	Ouah, Shiro ! Je ne savais pas que tu te faisais du souci pour elle.
 		0	1	0	EID_3100_a0015g_0040_BOOKW010_X					-1	0	0	0	26	Je deviens peut-être sentimental sur mes vieux jours !
 2258		0	1	0	EID_3100_a0015g_0050_SNOW010_X					-1	0	0	0	35	Le passage devrait être tout près...
 2259		0	1	0	EID_4230_a0095g_0010_MASKADV_X					0	-1	1007	0	43	(Le roi ne reçoit pas de visiteur actuellement.)
@@ -3329,7 +3329,7 @@ Comment arriverez-vous à les combattre tous#?
 		0	1	0	EID_4230_a0098_0120_TYK010_Y					1	0	1006	0	45	(Je vous remercie... mes amis.)
 		0	1	0	EID_4230_a0098_0125_TYK010_Y				<CB=EID_4230_a0098_GET_SWORD>
 <CB=EID_4230_a0098_End>	1	0	1006	0	45	(Je vous dois tant... Tenez, j'espère qu'elle vous sera utile.)
-2341	1097	0	1	1	EID_4030_a0050_007142_NIER020_X					-1	0	0	0	2	(Dis, Weiss, ne possédons-nous pas déjà cette arme#?)
+2341	1097	0	1	1	EID_4030_a0050_007142_NIER020_X					-1	0	0	0	2	(Dis, Shiro, ne possédons-nous pas déjà cette arme#?)
 		0	1	0	EID_4030_a0050_007144_BOOKW010_X					-1	0	0	0	26	(Chut#! C'est bien normal, puisque c'est la deuxième fois#!)
 2342		0	1	0	EID_4030_a0095g_0006_BOOKW010_X					-1	0	0	0	26	Nous devrions pouvoir atteindre le robot en sautant dans ce trou.
 		0	1	0	EID_4030_a0095g_0007_NIER020_X					1	0	-1	0	2	Très bien.

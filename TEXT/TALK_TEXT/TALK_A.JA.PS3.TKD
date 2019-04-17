@@ -213,8 +213,8 @@ symboles runiformes.
 1065	1066	0	2	0	EID_0300_a0020_0020_DEBOL010_X			<CB=BGM_A_CENTER_VILLAGE_01_DEBOL_VOCAL_OFF>
 <CB=RESET_FREE_CAMERA>	<CB=EID_0300_a0020_Start>	0	-1	1003	0	23	Tu es de retour ! Quel soulagement ! J'avais entendu dire que tu étais parti par la porte de l'est et j'étais inquiète, mais... C'est un livre ?
 1066	1067	0	1	0	EID_0300_a0020_0021_NIER010_X					-1	0	-1	0	2	Peu importe le livre...!
-		-1	1	0	EID_0300_a0020_0022_BOOKW010_X					-1	0	0	0	26	Mais dis donc ! Un peu de respect ! Je suis le Grimoire Weiss, après tout !
-		-1	1	0	EID_0300_a0020_0023_DEBOL010_X					0	-1	1003	0	23	Quoi, tu es le Grimoire Weiss ? Ouah, trop fort !
+		-1	1	0	EID_0300_a0020_0022_BOOKW010_X					-1	0	0	0	26	Mais dis donc ! Un peu de respect ! Je suis le Grimoire Shiro, après tout !
+		-1	1	0	EID_0300_a0020_0023_DEBOL010_X					0	-1	1003	0	23	Quoi, tu es le Grimoire Shiro ? Ouah, trop fort !
 		-1	1	0	EID_0300_a0020_0024_NIER010_X					-1	0	-1	0	2	... Tu le connais ?
 		-1	1	0	EID_0300_a0020_0025_DEBOL010_X					0	-1	1003	0	23	Bien sûr ! C'est le livre blanc dont parle la chanson que je chantais.
 		-1	1	0	EID_0300_a0020_0026_NIER010_X					-1	0	-1	0	2	... Ta chanson parle de lui ?
@@ -242,8 +242,8 @@ la bibliothèque ? Elle est plus intelligente que moi. Elle en sait peut-être p
 1071		0	1	0	EID_0300_a0025g_0090_NIER010_X					-1	0	0	0	2	Nous devrions aller parler à Popola.
 1072	1073	0	2	0	EID_0300_a0030_0010_POPOL010_X			<CB=EID_0300_a0030_Start>		0	-1	1004	0	24	J'ai appris ce qui était arrivé à Yonah. Je... je ne sais pas quoi te dire. Je suis tellement désolée.
 		-1	1	0	EID_0300_a0030_0020_NIER010_X					0	1004	-1	0	2	Tu peux peut-être m'aider. Que sais-tu au sujet de la chanson que fredonne souvent Devola#?
-		-1	1	0	EID_0300_a0030_0030_POPOL010_X			<CB=Put_Actor_Bookw>		0	-1	1004	0	24	Ce livre... Est-ce le Grimoire Weiss#?
-		-1	1	0	EID_0300_a0030_0040_NIER010_X					0	1004	-1	0	2	Tu connais Weiss#?
+		-1	1	0	EID_0300_a0030_0030_POPOL010_X			<CB=Put_Actor_Bookw>		0	-1	1004	0	24	Ce livre... Est-ce le Grimoire Shiro#?
+		-1	1	0	EID_0300_a0030_0040_NIER010_X					0	1004	-1	0	2	Tu connais Shiro#?
 		-1	1	0	EID_0300_a0030_0050_BOOKW010_X					-1	0	0	0	26	Enfin#! Quelqu'un qui sait apprécier les objets de qualité#!
 1073		0	1	0	EID_0300_a0030_0060_POPOL010_X				<CB=EID_0300_a0030_End>	0	-1	1004	0	24	Oui, bon, le chant des Anciens... Voyons voir...
 1074	1075	0	1	0	EID_0300_a0040_0001_NIER010_X					0	1004	-1	0	2	Grands dieux#! J'ai compris#!
@@ -251,11 +251,11 @@ la bibliothèque ? Elle est plus intelligente que moi. Elle en sait peut-être p
 		-1	1	0	EID_0300_a0040_0003_NIER010_X					0	1004	-1	0	2	Si le livre noir disperse les germes d'une maladie, par exemple ceux de la nécrose runique, alors le livre blanc doit pouvoir les détruire#!
 		-1	1	0	EID_0300_a0040_0004_NIER010_X					0	1004	-1	0	2	Il faut que je trouve ces vers scellés...
 		-1	1	0	EID_0300_a0040_0010_BOOKW010_X					-1	0	0	0	26	Ce que j'ai absorbé dans le temple est peut-être ce dont tu parles.
-		-1	1	0	EID_0300_a0040_0020_NIER010_X					0	1004	-1	0	2	Oui, je crois que tu as raison, Weiss, et ça veut dire que tu sauveras ma petite sœur.
+		-1	1	0	EID_0300_a0040_0020_NIER010_X					0	1004	-1	0	2	Oui, je crois que tu as raison, Shiro, et ça veut dire que tu sauveras ma petite sœur.
 		-1	1	0	EID_0300_a0040_0021_POPOL010_X					0	-1	1004	0	24	Du calme, ce n'est qu'une vieille légende.
-		-1	1	0	EID_0300_a0040_0022_NIER010_X					0	1004	-1	0	2	Weiss est bien réel, non#?
+		-1	1	0	EID_0300_a0040_0022_NIER010_X					0	1004	-1	0	2	Shiro est bien réel, non#?
 		-1	1	0	EID_0300_a0040_0023_NIER010_X					0	1004	-1	0	2	Et s'il existe, le reste doit aussi être vrai. Il peut guérir la nécrose runique, j'en suis certain.
-		-1	1	0	EID_0300_a0040_0030_BOOKW010_X					-1	0	0	0	26	Cependant, tu ne sais pas où se trouve le Grimoire Noir, Popola ?
+		-1	1	0	EID_0300_a0040_0030_BOOKW010_X					-1	0	0	0	26	Cependant, tu ne sais pas où se trouve le Grimoire Kuro, Popola ?
 		-1	1	0	EID_0300_a0040_0040_POPOL010_X					0	-1	1004	0	24	Il n'y a rien à ce sujet dans les archives, désolée.
 1075		0	1	0	EID_0300_a0040_0050_POPOL010_X					0	-1	1004	0	24	Ce dont nous sommes certains, c'est qu'il existe plusieurs de ces vers scellés à travers le monde.
 		-1	1	0	EID_0300_a0040_0060_BOOKW010_X					-1	0	0	0	26	Et il semblerait aussi que ces Ombres que tu as combattues y sont intrinsèquement liées, <NIER>.
@@ -390,7 +390,7 @@ mais on peut y trouver toutes sortes de matériaux intéressants.
 		0	1	0	EID_1270_a0010_0050_BROTHY010_X			<CB=Young_Brother_Motion_Start>	<CB=Young_Brother_Motion_End>	0	1011	1010	0	36	Mamaaaaaaaaaaaan#! Ouiiiiiiiiiiiin#!
 		0	1	0	EID_1270_a0010_0051_NIER010_X					-1	0	0	0	2	......
 		0	1	0	EID_1270_a0010_0052_BOOKW010_X					-1	0	0	0	26	......
-		0	1	0	EID_1270_a0010_0060_NIER010_X					-1	0	0	0	2	Weiss... 
+		0	1	0	EID_1270_a0010_0060_NIER010_X					-1	0	0	0	2	Shiro... 
 		0	1	0	EID_1270_a0010_0070_BOOKW010_X					-1	0	0	0	26	Oui, oui, j'ai compris. Nous irons à la recherche de la pauvre mère en errance, c'est ça#?
 		0	3	0	EID_1270_a0010_0080_BROTHO010_X					0	-1	1011	0	38	Oh, non#! Je vous en prie#! Je vous dois déjà beaucoup plus que je ne pourrais jamais vous rendre#!
 		0	1	0	EID_1270_a0010_0090_NIER010_X					0	1011	-1	0	2	Ne t'inquiète pas pour ça.
@@ -551,7 +551,7 @@ mais on peut y trouver toutes sortes de matériaux intéressants.
 		0	1	0	EID_1320_a0020_0120_BOOKW010_X					-1	0	0	0	26	Impoli ? Bouquin ?! Hé, oh, un instant, madame ! Sachez que...
 		0	1	0	EID_1320_a0020_0130_SOW010_X					0	-1	1026	0	40	Toi ! C'est ta faute ! Quel terrible objet tu es !
 		0	1	0	EID_1320_a0020_0140_BOOKW010_X					-1	0	0	0	26	Insolente vieille bique ! Comment oses-tu t'adresser à moi comme si je n'étais qu'un livre de poche ?!
-		0	1	0	EID_1320_a0020_0150_NIER010_X					-1	0	0	0	2	Ça suffit, Weiss.
+		0	1	0	EID_1320_a0020_0150_NIER010_X					-1	0	0	0	2	Ça suffit, Shiro.
 1170		0	2	0	EID_1320_a0020_0160_SOW010_X					0	-1	1026	0	40	Et vous, jeune homme ! Abandonneriez-vous vraiment une vieille femme pitoyable en ce monde cruel ?
 		0	1	0	EID_1320_a0020_0170_BOOKW010_X					-1	0	0	0	26	Tu me le demandes ? Oh, dis que c'est à moi que tu le demandes...!
 1171		0	1	0	EID_1320_a0020_0255_SYS_X					-1	0	0	0		Voulez-vous accéder à la demande de la vieille femme#?
@@ -712,7 +712,7 @@ Soyez... euh, prudent, d'accord#? Cette vieille femme a un sacré caractère...
 1218		0	1	0	EID_1410_a0065_0104_BOOKW010_X					-1	0	0	0	26	Il semblerait que nous ne pouvons pas entrer...
 		0	1	0	EID_1410_a0065_0105_NIER010_X					-1	0	0	0	2	Si seulement je pouvais comprendre leur langue...!
 		0	1	0	EID_1410_a0065_0106_BOOKW010_X					-1	0	0	0	26	Tout cela ne mène à rien. Rentrons.
-1219		0	1	0	EID_1410_a0065_0070_NIER010_X					-1	0	0	0	2	Allez, Weiss. Aide-moi un peu.
+1219		0	1	0	EID_1410_a0065_0070_NIER010_X					-1	0	0	0	2	Allez, Shiro. Aide-moi un peu.
 		0	1	0	EID_1410_a0065_0080_BOOKW010_X					-1	0	0	0	26	Je suis un livre formidable d'une valeur inestimable, pas un guide touristique !
 1220		0	1	0	EID_1410_a0070g_0010_BOOKW010_X					-1	0	0	0	26	On ne veut plus aider les gens dans le besoin, c'est ça#?
 1221		0	1	0	EID_1410_a0070g_0010_BOOKW010_X					-1	0	0	0	26	On ne veut plus aider les gens dans le besoin, c'est ça#?
@@ -929,7 +929,7 @@ Oh, misère...)
 		0	1	0	EID_1480_a0020_0030_VIER010_X					0	-1	1005	0	42	(Ne vous inquiétez pas. Nous ne parlions pas de choses importantes.)
 		0	1	0	EID_1480_a0020_0040_TCK010_X					0	-1	1009	0	45	(Pas importantes#?!)
 		0	1	0	EID_1480_a0020_0050_BOOKW010_X					-1	0	0	0	26	Vous avez l'air anxieux, Votre Majesté. Voulez-vous discuter de vos problèmes avec nous#?
-		0	1	0	EID_1480_a0020_0060_NIER010_X				<CB=EID_1480_a0020_01>	-1	0	-1	0	2	Weiss#? Partons.
+		0	1	0	EID_1480_a0020_0060_NIER010_X				<CB=EID_1480_a0020_01>	-1	0	-1	0	2	Shiro#? Partons.
 1294		0	1	0	EID_1480_a0020_0070_BOOKW010_X					-1	0	0	0	26	Oh, c'est ça, j'ai compris#! Tu es le seul qui puisse aider autrui#! Pfft#!
 		0	1	0	EID_1480_a0020_0080_NIER010_X					-1	0	0	0	2	Le roi et Fyra voulaient continuer leur conversation... en privé.
 Tu es un livre, tu ne pourrais pas comprendre.
@@ -1027,8 +1027,8 @@ EID_1500_a0001_00009_SYS_X					-1	0	0	0		<LIST=1298>Je vais rester avec toi.</LI
 		0	1	0	EID_1100_a0005g_00015_YONAH010_X					0	-1	1002	0	5	Euh, eh bien, il...
 		0	1	0	EID_1100_a0005g_00016_NIER010_X					0	1002	-1	0	2	C'est un garçon#?!
 1318		0	1	1	EID_1100_a0005g_00017_YONAH010_X					0	-1	1002	0	5	Oui, et il est malade et il a beaucoup d'ennuis#!
-		0	1	0	EID_1100_a0005g_00018_YONAH010_X					0	-1	1002	0	5	Et je sais que tu es le seul qui puisse l'aider#! Avec l'aide de Weissounet, bien sûr#!
-		0	1	0	EID_1100_a0005g_00019_BOOKW010_X					-1	0	0	0	26	... Weissounet#?
+		0	1	0	EID_1100_a0005g_00018_YONAH010_X					0	-1	1002	0	5	Et je sais que tu es le seul qui puisse l'aider#! Avec l'aide de Shiroounet, bien sûr#!
+		0	1	0	EID_1100_a0005g_00019_BOOKW010_X					-1	0	0	0	26	... Shiroounet#?
 		0	1	0	EID_1100_a0005g_00020_NIER010_X					0	1002	-1	0	2	Parle-moi de ton ami.
 		0	1	0	EID_1100_a0005g_00021_YONAH010_X					0	-1	1002	0	5	Euh, il habite dans une énorme maison au sud du village, il est très gentil et c'est mon ami.
 		0	1	0	EID_1100_a0005g_00022_YONAH010_X					0	-1	1002	0	5	Tu dois l'aider, grand frère#! Je t'en supplie#!
@@ -1046,7 +1046,7 @@ EID_1100_a0005g_00027_SYS_X					-1	0	0	0		<LIST=2698>Je ne peux rien lui refuser
 1322		0	1	0	EID_all_speak01_YONAH010_X_1					0	-1	1002	0	5	Merci, grand frère#!
 1323		0	1	0	EID_1100_a0005g_00034_NIER010_X					-1	0	0	0	2	... Merveilleux. Ma sœur a un petit ami.
 		0	1	0	EID_1100_a0005g_00035_BOOKW010_X					-1	0	0	0	26	Tu devrais user de circonspection. Ce jeune homme pourrait être un jour ton beau-frère.
-		0	1	0	EID_1100_a0005g_00036_NIER010_X					-1	0	0	0	2	Ça suffit, Weiss#!
+		0	1	0	EID_1100_a0005g_00036_NIER010_X					-1	0	0	0	2	Ça suffit, Shiro#!
 1324	1325	0	2	0	EID_1100_a0020_0010_BUTLER_X			<CB=EID_1100_a0020_01_Start>		-1	0	1028	0	34	Nous vous attendions.
 1325		0	1	0	EID_1100_a0020_0020_BUTLER_X				<CB=EID_1100_a0020_01_End>	-1	0	1028	0	34	Veuillez me suivre, s'il vous plaît.
 1326		0	1	0	EID_1100_a0030_0010_BUTLER_X					-1	0	1028	0	34	Veuillez attendre ici.
@@ -1063,9 +1063,9 @@ EID_1100_a0005g_00027_SYS_X					-1	0	0	0		<LIST=2698>Je ne peux rien lui refuser
 		0	1	0	EID_1100_a0030_0032_BOOKW010_X					-1	0	0	0	26	Euh, o-oui... Si j'avais un corps, elle me donnerait la chair de poule#!
 1333	1334	0	1	0	EID_1100_a0060_0010_NIER010_X					0	1001	-1	0	2	Tu as compris tout ça en m'écoutant marcher ?
 		0	1	0	EID_1100_a0060_0020_SNOW010_X					0	-1	1001	0	25	Ce n'est pas très difficile, quand on sait comment.
-		0	1	0	EID_1100_a0060_0030_NIER010_X					0	1001	-1	0	2	Je suppose que je devrais te présenter Weiss, mon compagnon.
+		0	1	0	EID_1100_a0060_0030_NIER010_X					0	1001	-1	0	2	Je suppose que je devrais te présenter Shiro, mon compagnon.
 		0	1	0	EID_1100_a0060_0040_SNOW010_X					0	-1	1001	0	25	Je... je n'ai entendu les pas que d'une personne...
-		0	1	0	EID_1100_a0060_0050_BOOKW010_X					-1	0	0	0	26	Le Grimoire Weiss ne se pavane pas comme un vulgaire mammifère terrestre !
+		0	1	0	EID_1100_a0060_0050_BOOKW010_X					-1	0	0	0	26	Le Grimoire Shiro ne se pavane pas comme un vulgaire mammifère terrestre !
 		0	1	0	EID_1100_a0060_0060_SNOW010_X					0	-1	1001	0	25	Ah#!
 		0	1	0	EID_1100_a0060_0070_BOOKW010_X					-1	0	0	0	26	Maintenant que nous nous sommes présentés, dis-nous, qui es-tu ?
 		0	1	0	EID_1100_a0060_0080_SNOW010_X					0	-1	1001	0	35	Je m'appelle Émile. Ce manoir m'appartient.
@@ -1352,11 +1352,11 @@ Je veux crier. Je veux démolir les murs invisibles qui m'entourent. Toutefois, 
 		0	1	0	SEID_1000_S0010_0020_X					0	1037	-1	0	2	Peut-être, qu'y a-t-il#?
 		0	1	0	SEID_1000_S0010_0030_X					0	-1	1037	0	116	J'aimerais que tu me rapportes un œuf d'aigle de l'Aire.
 		0	1	0	SEID_1000_S0010_0040_X					-1	0	0	0	26	Hum#! Comptez-vous préparer un autre remède pour votre grand-mère#?
-		0	1	0	SEID_1000_S0010_0050_X					0	-1	1037	0	116	Mais oui#! Ah, tu es si intelligent, Weissounet#!
-		0	1	0	SEID_1000_S0010_0060_X					-1	0	0	0	26	Weiss... ounet#?
+		0	1	0	SEID_1000_S0010_0050_X					0	-1	1037	0	116	Mais oui#! Ah, tu es si intelligent, Shiroounet#!
+		0	1	0	SEID_1000_S0010_0060_X					-1	0	0	0	26	Shiro... ounet#?
 		0	1	0	SEID_1000_S0010_0070_X					0	-1	1037	0	116	On dit qu'on peut trouver des œufs d'aigle dans les hauteurs, là où il vente beaucoup. Alors, qu'en dis-tu#?
 		0	1	0	SEID_1000_S0010_0075_X				<CB=LIB_SET_START_SUBQUEST,1608,15,2,1037,1453>	-1	0	0	0	26	......
-1453		0	1	0	SEID_1000_S0010_0080_X				<CB=LIB_SET_END_SUBQUEST>	0	1037	-1	0	2	Allons-y, Weissounet.
+1453		0	1	0	SEID_1000_S0010_0080_X				<CB=LIB_SET_END_SUBQUEST>	0	1037	-1	0	2	Allons-y, Shiroounet.
 1454		0	2	0	EID_all_greeting02_NIER010_X_2					0	1037	-1	0	2	J'ai trouvé un œuf d'aigle.
 		0	1	0	SEID_1000_S0010_0134_X				<CB=SEID_1000_S0010_a0050_01>	0	-1	1037	0	116	Oh, merci#! Laisse-moi rassembler les autres ingrédients...
 1455		0	1	0	SEID_1000_S0010_0138_X					0	-1	1037	0	116	Et voilà#! J'ai terminé#!<PAGE>Pourrais-tu aller le porter à ma grand-mère#? Elle devrait toujours être près de la fontaine devant la bibliothèque.
@@ -2001,7 +2001,7 @@ Je veux crier. Je veux démolir les murs invisibles qui m'entourent. Toutefois, 
 		0	1	0	SEID_1450_S0170_0240_X					0	-1	1085	0	47	(Euh... Oui#! Oui, bien sûr#! En quoi cela vous regarde-t-il, étranger#?)
 		0	1	0	SEID_1450_S0170_0250_X					-1	0	0	0	26	Scélérat#! Nous avons découvert des taches de sang à l'endroit où des témoins vous ont aperçus ensemble#!
 		0	1	0	SEID_1450_S0170_0260_X					-1	-1	1085	0	47	(Aaah#!)
-		0	1	0	SEID_1450_S0170_0270_X					-1	0	0	0	26	Vous ne pouvez rien cacher au Grimoire Weiss#! Avouez votre crime#! Confessez-vous et soulagez votre conscience#!<PAGE>Repentez-vous avant que quelqu'un de moins clément ne découvre votre terrible secret#!
+		0	1	0	SEID_1450_S0170_0270_X					-1	0	0	0	26	Vous ne pouvez rien cacher au Grimoire Shiro#! Avouez votre crime#! Confessez-vous et soulagez votre conscience#!<PAGE>Repentez-vous avant que quelqu'un de moins clément ne découvre votre terrible secret#!
 		0	1	0	SEID_1450_S0170_0280_X					0	-1	1085	0	47	(Non#! Je... Elle... C'était un accident#!)
 		0	1	0	SEID_1450_S0170_0290_X					0	-1	1085	0	47	(Nous nous disputions à propos d'un rien et elle m'a poussé, alors je l'ai poussée moi aussi...)
 		0	1	0	SEID_1450_S0170_0300_X					0	-1	1085	0	47	(Et ensuite, elle a perdu pied et s'est frappé la tête contre le mur. Je ne voulais pas lui faire de mal, je le jure#! Je l'aimais tant#!)
@@ -2130,7 +2130,7 @@ Tu devras convaincre les habitants de la laisser partir.
 		0	1	0	EID_1350_a0030_0100_BOOKW010_X					-1	0	0	0	26	Pourquoi les lettres adressées à la vieille femme sont-elles les seules à porter le cachet de ce bureau de poste#?!
 		0	1	0	EID_1350_a0030_0110_SYD010_X					0	-1	1027	0	41	Euh, hum, c'est parce que... Euh...
 		0	1	0	EID_1350_a0030_0120_BOOKW010_X					-1	0	0	0	26	Les autres lettres portent des cachets de partout à travers le monde.
-		0	1	0	EID_1350_a0030_0130_NIER010_X					-1	0	-1	0	2	Où veux-tu en venir, Weiss#?
+		0	1	0	EID_1350_a0030_0130_NIER010_X					-1	0	-1	0	2	Où veux-tu en venir, Shiro#?
 		0	1	0	EID_1350_a0030_0140_BOOKW010_X					-1	0	0	0	26	Cette femme ne reçoit pas de lettre de son bien-aimé à l'étranger...
 		0	1	0	EID_1350_a0030_0150_BOOKW010_X					-1	0	0	0	26	Ces lettres sont écrites par un habitant de cette ville#!
 1717		0	1	0	EID_1350_a0030_0160_SYD010_X					0	-1	1027	0	41	Flûte#!
@@ -2953,7 +2953,7 @@ Je crois qu'elle a été attaquée par une Ombre.
 		0	1	0	SEID_300_S0070_0050_X					-1	0	0	0	2	Je vois. Vous voulez que j'y aille à votre place#?
 		0	1	0	SEID_300_S0070_0060_X				<CB=LIB_SET_START_SUBQUEST,1843,QUEST_SEID0300_S0070,2,1077,2278>	-1	0	0	0	8	J'ai besoin de beaucoup de matériaux, alors tu devras détruire plusieurs robots. Ça ne te dérange pas, hein#?
 2278		0	1	0	SEID_300_S0070_0070_X					-1	0	0	0	26	Comptez-vous nous offrir une récompense appropriée au moins#?
-		0	1	0	SEID_300_S0070_0080_X					-1	0	0	0	2	Ne sois pas si avide, Weiss.
+		0	1	0	SEID_300_S0070_0080_X					-1	0	0	0	2	Ne sois pas si avide, Shiro.
 		0	1	0	SEID_300_S0070_0090_X					-1	0	0	0	8	Je ne sais pas trop ce que tu considères comme étant approprié, mais je ferai de mon mieux.
 		0	1	0	SEID_300_S0070_0100_X					-1	0	0	0	8	J'ai besoin d'un morceau d'alliage à mémoire de forme, dix morceaux d'alliage de titane et dix moteurs défectueux. Tu as bien noté#?
 		0	1	0	SEID_300_S0070_0110_X				<CB=LIB_SET_END_SUBQUEST>	-1	0	0	0	2	Entendu, je reviendrai vous voir lorsque j'aurai tout trouvé.
@@ -2968,7 +2968,7 @@ Je crois qu'elle a été attaquée par une Ombre.
 		0	1	0	SEID_1200_S0010_0020_X					-1	0	0	0	2	Peut-être, qu'y a-t-il#?
 		0	1	0	SEID_1200_S0010_0030_X					-1	0	0	0	8	La roue du moulin à eau ne tiendra pas longtemps. J'aimerais bien la réparer, mais le mécanisme est compliqué...
 		0	1	0	SEID_1200_S0010_0040_X					-1	0	0	0	26	Hum, oui, elle est plutôt ancienne. La consolider maintenant, avant qu'il ne soit trop tard, est en effet une sage décision.
-		0	1	0	SEID_1200_S0010_0050_X					-1	0	0	0	2	Saurais-tu comment le faire, Weiss#? Je ne m'y connais pas trop en mécanique.
+		0	1	0	SEID_1200_S0010_0050_X					-1	0	0	0	2	Saurais-tu comment le faire, Shiro#? Je ne m'y connais pas trop en mécanique.
 		0	1	0	SEID_1200_S0010_0060_X				<CB=LIB_SET_START_SUBQUEST,1847,QUEST_SEID1200_S0010,2,1052,2282>	-1	0	0	0	26	Remplacer l'axe et les aubes devrait suffire pour le moment. Si je ne m'abuse, le magasin de curiosités de Façade devrait avoir le nécessaire.
 2282		0	1	0	SEID_1200_S0010_0070_X					-1	0	0	0	2	Eh bien, si quelqu'un peut se charger des réparations, j'irai chercher les pièces.
 		0	1	0	SEID_1200_S0010_0080_X				<CB=LIB_SET_END_SUBQUEST>	-1	0	0	0	8	Oh, je te remercie#! Je trouverai quelqu'un, ne t'en fais pas#!
@@ -3177,18 +3177,18 @@ Je pourrais t'être d'une grande utilité.
 		0	1	0	EID_0200_a0035_0160_NIER010_X				<CB=EID_0200_a0035_01_End>	0	1002	-1	0	2	Yonah !
 2378		0	1	0	EID_0200_a0035_0170_BOOKW010_X					-1	0	0	0	25	Je t'accorde une dernière chance. Incline-toi devant moi et assume mon pouvoir,
 ou accepte ta défaite inéluctable.
-		0	1	0	EID_0200_a0035_0190_BOOKW010_X					-1	0	0	0	25	Ga ha ha ! Je suis le Grimoire Weiss !
+		0	1	0	EID_0200_a0035_0190_BOOKW010_X					-1	0	0	0	25	Ga ha ha ! Je suis le Grimoire Shiro !
 Le simple fait de mentionner mon nom met des royaumes à genoux !
 2379		0	1	0	EID_0200_a0035_0180_NIER010_X					-1	0	0	0	2	... J'espère pour toi que tu te montreras à la hauteur de tes vantardises.
-		0	1	0	EID_0200_a0035_0200_NIER010_X					-1	0	0	0	2	Enchanté, Weiss.
+		0	1	0	EID_0200_a0035_0200_NIER010_X					-1	0	0	0	2	Enchanté, Shiro.
 		0	1	0	EID_0200_a0035_0210_BOOKW010_X					-1	0	0	0	26	Gah ! Adresse-toi à moi correctement : par mon nom complet !
 2380		0	1	0	EID_0200_a0035_0110_BOOKW010_X					-1	0	0	0	25	Tu es en présence d'un recueil de connaissances antiques !
 2381		0	1	0	EID_0200_a0040g_0010_BOOKW010_X		32			-1	0	0	0	26	☆　＠　＃　＊　（　　＠
 		0	1	0	EID_0200_a0040g_0020_NIER010_X					-1	0	0	0	2	Qu'est-ce que c'est ?
 2382		0	1	0	EID_0300_a0015g_0070_NIER010_X					-1	0	0	0	2	Un instant... Cette chanson...
-2383		0	1	0	EID_0300_a0035_0010_POPOL010_X					0	-1	1004	0	24	Lorsque le grand livre noir, le Grimoire Noir, fera sombrer le monde dans le chaos...
-		-1	1	0	EID_0300_a0035_0020_POPOL010_X					0	-1	1004	0	24	Le livre blanc, le Grimoire Weiss, apparaîtra doté de ses vers scellés.
-		-1	1	0	EID_0300_a0035_0030_POPOL010_X					0	-1	1004	0	24	Il triomphera du Grimoire Noir et rétablira la paix dans le monde.
+2383		0	1	0	EID_0300_a0035_0010_POPOL010_X					0	-1	1004	0	24	Lorsque le grand livre noir, le Grimoire Kuro, fera sombrer le monde dans le chaos...
+		-1	1	0	EID_0300_a0035_0020_POPOL010_X					0	-1	1004	0	24	Le livre blanc, le Grimoire Shiro, apparaîtra doté de ses vers scellés.
+		-1	1	0	EID_0300_a0035_0030_POPOL010_X					0	-1	1004	0	24	Il triomphera du Grimoire Kuro et rétablira la paix dans le monde.
 ... Enfin, c'est ce que la légende raconte.
 		-1	1	0	EID_0300_a0035_0040_NIER010_X					0	1004	-1	0	2	Qu'est-ce qu'un « vers scellé » ?
 		-1	1	0	EID_0300_a0035_0050_POPOL010_X					0	-1	1004	0	24	Difficile à dire, ces documents sont très vieux.
@@ -3254,7 +3254,7 @@ Elle n'est ni humaine ni monstre.
 		0	1	0	EID_1050_a0005g_0020_NIER010_X					0	1004	-1	0	2	Un peu.
 		0	1	0	EID_1050_a0005g_0030_BOOKW010_X					-1	0	0	0	26	Un petit village pittoresque aux habitants peu sociables !
 		0	1	0	EID_1050_a0005g_0040_POPOL010_X					0	-1	1004	0	24	Eh bien, il paraît qu'une horde d'Ombres a envahi le village.
-		0	1	0	EID_1050_a0005g_0050_NIER010_X					0	1004	-1	0	2	Je vois. Allons-y, Weiss.
+		0	1	0	EID_1050_a0005g_0050_NIER010_X					0	1004	-1	0	2	Je vois. Allons-y, Shiro.
 		0	1	0	EID_1050_a0005g_0060_BOOKW010_X				<CB=EID_1050_a0005g_End>	-1	0	0	0	26	Oserais-je parier que cette traînée en petite tenue a influencé ta décision ?
 2424		0	1	0	EID_1100_a0005g_0010_BOOKW010_X					-1	0	0	0	26	Hum, il semblerait que nous avons reçu une missive.
 2425		0	1	0	EID_1100_a0005g_0020_POPOL010_X				<CB=EID_1100_a0005g_010_Start>	-1	0	1004	0	24	Tu as reçu une lettre.
@@ -3264,10 +3264,10 @@ Elle n'est ni humaine ni monstre.
 2428		0	1	0	EID_1100_a0025g_0010_BOOKW010_X					-1	0	0	0	26	Eh bien, nous sommes venus jusqu'ici. Je suppose qu'il ne servirait à rien de reculer maintenant.
 		0	1	0	EID_1100_a0025g_0015_NIER010_X					-1	0	0	0	2	J'espère que son petit ami en vaut la peine.
 2429		0	1	0	EID_1100_a0025g_0020_BOOKW010_X					-1	0	0	0	26	Cet endroit ne me dit rien qui vaille !
-		0	1	0	EID_1100_a0025g_0030_NIER010_X					-1	0	0	0	2	On dirait que tu as peur, Weiss.
+		0	1	0	EID_1100_a0025g_0030_NIER010_X					-1	0	0	0	2	On dirait que tu as peur, Shiro.
 		0	1	0	EID_1100_a0025g_0040_BOOKW010_X					-1	0	0	0	26	Pfft ! Quelle odieuse insinuation !
 2430		0	1	0	EID_1100_a0025g_0020_BOOKW010_X					-1	0	0	0	26	Cet endroit ne me dit rien qui vaille !
-		0	1	0	EID_1100_a0025g_0030_NIER010_X					-1	0	0	0	2	On dirait que tu as peur, Weiss.
+		0	1	0	EID_1100_a0025g_0030_NIER010_X					-1	0	0	0	2	On dirait que tu as peur, Shiro.
 2431		0	1	0	EID_1100_a0045g_0010_BOOKW010_X					-1	0	0	0	26	Qu'est-ce que c'est ? Cette peinture n'est pas la même.
 2432		0	1	0	EID_1100_a0045g_0020_SNOW010_X					0	-1	1001	0	25	Qui êtes-vous ?
 2433		0	1	0	EID_1100_a0067g_0010_NIER010_X					-1	0	0	0	2	Tu crois que nous devrions chercher Kainé ?
@@ -3279,13 +3279,13 @@ Elle n'est ni humaine ni monstre.
 		0	1	0	EID_1100_a0072g_0020_SNOW010_X					-1	0	0	0	35	Je vous accompagne. Il serait inconvenant de vous laisser y aller seuls.
 		0	1	0	EID_1100_a0072g_0030_SNOW010_X					-1	0	0	0	35	Et d'ailleurs, ce sera peut-être amusant d'utiliser mes yeux à bon escient pour une fois !
 2436		0	1	0	EID_1100_a0078g_0010_NIER010_X					-1	0	0	0	2	Formidable. Pourquoi tous les livres que je rencontre ont-ils un comportement hostile ?
-		0	1	0	EID_1100_a0078g_0020_BOOKW010_X					-1	0	0	0	26	Oh, comme tu es drôle#! Tu oserais comparer un livre ordinaire avec la merveille qu'est le Grimoire Weiss#?
+		0	1	0	EID_1100_a0078g_0020_BOOKW010_X					-1	0	0	0	26	Oh, comme tu es drôle#! Tu oserais comparer un livre ordinaire avec la merveille qu'est le Grimoire Shiro#?
 2437		0	1	0	EID_1100_a0078g_0030_BOOKW010_X					-1	0	0	0	26	La pétrification est en effet un pouvoir redoutable !
 2438		0	1	0	EID_1100_a0078g_0040_NIER010_X					-1	0	0	0	2	N'abandonnera-t-il donc jamais ?!
 2439		0	1	0	EID_1100_a0078g_0050_SNOW010_X					-1	0	0	0	35	Je vais pétrifier ses pages ! Donne-lui le coup de grâce !
 2440		0	1	0	EID_1100_a0078g_0060_SNOW010_X					-1	0	0	0	35	Oh, non ! Je ne peux pas le pétrifier !
 2441		0	1	0	EID_1100_a0078g_0070_NIER010_X					-1	0	0	0	2	Bon sang ! Je n'arrive pas à le blesser !
-		0	1	0	EID_1100_a0078g_0080_BOOKW010_X					-1	0	0	0	26	Ô jour fatidique ! Serait-ce la fin du Grimoire Weiss ?!
+		0	1	0	EID_1100_a0078g_0080_BOOKW010_X					-1	0	0	0	26	Ô jour fatidique ! Serait-ce la fin du Grimoire Shiro ?!
 2442		0	1	0	EID_1100_a0085g_0010_KAINE010_X					-1	0	0	0	28	Est-ce que cette putain de maison a une sortie ?
 		0	1	0	EID_1100_a0085g_0020_NIER010_X					-1	0	0	0	2	Kainé !
 		0	1	0	EID_1100_a0085g_0030_BOOKW010_X					-1	0	0	0	26	Où étais-tu donc passée ?
@@ -3323,7 +3323,7 @@ Sortez d'ici !
 		0	1	0	EID_1100_a0120g_0080_KAINE010_X					-1	0	0	0	28	Bouquin ? ... La ferme.
 2452		0	1	0	EID_1180_a0005g_0010_BOOKW010_X					-1	0	0	0	26	Le manoir est un endroit plutôt lugubre, mais nous devrions peut-être rendre visite à Émile.
 2453		0	3	0	EID_1200_a0015g_01414_BROTHO010_X				<CB=EID_1200_a0015_01_End>	0	-1	1011	0	38	Et s'il vous plaît, soyez prudent#! C'est un endroit dangereux#!
-2454		0	1	0	EID_1200_a0020g_0010_NIER010_X					-1	0	0	0	2	Tu sais, Weiss, parfois tu peux être vraiment sans-cœur.
+2454		0	1	0	EID_1200_a0020g_0010_NIER010_X					-1	0	0	0	2	Tu sais, Shiro, parfois tu peux être vraiment sans-cœur.
 		0	1	0	EID_1200_a0020g_0020_BOOKW010_X					-1	0	0	0	26	Je ne supporte pas le fait que tu insistes à t'immiscer dans les affaires des autres !
 2455		0	1	0	EID_1200_a0020g_0030_NIER010_X					-1	0	0	0	2	Ces gamins ont la vie dure. Je veux simplement les aider.
 		0	1	0	EID_1200_a0020g_0040_BOOKW010_X					-1	0	0	0	26	Il est vrai que ce n'est pas un travail approprié pour des enfants...
@@ -3335,7 +3335,7 @@ j'en suis certain !
 		0	1	0	EID_1270_a0020g_0030_BOOKW010_X					-1	0	0	0	26	Ou encore qu'elle a passé toute une semaine à ramasser de la ferraille ?
 		0	1	0	EID_1270_a0020g_0040_NIER010_X					-1	0	0	0	2	Euh...
 		0	1	0	EID_1270_a0020g_0050_BOOKW010_X					-1	0	0	0	26	Ouvre les yeux, bougre d'imbécile ! Cette femme est manifestement...
-		0	1	0	EID_1270_a0020g_0060_NIER010_X					-1	0	0	0	2	Ça suffit, Weiss !
+		0	1	0	EID_1270_a0020g_0060_NIER010_X					-1	0	0	0	2	Ça suffit, Shiro !
 		0	1	0	EID_1270_a0020g_0070_BOOKW010_X					-1	0	0	0	26	......
 		0	1	0	EID_1270_a0020g_0080_NIER010_X					-1	0	0	0	2	Ces enfants mènent une vie misérable. Ils ont peut-être juste besoin d'un miracle.
 		0	1	0	EID_1270_a0020g_0090_BOOKW010_X					-1	0	0	0	26	Un miracle ? Pfft !
@@ -3349,7 +3349,7 @@ j'en suis certain !
 2463		0	1	0	EID_1270_a0100_0033_BROTHO010_X					0	-1	1011	0	38	À bientôt#!
 2464		0	1	0	EID_1270_a0100_070_010					0	-1	1010	0	36	
 2465		0	1	0	EID_1320_a0005_0010_POPOL010_X			<CB=EID_1320_a0005_Start>		0	-1	1004	0	24	Salut#! J'ai besoin d'un poisson. Pourriez-vous vous en charger#?
-		0	1	0	EID_1320_a0005_0020_BOOKW010_X					-1	0	0	0	26	Le Grimoire Weiss n'est pas un simple garçon de courses#!
+		0	1	0	EID_1320_a0005_0020_BOOKW010_X					-1	0	0	0	26	Le Grimoire Shiro n'est pas un simple garçon de courses#!
 		0	1	0	EID_1320_a0005_0030_POPOL010_X					0	-1	1004	0	24	Désolée, mais le village n'a presque plus d'élixir médicinal.
 		0	1	0	EID_1320_a0005_0040_POPOL010_X					0	-1	1004	0	24	Et je ne peux pas en préparer sans le foie d'un poisson-shaman.
 		0	1	0	EID_1320_a0005_0050_NIER010_X					0	1004	-1	0	2	Où pourrais-je en trouver ?
@@ -3397,7 +3397,7 @@ en contact avec eux.
 		0	1	0	EID_1410_a0020_0090_BOOKW010_X					-1	0	0	0	26	Tu ne compterais pas nous faire part de ton plan, par hasard ? Ou encore nous dire ce que tu sais au sujet de cette ville ?
 		0	1	0	EID_1410_a0020_0100_KAINE010_X					-1	0	-2	0	28	La ferme, bouquin. Tu comprendras bien assez tôt.
 2487		0	1	0	EID_1410_a0020_0110_BOOKW010_X					-1	0	0	0	26	Bou-bouquin ! Comment oses-tu ?! Jamais je n'ai été traité avec aussi peu de décence et...
-		0	1	0	EID_1410_a0020_0120_NIER010_X					-1	0	0	0	2	Du calme, Weiss. Voyons voir ce qu'elle a en tête.
+		0	1	0	EID_1410_a0020_0120_NIER010_X					-1	0	0	0	2	Du calme, Shiro. Voyons voir ce qu'elle a en tête.
 2488		0	1	0	EID_1410_a0030g_0010_NIER010_X					0	-2	-1	0	2	Alors, quelle sorte de ville est Façade ?
 		0	1	0	EID_1410_a0030g_0020_KAINE010_X					0	-1	-2	0	28	C'est une ville étrange. Tenons-nous-en là.
 		0	1	0	EID_1410_a0030g_0030_BOOKW010_X					-1	0	0	0	26	Plus étrange qu'une jeune fille grossière en sous-vêtements qui se bat contre des monstres ?!
@@ -3410,7 +3410,7 @@ en contact avec eux.
 2492		0	1	0	EID_1410_a0050g_0020_BOOKW010_X					-1	0	0	0	26	Il semble tari.
 2493		0	1	0	EID_1410_a0065_0050_NIER010_X					-1	0	0	0	2	J'aurais peut-être dû apprendre d'autres langues quand j'étais petit...
 		0	1	0	EID_1410_a0065_0060_BOOKW010_X					-1	0	0	0	26	Tu pourrais parler mille langues différentes, mais toujours échouer si tu ne possèdes pas les connaissances nécessaires pour comprendre la culture d'un autre peuple.
-		0	1	0	EID_1410_a0065_0070_NIER010_X					-1	0	0	0	2	Allez, Weiss. Aide-moi un peu.
+		0	1	0	EID_1410_a0065_0070_NIER010_X					-1	0	0	0	2	Allez, Shiro. Aide-moi un peu.
 		0	1	0	EID_1410_a0065_0080_BOOKW010_X					-1	0	0	0	26	Je suis un livre formidable d'une valeur inestimable, pas un guide touristique !
 2494		0	1	0	EID_1410_a0065_0090_BOOKW010_X					-1	0	0	0	26	Hum... Cette ville est curieuse. Nous sommes manifestement des étrangers, mais personne ne nous remarque.
 		0	1	0	EID_1410_a0065_0100_NIER010_X					-1	0	0	0	2	C'est une ville tranquille. Elle me plaît. Si seulement je pouvais parler à quelqu'un...!
@@ -3463,7 +3463,7 @@ Je crois que c'est tout ce qu'il y a à savoir.
 		0	1	0	EID_1450_a0105_00711_NIER010_X					-1	0	-1	0	2	Non, et je m'en fiche. Mon seul souci est de sauver ma sœur.
 		0	1	0	EID_1450_a0105_00712_NIER010_X					-1	0	-1	0	2	Je ferais n'importe quoi pour y arriver.
 2508		0	1	0	EID_2000_a0025g_0010_NIER010_X					-1	0	0	0	2	Yonah n'a pas la force nécessaire pour combattre la maladie.
-		-1	1	0	EID_2000_a0025g_0020_BOOKW010_X					-1	0	0	0	26	Nous devons trouver le Grimoire Noir dès que possible. C'est la seule solution.
+		-1	1	0	EID_2000_a0025g_0020_BOOKW010_X					-1	0	0	0	26	Nous devons trouver le Grimoire Kuro dès que possible. C'est la seule solution.
 2509	2510	0	1	0	EID_2000_a0046g_0070_NIER010_X					-1	0	0	0	2	Je me charge de ces Ombres !
 		-1	1	0	EID_2000_a0046g_0080_NIER010_X					-1	0	0	0	2	Va sceller la porte ! Allez !
 		-1	1	0	EID_2000_a0046g_0090_VILLNYG_X					-1	0	0	0	8	D'accord !
@@ -3518,8 +3518,8 @@ Je crois que c'est tout ce qu'il y a à savoir.
 		0	1	0	EID_2000_a0129g_0030_BOOKW010_X					-1	0	0	0	26	Tu aurais peut-être dû les griffonner dans mes marges#!
 2536		0	1	0	EID_2000_a0129g_0040_NIER010_X					-1	0	0	0	2	Bon sang ! La bibliothèque ne tiendra pas longtemps.
 		0	1	0	EID_2000_a0129g_0050_BOOKW010_X					-1	0	0	0	26	Finissons-en au plus vite !
-2537		0	1	0	EID_2000_a0129g_0060_BOOKW010_X					-1	0	0	0	26	Et tu es le dernier, Noir !
-		0	1	0	EID_2000_a0129g_0070_BOOKB010_X					-1	0	0	0	1	N-noir...? Quelle impertinence !
+2537		0	1	0	EID_2000_a0129g_0060_BOOKW010_X					-1	0	0	0	26	Et tu es le dernier, Kuro !
+		0	1	0	EID_2000_a0129g_0070_BOOKB010_X					-1	0	0	0	1	K-Kuro...? Quelle impertinence !
 2538	2539	3	1	0	EID_0100_a0012_0030_YONAH010_X					0	-1	1002	0	5	Tu vois, j'étais dans mon rêve, et tu étais avec moi, et on se promenait ensemble sur un immense nuage rose, et puis...
 2539		0	1	0	EID_0100_a0012_0040_NIER010_X					0	1002	-1	0	2	Yonah ? Je suis désolé, ma chérie, mais je dois y aller. Tu pourras me le raconter à mon retour.
 		-1	1	0	EID_0100_a0012_0050_YONAH010_X					0	-1	1002	0	5	Oh, attends ! Tu peux me rapporter un livre de la bibliothèque ?
@@ -3779,7 +3779,7 @@ Mince, il y a vraiment une meute de loups#!
 		0	1	0	SEID_9120_S0010_0050_BOOKW010_X					-1	0	0	0	26	Laisse-moi reformuler ma question. Tu fais tout cela pour l'apprenti marchand, n'est-ce pas#?
 		0	1	0	SEID_9120_S0010_0060_NIER010_X					-1	0	0	0	2	Oui.
 		0	1	0	SEID_9120_S0010_0070_BOOKW010_X					-1	0	0	0	26	Alors, ne serait-il pas plus approprié qu'il s'occupe lui-même de ses effets personnels#? 
-		0	1	0	SEID_9120_S0010_0080_NIER010_X					-1	0	0	0	2	Il est dans le pétrin, Weiss. Nous lui donnons un coup de main, voilà tout.
+		0	1	0	SEID_9120_S0010_0080_NIER010_X					-1	0	0	0	2	Il est dans le pétrin, Shiro. Nous lui donnons un coup de main, voilà tout.
 		0	1	0	SEID_9120_S0010_0090_BOOKW010_X					-1	0	0	0	26	J'attends avec grande impatience le jour où quelqu'un fera preuve de tant de générosité envers nous.
 2682		0	1	0	SEID_1320_S0220_0250_X					-1	0	0	0	26	Quel fidèle compagnon#!
 		0	1	0	SEID_1320_S0220_0260_X					0	-1	1415	0	8	... Tu crois que papi et Max sont ensemble au ciel#?

@@ -3,7 +3,7 @@
 		4	STREAM	EID_3000_a0030_0064_NIER020_X	0.5				0	2	... Oui.
 1002		4	STREAM	EID_3100_a0015g_0010_SNOW010_X	0.5				0	35	Si cette salle recèle vraiment une façon de maîtriser toute forme de magie, je pourrai guérir mes yeux.
 		4	STREAM	EID_3100_a0015g_0020_BOOKW010_X	1				0	26	Cela nous permettrait aussi de libérer Kainé de sa prison de pierre.
-		4	STREAM	EID_3100_a0015g_0030_SNOW010_X	0.5				0	35	Ouah, Weiss !
+		4	STREAM	EID_3100_a0015g_0030_SNOW010_X	0.5				0	35	Ouah, Shiro !
 Je ne savais pas que tu te faisais du souci pour elle.
 		4	STREAM	EID_3100_a0015g_0040_BOOKW010_X	0.5				0	26	Je deviens peut-être sentimental sur mes vieux jours !
 1003		4	STREAM	EID_3100_a0015g_0050_SNOW010_X	0.5				0	35	Le passage devrait être tout près...
@@ -233,14 +233,14 @@ Debout, Kainé ! Dépêche-toi !
 		4	STREAM	RA_EID_4430_a0078g_0250_SNOW020_Y	3				0	35	
 1074		4	STREAM	RA_EID_4430_a0078g_0260_NIER020_Y	3				0	26	
 1075		4	STREAM	EID_4430_a0083g_0030_BOOKW010_X	0.5				0	26	Dépêche-toi ! Le petit ne tiendra pas longtemps !
-		4	STREAM	EID_4430_a0083g_0040_NIER020_X	0.5				0	2	Je sais bien, Weiss !
+		4	STREAM	EID_4430_a0083g_0040_NIER020_X	0.5				0	2	Je sais bien, Shiro !
 1076		4	STREAM	EID_4430_a0083g_0010_SNOW020_X	0.5			<CB=SNOW_MESSAGE_END>	0	35	Je vais l'immobiliser !
 1077		4	STREAM	EID_4430_a0083g_0050_SNOW020_X	1				0	35	Je n'en peux plus ! Aaaah !
 1078		4	STREAM	EID_4430_a0083g_0020_BOOKW010_X	1				0	26	Son point faible est situé sur son dos !
 Attaquez-la d'en haut !
 1079		4	STREAM	EID_5000_a0010_0041_BOOKW010_X	0.5				0	26	Je m'émerveille de l'apparente facilité avec laquelle nous avons pu récupérer les fragments.
 		4	STREAM	EID_5000_a0010_0042_BOOKW010_X	0.5				0	26	On pourrait presque croire que quelqu'un nous a intentionnellement guidés jusqu'ici...
-		4	STREAM	EID_5000_a0010_0043_NIER020_X	0.5				0	2	Tu essaies encore de tout compliquer, Weiss.
+		4	STREAM	EID_5000_a0010_0043_NIER020_X	0.5				0	2	Tu essaies encore de tout compliquer, Shiro.
 		4	STREAM	EID_5000_a0010_0044_BOOKW010_X	0.5				0	26	Mais...
 		4	STREAM	EID_5000_a0010_0045_NIER020_X	0.5				0	2	Peu importe si c'est un piège.
 Yonah m'attend et j'irai la trouver.
@@ -250,8 +250,8 @@ Elle aura peut-être des instructions de dernière minute à nous donner.
 1081		4	STREAM	EID_6000_a0005_0011_BOOKW010_X	0.5				0	26	Cet endroit est plutôt sinistre, mais pourtant,
 une étrange nostalgie m'envahit.
 		4	STREAM	EID_6000_a0005_0012_NIER020_X	0.5				0	2	Moi aussi.
-		4	STREAM	EID_6000_a0005_0013_NIER020_X	0.5				0	2	C'est ici que j'ai rencontré Weiss.
-		4	STREAM	EID_6000_a0005_0014_SNOW020_X	0.5				0	35	Ouah#! Tu habitais ici, Weiss#?!
+		4	STREAM	EID_6000_a0005_0013_NIER020_X	0.5				0	2	C'est ici que j'ai rencontré Shiro.
+		4	STREAM	EID_6000_a0005_0014_SNOW020_X	0.5				0	35	Ouah#! Tu habitais ici, Shiro#?!
 		4	STREAM	EID_6000_a0005_0015_BOOKW010_X	0.5				0	26	Euh... Je suppose que oui. D'une certaine manière.
 		4	STREAM	EID_6000_a0005_0016_KAINE010_X	0.5				0	28	Pas mal pour un magazine flottant.
 		4	STREAM	EID_6000_a0005_0017_BOOKW010_X	0.5				0	26	Au moins, aucune dévergondée ne venait me déranger#!
@@ -279,14 +279,14 @@ Tuez-les, mes beaux salauds ! Tuez-les !
 		4	STREAM	EID_6000_a0026g_0110_BOOKW010_X	0.5				0	26	C'est de la folie !
 Pourquoi nous faites-vous obstacle ?
 		4	STREAM	EID_6000_a0026g_0120_POPOL010_X	1				0	24	Tu n'as pas le droit de nous adresser la parole,
-Grimoire Weiss ! Tu n'es qu'un traître !
+Grimoire Shiro ! Tu n'es qu'un traître !
 1087	1088	4	STREAM	EID_6000_a0035g_0010_KAINE010_X	0.5				0	28	Oh, putain de merde...
 Elles peuvent utiliser les vers scellés.
 1088		4	STREAM	EID_6000_a0035g_0020_DEBOL010_X	0.5				0	23	Mais bien sûr !
 Après tout, ces pouvoirs nous appartiennent depuis le début !
 		4	STREAM	EID_6000_a0035g_0030_POPOL010_X	0.5				0	24	Nous n'avons fait qu'en partager une petite partie avec vous.
 		4	STREAM	EID_6000_a0035g_0040_BOOKW010_X	0.5				0	26	Aaaah...
-		4	STREAM	EID_6000_a0035g_0050_SNOW020_X	0.5				0	35	Weiss ! Ça va ?
+		4	STREAM	EID_6000_a0035g_0050_SNOW020_X	0.5				0	35	Shiro ! Ça va ?
 		4	STREAM	EID_6000_a0035g_0060_NIER020_X	1				0	2	Devola ! Popola ! Qu'est-ce qui vous prend ?!
 		4	STREAM	EID_6000_a0035g_0070_NIER020_X	0.5				0	2	Pourquoi vous rangez-vous du côté des Ombres ?
 1089		4	STREAM	EID_6000_a0035g_0005_BOOKW010_X	0.5				0	26	... Elles ont c-copié... mes pouvoirs...
@@ -296,8 +296,8 @@ Après tout, ces pouvoirs nous appartiennent depuis le début !
 		4	STREAM	EID_6000_a0050g_0040_BOOKW010_X	1				0	26	Comme c'est étrange.
 Mon esprit et ma voix constituent depuis des années mes principaux atouts.
 		4	STREAM	EID_6000_a0050g_0050_BOOKW010_X	0.5				0	26	Toutefois, il semblerait que cette dernière me fasse dé... déf... déf...
-		4	STREAM	EID_6000_a0050g_0060_SNOW020_X	0.5				0	35	Weiss ?
-		4	STREAM	EID_6000_a0050g_0070_BOOKW010_X	1				0	26	Ne me regarde pas ainsi ! Je suis le Grimoire Weiss !
+		4	STREAM	EID_6000_a0050g_0060_SNOW020_X	0.5				0	35	Shiro ?
+		4	STREAM	EID_6000_a0050g_0070_BOOKW010_X	1				0	26	Ne me regarde pas ainsi ! Je suis le Grimoire Shiro !
 Je n'ai r... ri... riiiiiie...
 1091		4	STREAM	EID_6000_a0050g_0080_SNOW020_X	0.5				0	35	Je crois que j'entends une valse.
 1092		4	STREAM	EID_6000_a0050g_0010_NIER020_X	0.5				0	2	Devola et Popola nous font obstacle.
@@ -306,8 +306,8 @@ Je n'ai r... ri... riiiiiie...
 		4	STREAM	EID_6000_a0050g_0040_BOOKW010_X	1				0	26	Comme c'est étrange.
 Mon esprit et ma voix constituent depuis des années mes principaux atouts.
 		4	STREAM	EID_6000_a0050g_0050_BOOKW010_X	0.5				0	26	Toutefois, il semblerait que cette dernière me fasse dé... déf... déf...
-1093		4	STREAM	EID_6000_a0050g_0060_SNOW020_X	0.5				0	35	Weiss ?
-		4	STREAM	EID_6000_a0050g_0070_BOOKW010_X	0.5				0	26	Ne me regarde pas ainsi ! Je suis le Grimoire Weiss !
+1093		4	STREAM	EID_6000_a0050g_0060_SNOW020_X	0.5				0	35	Shiro ?
+		4	STREAM	EID_6000_a0050g_0070_BOOKW010_X	0.5				0	26	Ne me regarde pas ainsi ! Je suis le Grimoire Shiro !
 Je n'ai r... ri... riiiiiie...
 1094		4	STREAM	EID_6000_a0062g_0010_BOOKW010_X	0.5				0	26	Quel spectacle grandiose !
 1095		4	STREAM	EID_6000_a0062g_0020_KAINE010_X	0.5				0	28	Une bande d'enfoirés dansants...
@@ -327,7 +327,7 @@ Partez immédiatement, ignobles créatures#!
 1100		4	STREAM	EID_6000_a0062g_0140_NIER020_X	0.5				0	2	Bon sang ! Il y en a toujours plus qui apparaissent !
 		4	STREAM	EID_6000_a0062g_0150_KAINE010_X	1				0	28	Je vais ouvrir la prochaine porte ! Couvre-moi !
 		4	STREAM	EID_6000_a0062g_0160_BOOKW010_X	0.5				0	26	Oh, comme j'aime dan... daaaaaaan... dan, dan, daaaan...
-		4	STREAM	EID_6000_a0062g_0170_NIER020_X	0.5				0	2	Ressaisis-toi, Weiss !
+		4	STREAM	EID_6000_a0062g_0170_NIER020_X	0.5				0	2	Ressaisis-toi, Shiro !
 		4	STREAM	EID_6000_a0062g_0180_BOOKW010_X	0.5				0	26	... Hum ? Oh, d'accord.
 Tu veux protéger la dévergondée, c'est ça ? Bonne idée.
 1101		4	STREAM	EID_6000_a0062g_0190_MMGSTW_Y	3				0	30	Nooooon#!
@@ -473,7 +473,7 @@ C'est pour LUI que tu te bats ?
 		4	STREAM	EID_6000_a0165g_0170_KAINE010_X	0.5				1	28	J'en ai assez de ce monde et de tous ceux qui y habitent.
 		4	STREAM	EID_6000_a0165g_0180_KAINE010_X	0.5				1	28	Je serai sa lame une dernière fois !
 1143		4	STREAM	EID_6000_a0165g_0190_BOOKW010_X	0.5				0		
-		4	STREAM	EID_6000_a0165g_0200_KAINE010_X	0.5				0	28	Weiss ! Ça va ?!
+		4	STREAM	EID_6000_a0165g_0200_KAINE010_X	0.5				0	28	Shiro ! Ça va ?!
 		4	STREAM	EID_6000_a0165g_0210_BOOKW010_X	1				0	26	Naturellement !
 Je me porte comme un char... ar... arme... Aaaah !
 1144		4	STREAM	EID_6000_a0165g_0220_YONAH020_Y	3				0	5	
@@ -489,9 +489,9 @@ Je me porte comme un char... ar... arme... Aaaah !
 		4	STREAM	EID_6000_a0185g_0090_KING020_Y	0.5				1	67	Noooooon#!
 		4	TIME	RA_EID_6000_a0185g_040	0.5			<CB=Talk_Text_09_Set>	0		
 1149	1150	4	STREAM	EID_6000_a0185g_0100_BOOKW010_X	0.5				0		
-		4	STREAM	EID_6000_a0185g_0110_NIER020_X	0.5				0	2	Weiss ! Qu'y a-t-il ?
+		4	STREAM	EID_6000_a0185g_0110_NIER020_X	0.5				0	2	Shiro ! Qu'y a-t-il ?
 		4	STREAM	EID_6000_a0185g_0120_BOOKW010_X	0.5				0	26	B-bien ! Tout va bieeeen... Bi-bi-bien...
-		4	STREAM	EID_6000_a0185g_0130_KAINE010_X	0.5			<CB=Talk_Text_10_Set>	0	28	Tu me files les jetons, Weiss !
+		4	STREAM	EID_6000_a0185g_0130_KAINE010_X	0.5			<CB=Talk_Text_10_Set>	0	28	Tu me files les jetons, Shiro !
 1150		4	STREAM	EID_6000_a0185g_0140_BOOKW010_X	0.5				0	26	Qu-qu-qu'est-ce que tu attends ?!
 		4	STREAM	EID_6000_a0185g_0150_BOOKW010_X	0.5				0	26	Tu as tant s-s-s-s-sacrifié pour parvenir jusqu'ici ! 
 V-v-v-vas-y ! Donne-lui le c-c-c-coup de grâce !
@@ -667,7 +667,7 @@ Ils peuvent être ensemble, désormais.
 		2	STREAM	SEID_9080_S0010_0100_BOOKW010_X	0.5				0	26	... En effet.
 1228		2	STREAM	SEID_9080_S0010_0110_NIER020_X	0.5				0	2	Elle n'habite plus à cet endroit.
 		2	STREAM	SEID_9080_S0010_0120_BOOKW010_X	0.5				0	26	Non.
-		2	STREAM	SEID_9080_S0010_0130_NIER020_X	0.5				0	2	Je suppose que tu avais raison, Weiss.
+		2	STREAM	SEID_9080_S0010_0130_NIER020_X	0.5				0	2	Je suppose que tu avais raison, Shiro.
 		2	STREAM	SEID_9080_S0010_0140_BOOKW010_X	0.5				0	26	Il m'est difficile de déterminer qui a eu raison dans cette situation.
 		2	STREAM	SEID_9080_S0010_0150_BOOKW010_X	0.5				0	26	Nous ferions mieux d'aller retrouver le marchand de fleurs.
 1229		2	STREAM	SEID_1200_S0010_0010_SNOW020_X	0.5				0	35	J'aime bien les moulins à eau, mais il est difficile de les entretenir#!
@@ -685,7 +685,7 @@ Et comment pourrais-je dormir s'il ne fait pas noir à l'extérieur#?
 		2	STREAM	SEID_1200_S0010_0110_SNOW020_X	0.5				0	35	De toute façon, ma vie est déjà assez palpitante#!
 		2	STREAM	SEID_1200_S0010_0120_NIER020_X	0.5				0	2	Si plus de gens étaient comme toi, Émile, le monde serait meilleur.
 		2	STREAM	SEID_1200_S0010_0130_SNOW020_X	0.5				0	35	Hi, hi, hi#!
-1230		2	STREAM	SEID_1200_S0020_0010_SNOW020_X	0.5				0	35	Dis, Weiss, à quoi servait ce vieux pont#?
+1230		2	STREAM	SEID_1200_S0020_0010_SNOW020_X	0.5				0	35	Dis, Shiro, à quoi servait ce vieux pont#?
 		2	STREAM	SEID_1200_S0020_0020_BOOKW010_X	0.5				0	26	Celui-ci#? Ah, oui.
 C'était la route qu'empruntaient ces immenses caisses de métal dont je te parlais plus tôt.
 		2	STREAM	SEID_1200_S0020_0030_SNOW020_X	0.5				0	35	Ouah... Pourquoi est-il si grand#?
@@ -725,7 +725,7 @@ Quoi qu'il en soit, je suis reconnaissant au vieil homme de ses conseils.
 		2	STREAM	SEID_1320_S0200_0090_BOOKW010_X	0.5				0	26	C'est sans doute pour cette raison qu'il lui tardait tant de léguer son art à quelqu'un.
 		2	STREAM	SEID_1320_S0200_0100_NIER020_X	0.5				0	2	C'est étrange, mais j'ai l'impression qu'il est toujours ici à veiller sur moi.
 		2	STREAM	SEID_1320_S0200_0110_BOOKW010_X	0.5				0	26	Il est probablement au paradis, sur le point de commencer une partie de pêche sur un étang.
-		2	STREAM	SEID_1320_S0200_0120_NIER020_X	0.5				0	2	J'espère que tu as raison, Weiss.
+		2	STREAM	SEID_1320_S0200_0120_NIER020_X	0.5				0	2	J'espère que tu as raison, Shiro.
 1237		2	STREAM	SEID_1350_S0030_0010_BOOKW010_X	0.5				0	26	Il est fascinant de découvrir que la gastronomie peut même survivre à une pénurie de nourriture.
 		2	STREAM	SEID_1350_S0030_0020_SNOW020_X	0.5				0	35	Bien sûr#! Les gens aiment manger de bonnes choses#! Cela les rend heureux.
 		2	STREAM	SEID_1350_S0030_0030_BOOKW010_X	0.5				0	26	Quel est ton mets préféré, Émile#?
@@ -952,7 +952,7 @@ que sa petite amie est devenue une Ombre#?
 		2	STREAM	SEID_9270_S0010_0040_NIER020_X	0.5				0	2	Allons trouver les autres mercenaires.
 1272		2	STREAM	SEID_9270_S0010_0050_NIER020_X	0.5				0	2	Il était une Ombre depuis le début#?!
 		2	STREAM	SEID_9270_S0010_0060_BOOKW010_X	0.5				0	26	Comment a-t-il pu faire une chose pareille#?
-		2	STREAM	SEID_9270_S0010_0070_SNOW020_X	0.5				0	35	Weiss#! Attention#!
+		2	STREAM	SEID_9270_S0010_0070_SNOW020_X	0.5				0	35	Shiro#! Attention#!
 1273		2	STREAM	SEID_4900_S0010_0010_SNOW020_X	0.5				0	35	Je ne t'ai pas donné la permission de venir habiter chez moi#!
 		2	STREAM	SEID_4900_S0010_0020_KAINE010_X	0.5				0	28	Je vais t'écraser comme un insecte#!
 		2	STREAM	SEID_4900_S0010_0030_SNOW020_X	0.5				0	35	Soyez prudents, je vous en prie#!
@@ -1015,7 +1015,7 @@ Tu feras du mal à Émile si tu attaques la créature directement#!
 1286		3	STREAM	EID_4030_a0105g_01_BOOKW010_X	0.5				0	26	Gare aux débris#!
 		3	STREAM	EID_4030_a0105g_0010_KAINE010_X	0.5				0	28	Attention !
 1287		3	STREAM	EID_4030_a0105g_02_NIER020_X	0.5				0	2	Pour un robot, il est plutôt malin.
-1288		3	STREAM	EID_4030_a0105g_03_BOOKW010_X	0.5				0	26	Aucun vulgaire robot ne saurait égaler la gloire du Grimoire Weiss#!
+1288		3	STREAM	EID_4030_a0105g_03_BOOKW010_X	0.5				0	26	Aucun vulgaire robot ne saurait égaler la gloire du Grimoire Shiro#!
 		3	STREAM	EID_4030_a0105g_04_KAINE010_X	0.5				0	28	J'arrive pas à me concentrer avec tes conneries ronflantes#!
 1289		3	STREAM	EID_4030_a0105g_05_KAINE010_X	0.5				0	28	Débarrasse-toi d'eux#! Je tiendrai pas longtemps#!
 1290	1291	4	STREAM	EID_4100_a0075g_01_BOOKW010_X	0.5				0	26	Pauvres sous-fifres#!
@@ -1326,7 +1326,7 @@ Tout allait bien jusqu'à ce que vous arriviez#!
 		4	STREAM	EID_4900_rw_0020_BOOKW010_X	0.5				0	26	Du calme#!
 La hâte ne t'amènera qu'à faire des erreurs coûteuses#!
 		4	STREAM	EID_4900_rw_0030_BOOKW010_X	0.5				0	26	Un cœur agité est la pire armure dont tu peux t'équiper sur le champ de bataille#!
-		4	STREAM	EID_4900_rw_0040_NIER020_X	0.5				0	2	Je n'ai pas de temps à perdre, Weiss#!
+		4	STREAM	EID_4900_rw_0040_NIER020_X	0.5				0	2	Je n'ai pas de temps à perdre, Shiro#!
 Je dois sauver Yonah#!
 1549		4	STREAM	EID_4900_rw_0050_NIER020_X	0.5				0	2	Bon sang... Leur armure est trop résistante#!
 		4	STREAM	EID_4900_rw_0060_BOOKW010_X	0.5				0	26	Il semblerait qu'elles ont acquis une sorte de carapace physique.
@@ -1563,7 +1563,7 @@ Les poissons ne se douteront jamais que...
 		4	STREAM	SEID_1320_S0140_0030_BOOKW010_X	0.5				0	26	Oh.
 ... D'accord.
 1599		4	STREAM	SEID_1320_S0150_0010_BOOKW010_X	3				0	26	...
-		4	STREAM	SEID_1320_S0150_0025_NIER020_X	0.5				0	2	Tu es plutôt silencieux, Weiss.
+		4	STREAM	SEID_1320_S0150_0025_NIER020_X	0.5				0	2	Tu es plutôt silencieux, Shiro.
 		4	STREAM	SEID_1320_S0150_0030_BOOKW010_X	0.5				0	26	J'effraierais les poissons, sinon, n'est-ce pas#?
 		4	STREAM	SEID_1320_S0150_0045_NIER020_X	0.5				0	2	Oui, mais... C'est bizarre.
 		4	STREAM	SEID_1320_S0150_0050_BOOKW010_X	0.5				0	26	Puis-je parler normalement#?
@@ -1610,7 +1610,7 @@ Quoi qu'il en soit, je suis reconnaissant au vieil homme de ses conseils.
 		4	STREAM	SEID_1320_S0200_0090_BOOKW010_X	0.5				0	26	C'est sans doute pour cette raison qu'il lui tardait tant de léguer son art à quelqu'un.
 		4	STREAM	SEID_1320_S0200_0100_NIER020_X	0.5				0	2	C'est étrange, mais j'ai l'impression qu'il est toujours ici à veiller sur moi.
 		4	STREAM	SEID_1320_S0200_0110_BOOKW010_X	0.5				0	26	Il est probablement au paradis, sur le point de commencer une partie de pêche sur un étang.
-		4	STREAM	SEID_1320_S0200_0120_NIER020_X	0.5				0	2	J'espère que tu as raison, Weiss.
+		4	STREAM	SEID_1320_S0200_0120_NIER020_X	0.5				0	2	J'espère que tu as raison, Shiro.
 1608		4	STREAM	SEID_1450_S0050_0010_BOOKW010_X	0.5				0	26	Je me demande si ces gens utilisent le même masque pendant toute leur vie.
 		4	STREAM	SEID_1450_S0050_0020_NIER020_X	0.5			<CB=SEID_3000_S0340_a0020g_01>	0	2	Je n'y avais pas songé.
 ... J'espère au moins qu'ils les nettoient.
@@ -1633,7 +1633,7 @@ Tu dois l'essayer toi-même#!
 		4	STREAM	SEID_1450_S0080_0080_BOOKW010_X	0.5				0	26	Exactement#!
 Une nouvelle expérience peut souvent ouvrir la voie à de nouvelles connaissances#!
 		4	STREAM	SEID_1450_S0080_0090_KAINE010_X	0.5				0	28	Vous êtes vraiment une bande d'optimistes.
-1611		4	STREAM	SEID_1450_S0120_0010_NIER010_X	0.5				0	2	Possèdes-tu des recettes, Weiss#?
+1611		4	STREAM	SEID_1450_S0120_0010_NIER010_X	0.5				0	2	Possèdes-tu des recettes, Shiro#?
 		4	STREAM	SEID_1450_S0120_0020_BOOKW010_X	0.5				0	26	Comment oses-tu me comparer à un vulgaire livre de cuisine#!
 Des informations aussi insignifiantes n'ont pas de place parmi mes pages.
 1612		4	STREAM	SEID_3000_S0080_0010_SNOW020_X	0.5				0	35	Alors, tu vas chercher des pièces pour réparer un phare#?
@@ -1704,7 +1704,7 @@ Et comment pourrais-je dormir s'il ne fait pas noir à l'extérieur#?
 		4	STREAM	SEID_1200_S0010_0110_SNOW020_X	0.5				0	35	De toute façon, ma vie est déjà assez palpitante#!
 		4	STREAM	SEID_1200_S0010_0120_NIER020_X	0.5				0	2	Si plus de gens étaient comme toi, Émile, le monde serait meilleur.
 		4	STREAM	SEID_1200_S0010_0130_SNOW020_X	0.5				0	35	Hi, hi, hi#!
-1621		4	STREAM	SEID_1200_S0020_0010_SNOW020_X	0.5				0	35	Dis, Weiss, à quoi servait ce vieux pont#?
+1621		4	STREAM	SEID_1200_S0020_0010_SNOW020_X	0.5				0	35	Dis, Shiro, à quoi servait ce vieux pont#?
 		4	STREAM	SEID_1200_S0020_0020_BOOKW010_X	0.5				0	26	Celui-ci#? Ah, oui.
 C'était la route qu'empruntaient ces immenses caisses de métal dont je te parlais plus tôt.
 		4	STREAM	SEID_1200_S0020_0030_SNOW020_X	0.5				0	35	Ouah... Pourquoi est-il si grand#?
