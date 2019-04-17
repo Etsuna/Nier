@@ -1068,7 +1068,7 @@ EID_1100_a0005g_00027_SYS_X					-1	0	0	0		<LIST=2698>Je ne peux rien lui refuser
 		0	1	0	EID_1100_a0060_0050_BOOKW010_X					-1	0	0	0	26	Le Grimoire Weiss ne se pavane pas comme un vulgaire mammifère terrestre !
 		0	1	0	EID_1100_a0060_0060_SNOW010_X					0	-1	1001	0	25	Ah#!
 		0	1	0	EID_1100_a0060_0070_BOOKW010_X					-1	0	0	0	26	Maintenant que nous nous sommes présentés, dis-nous, qui es-tu ?
-		0	1	0	EID_1100_a0060_0080_SNOW010_X					0	-1	1001	0	35	Je m'appelle émile. Ce manoir m'appartient.
+		0	1	0	EID_1100_a0060_0080_SNOW010_X					0	-1	1001	0	35	Je m'appelle Émile. Ce manoir m'appartient.
 		0	1	0	EID_1100_a0060_0090_NIER010_X					0	1001	-1	0	2	C'est toi qui as envoyé une lettre à ma sœur ?
 1334		0	1	0	EID_1100_a0060_0100_SNOW010_X					0	-1	1001	0	35	... Une lettre ? Je ne sais pas de quoi vous parlez.
 		0	1	0	EID_1100_a0060_0110_BOOKW010_X					-1	0	0	0	26	Bien sûr que non, ce serait beaucoup trop facile.
@@ -1099,28 +1099,28 @@ EID_1100_a0005g_00027_SYS_X					-1	0	0	0		<LIST=2698>Je ne peux rien lui refuser
 		0	1	0	EID_1100_a0070_0080_BOOKW010_X					-1	0	0	0	26	Ce... c'est...!
 		0	1	0	EID_1100_a0070_0090_SNOW010_X					0	-1	1001	0	35	Voici mon majordome. Il m'aide à gérer le manoir.
 		0	1	0	EID_1100_a0070_0100_SNOW010_X					0	-1	1001	0	35	C'est un homme bon, mais il est un peu rigide. On pourrait même dire que c'est un homme de bronze.
-		0	1	0	EID_1100_a0070_0110_BUTLER_X				<CB=ScriptMode_to_Nier_08>	0	1001	1028	0	34	Oui, pardonnez-moi, Monsieur émile.
+		0	1	0	EID_1100_a0070_0110_BUTLER_X				<CB=ScriptMode_to_Nier_08>	0	1001	1028	0	34	Oui, pardonnez-moi, Monsieur Émile.
 1343	1344	0	1	0	EID_1100_a0070_0120_BOOKW010_X					-1	0	0	0	26	Pfft ! Je doute qu'il soit humain.
 		0	1	0	EID_1100_a0070_0130_NIER010_X					0	1028	-1	0	2	écoutez, quelqu'un a envoyé une lettre à ma sœur.
 		0	1	0	EID_1100_a0070_0140_BUTLER_X					0	-1	1028	0	34	Hum, oui, c'est moi qui l'ai écrite. Veuillez excuser l'impertinence de cet envoi.
-		0	1	0	EID_1100_a0070_0160_BUTLER_X					0	-1	1028	0	34	Comme vous le savez probablement déjà, Monsieur émile s'est isolé du monde extérieur
+		0	1	0	EID_1100_a0070_0160_BUTLER_X					0	-1	1028	0	34	Comme vous le savez probablement déjà, Monsieur Émile s'est isolé du monde extérieur
 à cause de ses yeux.
 		0	1	0	EID_1100_a0070_0170_BUTLER_X					0	-1	1028	0	34	Il souffre énormément derrière ce bandeau et il est de mon devoir de lui apporter toute l'aide dont je suis capable.
-		0	1	0	EID_1100_a0070_0171_BUTLER_X					0	-1	1028	0	34	J'ai entendu parler de vos exploits héroïques, alors je vous ai envoyé une lettre au nom de Monsieur émile...
+		0	1	0	EID_1100_a0070_0171_BUTLER_X					0	-1	1028	0	34	J'ai entendu parler de vos exploits héroïques, alors je vous ai envoyé une lettre au nom de Monsieur Émile...
 		0	1	0	EID_1100_a0070_0172_BUTLER_X					0	-1	1028	0	34	Cependant, c'est une jeune fille dénommée Yonah qui m'a répondu.
 		0	1	0	EID_1100_a0070_0173_NIER010_X					0	1028	-1	0	2	Alors, c'est vous qui avez écrit la lettre#?
 		0	1	0	EID_1100_a0070_0174_BUTLER_X					0	-1	1028	0	34	Oui, monsieur.
 		0	1	0	EID_1100_a0070_0175_BUTLER_X					0	-1	1028	0	34	Ma lettre ne vous demandait que de venir au manoir. Je n'avais pas de mauvaises intentions.
 		0	1	0	EID_1100_a0070_0176_BOOKW010_X					-1	0	0	0	26	Yonah n'a pas interprété votre correspondance de cette façon.
 		0	1	0	EID_1100_a0070_0177_NIER010_X					0	1028	-1	0	2	Elle est encore bien jeune. Elle n'a pas dû comprendre ce qui se passait.
-		0	1	0	EID_1100_a0070_0178_BUTLER_X					0	-1	1028	0	34	Quoi qu'il en soit, je suis heureux que vous soyez venu. Je rêve de pouvoir guérir Monsieur émile depuis si longtemps.
+		0	1	0	EID_1100_a0070_0178_BUTLER_X					0	-1	1028	0	34	Quoi qu'il en soit, je suis heureux que vous soyez venu. Je rêve de pouvoir guérir Monsieur Émile depuis si longtemps.
 		0	1	0	EID_1100_a0070_0190_NIER010_X					0	1028	-1	0	2	C'est d'un médecin dont vous avez besoin. Je ne suis qu'un type râblé qui tue des monstres.
 		0	1	0	EID_1100_a0070_0200_BOOKW010_X					-1	0	0	0	26	Je n'aurais pas pu mieux te décrire moi-même !
 1344	1345	0	1	0	EID_1100_a0070_0210_BUTLER_X					0	-1	1028	0	34	Bien, partons !
-		0	1	0	EID_1100_a0070_0220_NIER010_X					0	1028	-1	0	2	Je vous en supplie ! Nous y sommes presque ! Le remède qui guérira Monsieur émile est dans ce manoir !
+		0	1	0	EID_1100_a0070_0220_NIER010_X					0	1028	-1	0	2	Je vous en supplie ! Nous y sommes presque ! Le remède qui guérira Monsieur Émile est dans ce manoir !
 		0	1	0	EID_1100_a0070_0230_BUTLER_X					0	-1	1028	0	34	Alors, pourquoi ne pas simplement aller le chercher ?
 Il se trouve dans un endroit infesté par ces horribles Ombres et je ne possède pas les capacités nécessaires pour les combattre.
-		0	1	0	EID_1100_a0070_0240_BUTLER_X					0	-1	1028	0	34	Je vous en conjure, éliminez ces Ombres et rendez la vue à Monsieur émile !
+		0	1	0	EID_1100_a0070_0240_BUTLER_X					0	-1	1028	0	34	Je vous en conjure, éliminez ces Ombres et rendez la vue à Monsieur Émile !
 		0	1	0	EID_1100_a0070_0250_SNOW010_X					0	1028	1001	0	35	Tu sais pourtant qu'il s'agit d'une tâche impossible ! Pourquoi demander à nos invités de l'entreprendre ?
 1345		0	1	0	EID_1100_a0070_0260_BOOKW010_X					-1	0	0	0	26	Bien, nous n'avons pas plus de temps à perdre...
 		0	1	0	EID_1100_a0070_0270_NIER010_X					0	1028	-1	0	2	Nous acceptons.
@@ -1131,7 +1131,7 @@ Il se trouve dans un endroit infesté par ces horribles Ombres et je ne possède
 1347		0	1	0	EID_1100_a0100_0010_SNOW010_X					-1	0	1001	0	35	Oh, non ! Ce passage est écrit en code.
 		0	1	0	EID_1100_a0100_0020_SNOW010_X					-1	0	1001	0	35	Nous nous sommes donné tant de mal pour le trouver, et maintenant...
 		0	1	0	EID_1100_a0100_0030_KAINE010_X					0	1001	-2	0	28	Oh, regardez. Revoilà le fidèle majordome.
-1348		0	1	0	EID_1100_a0100_0040_BUTLER_X					-1	0	1028	0	34	Je vous en prie, laissez-moi m'en charger, Monsieur émile.
+1348		0	1	0	EID_1100_a0100_0040_BUTLER_X					-1	0	1028	0	34	Je vous en prie, laissez-moi m'en charger, Monsieur Émile.
 		0	1	0	EID_1100_a0100_0050_BUTLER_X					-1	0	1028	0	34	Je m'appliquerai à déchiffrer ce code !
 		0	1	0	EID_1100_a0100_0060_BUTLER_X					-1	0	1028	0	34	Je continuerai jusqu'à ce que je réussisse, quoi qu'il arrive !
 		0	1	0	EID_1100_a0100_0070_SNOW010_X					0	1028	1001	0	35	Sébastien...
@@ -1166,7 +1166,7 @@ Il se trouve dans un endroit infesté par ces horribles Ombres et je ne possède
 		0	1	0	EID_2000_a0025g_0081_NIER010_X					0	1004	-1	0	2	De la mousse vaporeuse, c'est ça ?
 		0	1	0	EID_2000_a0025g_0082_NIER010_X				<CB=EID_2000_a0025g_End>	0	1004	-1	0	2	Je reviens tout de suite.
 1356		0	1	0	EID_2000_a0025g_0100_SNOW010_X					-1	0	0	0	35	Ooh...
-		0	1	0	EID_2000_a0025g_0090_NIER010_X			<CB=EID_2000_a0026g_CAMERA>	<CB=EID_2000_a0026g_04_Start>	-1	0	0	0	2	émile ?!
+		0	1	0	EID_2000_a0025g_0090_NIER010_X			<CB=EID_2000_a0026g_CAMERA>	<CB=EID_2000_a0026g_04_Start>	-1	0	0	0	2	Émile ?!
 1357		0	2	0	EID_2000_a0025g_0110_NIER010_X					0	0	-1	0	2	Qu'y a-t-il ?! Que s'est-il passé ?!
 		-1	1	0	EID_2000_a0025g_0120_SNOW010_X					-1	0	0	0	35	Vi-vite...
 1358		0	2	0	EID_2000_a0025g_0070_POPOL010_X				<CB=LIB_SET_START_SUBQUEST,536,QUEST_EID2000_village_A,1,1004,1355>	0	-1	1004	0	24	Pourrais-tu aller ramasser de la mousse vaporeuse pour moi ?
@@ -1175,7 +1175,7 @@ Il se trouve dans un endroit infesté par ces horribles Ombres et je ne possède
 1361	1362	0	1	0	EID_2000_a0040_0010_POPOL010_X					-1	0	0	0	24	Il n'a pas l'air blessé. Je crois que ce n'est que de la fatigue.
 		0	1	0	EID_2000_a0040_0020_POPOL010_X					-1	0	0	0	24	Je n'arrive pas à imaginer à quel point ce fut difficile pour un aveugle comme lui de parvenir jusqu'ici.
 1362	1363	0	1	0	EID_2000_a0040_0030_SNOW010_X			<CB=Far_Jack_FootStep_Sound>		-1	0	0	0	35	Ooooh...
-		0	1	0	EID_2000_a0040_0040_NIER010_X					-1	0	-1	0	2	Ça va, émile ?
+		0	1	0	EID_2000_a0040_0040_NIER010_X					-1	0	-1	0	2	Ça va, Émile ?
 1363	1364	0	1	0	EID_2000_a0040_0050_SNOW010_X			<CB=Far_Jack_FootStep_Sound>
 <CB=Motion_Suffering_to_Snow>		-1	0	0	0	35	Je... le vois.
 		0	1	0	EID_2000_a0040_0060_NIER010_X					-1	0	-1	0	2	Arrête, ne parle pas.
@@ -3297,9 +3297,9 @@ Elle n'est ni humaine ni monstre.
 Tu es censé te charger de ces détails !
 2444		0	1	0	EID_1100_a0085g_0090_SNOW010_X					-1	0	0	0	35	Fuyez ! Je l'occuperai pendant que vous vous échappez.
 		0	1	0	EID_1100_a0085g_0100_KAINE010_X					-1	0	0	0	28	C'est qui, lui ?
-		0	1	0	EID_1100_a0085g_0110_NIER010_X					-1	0	0	0	2	C'est émile. C'est le garçon qui...
+		0	1	0	EID_1100_a0085g_0110_NIER010_X					-1	0	0	0	2	C'est Émile. C'est le garçon qui...
 		0	1	0	EID_1100_a0085g_0120_KAINE010_X					-1	0	0	0	28	Putain de merde, ce livre est un enculé de première !
-		0	1	0	EID_1100_a0085g_0130_NIER010_X					-1	0	0	0	2	Euh oui, j'aurais dû te prévenir, émile...
+		0	1	0	EID_1100_a0085g_0130_NIER010_X					-1	0	0	0	2	Euh oui, j'aurais dû te prévenir, Émile...
 		0	1	0	EID_1100_a0085g_0140_BOOKW010_X					-1	0	0	0	26	Ah, sa douce voix féminine retentit de nouveau à mes oreilles#!
 Sortez d'ici !
 2445		0	1	0	EID_1100_a0085g_0150_SNOW010_X					-1	0	0	0	35	C'est à moi de me battre et je ne peux pas vous demander de mourir pour moi !
@@ -3313,15 +3313,15 @@ Sortez d'ici !
 		0	1	0	EID_1100_a0085g_0230_NIER010_X					-1	0	0	0	2	Je suppose !
 2448		0	1	0	EID_1100_a0085g_0240_KAINE010_X					-1	0	0	0	28	Maintenant !
 2449		0	1	0	EID_1100_a0120g_0085_SNOW010_X					0	-1	1001	0	35	À bientôt#!
-2450		0	1	0	EID_1100_a0120g_0086_BUTLER_X					0	-1	1028	0	34	Je n'aurai pas de cesse que je trouve un moyen de guérir les yeux de Monsieur émile. Je vous le jure#!
+2450		0	1	0	EID_1100_a0120g_0086_BUTLER_X					0	-1	1028	0	34	Je n'aurai pas de cesse que je trouve un moyen de guérir les yeux de Monsieur Émile. Je vous le jure#!
 2451		0	1	0	EID_1100_a0120g_0030_BOOKW010_X					-1	0	0	0	26	Hum...
- J'ai remarqué que tu as échangé quelques mots avec le petit émile tout à l'heure.
+ J'ai remarqué que tu as échangé quelques mots avec le petit Émile tout à l'heure.
 		0	1	0	EID_1100_a0120g_0040_KAINE010_X					-1	0	0	0	28	......
 		0	1	0	EID_1100_a0120g_0050_BOOKW010_X					-1	0	0	0	26	J'espère qu'il n'y avait rien... d'inapproprié pour un jeune homme de son âge dans votre conversation ? Hummm ?
 		0	1	0	EID_1100_a0120g_0060_KAINE010_X					-1	0	0	0	28	......
 		0	1	0	EID_1100_a0120g_0070_BOOKW010_X					-1	0	0	0	26	Réponds, traînée !
 		0	1	0	EID_1100_a0120g_0080_KAINE010_X					-1	0	0	0	28	Bouquin ? ... La ferme.
-2452		0	1	0	EID_1180_a0005g_0010_BOOKW010_X					-1	0	0	0	26	Le manoir est un endroit plutôt lugubre, mais nous devrions peut-être rendre visite à émile.
+2452		0	1	0	EID_1180_a0005g_0010_BOOKW010_X					-1	0	0	0	26	Le manoir est un endroit plutôt lugubre, mais nous devrions peut-être rendre visite à Émile.
 2453		0	3	0	EID_1200_a0015g_01414_BROTHO010_X				<CB=EID_1200_a0015_01_End>	0	-1	1011	0	38	Et s'il vous plaît, soyez prudent#! C'est un endroit dangereux#!
 2454		0	1	0	EID_1200_a0020g_0010_NIER010_X					-1	0	0	0	2	Tu sais, Weiss, parfois tu peux être vraiment sans-cœur.
 		0	1	0	EID_1200_a0020g_0020_BOOKW010_X					-1	0	0	0	26	Je ne supporte pas le fait que tu insistes à t'immiscer dans les affaires des autres !
@@ -3491,15 +3491,15 @@ Je crois que c'est tout ce qu'il y a à savoir.
 2522		0	1	0	EID_2000_a0075g_0100_KAINE010_X					-1	0	0	0	28	Meurs, enculé !
 2523		0	1	0	EID_2000_a0087g_0010_KAINE010_X					-1	0	0	0	28	(Heavy breathing)
 		-1	1	0	EID_2000_a0087g_0020_NIER010_X					-1	0	0	0	2	(Heavy breathing)
-2524		0	1	0	EID_2000_a0090g_0010_NIER010_X					-1	0	0	0	2	émile ! Tu ne peux pas continuer de te battre comme ça.
+2524		0	1	0	EID_2000_a0090g_0010_NIER010_X					-1	0	0	0	2	Émile ! Tu ne peux pas continuer de te battre comme ça.
 		-1	1	0	EID_2000_a0090g_0020_SNOW010_X					-1	0	0	0	35	Je le dois... Je n'ai pas le choix...
 		-1	1	0	EID_2000_a0090g_0030_SNOW010_X					-1	0	0	0	35	Je ne me souviens pas... pourquoi je suis venu ici...
-		-1	1	0	EID_2000_a0090g_0040_KAINE010_X					-1	0	0	0	28	Sors d'ici, émile !
+		-1	1	0	EID_2000_a0090g_0040_KAINE010_X					-1	0	0	0	28	Sors d'ici, Émile !
 2525		0	1	0	EID_2000_a0090g_0050_SNOW010_X					-1	0	0	0	35	Non ! Je refuse d'abandonner ces gens !
 2526		0	1	0	EID_2000_a0090g_0060_SNOW010_X					-1	0	0	0	35	Tu m'as dit l'autre fois que mes yeux serviraient à quelque chose et que je ne devais pas en avoir honte !
 2527		0	1	0	EID_2000_a0090g_0070_SNOW010_X					-1	0	0	0	35	Que même une vie comme la mienne a un but !
 		-1	1	0	EID_2000_a0090g_0080_SNOW010_X					-1	0	0	0	35	Je ne resterai pas derrière à rien faire alors que vous combattez !
-2528		0	1	0	EID_2000_a0090g_0090_NIER010_X					-1	0	0	0	2	émile...
+2528		0	1	0	EID_2000_a0090g_0090_NIER010_X					-1	0	0	0	2	Émile...
 		-1	1	0	EID_2000_a0090g_0100_KAINE010_X					-1	0	0	0	28	Tu ferais mieux de ne pas mourir.
 		-1	1	0	EID_2000_a0090g_0110_SNOW010_X					-1	0	0	0	35	Entendu, Kainé ! Occupons-nous de ce « ragot de merde » !
 		-1	1	0	EID_2000_a0090g_0120_KAINE010_X					-1	0	0	0	28	Ça le fait !
