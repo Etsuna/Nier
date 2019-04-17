@@ -27,7 +27,7 @@ Les modifications sont les suivantes :
   il est nécessaire de réécrire l'intégralité des textes du jeu, je n'ai ni le temps, ni le mentale pour ça.
   Libre à vous si vous vous sentez l'âme d'un guerrier du texte et que vous voulez vous y lancer.
   
-  - J'ai quand même aligner tous les textes hors InBoxText et RadioBoxText (en haut à gauche), donc les lettres,
+  - J'ai quand même aligné tous les textes hors InBoxText et RadioBoxText (en haut à gauche), donc les lettres,
   les objets, les descriptions (quêtes comprises), ça c'est OK.
   
   - La syncho à été faite entre les voix et le texte, il se peut qu'il y ai des soucis.
