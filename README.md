@@ -24,8 +24,8 @@ Les modifications sont les suivantes :
   - Le texte utilisé est celui de la version EU, donc il y à probalement des différences entre les voix et le texte.
   
   - Certains mots sont coupés en fin de ligne, c'était déjà le cas dans la version EU du jeu,
-  il est nécessaire de réécrire l'intégralité des textes du jeu, je n'ai n'y le temps, n'y le mentale pour ça.
-  Libre a vous si vous vous sentez l'âme d'un guerrier du texte et que vous voulez vous y lancer.
+  il est nécessaire de réécrire l'intégralité des textes du jeu, je n'ai ni le temps, ni le mentale pour ça.
+  Libre à vous si vous vous sentez l'âme d'un guerrier du texte et que vous voulez vous y lancer.
   
   - J'ai quand même aligner tous les textes hors InBoxText et RadioBoxText (en haut à gauche), donc les lettres,
   les objets, les descriptions (quêtes comprises), ça c'est OK.
