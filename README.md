@@ -1,4 +1,4 @@
-# Nier
+# Nier Undub VOSTFR
 Undub Nier By Etsuna
 Twitter : https://twitter.com/etsunamattel
 Twitch : https://www.twitch.tv/etsuna_
