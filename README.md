@@ -8,9 +8,13 @@ Twitch : https://www.twitch.tv/etsuna_
 Pour tout problème sur l'Undub, merci de m'envoyer un MP sur Twitter !!!
 
 Ce Undub est a appliquer sur la version Japonaise de Nier.
+
 Seul les dossiers suivants sont nécessaires :
+
   EVENT
+  
   FONT
+  
   TEXT
  
 V0.1b (parce que j'ai jamais pensé a faire des versions pendants mon dev) :
