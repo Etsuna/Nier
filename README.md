@@ -21,7 +21,7 @@ Les modifications sont les suivantes :
 
   - Tous les textes sont en français.
   
-  - Le texte utilisé est celui de la version EU, donc il y à probalement des différences entre les voix et le texte.
+  - Le texte utilisé est celui de la version EU, donc il y a probablement des différences entre les voix et le texte.
   
   - Certains mots sont coupés en fin de ligne, c'était déjà le cas dans la version EU du jeu,
   il est nécessaire de réécrire l'intégralité des textes du jeu, je n'ai ni le temps, ni le mentale pour ça.
