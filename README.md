@@ -16,6 +16,10 @@ Seul les dossiers suivants sont nécessaires :
   FONT
   
   TEXT
+  
+V0.2b
+
+Correction Textes
  
 V0.1b (parce que j'ai jamais pensé a faire des versions pendants mon dev) :
 
