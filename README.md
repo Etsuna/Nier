@@ -19,7 +19,7 @@ Seul les dossiers suivants sont nécessaires :
  
 V0.1b (parce que j'ai jamais pensé a faire des versions pendants mon dev) :
 
-Phrase de teste
+Phase de teste
   
 Les modifications sont les suivantes : 
 
