@@ -20,6 +20,8 @@ Seul les dossiers suivants sont nécessaires :
 V0.2b
 
 Correction Textes
+
+Correction CRLF
  
 V0.1b (parce que j'ai jamais pensé a faire des versions pendant mon dev) :
 
