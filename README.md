@@ -21,7 +21,7 @@ V0.2b
 
 Correction Textes
  
-V0.1b (parce que j'ai jamais pensé a faire des versions pendants mon dev) :
+V0.1b (parce que j'ai jamais pensé a faire des versions pendant mon dev) :
 
 Phase de teste
   
