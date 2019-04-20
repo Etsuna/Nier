@@ -5,27 +5,43 @@ Twitter : https://twitter.com/etsunamattel
 
 Twitch : https://www.twitch.tv/etsuna_
 
-Pour tout problème sur l'Undub, merci de m'envoyer un MP sur Twitter !!!
+# Pour tout problème sur l'Undub, merci de m'envoyer un MP sur Twitter !!!
 
-Ce Undub est a appliquer sur la version Japonaise de Nier.
+Ce Undub est à appliquer sur la version Japonaise de Nier.
 
-Seul les dossiers suivants sont nécessaires :
+Seul les Fichiers/dossiers suivants sont nécessaires :
 
+  EBOOT.BIN
+  
   EVENT
   
   FONT
   
   TEXT
   
-V0.2b
+# V1.0
 
-Correction Textes
+Quête principale testé
+
+Fins A/B/C/D testées
+
+DLC JAP Testé (entièrement traduit en FR).
+
+Les quêtes nécessaires pour la fin C/D ont été testées. Ce qui veux dire que j'ai pas testé toutes les quêtes du jeu !
+
+Corrections textes.
+
+# V0.2b (Non release)
+
+Phase de test
+
+Corrections textes
 
 Correction CRLF
  
-V0.1b (parce que j'ai jamais pensé a faire des versions pendant mon dev) :
+# V0.1b (parce que j'ai jamais pensé a faire des versions pendant mon dev, Non release) :
 
-Phase de teste
+Phase de test
   
 Les modifications sont les suivantes : 
 
